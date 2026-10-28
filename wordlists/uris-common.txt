@@ -20,11 +20,11 @@ config.json
 server/.env
 .env.staging
 .env.testing
+SDK/webLanguage
 frontend/.env
 web/.env
 .env.example
 .git/HEAD
-SDK/webLanguage
 admin/.env
 backend/.env
 old/.env
@@ -63,6 +63,7 @@ credentials.json
 database.sql
 dump.sql
 html/.env
+security.txt
 staging/.env
 test.php
 .config.yaml
@@ -111,7 +112,6 @@ package.json
 phpinfo/
 secrets.env
 secrets.json
-security.txt
 sendgrid.env
 sendgrid/.env
 sendgrid/.env.php
@@ -225,8 +225,8 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-mcp/
 robots.txt
+mcp/
 .env.production.local
 .env.dist
 .env.live
@@ -301,6 +301,7 @@ wp-admin/.env
 .envrc
 .git/index
 .ssh/id_rsa
+.well-known/security.txt
 _static/.env
 admin/.git/config
 api
@@ -355,7 +356,6 @@ www/.git/config
 .npmrc
 .vscode/.env
 .vscode/settings.json
-.well-known/security.txt
 07-accessing-data/begin/vue-heroes/.env
 09-managing-state/begin/vue-heroes/.env
 09-managing-state/end/vue-heroes/.env
@@ -649,6 +649,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ?nx=@@
 ?rest_route=/batch%2Fv1
 Admin_Files/
+Dr0v
 Pipfile
 Pipfile.lock
 README.md
