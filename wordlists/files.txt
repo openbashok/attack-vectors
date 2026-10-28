@@ -1,7 +1,7 @@
 .env
 config
-index.php
 eval-stdin.php
+index.php
 .env.php
 phpinfo
 .env.local
@@ -130,6 +130,7 @@ v1
 get
 ip.cypher.rest:443
 .env.development.local
+sh
 .env.dev.local
 .env_sample
 HNAP1
@@ -137,7 +138,7 @@ sse
 .env.default
 .env.staging.local
 .env.template
-sh
+json
 .env.ci
 .env.config
 .env.preprod
@@ -147,7 +148,6 @@ sh
 .env~
 api
 environ
-json
 metadatauploader
 .env.sample
 .env_1
@@ -177,12 +177,14 @@ api-docs
 config.php~
 formLogin
 health
+hello.world
 id_rsa
 mcp.json
 settings
 swagger.json
 terraform.tfstate.backup
 terraform.tfvars
+test.hello
 version
 .env-example
 .env-sample
@@ -213,13 +215,11 @@ aws.json
 backup.tar.gz
 config.yml
 docker-compose.prod.yml
-hello.world
 login.html
 sftp-config.json
 sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger-ui.html
-test.hello
 uploads
 users
 wp-admin
