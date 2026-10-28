@@ -31,6 +31,7 @@ old/.env
 phpinfo.php
 prod/.env
 wp-config.php
+SDK/webLanguage
 api/.git/config
 crm/.env
 dashboard/.env
@@ -55,7 +56,6 @@ system/.env
 test/.env
 ../.env
 .svn/entries
-SDK/webLanguage
 appsettings.json
 client/.env
 config.js
@@ -223,8 +223,8 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-mcp/
 robots.txt
+mcp/
 .env.production.local
 .env.dist
 .env.live
@@ -566,6 +566,7 @@ sitemap.xml
 sitemaps/.env
 sites/.env
 sources/.env
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 src/gameprovider-service/.env
 stag/.env
 stats/.env
@@ -692,7 +693,6 @@ root/.aws/credentials
 sellers.json
 server-status
 server.crt
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 stripe-credentials.json
 var/task/.env
 version

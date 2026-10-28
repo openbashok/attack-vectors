@@ -38,6 +38,7 @@ terraform.tfstate
 wp-config.php
 database.yml
 docker-compose.yml
+webLanguage
 .env.backup
 .gitlab-ci.yml
 secrets.yml
@@ -49,7 +50,6 @@ dump.sql
 entries
 secrets.json
 test.php
-webLanguage
 .config.yaml
 .env.example.php
 .env.orig
@@ -118,9 +118,9 @@ tmp
 twilio.env
 wp-config.php.backup
 login
+robots.txt
 backup.zip
 index.html
-robots.txt
 config.php
 .env.production.local
 .env.dist
@@ -216,6 +216,7 @@ hello.world
 login.html
 sftp-config.json
 sitemap.xml
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger-ui.html
 test.hello
 uploads
@@ -283,7 +284,6 @@ server-status
 server.crt
 service-account.json
 setup.md
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 stripe-credentials.json
 v2
 wc.db
@@ -307,6 +307,9 @@ ws
 Dr0v
 Jenkinsfile
 aab9
+abc6
+abc7
+abc8
 amplify.yaml
 amplify.yml
 api.ipinfo.io:443
@@ -314,6 +317,7 @@ apidocs
 app-ads.txt
 app.php
 application_default_credentials.json
+autodiscover.json
 azure.yaml
 backup.sql.gz
 bedrock.json
@@ -336,6 +340,7 @@ icanhazip.com:443
 id_dsa
 id_ed25519
 index.js
+liveliness
 local.settings.json
 login.jsp
 logon.aspx
@@ -368,4 +373,5 @@ wp-config.php~
 wp-login.php
 www.google.com:443
 www.zip
+x.js
 xml
