@@ -24,10 +24,10 @@ mcp
 .env.prod
 .env.save
 .env.test
+HEAD
 site.zip
 .env.development
 .env.old
-HEAD
 settings.json
 .env.testing
 phpinfo.php
@@ -127,12 +127,12 @@ config.php
 v1
 .env.live
 .env.stage
+get
+ip.cypher.rest:443
 .env.development.local
 .env.dev.local
 .env_sample
 HNAP1
-get
-ip.cypher.rest:443
 .env.default
 .env.staging.local
 .env.template
@@ -279,6 +279,7 @@ sample.env
 script%3E.html
 script>.html
 sellers.json
+server-status
 server.crt
 service-account.json
 setup.md
@@ -349,7 +350,6 @@ runtime-env.js
 secrets.js
 secrets.py
 secrets.toml
-server-status
 server_info
 service-account-credentials.json
 settings.php

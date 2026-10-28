@@ -24,16 +24,16 @@ logs
 admin
 secrets.yaml
 web
+favicon.ico
 dev
 frontend
-favicon.ico
 core
 credentials
 .%2e
 storage
+assets
 v2
 .env.staging
-assets
 debug
 demo
 .env.local.php
@@ -71,6 +71,7 @@ old
 auth
 docs
 .env.test
+HEAD
 blog
 crm
 docker
@@ -79,7 +80,6 @@ site.zip
 .env.development
 .env.old
 .svn
-HEAD
 application
 apps
 data
@@ -169,8 +169,10 @@ docker-compose.yaml
 download
 env-config.js
 error.log
+images
 package-lock.json
 platform
+static
 web.config
 yarn.lock
 .bedrock
@@ -197,7 +199,6 @@ env.json
 erp
 facturacion
 google-services.json
-images
 infos
 node
 parameters.yml
@@ -212,7 +213,6 @@ server.js
 server.key
 service
 stage
-static
 twilio.env
 v3
 wp-config.php.backup
@@ -235,6 +235,8 @@ compose
 files
 .env.live
 .env.stage
+get
+ip.cypher.rest:443
 wp-admin
 .env.development.local
 panel
@@ -244,8 +246,6 @@ ws
 .env_sample
 .ssh
 HNAP1
-get
-ip.cypher.rest:443
 libraries
 mysql
 production
@@ -623,6 +623,7 @@ script%3E.html
 script>.html
 secrets
 sellers.json
+server-status
 server.crt
 service-account.json
 setup.md
@@ -716,7 +717,6 @@ runtime-env.js
 secrets.js
 secrets.py
 secrets.toml
-server-status
 server_info
 service-account-credentials.json
 settings.php

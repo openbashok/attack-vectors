@@ -2,8 +2,8 @@
 favicon.ico
 index.php
 .env.production
-.env.bak
 .git/config
+.env.bak
 app/.env
 .env.local
 .env.dev
@@ -24,13 +24,13 @@ server/.env
 frontend/.env
 web/.env
 .env.example
+.git/HEAD
 admin/.env
 backend/.env
 old/.env
 phpinfo.php
 prod/.env
 wp-config.php
-.git/HEAD
 api/.git/config
 crm/.env
 dashboard/.env
@@ -229,11 +229,11 @@ robots.txt
 .env.dist
 .env.live
 .env.stage
+get
+ip.cypher.rest:443
 .env.development.local
 .env.dev.local
 .env_sample
-get
-ip.cypher.rest:443
 mcp
 .env.default
 .env.staging.local
@@ -690,6 +690,7 @@ rest/users
 rest/workflows
 root/.aws/credentials
 sellers.json
+server-status
 server.crt
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 stripe-credentials.json
