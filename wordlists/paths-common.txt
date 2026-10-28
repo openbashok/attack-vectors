@@ -25,13 +25,13 @@ frontend/.env
 web/.env
 .env.example
 .git/HEAD
+SDK/webLanguage
 admin/.env
 backend/.env
 old/.env
 phpinfo.php
 prod/.env
 wp-config.php
-SDK/webLanguage
 api/.git/config
 crm/.env
 dashboard/.env
@@ -223,8 +223,8 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-robots.txt
 mcp/
+robots.txt
 .env.production.local
 .env.dist
 .env.live
@@ -232,15 +232,16 @@ mcp/
 get
 ip.cypher.rest:443
 .env.development.local
+mcp
 .env.dev.local
 .env_sample
-mcp
+sse
 .env.default
 .env.staging.local
 .env.template
+api/mcp
 build/.env
 docker/.env
-sse
 .env.ci
 .env.config
 .env.preprod
@@ -248,7 +249,6 @@ sse
 .env.secret
 .env.uat
 .env~
-api/mcp
 app/config/.env
 configuration/.env
 developmentserver/metadatauploader
@@ -284,6 +284,7 @@ public_html/.env
 sdk
 shared/.env
 sites/all/libraries/mailchimp/.env
+v1
 var/www/.env
 vendor/.env
 wp-admin/.env
@@ -320,7 +321,6 @@ server/.git/config
 src/.git/config
 static../.git/config
 terraform.tfstate.backup
-v1
 www/.git/config
 .aws/config
 .c9/metadata/environment/.env
@@ -601,6 +601,7 @@ vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
 vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+version
 vod_installer/.env
 vue/.env
 website/.env
@@ -639,6 +640,9 @@ Pipfile.lock
 README.md
 Thumbs.db
 aaa9
+abc6
+abc7
+abc8
 actuator
 actuator/health
 actuator/heapdump
@@ -695,7 +699,6 @@ server-status
 server.crt
 stripe-credentials.json
 var/task/.env
-version
 wp-admin
 wp-config.php.old
 wp-content/themes/gaukingo/

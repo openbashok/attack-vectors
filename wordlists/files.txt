@@ -19,8 +19,8 @@ view
 .env.bak
 .env.example
 config.env
-.env.dev
 mcp
+.env.dev
 .env.prod
 .env.save
 .env.test
@@ -35,10 +35,10 @@ credentials.json
 security.txt
 settings.py
 terraform.tfstate
+webLanguage
 wp-config.php
 database.yml
 docker-compose.yml
-webLanguage
 .env.backup
 .gitlab-ci.yml
 secrets.yml
@@ -123,8 +123,8 @@ backup.zip
 index.html
 config.php
 .env.production.local
-.env.dist
 v1
+.env.dist
 .env.live
 .env.stage
 get
@@ -133,11 +133,11 @@ ip.cypher.rest:443
 .env.dev.local
 .env_sample
 HNAP1
+sse
 .env.default
 .env.staging.local
 .env.template
 sh
-sse
 .env.ci
 .env.config
 .env.preprod
@@ -183,6 +183,7 @@ settings
 swagger.json
 terraform.tfstate.backup
 terraform.tfvars
+version
 .env-example
 .env-sample
 .env.back
@@ -221,7 +222,6 @@ swagger-ui.html
 test.hello
 uploads
 users
-version
 wp-admin
 wp-config.php.bak
 %3Cinvalid%3Ehello.html
@@ -242,6 +242,9 @@ Pipfile.lock
 README.md
 Thumbs.db
 aaa9
+abc6
+abc7
+abc8
 actuator
 admin.php
 adminpanel
@@ -304,12 +307,10 @@ ws
 .local.env
 .netrc
 .travis.yml
+7f13c0a9d8644f3ca0a563b6b56e49d7
 Dr0v
 Jenkinsfile
 aab9
-abc6
-abc7
-abc8
 amplify.yaml
 amplify.yml
 api.ipinfo.io:443
@@ -348,9 +349,11 @@ master.key
 microsoft.exchange.ediscovery.exporttool.application
 one.one.one.one:443
 openai.json
+printenv
 production.env
 proxy.php
 raw
+run
 runtime-env.js
 secrets.js
 secrets.py
