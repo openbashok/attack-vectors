@@ -7,10 +7,10 @@ app/.env
 .env.local
 api/.env
 config/.env
+SDK/webLanguage
 .env.dev
 .env.prod
 .env.save
-SDK/webLanguage
 src/.env
 .env.test
 laravel/.env
