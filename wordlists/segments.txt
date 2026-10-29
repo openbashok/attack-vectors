@@ -21,9 +21,9 @@ laravel
 admin
 config.json
 .aws
+favicon.ico
 logs
 app_dev.php
-favicon.ico
 web
 secrets.yaml
 frontend
