@@ -301,6 +301,7 @@ s3
 swagger
 version
 workflows
+*
 .env.1
 .env.docker
 .env.swp
@@ -344,7 +345,6 @@ workspace
 yii
 zend
 $(pwd)
-*
 .circleci
 .env.2
 .env.aws
@@ -554,6 +554,7 @@ universalresolver
 upload
 v13.0
 vod_installer
+web_shell_cmd.gch
 website
 webui
 wordpress
@@ -638,7 +639,6 @@ setup.md
 stripe-credentials.json
 themes
 wc.db
-web_shell_cmd.gch
 wp-config.php.old
 %252f
 %2e%2e%2f%2eenv

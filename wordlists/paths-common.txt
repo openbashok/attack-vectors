@@ -366,6 +366,7 @@ static../.git/config
 terraform.tfstate.backup
 version
 www/.git/config
+*
 .aws/config
 .c9/metadata/environment/.env
 .circleci/.env
@@ -611,6 +612,7 @@ vendor/.env.example
 vendor/laravel/.env
 vod_installer/.env
 vue/.env
+web_shell_cmd.gch
 website/.env
 webui/.env
 wordpress/.env
@@ -619,7 +621,6 @@ wp-content/uploads/
 xampp/.env
 %3Cinvalid%3Ehello.html
 %3Cscript%3Ealert%281%29%3C/script%3E.html
-*
 +CSCOE+/logon.html
 ../../../../etc/passwd
 .dockerignore
@@ -702,7 +703,6 @@ server-status
 server.crt
 stripe-credentials.json
 var/task/.env
-web_shell_cmd.gch
 wp-admin
 wp-config.php.old
 wp-content/themes/gaukingo/

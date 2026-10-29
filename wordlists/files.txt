@@ -186,6 +186,7 @@ settings
 swagger.json
 terraform.tfstate.backup
 terraform.tfvars
+*
 .env-example
 .env-sample
 .env.back
@@ -222,10 +223,10 @@ sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger-ui.html
 uploads
 users
+web_shell_cmd.gch
 wp-admin
 wp-config.php.bak
 %3Cinvalid%3Ehello.html
-*
 .boto
 .dockerignore
 .git
@@ -293,7 +294,6 @@ setup.md
 stripe-credentials.json
 v2
 wc.db
-web_shell_cmd.gch
 workflows
 wp-config.php.old
 ws
