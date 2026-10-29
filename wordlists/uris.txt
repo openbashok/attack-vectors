@@ -234,16 +234,17 @@ ip.cypher.rest:443
 .env.development.local
 .env.live
 .env.stage
+mcp
 .env.default
 .env.dev.local
 .env.staging.local
 .env.template
 .env_sample
-mcp
+sse
+api/mcp
 build/.env
 developmentserver/metadatauploader
 docker/.env
-sse
 .env.ci
 .env.config
 .env.preprod
@@ -251,7 +252,6 @@ sse
 .env.secret
 .env.uat
 .env~
-api/mcp
 configuration/.env
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .docker/.env

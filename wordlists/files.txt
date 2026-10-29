@@ -18,8 +18,8 @@ laravel.log
 .env.example
 view
 .env.bak
-config.env
 mcp
+config.env
 .env.dev
 .env.prod
 .env.save
@@ -138,8 +138,8 @@ v1
 .env_sample
 HNAP1
 json
-metadatauploader
 sse
+metadatauploader
 .env.ci
 .env.config
 .env.preprod

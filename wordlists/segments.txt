@@ -57,11 +57,11 @@ view
 beta
 log
 login
+mcp
 tests
 lib
 backup
 config.env
-mcp
 .env.dev
 cms
 var
@@ -254,6 +254,7 @@ HNAP1
 drupal
 json
 root
+sse
 testing
 build
 developmentserver
@@ -262,7 +263,6 @@ metadatauploader
 mysql
 production
 sites
-sse
 wp-json
 .env.ci
 .env.config
