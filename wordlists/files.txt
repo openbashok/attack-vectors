@@ -31,25 +31,25 @@ settings.py
 .env.old
 database.yml
 phpinfo.php
+security.txt
 settings.json
 site.zip
 .env.backup
 .env.testing
 docker-compose.yml
-security.txt
 wp-config.php
 .gitlab-ci.yml
 credentials.json
 secrets.yml
 terraform.tfstate
 config.js
+info.php
 secrets.json
 application.yml
 aws.yml
 database.sql
 dump.sql
 entries
-info.php
 test.php
 .env.orig
 appsettings.json
@@ -83,6 +83,7 @@ aws.env
 bedrock.env
 configuration.json
 env-config.js
+robots.txt
 .env.save.1
 .json
 app.log
@@ -110,7 +111,6 @@ php_error.log
 php_errors.log
 readme.md
 requirements.txt
-robots.txt
 server.js
 server.key
 staging
@@ -138,6 +138,7 @@ v1
 .env_sample
 HNAP1
 json
+metadatauploader
 sse
 .env.ci
 .env.config
@@ -146,7 +147,6 @@ sse
 .env.secret
 .env.uat
 .env~
-metadatauploader
 .env.sample
 .htpasswd
 api
@@ -198,6 +198,7 @@ login.html
 mcp.json
 settings
 sftp-config.json
+sitemap.xml
 swagger.json
 terraform.tfvars
 wp-config.php.old
@@ -234,7 +235,6 @@ master.key
 one.one.one.one:443
 secrets.py
 sftp.json
-sitemap.xml
 speed.cloudflare.com:443
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger-ui.html

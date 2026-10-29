@@ -45,6 +45,7 @@ crm/.env
 dashboard/.env
 dev/.env
 html/.env
+info.php
 settings/.env
 shop/.env
 .svn/entries
@@ -57,7 +58,6 @@ credentials.json
 database.sql
 database.yml
 dump.sql
-info.php
 portal/.env
 project/.env
 secrets.json
@@ -204,6 +204,7 @@ platform/.env
 pos/.env
 readme.md
 requirements.txt
+robots.txt
 saas/.env
 sandbox/.env
 server.js
@@ -225,7 +226,6 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-robots.txt
 mcp/
 .env.production.local
 .env.dist
@@ -241,6 +241,7 @@ ip.cypher.rest:443
 .env_sample
 mcp
 build/.env
+developmentserver/metadatauploader
 docker/.env
 sse
 .env.ci
@@ -252,7 +253,6 @@ sse
 .env~
 api/mcp
 configuration/.env
-developmentserver/metadatauploader
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .docker/.env
 .env.sample
@@ -330,6 +330,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .git/index
 .htaccess
 .npmrc
+.well-known/security.txt
 HNAP1
 admin/.git/config
 api/config.env
@@ -368,7 +369,6 @@ www/.git/config
 .env.zip
 .envrc
 .vscode/settings.json
-.well-known/security.txt
 Gemfile.lock
 HNAP1/
 _static/.env
@@ -397,6 +397,7 @@ proc/self/environ
 project/.git/config
 root/.env
 sftp-config.json
+sitemap.xml
 version
 wp-config.php.old
 *
@@ -614,7 +615,6 @@ secrets.py
 serve-browserbench/.env
 server/config/.env
 services/traefik/.env
-sitemap.xml
 sitemaps/.env
 sites/.env
 sources/.env

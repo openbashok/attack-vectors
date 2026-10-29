@@ -90,6 +90,7 @@ data
 database.yml
 phpinfo.php
 project
+security.txt
 settings.json
 site.zip
 .env.backup
@@ -99,7 +100,6 @@ client
 docker-compose.yml
 env
 html
-security.txt
 site
 uploads
 wp-config.php
@@ -113,6 +113,7 @@ system
 terraform.tfstate
 dashboard
 config.js
+info.php
 portal
 secrets.json
 shop
@@ -123,7 +124,6 @@ database.sql
 dump.sql
 entries
 htdocs
-info.php
 k8s
 kubernetes
 test.php
@@ -176,6 +176,7 @@ download
 env-config.js
 images
 platform
+robots.txt
 .bedrock
 .env.save.1
 .json
@@ -207,7 +208,6 @@ php_errors.log
 pos
 readme.md
 requirements.txt
-robots.txt
 saas
 sandbox
 server.js
@@ -254,8 +254,11 @@ drupal
 json
 root
 testing
+.well-known
 build
+developmentserver
 libraries
+metadatauploader
 mysql
 production
 sites
@@ -269,15 +272,12 @@ wp-json
 .env.uat
 .env~
 .github
-.well-known
 configuration
 containers
-developmentserver
 environments
 examples
 fixtures
 health
-metadatauploader
 .env.sample
 .htpasswd
 09-managing-state
@@ -402,6 +402,7 @@ projbackend
 react
 resources
 sftp-config.json
+sitemap.xml
 swagger.json
 template
 terraform
@@ -555,7 +556,6 @@ script
 secrets.py
 serve-browserbench
 sftp.json
-sitemap.xml
 sitemaps
 sources
 speed.cloudflare.com:443
