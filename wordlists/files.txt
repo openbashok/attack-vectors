@@ -24,10 +24,10 @@ config.env
 .env.prod
 .env.save
 webLanguage
+security.txt
 .env.test
 HEAD
 settings.py
-security.txt
 .env.development
 .env.old
 database.yml
@@ -59,6 +59,7 @@ db.sql
 debug.log
 env
 package.json
+robots.txt
 .config.yaml
 .env.example.php
 .env.json
@@ -75,7 +76,6 @@ error.log
 mysql.sql
 open
 package-lock.json
-robots.txt
 secrets.env
 sendgrid.env
 web.config

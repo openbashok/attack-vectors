@@ -16,8 +16,8 @@ _profiler
 phpinfo
 .env.local
 .%2e
-laravel
 favicon.ico
+laravel
 .env.production
 admin
 config.json
@@ -71,6 +71,7 @@ SDK
 docker
 webLanguage
 new
+security.txt
 .env.test
 HEAD
 blog
@@ -80,7 +81,6 @@ settings.py
 administrator
 apps
 auth
-security.txt
 .env.development
 .env.old
 .svn
@@ -138,6 +138,7 @@ debug.log
 home
 local
 package.json
+robots.txt
 .claude
 .config.yaml
 .env.example.php
@@ -162,7 +163,6 @@ main
 mysql.sql
 open
 package-lock.json
-robots.txt
 secrets.env
 sendgrid.env
 static
@@ -243,13 +243,13 @@ shared
 .env.development.local
 .env.live
 .env.stage
+.well-known
 wp-admin
 .env.default
 .env.dev.local
 .env.staging.local
 .env.template
 .env_sample
-.well-known
 HNAP1
 drupal
 json

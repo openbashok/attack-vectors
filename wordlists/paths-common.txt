@@ -47,6 +47,7 @@ dashboard/.env
 dev/.env
 html/.env
 info.php
+security.txt
 settings/.env
 shop/.env
 .svn/entries
@@ -62,7 +63,6 @@ dump.sql
 portal/.env
 project/.env
 secrets.json
-security.txt
 settings.py
 site.zip
 system/.env
@@ -121,6 +121,7 @@ mysql.sql
 new/.env
 package-lock.json
 phpinfo/
+robots.txt
 secrets.env
 secrets.yaml
 secrets.yml
@@ -145,7 +146,6 @@ aws.yml
 bedrock.env
 configuration.json
 env-config.js
-robots.txt
 store/.env
 .aws/.env
 .bedrock/.env
@@ -254,6 +254,7 @@ configuration/.env
 .docker/.env
 .env.sample
 .htpasswd
+.well-known/security.txt
 app/config/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 conf/.env
@@ -266,7 +267,6 @@ wp-content/.env
 .env.txt
 .env_1
 .ssh/id_rsa
-.well-known/security.txt
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
