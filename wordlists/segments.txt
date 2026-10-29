@@ -7,8 +7,8 @@ PHP
 Util
 .git
 vendor
-index.php
 api
+index.php
 test
 app
 .env.php
@@ -46,6 +46,7 @@ laravel.log
 sendgrid
 server
 default
+mcp
 staging
 v1
 .env.example
@@ -57,7 +58,6 @@ view
 beta
 log
 login
-mcp
 tests
 lib
 backup
@@ -73,6 +73,7 @@ docker
 new
 security.txt
 .env.test
+.svn
 HEAD
 blog
 crm
@@ -83,7 +84,6 @@ apps
 auth
 .env.development
 .env.old
-.svn
 cgi-bin
 docs
 settings
@@ -112,6 +112,7 @@ services
 system
 terraform.tfstate
 dashboard
+entries
 config.js
 info.php
 portal
@@ -122,7 +123,6 @@ application.yml
 aws.yml
 database.sql
 dump.sql
-entries
 htdocs
 k8s
 kubernetes
@@ -244,6 +244,7 @@ shared
 .env.live
 .env.stage
 .well-known
+sse
 wp-admin
 .env.default
 .env.dev.local
@@ -254,7 +255,6 @@ HNAP1
 drupal
 json
 root
-sse
 testing
 build
 developmentserver

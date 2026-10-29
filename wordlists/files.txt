@@ -15,10 +15,10 @@ credentials
 info
 .env.local.php
 laravel.log
+mcp
 .env.example
 view
 .env.bak
-mcp
 config.env
 .env.dev
 webLanguage
@@ -42,6 +42,7 @@ wp-config.php
 credentials.json
 secrets.yml
 terraform.tfstate
+entries
 config.js
 info.php
 secrets.json
@@ -49,7 +50,6 @@ application.yml
 aws.yml
 database.sql
 dump.sql
-entries
 test.php
 .env.orig
 appsettings.json
@@ -131,6 +131,7 @@ v1
 .env.development.local
 .env.live
 .env.stage
+sse
 .env.default
 .env.dev.local
 .env.staging.local
@@ -138,7 +139,6 @@ v1
 .env_sample
 HNAP1
 json
-sse
 metadatauploader
 .env.ci
 .env.config
