@@ -37,9 +37,9 @@ credentials.json
 settings.py
 terraform.tfstate
 wp-config.php
+.env.backup
 database.yml
 docker-compose.yml
-.env.backup
 .gitlab-ci.yml
 secrets.yml
 appsettings.json
@@ -154,6 +154,7 @@ metadatauploader
 .envrc
 docs
 index
+web
 .env.1
 .env.docker
 .env.swp
@@ -166,7 +167,6 @@ hello.world
 openapi.json
 sdk
 test.hello
-web
 .env.2
 .env.aws
 .env.prod.local
@@ -310,6 +310,7 @@ ws
 .travis.yml
 7f13c0a9d8644f3ca0a563b6b56e49d7
 Jenkinsfile
+RDWeb
 ReportServer
 aab9
 amplify.yaml

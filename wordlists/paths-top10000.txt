@@ -1,6 +1,6 @@
 .env
-index.php
 favicon.ico
+index.php
 .env.production
 .git/config
 .env.bak
@@ -12,8 +12,8 @@ api/.env
 config/.env
 .env.save
 src/.env
-.env.test
 laravel/.env
+.env.test
 .aws/credentials
 .env.development
 .env.old
@@ -32,6 +32,7 @@ old/.env
 phpinfo.php
 prod/.env
 wp-config.php
+.env.backup
 api/.git/config
 crm/.env
 dashboard/.env
@@ -41,7 +42,6 @@ public/.env
 shop/.env
 site/.env
 www/.env
-.env.backup
 .gitlab-ci.yml
 _profiler/phpinfo
 backup/.env
@@ -288,6 +288,7 @@ demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 deployment/.env
 development/.env
 evox/about
+geoserver/web/
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/Util/PHP/eval-stdin.php
@@ -356,7 +357,6 @@ database/.env
 docker-compose/.env
 engine/.env
 functions/.env
-geoserver/web/
 proc/self/environ
 root/.env
 server/.git/config
@@ -724,6 +724,7 @@ ws
 7f13c0a9d8644f3ca0a563b6b56e49d7
 GponForm/diag_Form
 Jenkinsfile
+RDWeb
 ReportServer
 aab9
 actuator/configprops
