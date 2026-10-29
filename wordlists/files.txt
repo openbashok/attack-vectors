@@ -292,6 +292,7 @@ id_rsa.pub
 known_hosts
 license.txt
 login.jsp
+microsoft.exchange.ediscovery.exporttool.application
 nmaplowercheck1792956439
 nmaplowercheck1792956465
 old
@@ -404,7 +405,6 @@ local.py
 local.settings.json
 local_settings.py
 logon.aspx
-microsoft.exchange.ediscovery.exporttool.application
 openai.json
 printenv
 production.env

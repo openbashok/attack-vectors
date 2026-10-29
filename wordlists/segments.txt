@@ -598,6 +598,7 @@ xampp
 <script>alert(1)<
 Admin_Files
 Batch
+Current
 Dr0v
 Pipfile
 Pipfile.lock
@@ -623,6 +624,8 @@ database.json
 db.php
 dbadmin
 downloads
+ecp
+exporttool
 gaukingo
 heapdump
 icanhazip.com:443
@@ -632,6 +635,7 @@ id_rsa.pub
 known_hosts
 license.txt
 login.jsp
+microsoft.exchange.ediscovery.exporttool.application
 middleware
 nmaplowercheck1792956439
 nmaplowercheck1792956465
@@ -699,7 +703,6 @@ www.zip
 .yarnrc
 .yarnrc.yml
 7f13c0a9d8644f3ca0a563b6b56e49d7
-Current
 Dockerfile
 GponForm
 PMA
@@ -749,11 +752,9 @@ dev.env
 diag_Form
 docker-compose.override.yml
 ecosystem.config.js
-ecp
 env.js
 env.txt
 environment.rb
-exporttool
 fidry
 gcloud
 gcp.json
@@ -768,7 +769,6 @@ local_settings.py
 logon.aspx
 manager
 metrics
-microsoft.exchange.ediscovery.exporttool.application
 movies-main
 myapp
 mysqlmanager

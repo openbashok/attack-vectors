@@ -716,6 +716,7 @@ debug
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 docs/setup.md
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 files/
 icanhazip.com:443
 id_rsa.pub
@@ -851,7 +852,6 @@ docker/compose/withRedis/.env
 docs
 downloads/
 ecosystem.config.js
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env.txt
 frontend/.env.local
 health/liveliness
