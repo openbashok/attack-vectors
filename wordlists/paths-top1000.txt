@@ -62,6 +62,7 @@ dump.sql
 portal/.env
 project/.env
 secrets.json
+security.txt
 settings.py
 site.zip
 system/.env
@@ -77,7 +78,6 @@ db.sql
 htdocs/.env
 info
 package.json
-security.txt
 staging/.env
 terraform.tfstate
 .config.yaml
@@ -145,6 +145,7 @@ aws.yml
 bedrock.env
 configuration.json
 env-config.js
+robots.txt
 store/.env
 .aws/.env
 .bedrock/.env
@@ -202,7 +203,6 @@ platform/.env
 pos/.env
 readme.md
 requirements.txt
-robots.txt
 saas/.env
 sandbox/.env
 server.js
@@ -266,6 +266,7 @@ wp-content/.env
 .env.txt
 .env_1
 .ssh/id_rsa
+.well-known/security.txt
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -323,7 +324,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .git/index
 .htaccess
 .npmrc
-.well-known/security.txt
 HNAP1
 admin/.git/config
 api/config.env

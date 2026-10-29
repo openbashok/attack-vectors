@@ -27,11 +27,11 @@ webLanguage
 .env.test
 HEAD
 settings.py
+security.txt
 .env.development
 .env.old
 database.yml
 phpinfo.php
-security.txt
 settings.json
 site.zip
 .env.backup
@@ -75,6 +75,7 @@ error.log
 mysql.sql
 open
 package-lock.json
+robots.txt
 secrets.env
 sendgrid.env
 web.config
@@ -83,7 +84,6 @@ aws.env
 bedrock.env
 configuration.json
 env-config.js
-robots.txt
 .env.save.1
 .json
 app.log

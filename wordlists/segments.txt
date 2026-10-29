@@ -20,8 +20,8 @@ laravel
 .env.production
 admin
 config.json
-.aws
 favicon.ico
+.aws
 logs
 app_dev.php
 web
@@ -68,8 +68,8 @@ var
 .env.prod
 .env.save
 docker
-new
 SDK
+new
 webLanguage
 .env.test
 HEAD
@@ -80,6 +80,7 @@ settings.py
 administrator
 apps
 auth
+security.txt
 .env.development
 .env.old
 .svn
@@ -90,7 +91,6 @@ data
 database.yml
 phpinfo.php
 project
-security.txt
 settings.json
 site.zip
 .env.backup
@@ -162,6 +162,7 @@ main
 mysql.sql
 open
 package-lock.json
+robots.txt
 secrets.env
 sendgrid.env
 static
@@ -176,7 +177,6 @@ download
 env-config.js
 images
 platform
-robots.txt
 .bedrock
 .env.save.1
 .json
@@ -249,12 +249,12 @@ wp-admin
 .env.staging.local
 .env.template
 .env_sample
+.well-known
 HNAP1
 drupal
 json
 root
 testing
-.well-known
 build
 developmentserver
 libraries
