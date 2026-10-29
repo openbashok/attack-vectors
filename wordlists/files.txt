@@ -5,8 +5,8 @@ index.php
 .env.php
 phpinfo
 .env.local
-.env.production
 favicon.ico
+.env.production
 config.json
 secrets.yaml
 test
@@ -243,6 +243,7 @@ users
 wc.db
 web_shell_cmd.gch
 wp-admin
+ws
 www.google.com:443
 %3Cinvalid%3Ehello.html
 .boto
@@ -317,7 +318,6 @@ wp-config.bak
 wp-config.php.orig
 wp-config.php.save
 wp-config.php~
-ws
 www.zip
 %2e%2e%2f%2eenv
 .deploy.env

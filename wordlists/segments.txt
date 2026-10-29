@@ -17,9 +17,9 @@ phpinfo
 .env.local
 .%2e
 laravel
+favicon.ico
 .env.production
 admin
-favicon.ico
 config.json
 .aws
 logs
@@ -67,10 +67,10 @@ cms
 var
 .env.prod
 .env.save
-docker
 SDK
-new
+docker
 webLanguage
+new
 .env.test
 HEAD
 blog
@@ -225,10 +225,10 @@ index.html
 backup.zip
 sql
 wp-content
+ws
 .env.production.local
 .ssh
 aws
-ws
 .env.dist
 get
 ip.cypher.rest:443

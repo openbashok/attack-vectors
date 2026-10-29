@@ -651,6 +651,7 @@ website/.env
 webui/.env
 wordpress/.env
 wp-content/uploads/
+ws
 www.google.com:443
 xampp/.env
 %3Cinvalid%3Ehello.html
@@ -751,5 +752,4 @@ wp-config.php~
 wp-content/themes/gaukingo/
 wp-json/Batch/v1
 wp-json/batch/v1/
-ws
 www.zip
