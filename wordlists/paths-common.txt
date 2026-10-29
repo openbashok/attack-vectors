@@ -250,11 +250,11 @@ docker/.env
 .env.secret
 .env.uat
 .env~
+.well-known/security.txt
 configuration/.env
 .docker/.env
 .env.sample
 .htpasswd
-.well-known/security.txt
 app/config/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 conf/.env
@@ -433,6 +433,7 @@ Api/.env
 Archipel/.env
 Assignment4/.env
 ClientApp/.env
+Dr0v
 FIRST_CONFIG/.env
 Jenkinsfile
 Passportjs/.env
@@ -661,7 +662,6 @@ xampp/.env
 <invalid>hello.html
 <script>alert(1)</script>.html
 Admin_Files/
-Dr0v
 Pipfile
 Pipfile.lock
 README.md

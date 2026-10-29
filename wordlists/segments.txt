@@ -15,8 +15,8 @@ app
 _profiler
 phpinfo
 .env.local
-.%2e
 favicon.ico
+.%2e
 laravel
 .env.production
 admin
@@ -438,6 +438,7 @@ Assignment4
 ClientApp
 ContainerRegistry
 Datavase
+Dr0v
 FIRST_CONFIG
 Jenkinsfile
 Nosto
@@ -599,7 +600,6 @@ xampp
 Admin_Files
 Batch
 Current
-Dr0v
 Pipfile
 Pipfile.lock
 README.md

@@ -252,12 +252,12 @@ docker/.env
 .env.secret
 .env.uat
 .env~
+.well-known/security.txt
 configuration/.env
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .docker/.env
 .env.sample
 .htpasswd
-.well-known/security.txt
 app/config/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 conf/.env
@@ -442,6 +442,7 @@ Api/.env
 Archipel/.env
 Assignment4/.env
 ClientApp/.env
+Dr0v
 FIRST_CONFIG/.env
 Jenkinsfile
 Passportjs/.env
@@ -675,7 +676,6 @@ xampp/.env
 ?nx=@@
 ?rest_route=/batch%2Fv1
 Admin_Files/
-Dr0v
 Pipfile
 Pipfile.lock
 README.md

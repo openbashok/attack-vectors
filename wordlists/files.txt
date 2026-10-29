@@ -222,6 +222,7 @@ wp-config.php.old
 .environment
 .envs
 .git-credentials
+Dr0v
 Jenkinsfile
 administrator
 ansible.cfg
@@ -258,7 +259,6 @@ www.google.com:443
 .vscode
 <invalid>hello.html
 Admin_Files
-Dr0v
 Pipfile
 Pipfile.lock
 README.md
