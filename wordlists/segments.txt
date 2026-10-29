@@ -19,8 +19,8 @@ phpinfo
 laravel
 .env.production
 admin
-config.json
 favicon.ico
+config.json
 .aws
 logs
 app_dev.php
@@ -230,14 +230,14 @@ wp-content
 aws
 ws
 .env.dist
+get
+ip.cypher.rest:443
 .vscode
 actuator
 bin
 sh
 vue-heroes
 files
-get
-ip.cypher.rest:443
 panel
 shared
 .env.development.local
@@ -292,6 +292,7 @@ remote
 scripts
 self
 users
+*
 .env.1
 .env.swp
 .env.txt
@@ -319,7 +320,6 @@ workspace
 wp-config.php.bak
 yii
 zend
-*
 .circleci
 .env.2
 .env.docker
@@ -709,6 +709,7 @@ __fixtures__
 aab9
 adminer.php
 adminer.sql
+ads.txt
 airflow.cfg
 amplify
 amplify.yaml

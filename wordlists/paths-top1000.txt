@@ -356,6 +356,7 @@ var/www/.env
 vendor/.env
 wp-admin/.env
 www/.git/config
+*
 .env.aws
 .env.prod.local
 .env.zip
@@ -393,7 +394,6 @@ sftp-config.json
 sitemap.xml
 version
 wp-config.php.old
-*
 +CSCOE+/logon.html
 .c9/metadata/environment/.env
 .circleci/.env
@@ -787,6 +787,7 @@ actuator/configprops
 actuator/favicon.ico
 adminer.php
 adminer.sql
+ads.txt
 airflow.cfg
 api-docs/
 api/.env.local
@@ -997,4 +998,3 @@ admin/sysadmin/index.php
 admin/web/index.php
 administrator/
 administrator/PMA/index.php
-administrator/admin/index.php

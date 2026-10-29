@@ -364,6 +364,7 @@ var/www/.env
 vendor/.env
 wp-admin/.env
 www/.git/config
+*
 .env.aws
 .env.prod.local
 .env.zip
@@ -400,7 +401,6 @@ sftp-config.json
 sitemap.xml
 version
 wp-config.php.old
-*
 +CSCOE+/logon.html
 .c9/metadata/environment/.env
 .circleci/.env
@@ -804,6 +804,7 @@ actuator/configprops
 actuator/favicon.ico
 adminer.php
 adminer.sql
+ads.txt
 airflow.cfg
 api-docs/
 api/.env.local
@@ -1021,7 +1022,6 @@ administrator/phpMyAdmin/index.php?lang=en
 administrator/phpmyadmin/index.php?lang=en
 administrator/pma/index.php?lang=en
 administrator/web/index.php?lang=en
-ads.txt
 agora/.env
 amplify/team-provider-info.json
 amplifyconfiguration.json

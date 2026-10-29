@@ -371,6 +371,7 @@ www/.git/config
 .vscode/settings.json
 Gemfile.lock
 HNAP1/
+_
 _static/.env
 api
 assets../.git/config
@@ -442,7 +443,6 @@ ClientApp/.env
 FIRST_CONFIG/.env
 Jenkinsfile
 Passportjs/.env
-_
 __tests__/test-become/.env
 _s=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E
 _s=UNION+SELECT+ALL+FROM+information_schema+AND+%27+or+SLEEP%285%29+or+%27

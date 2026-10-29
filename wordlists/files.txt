@@ -6,8 +6,8 @@ index.php
 phpinfo
 .env.local
 .env.production
-config.json
 favicon.ico
+config.json
 secrets.yaml
 test
 credentials
@@ -124,9 +124,9 @@ index.html
 backup.zip
 .env.production.local
 .env.dist
-sh
 get
 ip.cypher.rest:443
+sh
 v1
 .env.development.local
 .env.live
@@ -179,6 +179,7 @@ config.py
 openapi.json
 sdk
 terraform.tfstate.backup
+*
 .env.aws
 .env.prod.local
 .env.zip
@@ -202,7 +203,6 @@ sitemap.xml
 swagger.json
 terraform.tfvars
 wp-config.php.old
-*
 .env-example
 .env-sample
 .env.back
@@ -357,6 +357,7 @@ ReportServer
 aab9
 adminer.php
 adminer.sql
+ads.txt
 airflow.cfg
 amplify.yaml
 amplify.yml
