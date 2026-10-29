@@ -789,6 +789,7 @@ www.zip
 .ssh/id_ecdsa
 .ssh/id_ed25519
 .vscode/sftp.json
+.well-known/pki-validation/update
 .yarnrc
 .yarnrc.yml
 7f13c0a9d8644f3ca0a563b6b56e49d7
@@ -948,7 +949,6 @@ $(pwd)/terraform.tfvars
 .terraform/credentials.tfrc.json
 .vscode/mcp.json
 .well-known/
-.well-known/pki-validation/update
 .well-known/robots.txt
 .zed/settings.json
 07-accessing-data/end/vue-heroes/.env

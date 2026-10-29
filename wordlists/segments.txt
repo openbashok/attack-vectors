@@ -23,8 +23,8 @@ config.json
 .aws
 logs
 app_dev.php
-web
 favicon.ico
+web
 secrets.yaml
 frontend
 dev
@@ -269,6 +269,7 @@ wp-json
 .env.uat
 .env~
 .github
+.well-known
 configuration
 containers
 developmentserver
@@ -279,7 +280,6 @@ health
 metadatauploader
 .env.sample
 .htpasswd
-.well-known
 09-managing-state
 @fs
 begin
@@ -656,6 +656,7 @@ settings.php
 setup.md
 stripe-credentials.json
 themes
+update
 withMongo
 withPostgres
 wp-config.bak
@@ -779,6 +780,7 @@ phpMyAdmin-5
 phpMyAdmin2
 phpMyAdmin3
 phpmy-admin
+pki-validation
 printenv
 production.env
 proxy.php
@@ -794,7 +796,6 @@ socket.io
 sqladmin
 sqlmanager
 ui
-update
 vertex.json
 webadmin
 webdb

@@ -310,6 +310,7 @@ service-account.json
 settings.php
 setup.md
 stripe-credentials.json
+update
 v2
 workflows
 wp-config.bak
@@ -417,7 +418,6 @@ service-account-credentials.json
 soap
 socket.io
 swagger
-update
 vertex.json
 wp-config.old
 wp-config.php.txt
