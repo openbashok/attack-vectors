@@ -24,8 +24,8 @@ app_dev.php
 logs
 .aws
 favicon.ico
-secrets.yaml
 web
+secrets.yaml
 dev
 frontend
 core
@@ -293,6 +293,7 @@ users
 .envrc
 conf
 deploy
+geoserver
 index
 phpmyadmin
 pub
@@ -326,7 +327,6 @@ ec
 end
 evox
 export
-geoserver
 hello.world
 includes
 mail

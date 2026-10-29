@@ -149,6 +149,7 @@ metadatauploader
 .env~
 api
 environ
+web
 .env.sample
 .env_1
 .envrc
@@ -156,7 +157,6 @@ docs
 health
 index
 version
-web
 .env.1
 .env.docker
 .env.swp

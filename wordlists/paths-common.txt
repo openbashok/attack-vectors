@@ -261,6 +261,7 @@ cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 conf/.env
 containers/json
 deploy/.env
+geoserver/web/
 panel/.env
 public/.git/config
 .env.1
@@ -288,7 +289,6 @@ demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 deployment/.env
 development/.env
 evox/about
-geoserver/web/
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/Util/PHP/eval-stdin.php
