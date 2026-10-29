@@ -83,18 +83,18 @@ site.zip
 .env.development
 .env.old
 .svn
+SDK
 application
 data
 project
 security.txt
 settings.json
 uploads
+webLanguage
 .env.testing
-SDK
 env
 phpinfo.php
 services
-webLanguage
 cgi-bin
 client
 credentials.json
@@ -338,6 +338,7 @@ run
 sdk
 task
 test.hello
+version
 vue
 workspace
 yii
@@ -389,7 +390,6 @@ template
 terraform
 terraform.tfstate.backup
 terraform.tfvars
-version
 .c9
 .env-example
 .env-sample

@@ -17,11 +17,11 @@ laravel/.env
 .aws/credentials
 .env.development
 .env.old
+SDK/webLanguage
 config.json
 server/.env
 .env.staging
 .env.testing
-SDK/webLanguage
 frontend/.env
 web/.env
 .env.example
@@ -363,6 +363,7 @@ server/.git/config
 src/.git/config
 static../.git/config
 terraform.tfstate.backup
+version
 www/.git/config
 .aws/config
 .c9/metadata/environment/.env
@@ -608,7 +609,6 @@ user/.env.staging
 users/.env
 vendor/.env.example
 vendor/laravel/.env
-version
 vod_installer/.env
 vue/.env
 website/.env

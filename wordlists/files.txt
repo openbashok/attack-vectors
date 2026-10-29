@@ -30,9 +30,9 @@ site.zip
 .env.old
 security.txt
 settings.json
+webLanguage
 .env.testing
 phpinfo.php
-webLanguage
 credentials.json
 settings.py
 terraform.tfstate
@@ -167,6 +167,7 @@ hello.world
 openapi.json
 sdk
 test.hello
+version
 .env.2
 .env.aws
 .env.prod.local
@@ -185,7 +186,6 @@ settings
 swagger.json
 terraform.tfstate.backup
 terraform.tfvars
-version
 .env-example
 .env-sample
 .env.back
