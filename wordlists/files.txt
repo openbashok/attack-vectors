@@ -7,13 +7,13 @@ phpinfo
 .env.local
 .env.production
 config.json
+favicon.ico
 test
 secrets.yaml
-favicon.ico
 credentials
 .env.staging
-.env.local.php
 info
+.env.local.php
 laravel.log
 view
 .env.bak
@@ -26,11 +26,11 @@ mcp
 .env.test
 HEAD
 site.zip
+webLanguage
 .env.development
 .env.old
 security.txt
 settings.json
-webLanguage
 .env.testing
 phpinfo.php
 credentials.json
@@ -139,6 +139,7 @@ sse
 .env.default
 .env.staging.local
 .env.template
+metadatauploader
 .env.ci
 .env.config
 .env.preprod
@@ -148,12 +149,13 @@ sse
 .env~
 api
 environ
-metadatauploader
 .env.sample
 .env_1
 .envrc
 docs
+health
 index
+version
 web
 .env.1
 .env.docker
@@ -167,7 +169,6 @@ hello.world
 openapi.json
 sdk
 test.hello
-version
 .env.2
 .env.aws
 .env.prod.local
@@ -179,7 +180,6 @@ admin
 api-docs
 config.php~
 formLogin
-health
 id_rsa
 mcp.json
 settings

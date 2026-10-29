@@ -13,10 +13,10 @@ config/.env
 src/.env
 laravel/.env
 .env.test
+SDK/webLanguage
 .aws/credentials
 .env.development
 .env.old
-SDK/webLanguage
 config.json
 server/.env
 .env.staging
@@ -63,6 +63,7 @@ credentials.json
 database.sql
 dump.sql
 html/.env
+info
 security.txt
 staging/.env
 test.php
@@ -99,7 +100,6 @@ db.sql
 debug/default/view?panel=config
 demo/.env
 htdocs/.env
-info
 info.php
 info/
 library/.env
@@ -243,6 +243,7 @@ sse
 .env.template
 api/mcp
 build/.env
+developmentserver/metadatauploader
 docker/.env
 .env.ci
 .env.config
@@ -253,7 +254,6 @@ docker/.env
 .env~
 app/config/.env
 configuration/.env
-developmentserver/metadatauploader
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 wp-content/.env
 .docker/.env
