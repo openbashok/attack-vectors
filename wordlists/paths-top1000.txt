@@ -319,6 +319,7 @@ deploy/.env
 panel/.env
 public_html/.env
 wp-config.php.bak
+*
 .aws/config
 .env.2
 .env.docker
@@ -363,7 +364,6 @@ var/www/.env
 vendor/.env
 wp-admin/.env
 www/.git/config
-*
 +CSCOE+/logon.html
 .env.aws
 .env.prod.local
@@ -685,6 +685,7 @@ admin.php
 admin/login
 administrator
 adminpanel
+ads.txt
 api.ipinfo.io:443
 api/
 api/docs
@@ -818,7 +819,6 @@ administrator/phpMyAdmin/index.php
 administrator/phpmyadmin/index.php
 administrator/pma/index.php
 administrator/web/index.php
-ads.txt
 airflow.cfg
 api-docs/
 api/.env.local

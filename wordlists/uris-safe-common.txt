@@ -337,6 +337,7 @@ wp-config.php.bak
 .htaccess
 .npmrc
 RDWeb
+_
 abc7
 admin/.git/config
 api/config.env
@@ -379,7 +380,6 @@ www/.git/config
 .vscode/settings.json
 Gemfile.lock
 HNAP1/
-_
 _static/.env
 actuator/health
 admin/index.html
@@ -699,6 +699,7 @@ admin.php
 admin/login
 administrator
 adminpanel
+ads.txt
 api.ipinfo.io:443
 api/
 api/docs

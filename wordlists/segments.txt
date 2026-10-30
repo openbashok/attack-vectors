@@ -12,8 +12,8 @@ api
 test
 app
 .env.php
-.%2e
 favicon.ico
+.%2e
 phpinfo
 _profiler
 admin
@@ -291,6 +291,7 @@ test.hello
 workspace
 yii
 zend
+*
 .env.sample
 .htpasswd
 09-managing-state
@@ -311,7 +312,6 @@ scripts
 sdk
 self
 users
-*
 .env.1
 .env.swp
 .env.txt
@@ -635,6 +635,7 @@ Thumbs.db
 aaa9
 admin.php
 adminpanel
+ads.txt
 api.ipinfo.io:443
 autodiscover.json
 bitbucket-pipelines.yml
@@ -737,7 +738,6 @@ _phpmyadmin_
 aab9
 adminer.php
 adminer.sql
-ads.txt
 airflow.cfg
 amplify
 amplify.yaml
