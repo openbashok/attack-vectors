@@ -238,9 +238,11 @@ ansible.cfg
 app.php
 aws-ses.json
 db.sql.gz
+files
 login.jsp
 master.key
 one.one.one.one:443
+pub
 run
 secrets.py
 sftp.json
@@ -288,7 +290,7 @@ data
 database.json
 db.php
 debug
-files
+downloads
 gaukingo
 heapdump
 icanhazip.com:443
@@ -305,7 +307,6 @@ passwd
 phpmyadmin
 pom.xml
 proxy
-pub
 rsc
 sample.env
 script%3E.html
@@ -393,7 +394,6 @@ deployment.yaml
 dev.env
 diag_Form
 docker-compose.override.yml
-downloads
 ecosystem.config.js
 env.js
 env.txt

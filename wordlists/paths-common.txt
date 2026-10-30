@@ -538,6 +538,7 @@ examples/.env
 exapi/.env
 export/.env
 fedex/.env
+files/
 files/.env
 fileserver/.env
 films/.env
@@ -596,6 +597,7 @@ preview/.env
 product/.env.staging
 projbackend/.env
 psnlink/.env
+pub/
 pub/.env
 qa/.env
 rails/.env
@@ -709,8 +711,8 @@ doc/index.html
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 docs/setup.md
+downloads/
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
-files/
 icanhazip.com:443
 id_rsa.pub
 known_hosts
@@ -724,7 +726,6 @@ phpinfo
 phpmyadmin
 pom.xml
 proxy
-pub/
 rest/oauth1-credential/auth
 rest/oauth2-credential/auth
 rest/settings

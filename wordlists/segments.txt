@@ -53,12 +53,12 @@ login
 staging
 v1
 .env.example
+SDK
 temp
 tmp
 view
-SDK
-tests
 webLanguage
+tests
 ..
 beta
 db
@@ -238,9 +238,9 @@ sh
 .env.dist
 .vscode
 .well-known
+files
 panel
 vue-heroes
-files
 shared
 .env.development.local
 .env.live
@@ -298,6 +298,7 @@ enviroments
 environ
 hello.world
 index
+pub
 run
 scripts
 self
@@ -321,7 +322,6 @@ docker-compose
 id_rsa
 login.html
 myadmin
-pub
 public_html
 s3
 swagger
@@ -503,6 +503,7 @@ developerslv
 directories
 django_project_path
 docker-node-mongo-redis
+downloads
 drupal-test
 env-config
 environment
@@ -646,7 +647,6 @@ composer.lock
 config.inc.php
 database.json
 db.php
-downloads
 ecp
 exporttool
 gaukingo
