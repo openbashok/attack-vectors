@@ -225,14 +225,14 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-.env.production.local
-.env.dist
 get
 ip.cypher.rest:443
+.env.production.local
+.env.dist
+mcp
 .env.development.local
 .env.live
 .env.stage
-mcp
 sse
 .env.default
 .env.dev.local
@@ -877,6 +877,7 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 docs
 downloads/
+druid/index.html
 ecosystem.config.js
 env.txt
 frontend/.env.local
@@ -885,6 +886,7 @@ instance/config.py
 laravel/.env.example
 local.py
 local_settings.py
+manager/html
 movies-main/.env
 myadmin/index.php
 myapp/settings.py
@@ -996,5 +998,3 @@ web/.env.local
 webjars/swagger-ui/index.html
 wp-config.old
 wp-config.php.txt
-wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
-wp-login.php

@@ -119,13 +119,13 @@ tests
 tmp
 twilio.env
 wp-config.php.backup
-config.php
 index.html
+config.php
 backup.zip
-.env.production.local
-.env.dist
 get
 ip.cypher.rest:443
+.env.production.local
+.env.dist
 sh
 v1
 .env.development.local
@@ -401,6 +401,7 @@ environment.rb
 gcp.json
 gemini.json
 hetong.js
+html
 id_ecdsa
 index.js
 liveliness

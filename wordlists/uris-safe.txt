@@ -227,14 +227,14 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-.env.production.local
-.env.dist
 get
 ip.cypher.rest:443
+.env.production.local
+.env.dist
+mcp
 .env.development.local
 .env.live
 .env.stage
-mcp
 sse
 .env.default
 .env.dev.local
@@ -894,6 +894,7 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 docs
 downloads/
+druid/index.html
 ecosystem.config.js
 env.txt
 frontend/.env.local
@@ -903,6 +904,7 @@ instance/config.py
 laravel/.env.example
 local.py
 local_settings.py
+manager/html
 movies-main/.env
 myadmin/index.php_lang=en
 myapp/settings.py
@@ -1354,7 +1356,6 @@ dotfiles/.env
 dotnet.zip
 download/backup.zip
 downloads/backup.zip
-druid/index.html
 drupal.tar.gz
 drupal.zip
 dump.sql.gz
@@ -1481,7 +1482,6 @@ magento.tar.gz
 magento.zip
 mailman/.env
 main_user/.env
-manager/html
 manager/text/list
 manifest.json
 manual/.env

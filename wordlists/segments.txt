@@ -43,10 +43,10 @@ info
 www
 .env.local.php
 laravel.log
+mcp
 sendgrid
 server
 default
-mcp
 staging
 v1
 .env.example
@@ -61,8 +61,8 @@ log
 login
 tests
 SDK
-lib
 webLanguage
+lib
 .env.dev
 administrator
 backup
@@ -92,6 +92,7 @@ settings
 .env.backup
 data
 database.yml
+html
 phpinfo.php
 project
 settings.json
@@ -101,7 +102,6 @@ application
 client
 docker-compose.yml
 env
-html
 site
 uploads
 wp-config.php
@@ -218,22 +218,22 @@ stage
 twilio.env
 v3
 wp-config.php.backup
+index.html
 rest
 .docker
 compose
 config.php
-index.html
 mysql
 wp-content
 backup.zip
+get
+ip.cypher.rest:443
 ws
 .env.production.local
 .ssh
 aws
 .env.dist
 actuator
-get
-ip.cypher.rest:443
 .vscode
 bin
 sh
@@ -654,6 +654,7 @@ id_rsa.pub
 known_hosts
 license.txt
 login.jsp
+manager
 metrics
 microsoft.exchange.ediscovery.exporttool.application
 middleware
@@ -775,6 +776,7 @@ deployment.yaml
 dev.env
 diag_Form
 docker-compose.override.yml
+druid
 ecosystem.config.js
 env.js
 env.txt
@@ -793,7 +795,6 @@ local.py
 local.settings.json
 local_settings.py
 logon.aspx
-manager
 movies-main
 myapp
 mysql-admin

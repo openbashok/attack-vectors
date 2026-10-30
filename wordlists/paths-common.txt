@@ -225,14 +225,14 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-.env.production.local
-.env.dist
 get
 ip.cypher.rest:443
+.env.production.local
+.env.dist
+mcp
 .env.development.local
 .env.live
 .env.stage
-mcp
 sse
 .env.default
 .env.dev.local
