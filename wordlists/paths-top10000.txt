@@ -1564,6 +1564,8 @@ site.sql
 site/.git/config
 site_2025.zip
 site_2026.zip
+solr/admin/cores
+solr/admin/info/system
 source.tar.gz
 source.zip
 sources.zip

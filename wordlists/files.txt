@@ -16,8 +16,8 @@ mcp
 info
 .env.local.php
 laravel.log
-.env.bak
 webLanguage
+.env.bak
 .env.example
 view
 .env.dev
