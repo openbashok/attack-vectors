@@ -3,8 +3,8 @@ index.php
 eval-stdin.php
 config
 .env.php
-phpinfo
 favicon.ico
+phpinfo
 .env.local
 .env.production
 config.json
@@ -12,10 +12,10 @@ secrets.yaml
 test
 credentials
 .env.staging
+mcp
 info
 .env.local.php
 laravel.log
-mcp
 .env.bak
 .env.example
 view
@@ -131,8 +131,8 @@ v1
 .env.development.local
 .env.live
 .env.stage
-json
 sse
+json
 .env.default
 .env.dev.local
 .env.staging.local

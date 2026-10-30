@@ -12,9 +12,9 @@ api
 test
 app
 .env.php
+favicon.ico
 _profiler
 phpinfo
-favicon.ico
 .env.local
 .%2e
 admin
@@ -37,13 +37,13 @@ storage
 .env.staging
 v2
 assets
+mcp
 www
 backend
 debug
 info
 .env.local.php
 laravel.log
-mcp
 sendgrid
 server
 .env.bak
@@ -245,9 +245,9 @@ shared
 .env.development.local
 .env.live
 .env.stage
+sse
 drupal
 json
-sse
 testing
 wp-admin
 .env.default
