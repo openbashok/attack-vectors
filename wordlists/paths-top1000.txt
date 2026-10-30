@@ -366,6 +366,7 @@ www/.git/config
 Gemfile.lock
 HNAP1/
 _static/.env
+actuator/health
 api
 assets../.git/config
 backup/.git/config
@@ -445,7 +446,6 @@ abc7
 abc8
 acme-challenge/.env
 acme/.env
-actuator/health
 admin-app/.env
 admin/
 admin/config.php

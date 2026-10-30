@@ -15,8 +15,8 @@ app
 _profiler
 phpinfo
 .env.local
-admin
 favicon.ico
+admin
 .%2e
 laravel
 .env.production
@@ -231,9 +231,9 @@ ip.cypher.rest:443
 ws
 .env.production.local
 .ssh
+actuator
 aws
 .env.dist
-actuator
 .vscode
 bin
 sh
@@ -254,13 +254,13 @@ wp-admin
 .env_sample
 HNAP1
 drupal
+health
 json
 phpmyadmin
 root
 testing
 build
 developmentserver
-health
 libraries
 metadatauploader
 phpMyAdmin

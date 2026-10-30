@@ -148,11 +148,11 @@ web
 .env.secret
 .env.uat
 .env~
+health
 .env.sample
 .htpasswd
 api
 environ
-health
 index
 .env.1
 .env.swp
