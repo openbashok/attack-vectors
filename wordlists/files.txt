@@ -21,10 +21,10 @@ view
 .env.bak
 .env.dev
 config.env
-.env.prod
 webLanguage
-.env.save
+.env.prod
 security.txt
+.env.save
 .env.test
 HEAD
 settings.py
@@ -50,6 +50,7 @@ application.yml
 aws.yml
 database.sql
 dump.sql
+robots.txt
 test.php
 .env.orig
 appsettings.json
@@ -59,7 +60,6 @@ db.sql
 debug.log
 env
 package.json
-robots.txt
 .config.yaml
 .env.example.php
 .env.json
@@ -410,6 +410,7 @@ printenv
 production.env
 proxy.php
 raw
+redlion
 run
 runtime-env.js
 secrets.js

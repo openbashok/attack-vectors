@@ -8,9 +8,9 @@ app/.env
 .env.local
 api/.env
 config/.env
+SDK/webLanguage
 .env.dev
 .env.prod
-SDK/webLanguage
 .env.save
 laravel/.env
 src/.env
@@ -40,6 +40,7 @@ site/.env
 www/.env
 .svn/entries
 api/.git/config
+security.txt
 _profiler/phpinfo
 backup/.env
 config.js
@@ -48,7 +49,6 @@ dashboard/.env
 dev/.env
 html/.env
 info.php
-security.txt
 settings/.env
 shop/.env
 blog/.env
@@ -78,6 +78,7 @@ db.sql
 htdocs/.env
 info
 package.json
+robots.txt
 staging/.env
 terraform.tfstate
 .config.yaml
@@ -121,7 +122,6 @@ mysql.sql
 new/.env
 package-lock.json
 phpinfo/
-robots.txt
 secrets.env
 secrets.yaml
 secrets.yml
@@ -240,6 +240,7 @@ sse
 .env.template
 .env_sample
 api/mcp
+.well-known/security.txt
 build/.env
 developmentserver/metadatauploader
 docker/.env
@@ -250,7 +251,6 @@ docker/.env
 .env.secret
 .env.uat
 .env~
-.well-known/security.txt
 configuration/.env
 .docker/.env
 .env.sample
