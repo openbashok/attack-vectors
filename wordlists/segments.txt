@@ -16,8 +16,8 @@ _profiler
 phpinfo
 .env.local
 .%2e
-favicon.ico
 admin
+favicon.ico
 laravel
 .env.production
 config.json
@@ -48,6 +48,7 @@ sendgrid
 server
 default
 lib
+login
 staging
 v1
 .env.example
@@ -61,7 +62,6 @@ SDK
 beta
 db
 log
-login
 webLanguage
 backup
 .env.dev
@@ -76,13 +76,13 @@ docker
 new
 sql
 blog
+cgi-bin
 crm
 .env.test
 .svn
 HEAD
 apps
 auth
-cgi-bin
 old
 settings.py
 .env.development
@@ -162,6 +162,7 @@ config.dev.php
 docker-compose.yaml
 error.log
 images
+index.html
 library
 main
 mysql.sql
@@ -218,7 +219,6 @@ stage
 twilio.env
 v3
 wp-config.php.backup
-index.html
 rest
 ws
 .docker
@@ -282,6 +282,7 @@ examples
 fixtures
 geoserver
 pma
+remote
 .env.sample
 .htpasswd
 09-managing-state
@@ -297,7 +298,6 @@ enviroments
 environ
 hello.world
 index
-remote
 run
 scripts
 self
@@ -312,10 +312,14 @@ zend
 .env.txt
 .env_1
 .envrc
+abc6
+abc8
 backups
 deploy
+doc
 docker-compose
 id_rsa
+login.html
 myadmin
 pub
 public_html
@@ -336,9 +340,7 @@ wp-config.php.bak
 .npmrc
 RDWeb
 __tests__
-abc6
 abc7
-abc8
 about
 all
 audio
@@ -350,7 +352,6 @@ dbadmin
 deployment
 development
 django
-doc
 end
 evox
 export
@@ -370,6 +371,7 @@ task
 terraform.tfstate.backup
 vue
 $(pwd)
++CSCOE+
 .env.aws
 .env.prod.local
 .env.zip
@@ -377,6 +379,7 @@ $(pwd)
 07-accessing-data
 Gemfile.lock
 _static
+account
 ansible
 api-docs
 assets..
@@ -401,7 +404,10 @@ en
 engine
 formLogin
 functions
-login.html
+login.cgi
+login.htm
+logon.html
+manage
 mcp.json
 media..
 metadata
@@ -419,7 +425,6 @@ template
 terraform
 terraform.tfvars
 wp-config.php.old
-+CSCOE+
 .c9
 .env-example
 .env-sample
@@ -457,7 +462,6 @@ Nosto
 PMA
 Passportjs
 Tagging
-account
 acme
 acme-challenge
 admin-app
@@ -537,12 +541,9 @@ liveObjects
 localhost
 locally
 logging
-login.cgi
-login.htm
-logon.html
+login.jsp
 magento
 mailer
-manage
 master
 master.key
 metrics
@@ -654,7 +655,6 @@ id_ed25519
 id_rsa.pub
 known_hosts
 license.txt
-login.jsp
 manager
 microsoft.exchange.ediscovery.exporttool.application
 middleware
@@ -794,6 +794,7 @@ liveliness
 local.py
 local.settings.json
 local_settings.py
+login.asp
 logon.aspx
 movies-main
 myapp
@@ -866,6 +867,7 @@ sysadmin
 ui
 vertex.json
 webjars
+webpages
 withMySQL
 withRedis
 wp

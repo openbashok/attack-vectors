@@ -316,6 +316,8 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.txt
 .env_1
 .ssh/id_rsa
+abc6
+abc8
 app/.git/config
 deploy/.env
 panel/.env
@@ -333,9 +335,7 @@ wp-config.php.bak
 .npmrc
 HNAP1
 RDWeb
-abc6
 abc7
-abc8
 admin/.git/config
 api/config.env
 app/.env.local
@@ -350,6 +350,8 @@ deployment/.env
 development/.env
 docker-compose/.env
 evox/about
+index.html
+login
 mail/.env
 openapi.json
 private/.env
@@ -369,6 +371,7 @@ vendor/.env
 wp-admin/.env
 www/.git/config
 *
++CSCOE+/logon.html
 .env.aws
 .env.prod.local
 .env.zip
@@ -378,9 +381,11 @@ Gemfile.lock
 HNAP1/
 _static/.env
 actuator/health
+admin/index.html
 api
 assets../.git/config
 backup/.git/config
+cgi-bin/login.cgi
 cms/.git/config
 config.php~
 config/.git/config
@@ -395,8 +400,9 @@ docker-compose.prod.yml
 engine/.env
 files/.git/config
 functions/.env
-index.html
-login
+login.htm
+login.html
+manage/account/login
 media../.git/config
 media/.git/config
 proc/self/environ
@@ -407,7 +413,6 @@ sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 version
 wp-config.php.old
-+CSCOE+/logon.html
 .c9/metadata/environment/.env
 .circleci/.env
 .docker/laravel/app/.env
@@ -459,7 +464,6 @@ acme/.env
 admin-app/.env
 admin/
 admin/config.php
-admin/index.html
 alpha/.env
 anaconda/.env
 ansible.cfg
@@ -496,7 +500,6 @@ bootstrap/.env
 boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
 cdw-backend/.env
-cgi-bin/login.cgi
 ch6-mytodo/.env
 ch8b-mytodo/.env
 challenge/.env
@@ -584,11 +587,9 @@ libs/.env
 localhost/.env
 locally/.env
 logging/.env
-login.htm
-login.html
+login.jsp
 magento/.env
 mailer/.env
-manage/account/login
 master/.env
 misc/.env
 new/.env.local
@@ -716,6 +717,7 @@ config/aws.yml
 config/config.php
 database.json
 debug
+doc/index.html
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 docs/setup.md
@@ -726,7 +728,6 @@ id_rsa.pub
 index.php?rest_route=/batch/v1
 known_hosts
 license.txt
-login.jsp
 middleware/.env
 nmaplowercheck1792956439
 nmaplowercheck1792956465
@@ -737,6 +738,7 @@ phpmyadmin
 pom.xml
 proxy
 pub/
+remote/login
 rest/oauth1-credential/auth
 rest/oauth2-credential/auth
 rest/settings
@@ -815,6 +817,7 @@ actuator/configprops
 actuator/favicon.ico
 admin/db/index.php?lang=en
 admin/index.php?lang=en
+admin/login.asp
 admin/phpMyAdmin/index.php?lang=en
 admin/phpmyadmin/index.php?lang=en
 admin/pma/index.php?lang=en
@@ -886,7 +889,6 @@ dbadmin/index.php?lang=en
 deployment.yaml
 dev.env
 django/settings.py
-doc/index.html
 docker-compose.override.yml
 docker/.env-prod
 docker/compose/.env
@@ -979,7 +981,6 @@ production.env
 program/index.php?lang=en
 raw
 releases/.env
-remote/login
 sample.env
 server/.env.local
 server_info
@@ -1013,8 +1014,10 @@ swagger/
 swagger/index.html
 swagger/ui/index
 vendor/fidry/cpu-core-counter/.envrc
+web/
 web/.env.local
 webjars/swagger-ui/index.html
+webpages/login.html
 wp-config.old
 wp-config.php.txt
 wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php?lang=en
@@ -1131,7 +1134,6 @@ actuator/env
 actuator/logfile
 admin
 admin/.env.production
-admin/login.asp
 administrator/
 agora/.env
 amplify/team-provider-info.json
@@ -1641,10 +1643,8 @@ vue/config.json
 vue_CRM/.env
 web-dist/.env
 web.tar.gz
-web/
 web/.git/config
 web_2024.zip
-webpages/login.html
 webroot/.env
 woocommerce.zip
 wp-admin.zip

@@ -255,6 +255,7 @@ cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 configuration/.env
 containers/json
 geoserver/web/
+remote/login
 .docker/.env
 .env.sample
 .htpasswd
@@ -286,7 +287,6 @@ phpunit/src/Util/PHP/eval-stdin.php
 public/.git/config
 public/index.php
 public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-remote/login
 test.hello
 test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -309,6 +309,8 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.txt
 .env_1
 .ssh/id_rsa
+abc6
+abc8
 app/.git/config
 deploy/.env
 panel/.env
@@ -326,9 +328,7 @@ wp-config.php.bak
 .npmrc
 HNAP1
 RDWeb
-abc6
 abc7
-abc8
 admin/.git/config
 api/config.env
 app/.env.local
@@ -343,6 +343,8 @@ deployment/.env
 development/.env
 docker-compose/.env
 evox/about
+index.html
+login
 mail/.env
 openapi.json
 private/.env
@@ -361,6 +363,7 @@ vendor/.env
 wp-admin/.env
 www/.git/config
 *
++CSCOE+/logon.html
 .env.aws
 .env.prod.local
 .env.zip
@@ -370,10 +373,12 @@ Gemfile.lock
 HNAP1/
 _static/.env
 actuator/health
+admin/index.html
 api
 assets../.git/config
 backup/.git/config
 boaform/admin/formLogin
+cgi-bin/login.cgi
 cms/.git/config
 config.php~
 config/.git/config
@@ -388,8 +393,9 @@ docker-compose.prod.yml
 engine/.env
 files/.git/config
 functions/.env
-index.html
-login
+login.htm
+login.html
+manage/account/login
 media../.git/config
 media/.git/config
 proc/self/environ
@@ -400,7 +406,6 @@ sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 version
 wp-config.php.old
-+CSCOE+/logon.html
 .c9/metadata/environment/.env
 .circleci/.env
 .docker/laravel/app/.env
@@ -450,7 +455,6 @@ acme/.env
 admin-app/.env
 admin/
 admin/config.php
-admin/index.html
 alpha/.env
 anaconda/.env
 ansible.cfg
@@ -486,7 +490,6 @@ bootstrap/.env
 boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
 cdw-backend/.env
-cgi-bin/login.cgi
 ch6-mytodo/.env
 ch8b-mytodo/.env
 challenge/.env
@@ -574,11 +577,9 @@ libs/.env
 localhost/.env
 locally/.env
 logging/.env
-login.htm
-login.html
+login.jsp
 magento/.env
 mailer/.env
-manage/account/login
 master/.env
 misc/.env
 new/.env.local
@@ -702,6 +703,7 @@ config/aws.yml
 config/config.php
 database.json
 debug
+doc/index.html
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 docs/setup.md
@@ -711,7 +713,6 @@ icanhazip.com:443
 id_rsa.pub
 known_hosts
 license.txt
-login.jsp
 middleware/.env
 nmaplowercheck1792956439
 nmaplowercheck1792956465
