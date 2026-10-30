@@ -716,6 +716,7 @@ middleware/.env
 nmaplowercheck1792956439
 nmaplowercheck1792956465
 old/
+owa/auth/x.js
 phpinfo
 phpmyadmin
 pom.xml
