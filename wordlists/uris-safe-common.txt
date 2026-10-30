@@ -118,6 +118,7 @@ laravel.log
 library/.env
 local/.env
 main/.env
+mcp/
 media/.env
 mysql.sql
 new/.env
@@ -147,7 +148,6 @@ aws.yml
 bedrock.env
 configuration.json
 env-config.js
-mcp/
 store/.env
 .aws/.env
 .bedrock/.env
@@ -232,10 +232,10 @@ ip.cypher.rest:443
 .env.production.local
 .env.dist
 mcp
+sse
 .env.development.local
 .env.live
 .env.stage
-sse
 api/mcp
 .env.default
 .env.dev.local
