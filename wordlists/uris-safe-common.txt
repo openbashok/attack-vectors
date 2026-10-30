@@ -449,6 +449,9 @@ Passportjs/.env
 __tests__/test-become/.env
 _s=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E
 _s=UNION+SELECT+ALL+FROM+information_schema+AND+%27+or+SLEEP%285%29+or+%27
+abc6
+abc7
+abc8
 acme-challenge/.env
 acme/.env
 admin-app/.env
@@ -670,6 +673,7 @@ xampp/.env
 .travis.yml
 .vs/
 .vscode/
+7f13c0a9d8644f3ca0a563b6b56e49d7
 Admin_Files/
 Pipfile
 Pipfile.lock
@@ -682,9 +686,6 @@ _nx=@@
 _rest_route=/batch%2Fv1
 _script_alert_1__/script_.html
 aaa9
-abc6
-abc7
-abc8
 actuator
 actuator/health
 actuator/heapdump
@@ -695,6 +696,7 @@ adminpanel
 api.ipinfo.io:443
 api/
 api/docs
+api/metrics/run
 api/v2/
 authorized_keys
 backup.tar.gz
