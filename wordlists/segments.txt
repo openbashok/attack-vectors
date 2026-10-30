@@ -14,8 +14,8 @@ app
 .env.php
 _profiler
 phpinfo
-.env.local
 favicon.ico
+.env.local
 .%2e
 admin
 laravel
@@ -46,6 +46,7 @@ laravel.log
 mcp
 sendgrid
 server
+.env.bak
 default
 lib
 login
@@ -55,7 +56,6 @@ v1
 temp
 tmp
 view
-.env.bak
 SDK
 tests
 webLanguage
@@ -85,11 +85,11 @@ apps
 auth
 old
 settings.py
+.env.backup
 .env.development
 .env.old
 docs
 settings
-.env.backup
 data
 database.yml
 html
@@ -256,14 +256,14 @@ wp-admin
 .env.template
 .env_sample
 HNAP1
+developmentserver
 health
+metadatauploader
 phpmyadmin
 root
 build
 containers
-developmentserver
 libraries
-metadatauploader
 phpMyAdmin
 production
 sites

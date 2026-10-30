@@ -4,8 +4,8 @@ eval-stdin.php
 config
 .env.php
 phpinfo
-.env.local
 favicon.ico
+.env.local
 .env.production
 config.json
 secrets.yaml
@@ -16,9 +16,9 @@ info
 .env.local.php
 laravel.log
 mcp
+.env.bak
 .env.example
 view
-.env.bak
 webLanguage
 .env.dev
 config.env
@@ -28,9 +28,9 @@ security.txt
 .env.test
 HEAD
 settings.py
+.env.backup
 .env.development
 .env.old
-.env.backup
 database.yml
 phpinfo.php
 settings.json
@@ -139,8 +139,8 @@ sse
 .env.template
 .env_sample
 HNAP1
-web
 metadatauploader
+web
 .env.ci
 .env.config
 .env.preprod
