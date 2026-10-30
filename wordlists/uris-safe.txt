@@ -14,9 +14,9 @@ config/.env
 src/.env
 laravel/.env
 .env.test
+config.json
 .aws/credentials
 .env.backup
-config.json
 .env.development
 .env.old
 server/.env
@@ -39,6 +39,7 @@ site/.env
 www/.env
 .svn/entries
 api/.git/config
+robots.txt
 security.txt
 _profiler/phpinfo
 backup/.env
@@ -48,7 +49,6 @@ dashboard/.env
 dev/.env
 html/.env
 info.php
-robots.txt
 settings/.env
 shop/.env
 blog/.env
@@ -362,6 +362,7 @@ protected/.env
 remote/login_lang=en
 server/.git/config
 shared/.env
+sitemap.xml
 sites/all/libraries/mailchimp/.env
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 src/.git/config
@@ -378,6 +379,7 @@ www/.git/config
 .env.zip
 .envrc
 .vscode/settings.json
+Dr0v
 Gemfile.lock
 HNAP1/
 _static/.env
@@ -410,7 +412,6 @@ proc/self/environ
 project/.git/config
 root/.env
 sftp-config.json
-sitemap.xml
 version
 wp-config.php.old
 .c9/metadata/environment/.env
@@ -452,7 +453,6 @@ Api/.env
 Archipel/.env
 Assignment4/.env
 ClientApp/.env
-Dr0v
 FIRST_CONFIG/.env
 Jenkinsfile
 Passportjs/.env

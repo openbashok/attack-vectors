@@ -110,13 +110,13 @@ wp-config.php
 credentials.json
 media
 prod
+robots.txt
 secrets.yml
 services
 terraform.tfstate
 dashboard
 entries
 portal
-robots.txt
 config.js
 info.php
 secrets.json
@@ -366,6 +366,7 @@ phpmyadmin4
 phpmyadmin5
 private
 protected
+sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 task
@@ -378,6 +379,7 @@ $(pwd)
 .env.zip
 .idea
 07-accessing-data
+Dr0v
 Gemfile.lock
 _static
 account
@@ -419,7 +421,6 @@ projbackend
 react
 resources
 sftp-config.json
-sitemap.xml
 swagger.json
 template
 terraform
@@ -455,7 +456,6 @@ Assignment4
 ClientApp
 ContainerRegistry
 Datavase
-Dr0v
 FIRST_CONFIG
 Jenkinsfile
 Nosto
