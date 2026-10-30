@@ -700,6 +700,7 @@ api/
 api/docs
 api/v2/
 authorized_keys
+autodiscover/autodiscover.json?@zdi/Powershell
 backup.tar.gz
 backup.zip
 bitbucket-pipelines.yml

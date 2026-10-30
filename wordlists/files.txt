@@ -275,6 +275,7 @@ actuator
 admin.php
 adminpanel
 api.ipinfo.io:443
+autodiscover.json
 bitbucket-pipelines.yml
 build.gradle
 cert.pem
@@ -372,7 +373,6 @@ application-prod.yml
 application.properties.bak
 application_default_credentials.json
 appsettings.production.json
-autodiscover.json
 azure.yaml
 backup.sql.gz
 bedrock.json

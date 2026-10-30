@@ -472,6 +472,7 @@ app.php
 app1-static
 app2-static
 app_nginx_static_path
+autodiscover
 aws-ses.json
 awstats
 back-end
@@ -633,7 +634,7 @@ aaa9
 admin.php
 adminpanel
 api.ipinfo.io:443
-autodiscover
+autodiscover.json
 bitbucket-pipelines.yml
 build.gradle
 cert.pem
@@ -749,7 +750,6 @@ application.properties.bak
 application_default_credentials.json
 appsettings.production.json
 archives
-autodiscover.json
 azure.yaml
 babel-plugin-dotenv
 backup.sql.gz

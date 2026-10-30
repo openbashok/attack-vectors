@@ -686,6 +686,7 @@ api/
 api/docs
 api/v2/
 authorized_keys
+autodiscover/autodiscover.json
 backup.tar.gz
 backup.zip
 bitbucket-pipelines.yml

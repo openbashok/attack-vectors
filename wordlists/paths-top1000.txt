@@ -686,6 +686,7 @@ api/
 api/docs
 api/v2/
 authorized_keys
+autodiscover/autodiscover.json
 backup.tar.gz
 backup.zip
 bitbucket-pipelines.yml
@@ -835,7 +836,6 @@ application/.dev.env
 application/.live.env
 application/.local.env
 appsettings.production.json
-autodiscover/autodiscover.json
 cgi-bin/printenv
 client/.env.local
 composer.json
