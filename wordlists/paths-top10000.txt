@@ -1,8 +1,8 @@
 .env
 favicon.ico
 index.php
-.env.production
 .git/config
+.env.production
 app/.env
 .env.bak
 .env.local
@@ -252,6 +252,7 @@ docker/.env
 .env.uat
 .env~
 configuration/.env
+geoserver/web/
 .docker/.env
 .env.sample
 .htpasswd
@@ -259,7 +260,6 @@ app/config/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 conf/.env
 containers/json
-geoserver/web/
 public/.git/config
 remote/login
 wp-content/.env

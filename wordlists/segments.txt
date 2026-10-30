@@ -21,8 +21,8 @@ favicon.ico
 laravel
 .env.production
 config.json
-.aws
 web
+.aws
 logs
 app_dev.php
 secrets.yaml
@@ -60,13 +60,13 @@ db
 log
 login
 tests
-lib
-.env.dev
 SDK
+lib
+webLanguage
+.env.dev
 administrator
 backup
 config.env
-webLanguage
 .env.prod
 cms
 security.txt
@@ -280,6 +280,7 @@ containers
 environments
 examples
 fixtures
+geoserver
 pma
 .env.sample
 .htpasswd
@@ -291,7 +292,6 @@ conf
 database
 enviroments
 environ
-geoserver
 index
 remote
 scripts

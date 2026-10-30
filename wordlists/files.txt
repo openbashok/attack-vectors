@@ -19,9 +19,9 @@ mcp
 .env.example
 view
 .env.bak
+webLanguage
 .env.dev
 config.env
-webLanguage
 .env.prod
 security.txt
 .env.save
@@ -140,6 +140,7 @@ sse
 HNAP1
 json
 metadatauploader
+web
 .env.ci
 .env.config
 .env.preprod
@@ -147,7 +148,6 @@ metadatauploader
 .env.secret
 .env.uat
 .env~
-web
 .env.sample
 .htpasswd
 api

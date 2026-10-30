@@ -1,7 +1,7 @@
 .env
 favicon.ico
-.env.production
 .git/config
+.env.production
 app/.env
 .env.bak
 .env.local
@@ -254,6 +254,7 @@ docker/.env
 .env.uat
 .env~
 configuration/.env
+geoserver/web/
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .docker/.env
 .env.sample
@@ -262,7 +263,6 @@ app/config/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 conf/.env
 containers/json
-geoserver/web/
 public/.git/config
 wp-content/.env
 .env.1
