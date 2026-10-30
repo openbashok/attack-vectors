@@ -15,9 +15,9 @@ app
 _profiler
 phpinfo
 .env.local
+favicon.ico
 .%2e
 admin
-favicon.ico
 laravel
 .env.production
 config.json
@@ -56,13 +56,13 @@ temp
 tmp
 view
 .env.bak
-tests
-..
 SDK
+tests
+webLanguage
+..
 beta
 db
 log
-webLanguage
 backup
 .env.dev
 administrator
@@ -366,6 +366,7 @@ phpmyadmin5
 private
 protected
 sdk
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 task
 terraform.tfstate.backup
@@ -419,7 +420,6 @@ react
 resources
 sftp-config.json
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger.json
 template
 terraform

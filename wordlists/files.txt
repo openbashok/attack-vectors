@@ -183,6 +183,7 @@ auth
 config.py
 openapi.json
 sdk
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 *
 .env.aws
@@ -207,7 +208,6 @@ mcp.json
 settings
 sftp-config.json
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger.json
 terraform.tfvars
 wp-config.php.old

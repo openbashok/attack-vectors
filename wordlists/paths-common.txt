@@ -3,9 +3,9 @@ favicon.ico
 index.php
 .git/config
 .env.production
+SDK/webLanguage
 app/.env
 .env.bak
-SDK/webLanguage
 .env.local
 api/.env
 config/.env
@@ -354,6 +354,7 @@ sdk
 server/.git/config
 shared/.env
 sites/all/libraries/mailchimp/.env
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 src/.git/config
 static../.git/config
 terraform.tfstate.backup
@@ -403,7 +404,6 @@ project/.git/config
 root/.env
 sftp-config.json
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 version
 wp-config.php.old
 .c9/metadata/environment/.env
