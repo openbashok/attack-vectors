@@ -40,6 +40,7 @@ site/.env
 www/.env
 .svn/entries
 api/.git/config
+info.php
 robots.txt
 security.txt
 _profiler/phpinfo
@@ -49,7 +50,6 @@ crm/.env
 dashboard/.env
 dev/.env
 html/.env
-info.php
 settings/.env
 shop/.env
 blog/.env
@@ -240,10 +240,11 @@ api/mcp
 .env.staging.local
 .env.template
 .env_sample
+cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 developmentserver/metadatauploader
 .well-known/security.txt
 build/.env
-cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
+cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
 docker/.env
 .env.ci
@@ -260,7 +261,6 @@ app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 configuration/.env
 crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -338,6 +338,7 @@ app/.env.local
 audio/.env
 backend/.env.local
 backups/.env
+boaform/admin/formLogin
 cgi-bin/.env
 compose/.env
 config.php
@@ -380,7 +381,6 @@ admin/index.html
 api
 assets../.git/config
 backup/.git/config
-boaform/admin/formLogin
 cgi-bin/login.cgi
 cms/.git/config
 config.php~

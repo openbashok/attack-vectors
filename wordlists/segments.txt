@@ -12,8 +12,8 @@ api
 test
 app
 .env.php
-favicon.ico
 .%2e
+favicon.ico
 phpinfo
 _profiler
 admin
@@ -23,10 +23,10 @@ laravel
 config.json
 web
 .aws
+%%32%65%%32%65
 logs
 app_dev.php
 secrets.yaml
-%%32%65%%32%65
 frontend
 dev
 core
@@ -68,11 +68,11 @@ backup
 administrator
 cms
 config.env
+cgi-bin
 .env.prod
 security.txt
 var
 .env.save
-cgi-bin
 docker
 blog
 crm
@@ -116,9 +116,9 @@ services
 terraform.tfstate
 dashboard
 entries
+info.php
 portal
 config.js
-info.php
 secrets.json
 shop
 store
@@ -186,6 +186,7 @@ ws
 Application
 app.log
 bak
+bin
 cache
 claude.env
 client_secrets.json
@@ -216,6 +217,7 @@ sandbox
 server.js
 server.key
 service
+sh
 stage
 twilio.env
 v3
@@ -224,11 +226,9 @@ get
 ip.cypher.rest:443
 rest
 .docker
-bin
 compose
 config.php
 mysql
-sh
 wp-content
 backup.zip
 .env.production.local
@@ -348,6 +348,7 @@ abc7
 all
 audio
 azure
+boaform
 code
 config.py
 css
@@ -357,6 +358,7 @@ development
 django
 end
 export
+formLogin
 includes
 mail
 mailchimp
@@ -391,7 +393,6 @@ aws.json
 backup.tar.gz
 batch
 bdd
-boaform
 boxes
 ci
 cloud
@@ -405,7 +406,6 @@ dist
 docker-compose.prod.yml
 en
 engine
-formLogin
 functions
 login.cgi
 login.htm
