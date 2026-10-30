@@ -48,17 +48,17 @@ laravel.log
 sendgrid
 server
 .env.bak
+SDK
 default
 login
 staging
 v1
+webLanguage
 .env.example
-SDK
 temp
 tests
 tmp
 view
-webLanguage
 ..
 beta
 db
@@ -116,6 +116,7 @@ terraform.tfstate
 dashboard
 entries
 portal
+robots.txt
 config.js
 info.php
 secrets.json
@@ -129,7 +130,6 @@ home
 htdocs
 k8s
 kubernetes
-robots.txt
 test.php
 user
 .env.orig
@@ -220,6 +220,8 @@ stage
 twilio.env
 v3
 wp-config.php.backup
+get
+ip.cypher.rest:443
 rest
 .docker
 bin
@@ -229,8 +231,6 @@ mysql
 sh
 wp-content
 backup.zip
-get
-ip.cypher.rest:443
 .env.production.local
 .ssh
 actuator
@@ -245,6 +245,7 @@ shared
 .env.development.local
 .env.live
 .env.stage
+HNAP1
 drupal
 json
 sse
@@ -255,7 +256,6 @@ wp-admin
 .env.staging.local
 .env.template
 .env_sample
-HNAP1
 containers
 developmentserver
 health
@@ -295,17 +295,20 @@ zend
 .htpasswd
 09-managing-state
 @fs
+about
 begin
 community
 conf
 database
 enviroments
 environ
+evox
 index
 js
 pub
 run
 scripts
+sdk
 self
 users
 *
@@ -342,7 +345,6 @@ wp-config.php.bak
 RDWeb
 __tests__
 abc7
-about
 all
 audio
 azure
@@ -354,7 +356,6 @@ deployment
 development
 django
 end
-evox
 export
 includes
 mail
@@ -365,7 +366,6 @@ phpmyadmin4
 phpmyadmin5
 private
 protected
-sdk
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 task
