@@ -62,10 +62,10 @@ login
 tests
 lib
 .env.dev
+SDK
 administrator
 backup
 config.env
-SDK
 webLanguage
 .env.prod
 cms
@@ -125,6 +125,7 @@ application.yml
 aws.yml
 database.sql
 dump.sql
+home
 htdocs
 k8s
 kubernetes
@@ -138,9 +139,9 @@ backup.sql
 config.php.bak
 db.sql
 debug.log
-home
 local
 package.json
+static
 .claude
 .config.yaml
 .env.example.php
@@ -168,7 +169,6 @@ open
 package-lock.json
 secrets.env
 sendgrid.env
-static
 twilio
 web.config
 yarn.lock
@@ -231,10 +231,10 @@ ws
 .ssh
 aws
 .env.dist
+actuator
 get
 ip.cypher.rest:443
 .vscode
-actuator
 bin
 sh
 vue-heroes
@@ -260,6 +260,7 @@ root
 testing
 build
 developmentserver
+health
 libraries
 metadatauploader
 phpMyAdmin
@@ -279,7 +280,6 @@ containers
 environments
 examples
 fixtures
-health
 pma
 .env.sample
 .htpasswd
@@ -291,6 +291,7 @@ conf
 database
 enviroments
 environ
+geoserver
 index
 remote
 scripts
@@ -308,7 +309,6 @@ backups
 deploy
 docker-compose
 ec
-geoserver
 hello.world
 id_rsa
 myadmin
@@ -352,6 +352,7 @@ end
 evox
 export
 includes
+js
 mail
 mailchimp
 openapi.json
@@ -397,7 +398,6 @@ en
 engine
 formLogin
 functions
-js
 login.html
 mcp.json
 media..
@@ -783,9 +783,11 @@ fidry
 gcloud
 gcp.json
 gemini.json
+hetong.js
 id_ecdsa
 index.js
 instance
+javascript
 liveliness
 local.py
 local.settings.json
