@@ -237,9 +237,9 @@ bin
 sh
 .env.dist
 .vscode
+.well-known
 panel
 vue-heroes
-.well-known
 files
 shared
 .env.development.local
@@ -596,6 +596,7 @@ theme
 tools
 traefik
 universalresolver
+update
 upload
 v13.0
 vod_installer
@@ -664,6 +665,7 @@ nmaplowercheck1792956465
 oauth1-credential
 oauth2-credential
 passwd
+pki-validation
 pom.xml
 proxy
 rsc
@@ -679,7 +681,6 @@ settings.php
 setup.md
 stripe-credentials.json
 themes
-update
 withMongo
 withPostgres
 wp-config.bak
@@ -842,7 +843,6 @@ phpmyadmin2022
 phpmyadmin6
 phpmyadmin_
 phppma
-pki-validation
 plugins
 pmahomme
 portable-phpmyadmin

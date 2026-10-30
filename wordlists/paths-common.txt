@@ -667,6 +667,7 @@ xampp/.env
 .travis.yml
 .vs/
 .vscode/
+.well-known/pki-validation/update
 <invalid>hello.html
 <script>alert(1)</script>.html
 Admin_Files/

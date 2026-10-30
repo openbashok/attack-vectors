@@ -246,6 +246,7 @@ secrets.py
 sftp.json
 speed.cloudflare.com:443
 swagger-ui.html
+update
 uploads
 users
 wc.db
@@ -316,7 +317,6 @@ service-account.json
 settings.php
 setup.md
 stripe-credentials.json
-update
 v2
 workflows
 wp-config.bak

@@ -677,6 +677,7 @@ xampp/.env
 .travis.yml
 .vs/
 .vscode/
+.well-known/pki-validation/update
 Admin_Files/
 Pipfile
 Pipfile.lock
@@ -797,7 +798,6 @@ www.zip
 .ssh/id_ecdsa
 .ssh/id_ed25519
 .vscode/sftp.json
-.well-known/pki-validation/update
 .yarnrc
 .yarnrc.yml
 1phpmyadmin/index.php_lang=en

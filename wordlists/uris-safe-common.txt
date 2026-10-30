@@ -677,6 +677,7 @@ xampp/.env
 .travis.yml
 .vs/
 .vscode/
+.well-known/pki-validation/update
 Admin_Files/
 Pipfile
 Pipfile.lock
