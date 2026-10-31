@@ -34,12 +34,12 @@ www/.env
 admin/.env
 docker-compose.yml
 old/.env
+robots.txt
 site/.env
 .gitlab-ci.yml
 html/.env
 info.php
 prod/.env
-robots.txt
 client/.env
 config.js
 core/.env

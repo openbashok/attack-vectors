@@ -33,10 +33,10 @@ HEAD
 database.yml
 .env.development
 phpinfo.php
+robots.txt
 wp-config.php
 .env.testing
 docker-compose.yml
-robots.txt
 secrets.yml
 .gitlab-ci.yml
 info.php
@@ -170,6 +170,7 @@ index
 .htaccess
 .npmrc
 environ
+formLogin
 login.html
 .env.2
 .env.prod.local
@@ -181,7 +182,6 @@ abc8
 configuration.php
 database.php
 docs
-formLogin
 sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup

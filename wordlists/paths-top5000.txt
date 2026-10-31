@@ -35,12 +35,12 @@ www/.env
 admin/.env
 docker-compose.yml
 old/.env
+robots.txt
 site/.env
 .gitlab-ci.yml
 html/.env
 info.php
 prod/.env
-robots.txt
 client/.env
 config.js
 core/.env
@@ -323,6 +323,7 @@ vendor/.env
 .htaccess
 .npmrc
 audio/.env
+boaform/admin/formLogin
 cgi-bin/.env
 database/.env
 development/.env
@@ -345,7 +346,6 @@ abc8
 app/.env.local
 app/.git/config
 backups/.env
-boaform/admin/formLogin
 compose/.env
 config/database.yml
 config/secrets.yml
@@ -1692,6 +1692,9 @@ uploads/backup.tar.gz
 uploads/backup.zip
 urlmem-app/.env
 v1.40/containers/json
+v1/completions
+v1/embeddings
+v1/models
 v1/system/status
 v1/system/version
 var/backup.zip
