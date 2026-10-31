@@ -11,8 +11,8 @@ phpinfo
 config.json
 secrets.yaml
 test
-webLanguage
 mcp
+webLanguage
 credentials
 .env.bak
 .env.example
@@ -128,10 +128,10 @@ wp-config.php.backup
 .env.dist
 backup.zip
 .env.development.local
+sse
 .env.live
 .env.stage
 HNAP1
-sse
 json
 v1
 .env.dev.local
@@ -183,6 +183,7 @@ database.php
 docs
 formLogin
 sitemap.xml
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 version
 wp-config.php.old
@@ -209,7 +210,6 @@ logon.html
 master.key
 openapi.json
 secrets.py
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 update
 .env.aws
 .env.zip

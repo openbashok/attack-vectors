@@ -78,6 +78,7 @@ db.sql
 library/.env
 local/.env
 main/.env
+mcp/
 media/.env
 new/.env
 package.json
@@ -103,7 +104,6 @@ env
 error.log
 info
 laravel.log
-mcp/
 package-lock.json
 secrets.yaml
 secrets.yml
@@ -231,9 +231,9 @@ wp-config.php.backup
 .env.dist
 mcp
 .env.development.local
+sse
 .env.live
 .env.stage
-sse
 api/mcp
 .env.dev.local
 .env_sample
@@ -355,6 +355,7 @@ docker-compose/.env
 index.html
 panel/.env
 sitemap.xml
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 terraform.tfstate.backup
 wp-config.php.old
 *
@@ -417,7 +418,6 @@ redmine/.env
 secrets.py
 server/.git/config
 sitemaps/.env
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 src/.git/config
 static../.git/config
 storage/.env.local

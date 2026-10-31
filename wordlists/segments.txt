@@ -13,8 +13,8 @@ app
 test
 .env.local
 .env.production
-.%2e
 favicon.ico
+.%2e
 .env.php
 admin
 .env.staging
@@ -35,11 +35,11 @@ frontend
 demo
 backend
 storage
+mcp
 lib
 SDK
 credentials
 webLanguage
-mcp
 server
 www
 assets
@@ -242,10 +242,10 @@ aws
 panel
 .env.development.local
 shared
+sse
 .env.live
 .env.stage
 HNAP1
-sse
 vue-heroes
 drupal
 json
@@ -357,6 +357,7 @@ formLogin
 myadmin
 s3
 sitemap.xml
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger
 terraform.tfstate.backup
 version
@@ -416,7 +417,6 @@ psnlink
 redmine
 secrets.py
 sitemaps
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 task
 tools
