@@ -11,9 +11,9 @@ phpinfo
 config.json
 secrets.yaml
 test
+mcp
 webLanguage
 credentials
-mcp
 info
 .env.bak
 .env.example
@@ -131,12 +131,13 @@ backup.zip
 .env.live
 .env.stage
 HNAP1
-json
 sse
+json
 v1
 .env.dev.local
 .env_sample
 web
+metadatauploader
 .env.ci
 .env.config
 .env.default
@@ -144,7 +145,6 @@ web
 .env.template
 .env.uat
 .env~
-metadatauploader
 .env.sample
 about
 api
@@ -215,8 +215,10 @@ config.yml
 configuration.php
 database.php
 docker-compose.prod.yml
+files
 login.jsp
 mcp.json
+pub
 settings
 sftp-config.json
 swagger.json
@@ -240,12 +242,11 @@ ansible.cfg
 app.php
 aws-ses.json
 db.sql.gz
+downloads
 env.php
 environment.json
-files
 master.key
 one.one.one.one:443
-pub
 run
 secrets.py
 sftp.json
@@ -293,7 +294,6 @@ data
 database.json
 db.php
 debug
-downloads
 gaukingo
 heapdump
 icanhazip.com:443

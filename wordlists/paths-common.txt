@@ -93,6 +93,7 @@ backup.sql
 config.php.bak
 db.sql
 info
+mcp/
 package.json
 staging/.env
 terraform.tfstate
@@ -133,7 +134,6 @@ error.log
 home/.env
 info/
 laravel.log
-mcp/
 mysql.sql
 package-lock.json
 phpinfo/
@@ -234,10 +234,11 @@ mcp
 .env.live
 .env.stage
 sse
+api/mcp
 .env.dev.local
 .env_sample
-api/mcp
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
+developmentserver/metadatauploader
 docker/.env
 .env.ci
 .env.config
@@ -248,7 +249,6 @@ docker/.env
 .env~
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
-developmentserver/metadatauploader
 geoserver/web/
 .docker/.env
 .env.sample
@@ -440,6 +440,7 @@ data/.git/config
 dev/.git/config
 docker-compose.prod.yml
 engine/.env
+files/
 files/.git/config
 functions/.env
 login.jsp
@@ -447,6 +448,7 @@ media../.git/config
 media/.git/config
 proc/self/environ
 project/.git/config
+pub/
 root/.env
 sftp-config.json
 version
@@ -551,6 +553,7 @@ django/.env
 django_project_path/.env
 doc/.env
 docker-node-mongo-redis/.env
+downloads/
 drupal/.env
 enviroments/.env
 enviroments/.env.production
@@ -563,7 +566,6 @@ example27-how-to-load-env/sample02/.env
 examples/.env
 export/.env
 fedex/.env
-files/
 fileserver/.env
 films/.env
 framework/.env
@@ -607,7 +609,6 @@ pfbe/.env
 phpinfo
 preview/.env
 projbackend/.env
-pub/
 pub/.env
 qa/.env
 rails/.env
@@ -718,7 +719,6 @@ doc/index.html
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 docs/setup.md
-downloads/
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 icanhazip.com:443
 id_rsa.pub
