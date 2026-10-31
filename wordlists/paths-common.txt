@@ -40,11 +40,11 @@ site/.env
 html/.env
 info.php
 prod/.env
+robots.txt
 client/.env
 config.js
 core/.env
 crm/.env
-robots.txt
 .env.orig
 .svn/entries
 api/.git/config
@@ -102,7 +102,9 @@ debug.log
 docker-compose.yaml
 env
 error.log
+get
 info
+ip.cypher.rest:443
 laravel.log
 package-lock.json
 secrets.yaml
@@ -156,8 +158,6 @@ aws.yml
 bedrock.env
 configuration.json
 env-config.js
-get
-ip.cypher.rest:443
 store/.env
 .aws/.env
 .bedrock/.env
@@ -468,6 +468,7 @@ server/.env.local
 settings.php
 sftp-config.json
 version
+ws
 .c9/metadata/environment/.env
 .circleci/.env
 .docker/config.json
@@ -675,7 +676,6 @@ wp-config.php.orig
 wp-config.php.save
 wp-config.php~
 wp-content/uploads/
-ws
 www.google.com:443
 www.zip
 xampp/.env

@@ -36,10 +36,10 @@ demo
 backend
 storage
 mcp
-lib
 SDK
-credentials
+lib
 webLanguage
+credentials
 server
 www
 assets
@@ -50,9 +50,9 @@ beta
 .env.bak
 .env.example
 login
+v1
 debug
 laravel.log
-v1
 .env.local.php
 docker
 sendgrid
@@ -110,11 +110,11 @@ uploads
 data
 info.php
 media
+robots.txt
 settings.json
 site.zip
 system
 credentials.json
-robots.txt
 terraform.tfstate
 application.yml
 config.js
@@ -150,6 +150,7 @@ library
 main
 package.json
 sendgrid.env
+ws
 .env.json
 .ssh
 appsettings.json
@@ -157,10 +158,11 @@ aws.env
 docker-compose.yaml
 download
 error.log
+get
+ip.cypher.rest:443
 package-lock.json
 static
 web.config
-ws
 yarn.lock
 .claude
 .config.yaml
@@ -186,11 +188,10 @@ saas
 secrets.env
 sh
 twilio
+v3
 bedrock.env
 configuration.json
 env-config.js
-get
-ip.cypher.rest:443
 platform
 .bedrock
 .env.production.local
@@ -227,7 +228,6 @@ server.js
 server.key
 stage
 twilio.env
-v3
 wp-config.php.backup
 wp-content
 .env.dist
@@ -355,6 +355,7 @@ doc
 en
 formLogin
 myadmin
+php
 s3
 sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
@@ -723,7 +724,6 @@ nmaplowercheck1792956465
 oauth1-credential
 oauth2-credential
 passwd
-php
 pom.xml
 proxy
 releases
@@ -763,9 +763,11 @@ x.js
 .netrc
 1phpmyadmin
 2phpmyadmin
+Accounts
 GponForm
 MyAdmin
 ReportServer
+ViewUserInfo.php
 __fixtures__
 __phpmyadmin
 _phpMyAdmin
@@ -816,6 +818,7 @@ liveliness
 local.settings.json
 login.asp
 login.js
+model
 movies-main
 mysql-admin
 mysqladmin
@@ -823,6 +826,7 @@ newsite
 openai.json
 opt
 pMA
+pbxcore
 php-my-admin
 phpMyAdmin-4.9.10-all-languages
 phpMyAdmin-4.9.7
@@ -881,8 +885,10 @@ shopdb
 soap
 socket.io
 sql-admin
+sql.php
 sqlweb
 sysadmin
+system:ping
 text
 ui
 vertex.json
