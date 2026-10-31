@@ -14,9 +14,9 @@ app
 .%2e
 .env.php
 favicon.ico
+admin
 phpinfo
 _profiler
-admin
 .env.local
 laravel
 .env.production
@@ -41,8 +41,8 @@ assets
 webLanguage
 www
 .env.staging
-v2
 info
+v2
 backend
 debug
 .env.local.php
@@ -97,6 +97,7 @@ phpinfo.php
 project
 settings.json
 site.zip
+system
 .env.testing
 application
 client
@@ -104,7 +105,6 @@ docker-compose.yml
 env
 robots.txt
 site
-system
 uploads
 wp-config.php
 .gitlab-ci.yml
@@ -181,6 +181,8 @@ bedrock.env
 configuration.json
 download
 env-config.js
+get
+ip.cypher.rest:443
 platform
 .bedrock
 .env.save.1
@@ -222,8 +224,6 @@ stage
 twilio.env
 v3
 wp-config.php.backup
-get
-ip.cypher.rest:443
 rest
 .docker
 compose
@@ -582,6 +582,7 @@ secrets.py
 serve-browserbench
 sftp.json
 sitemaps
+solr
 sources
 speed.cloudflare.com:443
 sqladmin
@@ -766,6 +767,7 @@ config.php.save
 config.production.json
 configprops
 console
+cores
 cpu-core-counter
 credentials.py
 credentials.yml
@@ -864,7 +866,6 @@ setup.cgi
 shopdb
 soap
 socket.io
-solr
 sql-admin
 sqlweb
 sysadmin

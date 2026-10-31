@@ -87,6 +87,8 @@ aws.env
 bedrock.env
 configuration.json
 env-config.js
+get
+ip.cypher.rest:443
 .env.save.1
 .json
 app.log
@@ -121,8 +123,6 @@ tests
 tmp
 twilio.env
 wp-config.php.backup
-get
-ip.cypher.rest:443
 config.php
 backup.zip
 .env.production.local
@@ -386,6 +386,7 @@ config.php.old
 config.php.save
 config.production.json
 configprops
+cores
 credentials.py
 credentials.yml
 credentials.yml.enc
@@ -427,6 +428,7 @@ setup.cgi
 soap
 socket.io
 swagger
+system
 vertex.json
 wp-config.old
 wp-config.php.txt

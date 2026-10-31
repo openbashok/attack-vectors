@@ -147,6 +147,8 @@ aws.yml
 bedrock.env
 configuration.json
 env-config.js
+get
+ip.cypher.rest:443
 store/.env
 .aws/.env
 .bedrock/.env
@@ -225,8 +227,6 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-get
-ip.cypher.rest:443
 .env.production.local
 .env.dist
 mcp
@@ -973,6 +973,8 @@ sftp.json
 shopdb/index.php
 soap
 socket.io/
+solr/admin/cores
+solr/admin/info/system
 sql/myadmin/index.php
 sql/php-myadmin/index.php
 sql/phpMyAdmin/index.php
@@ -996,5 +998,3 @@ swagger-ui.html
 swagger-ui/index.html
 swagger/
 swagger/index.html
-swagger/ui/index
-vendor/fidry/cpu-core-counter/.envrc

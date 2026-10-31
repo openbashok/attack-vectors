@@ -148,6 +148,8 @@ aws.yml
 bedrock.env
 configuration.json
 env-config.js
+get
+ip.cypher.rest:443
 store/.env
 .aws/.env
 .bedrock/.env
@@ -227,8 +229,6 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-get
-ip.cypher.rest:443
 .env.production.local
 .env.dist
 mcp
@@ -991,6 +991,8 @@ sftp.json
 shopdb/index.php?lang=en
 soap
 socket.io/?EIO=4&transport=websocket
+solr/admin/cores?action=STATUS&wt=json
+solr/admin/info/system
 sql/myadmin/index.php?lang=en
 sql/php-myadmin/index.php?lang=en
 sql/phpMyAdmin/index.php?lang=en
@@ -1587,8 +1589,6 @@ site.sql
 site/.git/config
 site_2025.zip
 site_2026.zip
-solr/admin/cores?action=STATUS&wt=json
-solr/admin/info/system
 source.tar.gz
 source.zip
 sources.zip

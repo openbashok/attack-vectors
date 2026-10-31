@@ -148,6 +148,8 @@ aws.yml
 bedrock.env
 configuration.json
 env-config.js
+get
+ip.cypher.rest:443
 store/.env
 .aws/.env
 .bedrock/.env
@@ -227,8 +229,6 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-get
-ip.cypher.rest:443
 .env.production.local
 .env.dist
 mcp
