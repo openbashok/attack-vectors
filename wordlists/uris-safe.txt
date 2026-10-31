@@ -1455,6 +1455,7 @@ env.zip
 env/template/.env
 environments/local/.env
 etc/boto.cfg
+eventmanager
 ews/exchange.asmx
 examples/09-production/.env
 examples/vue-dashboard/backend/.env
