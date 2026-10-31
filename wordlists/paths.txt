@@ -2,8 +2,8 @@
 favicon.ico
 index.php
 SDK/webLanguage
-.env.production
 .git/config
+.env.production
 app/.env
 .env.bak
 .env.local
@@ -22,6 +22,7 @@ config.json
 .env.example
 .env.development
 backend/.env
+robots.txt
 server/.env
 web/.env
 .env.staging
@@ -36,7 +37,6 @@ admin/.env
 docker-compose.yml
 info.php
 old/.env
-robots.txt
 site/.env
 .gitlab-ci.yml
 html/.env
@@ -371,6 +371,7 @@ wp-config.php.old
 .envs
 .gitlab-ci/.env
 .vscode/.env
+Dr0v
 Gemfile.lock
 HNAP1/
 Jenkinsfile
@@ -435,8 +436,8 @@ www/.git/config
 .git/logs/HEAD
 .vscode/settings.json
 .well-known/pki-validation/update
-Dr0v
 actuator/health
+admin/config.php
 api
 api/
 api/.env.local
@@ -504,7 +505,6 @@ __tests__/test-become/.env
 acme-challenge/.env
 acme/.env
 admin/
-admin/config.php
 alpha/.env
 anaconda/.env
 ansible.cfg

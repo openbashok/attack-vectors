@@ -33,11 +33,11 @@ dev
 core
 frontend
 demo
+SDK
 backend
 storage
-SDK
-mcp
 webLanguage
+mcp
 lib
 credentials
 server
@@ -90,6 +90,7 @@ sql
 auth
 database.yml
 html
+robots.txt
 .env.development
 .svn
 client
@@ -97,7 +98,6 @@ docs
 phpinfo.php
 portal
 env
-robots.txt
 shop
 site
 wp-config.php
@@ -155,6 +155,7 @@ ws
 .ssh
 appsettings.json
 aws.env
+config.php
 docker-compose.yaml
 download
 error.log
@@ -179,7 +180,6 @@ back
 bin
 bot
 config.dev.php
-config.php
 content
 images
 mysql.sql
@@ -375,6 +375,7 @@ wp-config.php.old
 .envs
 .gitlab-ci
 .hg
+Dr0v
 Gemfile.lock
 Jenkinsfile
 RDWeb
@@ -429,7 +430,6 @@ $(pwd)
 .git-credentials
 .idea
 07-accessing-data
-Dr0v
 ansible
 api-docs
 app.php
