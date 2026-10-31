@@ -11,8 +11,8 @@ phpinfo
 config.json
 secrets.yaml
 test
-mcp
 webLanguage
+mcp
 credentials
 info
 .env.bak

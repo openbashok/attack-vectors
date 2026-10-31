@@ -37,8 +37,8 @@ storage
 backend
 lib
 SDK
-mcp
 webLanguage
+mcp
 credentials
 assets
 www
