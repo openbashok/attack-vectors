@@ -1,6 +1,6 @@
 .env
-index.php
 eval-stdin.php
+index.php
 config
 .env.php
 favicon.ico
@@ -80,6 +80,7 @@ open
 package-lock.json
 secrets.env
 sendgrid.env
+sh
 web.config
 yarn.lock
 aws.env
@@ -114,7 +115,6 @@ readme.md
 requirements.txt
 server.js
 server.key
-sh
 staging
 temp
 tests
@@ -127,13 +127,13 @@ config.php
 backup.zip
 .env.production.local
 .env.dist
+json
 sse
 v1
 .env.development.local
 .env.live
 .env.stage
 HNAP1
-json
 .env.default
 .env.dev.local
 .env.staging.local
@@ -141,6 +141,8 @@ json
 .env_sample
 metadatauploader
 web
+hello.world
+test.hello
 .env.ci
 .env.config
 .env.preprod
@@ -149,8 +151,6 @@ web
 .env.uat
 .env~
 health
-hello.world
-test.hello
 .env.sample
 .htpasswd
 about
@@ -422,6 +422,7 @@ secrets.js
 secrets.toml
 server_info
 service-account-credentials.json
+setup.cgi
 soap
 socket.io
 swagger
