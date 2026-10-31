@@ -306,6 +306,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env_1
 configuration/.env
 deploy/.env
+login
 public_html/.env
 remote/login
 .env.docker
@@ -317,7 +318,6 @@ cgi-bin/.env
 conf/.env
 database/.env
 development/.env
-login
 protected/.env
 public/.git/config
 shared/.env
@@ -334,10 +334,12 @@ abc6
 abc8
 app/.git/config
 cron/.env
+index.html
 panel/.env
 sitemap.xml
 wp-config.php.bak
 *
++CSCOE+/logon.html
 .aws/config
 .docker/laravel/app/.env
 .env-example
@@ -361,11 +363,13 @@ RDWeb
 abc7
 admin-app/.env
 admin/.git/config
+admin/index.html
 api/config.env
 app/.env.local
 backups/.env
 blogs/.env
 boaform/admin/formLogin
+cgi-bin/login.cgi
 compose/.env
 config.php
 core/app/.env
@@ -378,7 +382,6 @@ en/.env
 env/.env
 exapi/.env
 files/.env
-index.html
 kyc/.env
 lab/.env
 laravel/.env.local
@@ -386,8 +389,11 @@ laravel/.env.production
 laravel/.env.staging
 laravel/core/.env
 lib/.env
+login.htm
+login.html
 mail/.env
 mailer/.env
+manage/account/login
 master/.env
 new/.env.local
 new/.env.production
@@ -411,7 +417,6 @@ v1
 var/www/.env
 vendor/laravel/.env
 www/.git/config
-+CSCOE+/logon.html
 .env.aws
 .env.zip
 .vscode/settings.json
@@ -419,11 +424,9 @@ Dr0v
 Gemfile.lock
 HNAP1/
 actuator/health
-admin/index.html
 api
 assets../.git/config
 backup/.git/config
-cgi-bin/login.cgi
 cms/.git/config
 config.php~
 config/.git/config
@@ -437,9 +440,7 @@ docker-compose.prod.yml
 engine/.env
 files/.git/config
 functions/.env
-login.htm
-login.html
-manage/account/login
+login.jsp
 media../.git/config
 media/.git/config
 proc/self/environ
@@ -467,6 +468,7 @@ wp-config.php.old
 .gitlab/.env
 .idea/.env
 .svn/wc.db
+.well-known/pki-validation/update
 07-accessing-data/begin/vue-heroes/.env
 09-managing-state/begin/vue-heroes/.env
 09-managing-state/end/vue-heroes/.env
@@ -593,7 +595,6 @@ libs/.env
 localhost/.env
 locally/.env
 logging/.env
-login.jsp
 magento/.env
 misc/.env
 next/.env
@@ -673,7 +674,6 @@ xampp/.env
 .travis.yml
 .vs/
 .vscode/
-.well-known/pki-validation/update
 <invalid>hello.html
 <script>alert(1)</script>.html
 Admin_Files/

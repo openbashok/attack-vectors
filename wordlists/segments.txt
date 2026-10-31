@@ -37,19 +37,19 @@ storage
 lib
 backend
 credentials
-assets
-www
 SDK
+assets
+webLanguage
+www
 mcp
 server
 v2
-webLanguage
 staging
 beta
 info
+login
 debug
 .env.bak
-login
 v1
 .env.example
 .env.local.php
@@ -61,10 +61,10 @@ crm
 temp
 tmp
 view
+cgi-bin
 new
 ..
 backup
-cgi-bin
 db
 log
 .env.dev
@@ -134,6 +134,7 @@ aws.yml
 base
 database.sql
 dump.sql
+index.html
 k8s
 kubernetes
 library
@@ -173,7 +174,6 @@ content
 docker-compose.yaml
 error.log
 images
-index.html
 mysql.sql
 open
 package-lock.json
@@ -239,11 +239,11 @@ actuator
 aws
 files
 panel
+.well-known
 shared
 .env.development.local
 .env.live
 .env.stage
-.well-known
 HNAP1
 vue-heroes
 drupal
@@ -319,6 +319,7 @@ environ
 etc
 index
 js
+login.html
 mailchimp
 private
 protected
@@ -339,7 +340,6 @@ doc
 docker-compose
 en
 id_rsa
-login.html
 myadmin
 s3
 sitemap.xml
@@ -347,6 +347,7 @@ swagger
 version
 workflows
 wp-config.php.bak
++CSCOE+
 .circleci
 .env-example
 .env-sample
@@ -367,6 +368,7 @@ wp-config.php.bak
 RDWeb
 __tests__
 abc7
+account
 admin-app
 azure
 blogs
@@ -386,8 +388,12 @@ includes
 kyc
 lab
 live
+login.cgi
+login.htm
+logon.html
 mail
 mailer
+manage
 market
 master
 openapi.json
@@ -406,14 +412,12 @@ terraform.tfstate.backup
 tools
 vue
 $(pwd)
-+CSCOE+
 .env.aws
 .env.zip
 .idea
 07-accessing-data
 Dr0v
 Gemfile.lock
-account
 ansible
 api-docs
 assets..
@@ -434,10 +438,7 @@ dist
 docker-compose.prod.yml
 engine
 functions
-login.cgi
-login.htm
-logon.html
-manage
+login.jsp
 mcp.json
 media..
 metadata
@@ -451,6 +452,7 @@ swagger.json
 template
 terraform
 terraform.tfvars
+update
 wp-config.php.old
 .c9
 .env.back
@@ -555,7 +557,6 @@ liveObjects
 localhost
 locally
 logging
-login.jsp
 magento
 manager
 master.key
@@ -576,6 +577,7 @@ phpMyAdmin-5
 phpMyAdmin2
 phpMyAdmin3
 phpmy-admin
+pki-validation
 preview
 rails
 repo
@@ -603,7 +605,6 @@ test-become
 theme
 traefik
 universalresolver
-update
 upload
 v13.0
 vod_installer
@@ -672,7 +673,6 @@ nmaplowercheck1792956465
 oauth1-credential
 oauth2-credential
 passwd
-pki-validation
 pom.xml
 proxy
 rsc

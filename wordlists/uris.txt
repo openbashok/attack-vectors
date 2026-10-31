@@ -340,10 +340,13 @@ abc6
 abc8
 app/.git/config
 cron/.env
+index.html
+login
 panel/.env
 sitemap.xml
 wp-config.php.bak
 *
++CSCOE+/logon.html
 .aws/config
 .docker/laravel/app/.env
 .env-example
@@ -367,10 +370,12 @@ RDWeb
 abc7
 admin-app/.env
 admin/.git/config
+admin/index.html
 api/config.env
 app/.env.local
 backups/.env
 blogs/.env
+cgi-bin/login.cgi
 compose/.env
 config.php
 core/app/.env
@@ -383,7 +388,6 @@ en/.env
 env/.env
 exapi/.env
 files/.env
-index.html
 kyc/.env
 lab/.env
 laravel/.env.local
@@ -391,9 +395,11 @@ laravel/.env.production
 laravel/.env.staging
 laravel/core/.env
 lib/.env
-login
+login.htm
+login.html
 mail/.env
 mailer/.env
+manage/account/login
 master/.env
 new/.env.local
 new/.env.production
@@ -418,7 +424,6 @@ v1
 var/www/.env
 vendor/laravel/.env
 www/.git/config
-+CSCOE+/logon.html
 .env.aws
 .env.zip
 .vscode/settings.json
@@ -426,12 +431,10 @@ Dr0v
 Gemfile.lock
 HNAP1/
 actuator/health
-admin/index.html
 api
 assets../.git/config
 backup/.git/config
 boaform/admin/formLogin?username=adminisp&psd=adminisp
-cgi-bin/login.cgi
 cms/.git/config
 config.php~
 config/.git/config
@@ -445,9 +448,7 @@ docker-compose.prod.yml
 engine/.env
 files/.git/config
 functions/.env
-login.htm
-login.html
-manage/account/login
+login.jsp
 media../.git/config
 media/.git/config
 proc/self/environ
@@ -475,6 +476,7 @@ wp-config.php.old
 .gitlab/.env
 .idea/.env
 .svn/wc.db
+.well-known/pki-validation/update
 07-accessing-data/begin/vue-heroes/.env
 09-managing-state/begin/vue-heroes/.env
 09-managing-state/end/vue-heroes/.env
@@ -603,7 +605,6 @@ libs/.env
 localhost/.env
 locally/.env
 logging/.env
-login.jsp
 magento/.env
 misc/.env
 next/.env
@@ -683,7 +684,6 @@ xampp/.env
 .travis.yml
 .vs/
 .vscode/
-.well-known/pki-validation/update
 <invalid>hello.html
 <script>alert(1)</script>.html
 ?a=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E&b=UNION+SELECT+ALL+FROM+information_schema+AND+%27+or+SLEEP%285%29+or+%27&c=..%2F..%2F..%2F..%2Fetc%2Fpasswd
