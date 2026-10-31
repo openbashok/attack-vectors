@@ -425,6 +425,7 @@ Gemfile.lock
 HNAP1/
 actuator/health
 api
+api/
 assets../.git/config
 backup/.git/config
 cms/.git/config
@@ -490,7 +491,6 @@ alpha/.env
 anaconda/.env
 ansible.cfg
 ansible/.env
-api/
 api/.env.example
 api/.env.local
 api/metrics/run

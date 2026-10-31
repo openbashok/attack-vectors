@@ -147,6 +147,7 @@ web
 metadatauploader
 .env.sample
 about
+api
 hello.world
 sdk
 test.hello
@@ -156,7 +157,6 @@ test.hello
 .env.swp
 .env_1
 .envrc
-api
 health
 .env.docker
 .env.www
