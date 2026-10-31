@@ -1,8 +1,8 @@
 .env
 favicon.ico
+SDK/webLanguage
 .env.production
 .git/config
-SDK/webLanguage
 app/.env
 .env.bak
 .env.local
@@ -908,6 +908,7 @@ laravel/.env.example
 local.py
 local_settings.py
 manager/html
+manager/text/list
 movies-main/.env
 myadmin/index.php?lang=en
 myapp/settings.py
@@ -1480,7 +1481,6 @@ magento.tar.gz
 magento.zip
 mailman/.env
 main_user/.env
-manager/text/list
 manifest.json
 manual/.env
 master.zip

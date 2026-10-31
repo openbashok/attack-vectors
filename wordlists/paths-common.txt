@@ -1,9 +1,9 @@
 .env
 favicon.ico
 index.php
+SDK/webLanguage
 .env.production
 .git/config
-SDK/webLanguage
 app/.env
 .env.bak
 .env.local

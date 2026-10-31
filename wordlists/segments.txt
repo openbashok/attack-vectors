@@ -40,11 +40,11 @@ assets
 www
 .env.staging
 v2
-info
 SDK
+info
+webLanguage
 backend
 debug
-webLanguage
 .env.local.php
 laravel.log
 sendgrid
@@ -546,6 +546,7 @@ logging
 login.jsp
 magento
 mailer
+manager
 master
 master.key
 metrics
@@ -658,7 +659,6 @@ id_ed25519
 id_rsa.pub
 known_hosts
 license.txt
-manager
 microsoft.exchange.ediscovery.exporttool.application
 middleware
 nmaplowercheck1792956439
@@ -791,6 +791,7 @@ id_ecdsa
 index.js
 instance
 javascript
+list
 liveliness
 local.py
 local.settings.json
@@ -867,6 +868,7 @@ solr
 sql-admin
 sqlweb
 sysadmin
+text
 ui
 vertex.json
 views

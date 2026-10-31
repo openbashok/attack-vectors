@@ -13,8 +13,8 @@ test
 credentials
 mcp
 .env.staging
-info
 webLanguage
+info
 .env.local.php
 laravel.log
 .env.bak
@@ -404,6 +404,7 @@ hetong.js
 html
 id_ecdsa
 index.js
+list
 liveliness
 local.py
 local.settings.json
