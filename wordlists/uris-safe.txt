@@ -252,6 +252,7 @@ index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
 developmentserver/metadatauploader
+geoserver/web/
 .docker/.env
 .env.sample
 .well-known/security.txt
@@ -270,7 +271,6 @@ cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 evox/about
-geoserver/web/
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
 index.php_lang=../../../../../../../../tmp/index1
@@ -427,6 +427,7 @@ www/.git/config
 .env.aws
 .env.zip
 .vscode/settings.json
+.well-known/pki-validation/update
 Dr0v
 Gemfile.lock
 HNAP1/
@@ -477,7 +478,6 @@ wp-config.php.old
 .gitlab/.env
 .idea/.env
 .svn/wc.db
-.well-known/pki-validation/update
 07-accessing-data/begin/vue-heroes/.env
 09-managing-state/begin/vue-heroes/.env
 09-managing-state/end/vue-heroes/.env

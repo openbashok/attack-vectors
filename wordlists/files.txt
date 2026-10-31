@@ -200,6 +200,7 @@ logon.html
 openapi.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
+update
 .env.aws
 .env.zip
 Dr0v
@@ -220,7 +221,6 @@ settings
 sftp-config.json
 swagger.json
 terraform.tfvars
-update
 wp-config.php.old
 .env.back
 .env.bkp

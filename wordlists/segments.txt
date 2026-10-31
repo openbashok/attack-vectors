@@ -21,8 +21,8 @@ admin
 phpinfo
 _profiler
 laravel
-%%32%65%%32%65
 web
+%%32%65%%32%65
 config.json
 .aws
 logs
@@ -36,10 +36,10 @@ frontend
 storage
 lib
 backend
-credentials
 SDK
-assets
+credentials
 webLanguage
+assets
 www
 mcp
 server
@@ -235,11 +235,11 @@ mysql
 backup.zip
 .ssh
 .vscode
+.well-known
 actuator
 aws
 files
 panel
-.well-known
 shared
 .env.development.local
 .env.live
@@ -264,6 +264,7 @@ sites
 .env.uat
 .env~
 developmentserver
+geoserver
 health
 metadatauploader
 phpmyadmin
@@ -276,7 +277,6 @@ build
 database
 ec
 evox
-geoserver
 hello.world
 phpMyAdmin
 production
@@ -410,6 +410,7 @@ static..
 task
 terraform.tfstate.backup
 tools
+update
 vue
 $(pwd)
 .env.aws
@@ -443,6 +444,7 @@ mcp.json
 media..
 metadata
 oracle-vagrant-boxes
+pki-validation
 proc
 projbackend
 react
@@ -452,7 +454,6 @@ swagger.json
 template
 terraform
 terraform.tfvars
-update
 wp-config.php.old
 .c9
 .env.back
@@ -577,7 +578,6 @@ phpMyAdmin-5
 phpMyAdmin2
 phpMyAdmin3
 phpmy-admin
-pki-validation
 preview
 rails
 repo
