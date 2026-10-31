@@ -12,8 +12,8 @@ secrets.yaml
 test
 credentials
 mcp
-.env.staging
 webLanguage
+.env.staging
 info
 .env.local.php
 laravel.log

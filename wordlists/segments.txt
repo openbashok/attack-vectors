@@ -36,12 +36,12 @@ credentials
 demo
 mcp
 storage
+SDK
 assets
+webLanguage
 www
 .env.staging
-SDK
 v2
-webLanguage
 info
 backend
 debug
