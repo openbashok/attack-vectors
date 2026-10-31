@@ -39,10 +39,10 @@ storage
 assets
 www
 .env.staging
-v2
 SDK
-info
+v2
 webLanguage
+info
 backend
 debug
 .env.local.php
