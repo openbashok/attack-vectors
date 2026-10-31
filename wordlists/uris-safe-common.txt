@@ -44,6 +44,7 @@ client/.env
 config.js
 core/.env
 crm/.env
+security.txt
 .env.orig
 .svn/entries
 api/.git/config
@@ -52,7 +53,6 @@ blog/.env
 database.yml
 htdocs/.env
 secrets.json
-security.txt
 settings.py
 _profiler/phpinfo
 credentials.json
@@ -252,12 +252,12 @@ index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .env.config
 .env.sample
 .env.uat
+.well-known/security.txt
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
 geoserver/web/
 .env.swp
 .htpasswd
-.well-known/security.txt
 HNAP1
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
@@ -416,6 +416,7 @@ new/.env.local
 new/.env.production
 new/.env.staging
 openapi.json
+phpinfo
 private/.env
 product/.env.staging
 production/.env
@@ -467,7 +468,6 @@ functions/.env
 login.jsp
 media../.git/config
 media/.git/config
-phpinfo
 proc/self/environ
 project/.git/config
 pub/
@@ -519,6 +519,7 @@ alpha/.env
 anaconda/.env
 ansible.cfg
 ansible/.env
+api.ipinfo.io:443
 api/.env.example
 api/metrics/run
 api/shared/config/.env
@@ -607,6 +608,7 @@ grems-frontend/.env
 hasura/.env
 helm/.env
 higlass-website/.env
+icanhazip.com:443
 icon/.env
 image_data/.env
 img/.env
@@ -748,7 +750,6 @@ administrator
 adminpanel
 ads.txt
 airflow.cfg
-api.ipinfo.io:443
 api/.env.production
 api/docs
 api/v2/
@@ -793,7 +794,6 @@ ecosystem.config.js
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env.txt
 frontend/.env.local
-icanhazip.com:443
 id_rsa.pub
 index.php_rest_route=/batch/v1
 instance/config.py

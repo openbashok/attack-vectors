@@ -18,8 +18,8 @@ favicon.ico
 .env.php
 admin
 .env.staging
-laravel
 phpinfo
+laravel
 _profiler
 web
 config.json
@@ -76,12 +76,12 @@ cms
 settings.py
 .env.prod
 config.env
+security.txt
 var
 .env.backup
 blog
 .env.test
 apps
-security.txt
 HEAD
 prod
 project
@@ -103,6 +103,7 @@ wp-config.php
 .env.testing
 application
 docker-compose.yml
+robots.txt
 secrets.yml
 settings
 uploads
@@ -110,7 +111,6 @@ uploads
 data
 info.php
 media
-robots.txt
 settings.json
 site.zip
 system
@@ -234,9 +234,9 @@ wp-content
 rest
 backup.zip
 mysql
+.well-known
 files
 .vscode
-.well-known
 actuator
 aws
 panel
@@ -498,6 +498,7 @@ acme-challenge
 alpha
 anaconda
 ansible.cfg
+api.ipinfo.io:443
 app1-static
 app2-static
 app_nginx_static_path
@@ -555,6 +556,7 @@ grems-frontend
 hasura
 helm
 higlass-website
+icanhazip.com:443
 icon
 id_dsa
 id_ed25519
@@ -678,7 +680,6 @@ adminer.sql
 adminpanel
 ads.txt
 airflow.cfg
-api.ipinfo.io:443
 app.json
 application-prod.properties
 application-prod.yml
@@ -707,7 +708,6 @@ environment.rb
 exporttool
 gaukingo
 heapdump
-icanhazip.com:443
 id_ecdsa
 id_rsa.pub
 instance
