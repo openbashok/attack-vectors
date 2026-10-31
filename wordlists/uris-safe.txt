@@ -33,12 +33,12 @@ www/.env
 .git/HEAD
 admin/.env
 docker-compose.yml
+info.php
 old/.env
 robots.txt
 site/.env
 .gitlab-ci.yml
 html/.env
-info.php
 prod/.env
 client/.env
 config.js
@@ -345,6 +345,7 @@ wp-admin/.env
 .env_old
 .envrc
 .git/index
+_
 _static/.env
 abc6
 abc8
@@ -377,9 +378,9 @@ wp-config.php.old
 .gitlab-ci/.env
 .vscode/.env
 Gemfile.lock
+HNAP1/
 Jenkinsfile
 RDWeb
-_
 abc7
 admin-app/.env
 admin/.git/config
@@ -442,7 +443,6 @@ www/.git/config
 .vscode/settings.json
 .well-known/pki-validation/update
 Dr0v
-HNAP1/
 actuator/health
 api
 api/

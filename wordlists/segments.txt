@@ -104,12 +104,12 @@ wp-config.php
 .env.testing
 application
 docker-compose.yml
+info.php
 secrets.yml
 settings
 uploads
 .gitlab-ci.yml
 data
-info.php
 media
 settings.json
 site.zip
@@ -241,11 +241,11 @@ actuator
 aws
 panel
 .env.development.local
+HNAP1
 shared
 sse
 .env.live
 .env.stage
-HNAP1
 vue-heroes
 drupal
 json
@@ -291,6 +291,7 @@ wp-config.php.bak
 wp-json
 yii
 zend
+*
 .env.preprod
 .env.sandbox
 .env.secret
@@ -309,7 +310,6 @@ index
 pma
 pub
 remote
-*
 .env.1
 .env.docker
 .env.txt

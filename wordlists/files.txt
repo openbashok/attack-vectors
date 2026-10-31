@@ -37,9 +37,9 @@ robots.txt
 wp-config.php
 .env.testing
 docker-compose.yml
+info.php
 secrets.yml
 .gitlab-ci.yml
-info.php
 settings.json
 site.zip
 credentials.json
@@ -128,10 +128,10 @@ wp-config.php.backup
 .env.dist
 backup.zip
 .env.development.local
+HNAP1
 sse
 .env.live
 .env.stage
-HNAP1
 json
 v1
 .env.dev.local
@@ -172,6 +172,7 @@ index
 environ
 formLogin
 login.html
+*
 .env.2
 .env.prod.local
 .env.test.local
@@ -187,7 +188,6 @@ sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 version
 wp-config.php.old
-*
 .env-example
 .env-sample
 .env.development.sample
