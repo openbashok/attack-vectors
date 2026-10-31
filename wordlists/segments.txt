@@ -102,6 +102,7 @@ application
 client
 docker-compose.yml
 env
+robots.txt
 site
 system
 uploads
@@ -110,7 +111,6 @@ wp-config.php
 credentials.json
 media
 prod
-robots.txt
 secrets.yml
 services
 terraform.tfstate
@@ -328,6 +328,7 @@ login.html
 myadmin
 public_html
 s3
+sitemap.xml
 swagger
 version
 workflows
@@ -368,7 +369,6 @@ phpmyadmin4
 phpmyadmin5
 private
 protected
-sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 task

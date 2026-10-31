@@ -37,10 +37,10 @@ settings.json
 site.zip
 .env.testing
 docker-compose.yml
+robots.txt
 wp-config.php
 .gitlab-ci.yml
 credentials.json
-robots.txt
 secrets.yml
 terraform.tfstate
 entries
@@ -168,6 +168,7 @@ abc8
 docs
 id_rsa
 login.html
+sitemap.xml
 version
 wp-config.php.bak
 *
@@ -185,7 +186,6 @@ auth
 config.py
 formLogin
 openapi.json
-sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 .env.aws

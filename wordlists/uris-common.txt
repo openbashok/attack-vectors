@@ -12,9 +12,9 @@ config/.env
 .env.prod
 .env.save
 src/.env
+config.json
 laravel/.env
 .env.test
-config.json
 .aws/credentials
 .env.backup
 .env.development
@@ -35,12 +35,12 @@ admin/.env
 old/.env
 prod/.env
 public/.env
+robots.txt
 site/.env
 www/.env
 .svn/entries
 api/.git/config
 info.php
-robots.txt
 security.txt
 _profiler/phpinfo
 backup/.env
@@ -325,6 +325,7 @@ app/.git/config
 deploy/.env
 panel/.env
 public_html/.env
+sitemap.xml
 wp-config.php.bak
 *
 .aws/config
@@ -362,7 +363,6 @@ protected/.env
 remote/login?lang=en
 server/.git/config
 shared/.env
-sitemap.xml
 sites/all/libraries/mailchimp/.env
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 src/.git/config
