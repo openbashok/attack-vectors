@@ -63,6 +63,8 @@ dashboard/.env
 database.sql
 dev/.env
 dump.sql
+get
+ip.cypher.rest:443
 settings/.env
 shop/.env
 storage/.env
@@ -105,9 +107,7 @@ appsettings.json
 aws.env
 debug.log
 error.log
-get
 info
-ip.cypher.rest:443
 laravel.log
 secrets.yaml
 staging/.env
@@ -383,6 +383,7 @@ RDWeb
 abc7
 admin-app/.env
 admin/.git/config
+admin/config.php
 admin/index.html
 api/.env.local
 api/config.env
@@ -446,7 +447,6 @@ www/.git/config
 .vscode/settings.json
 .well-known/pki-validation/update
 actuator/health
-admin/config.php
 api
 api/
 assets../.git/config

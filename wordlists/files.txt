@@ -49,15 +49,17 @@ secrets.json
 terraform.tfstate
 .env.orig
 login
+config.php
 entries
 env.json
 sh
 test.php
-config.php
 config.php.bak
 database.sql
 dump.sql
 env
+get
+ip.cypher.rest:443
 .env.json
 application.properties
 aws.yml
@@ -73,8 +75,6 @@ yarn.lock
 appsettings.json
 aws.env
 error.log
-get
-ip.cypher.rest:443
 web.config
 .config.yaml
 .env.example.php

@@ -32,11 +32,11 @@ lib
 secrets.yaml
 frontend
 dev
+SDK
 core
 demo
-SDK
-backend
 webLanguage
+backend
 storage
 mcp
 www
@@ -126,6 +126,7 @@ ws
 services
 .ssh
 bin
+config.php
 dashboard
 entries
 env.json
@@ -135,10 +136,11 @@ sh
 test.php
 user
 .docker
-config.php
 config.php.bak
 database.sql
 dump.sql
+get
+ip.cypher.rest:443
 local
 store
 .env.json
@@ -163,8 +165,6 @@ appsettings.json
 aws.env
 download
 error.log
-get
-ip.cypher.rest:443
 static
 web.config
 .claude
