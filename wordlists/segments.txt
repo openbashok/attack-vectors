@@ -31,11 +31,11 @@ app_dev.php
 lib
 secrets.yaml
 frontend
-dev
 SDK
+dev
+webLanguage
 core
 demo
-webLanguage
 backend
 storage
 mcp
@@ -75,11 +75,11 @@ old
 .env.dev
 administrator
 blog
+security.txt
 .env.backup
 .env.prod
 apps
 config.env
-security.txt
 var
 .env.test
 HEAD
@@ -232,10 +232,10 @@ twilio.env
 wp-config.php.backup
 wp-content
 rest
+.well-known
 backup.zip
 mysql
 panel
-.well-known
 files
 .env.development.local
 .vscode
@@ -316,6 +316,7 @@ fixtures
 pma
 pub
 remote
+scripts
 .circleci
 .env.2
 .env.docker
@@ -346,7 +347,6 @@ php
 private
 protected
 run
-scripts
 self
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 users

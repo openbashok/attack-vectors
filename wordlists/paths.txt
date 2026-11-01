@@ -249,6 +249,7 @@ developmentserver/metadatauploader
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .docker/.env
 .env.sample
+.well-known/security.txt
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -293,7 +294,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.swp
 .env.uat
 .htpasswd
-.well-known/security.txt
 geoserver/web/
 wp-config.php.bak
 .ssh/id_rsa
@@ -1427,6 +1427,7 @@ env.production.js
 env.zip
 env/template/.env
 environments/local/.env
+epa/scripts/win/nsepa_setup.exe
 etc/boto.cfg
 eventmanager
 examples/09-production/.env

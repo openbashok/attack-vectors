@@ -23,10 +23,10 @@ settings.py
 view
 .env.save
 .env.dev
+security.txt
 .env.backup
 .env.prod
 config.env
-security.txt
 .env.test
 HEAD
 .env.old
