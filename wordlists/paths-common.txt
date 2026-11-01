@@ -35,10 +35,10 @@ wp-config.php
 site/.env
 www/.env
 info.php
+robots.txt
 .env.testing
 admin/.env
 html/.env
-robots.txt
 old/.env
 prod/.env
 config.js
@@ -246,6 +246,7 @@ developmentserver/metadatauploader
 docker/.env
 .env~
 .htpasswd
+.well-known/security.txt
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -255,7 +256,6 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 .env.uat
 .ssh/id_rsa
-.well-known/security.txt
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php

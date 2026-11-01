@@ -78,8 +78,8 @@ old
 administrator
 db
 log
-blog
 security.txt
+blog
 apps
 database.yml
 var
@@ -102,9 +102,9 @@ secrets.yml
 site
 wp-config.php
 env
+robots.txt
 sql
 info.php
-robots.txt
 .env.testing
 docs
 portal
@@ -192,6 +192,7 @@ saas
 secrets.env
 twilio
 v3
+.well-known
 bedrock.env
 configuration.json
 env-config.js
@@ -201,7 +202,6 @@ server.key
 .env.save.1
 .json
 .vscode
-.well-known
 Application
 app.log
 backup.zip

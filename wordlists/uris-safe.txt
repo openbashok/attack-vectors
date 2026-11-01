@@ -34,10 +34,10 @@ wp-config.php
 site/.env
 www/.env
 info.php
+robots.txt
 .env.testing
 admin/.env
 html/.env
-robots.txt
 old/.env
 prod/.env
 config.js
@@ -249,6 +249,7 @@ docker/.env
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .env_
 .htpasswd
+.well-known/security.txt
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -258,7 +259,6 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 .env.uat
 .ssh/id_rsa
-.well-known/security.txt
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php

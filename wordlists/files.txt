@@ -38,8 +38,8 @@ phpinfo.php
 .gitlab-ci.yml
 secrets.yml
 wp-config.php
-info.php
 robots.txt
+info.php
 .env.testing
 login
 settings.json
