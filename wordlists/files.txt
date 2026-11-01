@@ -182,6 +182,7 @@ app.php
 authorized_keys
 master.key
 secrets.py
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.docker
 .env.www
 Gemfile.lock
@@ -191,7 +192,6 @@ environ
 formLogin
 settings.php
 sftp.json
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 version
 .env.prod.local
