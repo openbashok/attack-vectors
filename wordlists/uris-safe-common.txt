@@ -238,6 +238,7 @@ mcp
 sse
 api/mcp
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
+developmentserver/metadatauploader
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .env.default
 .env.dev.local
@@ -246,7 +247,6 @@ index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .env_sample
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
-developmentserver/metadatauploader
 docker/.env
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env_

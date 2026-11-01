@@ -236,6 +236,7 @@ mcp
 sse
 api/mcp
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
+developmentserver/metadatauploader
 .env.default
 .env.dev.local
 .env.staging.local
@@ -243,7 +244,6 @@ cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 .env_sample
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
-developmentserver/metadatauploader
 docker/.env
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env~

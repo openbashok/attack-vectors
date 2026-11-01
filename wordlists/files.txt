@@ -9,9 +9,9 @@ favicon.ico
 .env.staging
 phpinfo
 config.json
+webLanguage
 secrets.yaml
 test
-webLanguage
 mcp
 credentials
 .env.example
@@ -134,12 +134,12 @@ json
 HNAP1
 sse
 web
+metadatauploader
 .env.default
 .env.dev.local
 .env.staging.local
 .env.template
 .env_sample
-metadatauploader
 v1
 .env~
 hello.world
