@@ -31,10 +31,10 @@ web/.env
 phpinfo.php
 public/.env
 wp-config.php
+robots.txt
 site/.env
 www/.env
 info.php
-robots.txt
 .env.testing
 admin/.env
 html/.env
@@ -319,6 +319,7 @@ conf/.env
 configuration.php
 configuration/.env
 public_html/.env
+*
 .env.1
 .env.txt
 HNAP1
@@ -334,7 +335,6 @@ evox/about
 public/.git/config
 sdk
 wp-content/.env
-*
 .env.2
 .env.test.local
 .env.tmp
@@ -380,9 +380,11 @@ wp-admin/.env
 .svn/wc.db
 .travis.yml
 .vscode/settings.json
+Dr0v
 _static/.env
 abc6
 abc8
+actuator/health
 admin/config.php
 admin/index.html
 api/.env.local
@@ -430,11 +432,9 @@ wp-config.php~
 .ssh/authorized_keys
 .vscode/.env
 .well-known/pki-validation/update
-Dr0v
 HNAP1/
 RDWeb
 abc7
-actuator/health
 admin-app/.env
 api/config.env
 backup.tar.gz

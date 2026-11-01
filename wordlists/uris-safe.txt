@@ -31,10 +31,10 @@ web/.env
 phpinfo.php
 public/.env
 wp-config.php
+robots.txt
 site/.env
 www/.env
 info.php
-robots.txt
 .env.testing
 admin/.env
 html/.env
@@ -323,6 +323,7 @@ public_html/.env
 .env.txt
 HNAP1
 Jenkinsfile
+_
 app/.git/config
 app/config/.env
 config/database.php
@@ -340,7 +341,6 @@ wp-content/.env
 .env_1
 .env_old
 .git/index
-_
 admin/.git/config
 app/.env.local
 compose/.env
@@ -380,9 +380,11 @@ wp-admin/.env
 .svn/wc.db
 .travis.yml
 .vscode/settings.json
+Dr0v
 _static/.env
 abc6
 abc8
+actuator/health
 admin/config.php
 admin/index.html
 api/.env.local
@@ -430,11 +432,9 @@ wp-config.php_
 .ssh/authorized_keys
 .vscode/.env
 .well-known/pki-validation/update
-Dr0v
 HNAP1/
 RDWeb
 abc7
-actuator/health
 admin-app/.env
 api/config.env
 backup.tar.gz

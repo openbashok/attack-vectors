@@ -36,9 +36,9 @@ config.php
 docker-compose.yml
 phpinfo.php
 .gitlab-ci.yml
+robots.txt
 secrets.yml
 wp-config.php
-robots.txt
 info.php
 .env.testing
 login
@@ -161,17 +161,17 @@ wp-config.php.old
 .env.sandbox
 .env.secret
 configuration.php
+health
 index
+*
 .env.1
 .env.txt
 Jenkinsfile
 about
 api
 config.yml
-health
 login.html
 sdk
-*
 .env.2
 .env.test.local
 .env.tmp
@@ -197,6 +197,7 @@ version
 .env.prod.local
 .git-credentials
 .travis.yml
+Dr0v
 abc6
 abc8
 aws.json
@@ -223,7 +224,6 @@ wp-config.php~
 .env.travis
 .environment
 .envs
-Dr0v
 RDWeb
 abc7
 auth
