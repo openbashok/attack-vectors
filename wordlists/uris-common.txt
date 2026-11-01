@@ -336,6 +336,7 @@ protected/.env
 public/.git/config
 shared/.env
 sites/all/libraries/mailchimp/.env
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 wp-admin/.env
 *
 .aws/config
@@ -362,7 +363,6 @@ index.html
 login
 panel/.env
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 terraform.tfstate.backup
 wp-config.php.old
 +CSCOE+/logon.html
@@ -515,6 +515,7 @@ __tests__/test-become/.env
 acme-challenge/.env
 acme/.env
 admin/
+admin/assets/js/views/login.js
 alpha/.env
 anaconda/.env
 ansible.cfg
@@ -634,6 +635,7 @@ nginx/.env
 node_modules/.env
 nuxt/.env
 one.one.one.one:443
+owa/auth/logon.aspx
 pfbe/.env
 preview/.env
 projbackend/.env
@@ -808,7 +810,6 @@ myapp/settings.py
 nmaplowercheck1792956439
 nmaplowercheck1792956465
 old/
-owa/auth/logon.aspx
 owa/auth/x.js
 php/.env
 phpmyadmin

@@ -40,9 +40,9 @@ storage
 mcp
 lib
 credentials
+assets
 server
 www
-assets
 v1
 v2
 info
@@ -86,8 +86,8 @@ HEAD
 prod
 project
 .env.old
-sql
 auth
+sql
 database.yml
 html
 robots.txt
@@ -280,6 +280,7 @@ database
 ec
 evox
 hello.world
+js
 phpMyAdmin
 production
 public_html
@@ -330,7 +331,6 @@ enviroments
 environ
 etc
 formLogin
-js
 login.html
 mailchimp
 private
@@ -338,6 +338,7 @@ protected
 run
 scripts
 self
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 users
 .circleci
 .env.2
@@ -355,10 +356,10 @@ django
 doc
 en
 myadmin
+owa
 php
 s3
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger
 terraform.tfstate.backup
 version
@@ -410,7 +411,6 @@ market
 master
 master.key
 openapi.json
-owa
 phpmyadmin3
 phpmyadmin4
 phpmyadmin5
@@ -434,6 +434,7 @@ ansible
 api-docs
 app.php
 assets..
+autodiscover
 aws.json
 batch
 bdd
@@ -502,7 +503,6 @@ api.ipinfo.io:443
 app1-static
 app2-static
 app_nginx_static_path
-autodiscover
 aws-ses.json
 awstats
 back-end
@@ -570,6 +570,8 @@ liveObjects
 localhost
 locally
 logging
+login.js
+logon.aspx
 magento
 manager
 metrics
@@ -617,6 +619,7 @@ traefik
 universalresolver
 upload
 v13.0
+views
 vod_installer
 wc.db
 web_shell_cmd.gch
@@ -717,7 +720,6 @@ known_hosts
 license.txt
 local.py
 local_settings.py
-logon.aspx
 microsoft.exchange.ediscovery.exporttool.application
 middleware
 myapp
@@ -782,6 +784,7 @@ apidocs
 app-ads.txt
 application_default_credentials.json
 archives
+autodiscover.xml
 azure.yaml
 babel-plugin-dotenv
 backup.sql.gz
@@ -804,6 +807,8 @@ dev.env
 druid
 env.js
 env.local.php
+ews
+exchange.asmx
 fidry
 gcloud
 gcp.json
@@ -817,7 +822,6 @@ live_env
 liveliness
 local.settings.json
 login.asp
-login.js
 model
 movies-main
 mysql-admin
@@ -892,7 +896,6 @@ system:ping
 text
 ui
 vertex.json
-views
 webjars
 webpages
 wp

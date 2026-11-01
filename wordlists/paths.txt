@@ -331,6 +331,7 @@ protected/.env
 public/.git/config
 shared/.env
 sites/all/libraries/mailchimp/.env
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 wp-admin/.env
 *
 .aws/config
@@ -356,7 +357,6 @@ docker-compose/.env
 index.html
 panel/.env
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 terraform.tfstate.backup
 wp-config.php.old
 +CSCOE+/logon.html
@@ -505,6 +505,7 @@ __tests__/test-become/.env
 acme-challenge/.env
 acme/.env
 admin/
+admin/assets/js/views/login.js
 alpha/.env
 anaconda/.env
 ansible.cfg
@@ -624,6 +625,7 @@ nginx/.env
 node_modules/.env
 nuxt/.env
 one.one.one.one:443
+owa/auth/logon.aspx
 pfbe/.env
 preview/.env
 projbackend/.env
@@ -793,7 +795,6 @@ myapp/settings.py
 nmaplowercheck1792956439
 nmaplowercheck1792956465
 old/
-owa/auth/logon.aspx
 owa/auth/x.js
 php/.env
 phpmyadmin
@@ -848,7 +849,6 @@ actuator/configprops
 actuator/favicon.ico
 admin/.env.local
 admin/.env.staging
-admin/assets/js/views/login.js
 admin/db/index.php
 admin/index.php
 admin/login.asp
@@ -880,6 +880,7 @@ app/etc/env.php
 application/.dev.env
 application/.live.env
 application/.local.env
+autodiscover/autodiscover.xml
 backend/.env.staging
 beta/.env.local
 beta/.env.production
@@ -921,6 +922,7 @@ dev/.env.staging
 docker/.env-prod
 docs
 druid/index.html
+ews/exchange.asmx
 health/liveliness
 icons/.env
 live/.env.local
@@ -1260,7 +1262,6 @@ assets/other/service-account-credentials.json
 attachments.zip
 auth.json
 auth/config.json
-autodiscover/autodiscover.xml
 aws-codecommit
 aws-exports.js
 aws.env.json
@@ -1428,7 +1429,6 @@ env/template/.env
 environments/local/.env
 etc/boto.cfg
 eventmanager
-ews/exchange.asmx
 examples/09-production/.env
 examples/vue-dashboard/backend/.env
 examples/web/.env

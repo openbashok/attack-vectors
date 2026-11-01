@@ -172,6 +172,7 @@ index
 environ
 formLogin
 login.html
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 *
 .env.2
 .env.prod.local
@@ -184,7 +185,6 @@ configuration.php
 database.php
 docs
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 version
 wp-config.php.old
@@ -257,6 +257,8 @@ environment.json
 icanhazip.com:443
 id_dsa
 id_ed25519
+login.js
+logon.aspx
 one.one.one.one:443
 run
 sftp.json
@@ -349,7 +351,6 @@ known_hosts
 license.txt
 local.py
 local_settings.py
-logon.aspx
 microsoft.exchange.ediscovery.exporttool.application
 nmaplowercheck1792956439
 nmaplowercheck1792956465
@@ -395,6 +396,7 @@ amplify.yml
 apidocs
 app-ads.txt
 application_default_credentials.json
+autodiscover.xml
 azure.yaml
 backup.sql.gz
 bedrock.json
@@ -410,6 +412,7 @@ deploy.yml
 dev.env
 env.js
 env.local.php
+exchange.asmx
 gcp.json
 gemini.json
 hetong.js
@@ -420,7 +423,6 @@ live_env
 liveliness
 local.settings.json
 login.asp
-login.js
 openai.json
 printenv
 production.env
