@@ -37,10 +37,10 @@ core
 dev
 demo
 backend
+mcp
 storage
 www
 credentials
-mcp
 server
 assets
 login
@@ -75,10 +75,10 @@ log
 old
 administrator
 blog
+security.txt
 .env.backup
 .env.prod
 apps
-security.txt
 .env.test
 config.env
 var
@@ -198,6 +198,7 @@ platform
 .bedrock
 .env.save.1
 .json
+.well-known
 Application
 app.log
 bak
@@ -231,7 +232,6 @@ stage
 twilio.env
 wp-config.php.backup
 wp-content
-.well-known
 panel
 rest
 .vscode
@@ -243,12 +243,12 @@ actuator
 aws
 drupal
 json
+sse
 testing
 .env.live
 .env.stage
 HNAP1
 shared
-sse
 containers
 developmentserver
 metadatauploader
@@ -276,6 +276,7 @@ zend
 libraries
 sites
 wp-config.php.bak
+*
 .env.swp
 .htpasswd
 build
@@ -284,7 +285,6 @@ database
 health
 phpmyadmin
 root
-*
 .env.preprod
 .env.sandbox
 .env.secret
@@ -446,6 +446,7 @@ $(pwd)
 07-accessing-data
 ansible
 api-docs
+astguiclient.php
 batch
 bdd
 boxes
@@ -522,6 +523,8 @@ Passportjs
 Tagging
 acme
 acme-challenge
+admin.php
+agc
 alpha
 anaconda
 ansible.cfg
@@ -701,7 +704,6 @@ README.md
 ReportServer
 Thumbs.db
 aaa9
-admin.php
 adminer.php
 adminer.sql
 adminpanel
@@ -780,6 +782,7 @@ _phpMyAdmin
 _phpmyadmin
 _phpmyadmin_
 aab9
+agent
 amplify
 amplify.yaml
 amplify.yml

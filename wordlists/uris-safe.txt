@@ -66,6 +66,7 @@ dev/.env
 dump.sql
 get
 ip.cypher.rest:443
+mcp/
 shop/.env
 v1/.env
 v2/.env
@@ -84,7 +85,6 @@ env
 library/.env
 local/.env
 main/.env
-mcp/
 media/.env
 new/.env
 package-lock.json
@@ -231,11 +231,11 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-.env.development.local
 mcp
+.env.development.local
+sse
 .env.live
 .env.stage
-sse
 api/mcp
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 developmentserver/metadatauploader
@@ -250,6 +250,7 @@ containers/json
 docker/.env
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env_
+.well-known/security.txt
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -300,7 +301,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.config
 .env.sample
 .env.uat
-.well-known/security.txt
 wp-config.php.bak
 .env.swp
 .htpasswd
@@ -325,6 +325,7 @@ wp-content/.env
 .env_1
 .htaccess
 .npmrc
+_
 database/.env
 deploy/.env
 login
@@ -338,7 +339,6 @@ wp-config.php.old
 .env.www
 .env_old
 .git/index
-_
 app/.env.local
 app/.git/config
 audio/.env
@@ -1224,6 +1224,10 @@ actuator/env
 actuator/logfile
 admin
 administrator/
+agc/admin.php
+agc/astguiclient.php
+agc/index.php
+agc/vicidial.php
 agora/.env
 amplify/team-provider-info.json
 amplifyconfiguration.json
@@ -1448,6 +1452,7 @@ dump.tar.gz
 dump/backup.zip
 e2e/.env
 e50on8epc2fcr6
+elision-dialer/agent/astguiclient.php
 en
 env.js
 env.prod.js
@@ -1478,6 +1483,7 @@ firebase.json
 fixtures/blocks/.env
 fixtures/kitchensink/.env
 flask.zip
+fop2/
 fortisandbox/
 frontend.zip
 frontend/.git/config
@@ -1491,10 +1497,13 @@ gemini.config
 gemini.env
 gemini.json
 global.asa
+goautodial-agent/astguiclient.php
+goautodial/
 google-ai.json
 google-credentials.json
 google/service-account.json
 graphql
+haloocom_connect4/astguiclient.php
 health
 helm.zip
 home.tar.gz
@@ -1509,6 +1518,7 @@ hubspot.config
 hubspot.json
 hudson
 i.php
+iagent/idialer.php
 id_dsa
 id_ed25519
 images../.git/config
@@ -1633,9 +1643,11 @@ rails.zip
 rb0wve4pioi4if
 react.zip
 react/config.json
+recordings/
 register
 resources/docker/rabbitmq/.env
 rest/logout
+rightside/agent/astguiclient.php
 root/.aws/config
 root/.boto
 root/.s3cfg
@@ -1739,6 +1751,7 @@ var/www/html/.env
 vertex-ai-credentials.json
 vertex-ai.json
 vertex.json
+vicidial/
 vpnsvc/connect.cgi
 vue-end/vue-til/.env
 vue.zip

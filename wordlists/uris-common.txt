@@ -66,6 +66,7 @@ dev/.env
 dump.sql
 get
 ip.cypher.rest:443
+mcp/
 shop/.env
 v1/.env
 v2/.env
@@ -84,7 +85,6 @@ env
 library/.env
 local/.env
 main/.env
-mcp/
 media/.env
 new/.env
 package-lock.json
@@ -231,11 +231,11 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-.env.development.local
 mcp
+.env.development.local
+sse
 .env.live
 .env.stage
-sse
 api/mcp
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 developmentserver/metadatauploader
@@ -250,6 +250,7 @@ containers/json
 docker/.env
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env~
+.well-known/security.txt
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -300,7 +301,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.config
 .env.sample
 .env.uat
-.well-known/security.txt
 wp-config.php.bak
 .env.swp
 .htpasswd
@@ -319,6 +319,7 @@ evox/about
 public_html/.env
 sdk
 wp-content/.env
+*
 .aws/config
 .env.1
 .env.txt
@@ -331,7 +332,6 @@ login
 public/.git/config
 vendor/.env
 wp-config.php.old
-*
 .env.2
 .env.docker
 .env.test.local

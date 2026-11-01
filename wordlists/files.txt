@@ -23,9 +23,9 @@ settings.py
 .env.save
 view
 .env.dev
+security.txt
 .env.backup
 .env.prod
-security.txt
 .env.test
 config.env
 HEAD
@@ -129,10 +129,10 @@ wp-config.php.backup
 backup.zip
 .env.development.local
 json
+sse
 .env.live
 .env.stage
 HNAP1
-sse
 web
 metadatauploader
 .env.default
@@ -161,6 +161,7 @@ id_rsa
 index
 login.html
 sdk
+*
 .env.1
 .env.txt
 .env_1
@@ -170,7 +171,6 @@ sdk
 database.php
 health
 wp-config.php.old
-*
 .env.2
 .env.docker
 .env.test.local
@@ -227,6 +227,7 @@ sftp.json
 .travis.yml
 admin
 api-docs
+astguiclient.php
 composer.lock
 config.php~
 db.sql.gz
@@ -268,6 +269,7 @@ ws
 .env_prod
 .yarnrc
 7f13c0a9d8644f3ca0a563b6b56e49d7
+admin.php
 administrator
 ansible.cfg
 api.ipinfo.io:443
@@ -328,7 +330,6 @@ ReportServer
 Thumbs.db
 aaa9
 actuator
-admin.php
 adminer.php
 adminer.sql
 adminpanel
