@@ -327,6 +327,7 @@ wp-content/.env
 .npmrc
 database/.env
 deploy/.env
+login
 public/.git/config
 vendor/.env
 wp-config.php.old
@@ -350,7 +351,6 @@ configuration.php
 development/.env
 docker-compose/.env
 index.html
-login
 protected/.env
 shared/.env
 sites/all/libraries/mailchimp/.env

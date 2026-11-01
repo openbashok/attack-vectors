@@ -297,6 +297,7 @@ wp-config.php.bak
 .env.swp
 .htpasswd
 build/.env
+login
 .env.preprod
 .env.sandbox
 .env.secret
@@ -308,7 +309,6 @@ conf/.env
 config.php
 configuration/.env
 evox/about
-login
 public_html/.env
 remote/login
 sdk

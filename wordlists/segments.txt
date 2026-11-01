@@ -43,11 +43,11 @@ credentials
 mcp
 server
 assets
+login
 v1
 v2
 .env.example
 docker
-login
 .env.bak
 info
 staging
