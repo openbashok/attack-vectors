@@ -30,11 +30,11 @@ lib
 logs
 app_dev.php
 secrets.yaml
-frontend
 SDK
+frontend
+webLanguage
 demo
 dev
-webLanguage
 core
 backend
 storage
