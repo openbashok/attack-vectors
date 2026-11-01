@@ -51,6 +51,7 @@ terraform.tfstate
 login
 entries
 env.json
+sh
 test.php
 config.php
 config.php.bak
@@ -68,7 +69,6 @@ index.html
 package-lock.json
 package.json
 sendgrid.env
-sh
 yarn.lock
 appsettings.json
 aws.env
@@ -129,10 +129,10 @@ wp-config.php.backup
 backup.zip
 .env.development.local
 HNAP1
+json
 sse
 .env.live
 .env.stage
-json
 v1
 .env.default
 .env.dev.local
@@ -143,14 +143,14 @@ v1
 metadatauploader
 web
 .env.sample
+hello.world
+test.hello
 .env.ci
 .env.config
 .env.swp
 .env.uat
 .htpasswd
 config.py
-hello.world
-test.hello
 wp-config.php.bak
 about
 api
@@ -270,6 +270,7 @@ administrator
 ansible.cfg
 api.ipinfo.io:443
 app.json
+autodiscover.json
 aws-ses.json
 composer.json
 config.inc.php.bak
@@ -301,6 +302,7 @@ wp-config.old
 wp-config.php.txt
 www.google.com:443
 www.zip
+x.js
 %3Cinvalid%3Ehello.html
 .boto
 .dockerignore
@@ -334,7 +336,6 @@ application-prod.properties
 application-prod.yml
 application.properties.bak
 appsettings.production.json
-autodiscover.json
 bitbucket-pipelines.yml
 build.gradle
 cert.pem
@@ -374,7 +375,6 @@ setup.md
 stripe-credentials.json
 v2
 workflows
-x.js
 %2e%2e%2f%2eenv
 .deploy.env
 .dev.env
