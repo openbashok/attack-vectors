@@ -26,6 +26,7 @@ frontend/.env
 public/.env
 server/.env
 .env.staging
+.git/HEAD
 docker-compose.yml
 phpinfo.php
 robots.txt
@@ -33,7 +34,6 @@ site/.env
 wp-config.php
 www/.env
 .env.testing
-.git/HEAD
 .gitlab-ci.yml
 admin/.env
 info.php
