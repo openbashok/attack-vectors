@@ -86,10 +86,10 @@ HEAD
 .env.old
 auth
 database.yml
+html
 prod
 project
 client
-html
 sql
 .env.development
 phpinfo.php
@@ -457,6 +457,7 @@ engine
 functions
 id_dsa
 login.jsp
+manager
 mcp.json
 media..
 metadata
@@ -510,6 +511,7 @@ Archipel
 Assignment4
 ClientApp
 ContainerRegistry
+Current
 Datavase
 FIRST_CONFIG
 Nosto
@@ -559,6 +561,7 @@ django_project_path
 docker-compose.override.yml
 docker-node-mongo-redis
 drupal-test
+ecp
 env-config
 env.php
 env.txt
@@ -569,6 +572,7 @@ error
 errors
 example
 example27-how-to-load-env
+exporttool
 fedex
 fileserver
 films
@@ -605,8 +609,8 @@ logging
 login.js
 logon.aspx
 magento
-manager
 metrics
+microsoft.exchange.ediscovery.exporttool.application
 misc
 myapp
 mysqlmanager
@@ -689,12 +693,12 @@ xampp
 <script>alert(1)<
 Admin_Files
 Batch
-Current
 Dockerfile
 GponForm
 Pipfile
 Pipfile.lock
 README.md
+ReportServer
 Thumbs.db
 aaa9
 admin.php
@@ -719,15 +723,12 @@ db.php
 deployment.yaml
 diag_Form
 ecosystem.config.js
-ecp
-exporttool
 gaukingo
 heapdump
 id_ecdsa
 id_rsa.pub
 known_hosts
 license.txt
-microsoft.exchange.ediscovery.exporttool.application
 middleware
 nmaplowercheck1792956439
 nmaplowercheck1792956465
@@ -769,7 +770,6 @@ ubuntu
 2phpmyadmin
 Accounts
 MyAdmin
-ReportServer
 ViewUserInfo.php
 __fixtures__
 __phpmyadmin

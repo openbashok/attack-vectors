@@ -609,6 +609,7 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 downloads/
 drupal/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env.txt
 enviroments/.env
 enviroments/.env.production
@@ -754,6 +755,7 @@ GponForm/diag_Form
 Pipfile
 Pipfile.lock
 README.md
+ReportServer
 Thumbs.db
 aaa9
 actuator
@@ -794,10 +796,10 @@ deployment.yaml
 doc/index.html
 docs/setup.md
 ecosystem.config.js
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 id_rsa.pub
 known_hosts
 license.txt
+manager/html
 middleware/.env
 nmaplowercheck1792956439
 nmaplowercheck1792956465
