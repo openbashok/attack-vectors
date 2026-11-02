@@ -832,6 +832,7 @@ nmaplowercheck1792956439
 nmaplowercheck1792956465
 old/
 phpmyadmin
+portal/redlion
 proxy
 rest/oauth1-credential/auth
 rest/oauth2-credential/auth
@@ -844,6 +845,8 @@ server-status
 server.crt
 server/.env.production
 service-account.json
+solr/admin/cores?action=STATUS&wt=json
+solr/admin/info/system
 stripe-credentials.json
 var/task/.env
 web/
@@ -1078,7 +1081,6 @@ pmahomme/index.php?lang=en
 portal/.env.local
 portal/.env.production
 portal/.env.staging
-portal/redlion
 private.key
 private/env.json
 prod/.env.local
@@ -1110,8 +1112,6 @@ shopdb/index.php?lang=en
 site.sql
 soap
 socket.io/?EIO=4&transport=websocket
-solr/admin/cores?action=STATUS&wt=json
-solr/admin/info/system
 sql/myadmin/index.php?lang=en
 sql/php-myadmin/index.php?lang=en
 sql/phpMyAdmin/index.php?lang=en

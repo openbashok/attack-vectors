@@ -358,6 +358,7 @@ cmd.exe
 config.php.old
 config.php.save
 configprops
+cores
 data
 database.json
 debug
@@ -374,6 +375,7 @@ old
 passwd
 phpmyadmin
 proxy
+redlion
 rsc
 sample.env
 script%3E.html
@@ -383,6 +385,7 @@ server-status
 server.crt
 setup.md
 stripe-credentials.json
+system
 v2
 workflows
 %2e%2e%2f%2eenv
@@ -422,7 +425,6 @@ config.production.json
 config.yaml
 connect.php
 connection.php
-cores
 data.sql
 database.php.bak
 database.zip
@@ -454,7 +456,6 @@ private.key
 production.env
 proxy.php
 raw
-redlion
 runtime-env.js
 secrets.js
 secrets.toml
@@ -468,7 +469,6 @@ socket.io
 sql.php
 ssl.key
 swagger
-system
 system:ping
 version.php
 vertex.json

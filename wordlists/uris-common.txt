@@ -832,6 +832,7 @@ nmaplowercheck1792956439
 nmaplowercheck1792956465
 old/
 phpmyadmin
+portal/redlion
 proxy
 rest/oauth1-credential/auth
 rest/oauth2-credential/auth
@@ -844,6 +845,8 @@ server-status
 server.crt
 server/.env.production
 service-account.json
+solr/admin/cores?action=STATUS&wt=json
+solr/admin/info/system
 stripe-credentials.json
 var/task/.env
 web/

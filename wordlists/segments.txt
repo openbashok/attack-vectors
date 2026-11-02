@@ -105,9 +105,9 @@ wp-config.php
 env
 sql
 info.php
+portal
 .env.testing
 docs
-portal
 settings
 data
 media
@@ -120,10 +120,10 @@ config.js
 credentials.json
 secrets.json
 site.zip
+system
 ws
 .env.orig
 htdocs
-system
 terraform.tfstate
 .docker
 bin
@@ -449,6 +449,7 @@ product
 psnlink
 redmine
 sitemaps
+solr
 swagger.json
 task
 tools
@@ -675,7 +676,6 @@ samples
 script
 serve-browserbench
 service-account.json
-solr
 sources
 speed.cloudflare.com:443
 sqladmin
@@ -735,6 +735,7 @@ cmd.exe
 config.php.old
 config.php.save
 configprops
+cores
 database.json
 deploy.yml
 gaukingo
@@ -749,6 +750,7 @@ oauth1-credential
 oauth2-credential
 passwd
 proxy
+redlion
 rsc
 sample.env
 script%3E.html
@@ -817,7 +819,6 @@ config.yaml
 connect.php
 connection.php
 console
-cores
 cpu-core-counter
 data.sql
 database.php.bak
@@ -912,7 +913,6 @@ production.env
 program
 proxy.php
 raw
-redlion
 runtime-env.js
 secrets.js
 secrets.toml
