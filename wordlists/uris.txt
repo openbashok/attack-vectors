@@ -328,6 +328,7 @@ config/secrets.yml
 database/.env
 public/.git/config
 wp-content/.env
+*
 .env.txt
 .env_1
 admin/.git/config
@@ -340,7 +341,6 @@ secrets.py
 server/.git/config
 vendor/.env
 www/.git/config
-*
 .env.1
 .env.test.local
 .env.www
@@ -395,6 +395,7 @@ settings.php
 sftp-config.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 +CSCOE+/logon.html
+Dr0v
 Gemfile.lock
 admin/index.html
 backup.tar.gz
@@ -413,7 +414,6 @@ www.zip
 .travis.yml
 .well-known/pki-validation/update
 Dockerfile
-Dr0v
 abc6
 abc8
 actuator/health

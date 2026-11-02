@@ -330,6 +330,7 @@ public/.git/config
 wp-content/.env
 .env.txt
 .env_1
+_
 admin/.git/config
 backend/.env.local
 config.py
@@ -347,7 +348,6 @@ www/.git/config
 .git/index
 .svn/wc.db
 HNAP1
-_
 audio/.env
 backups/.env
 cgi-bin/.env
@@ -395,6 +395,7 @@ settings.php
 sftp-config.json
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 +CSCOE+/logon.html
+Dr0v
 Gemfile.lock
 admin/index.html
 backup.tar.gz
@@ -413,7 +414,6 @@ www.zip
 .travis.yml
 .well-known/pki-validation/update
 Dockerfile
-Dr0v
 abc6
 abc8
 actuator/health

@@ -40,9 +40,9 @@ wp-config.php
 robots.txt
 secrets.yml
 .env.testing
+info.php
 login
 settings.json
-info.php
 secrets.json
 application.yml
 config.js
@@ -166,12 +166,12 @@ Jenkinsfile
 health
 index
 sftp.json
+*
 .env.txt
 .env_1
 app.php
 master.key
 secrets.py
-*
 .env.1
 .env.test.local
 .env.www
@@ -197,6 +197,7 @@ docker-compose.prod.yml
 formLogin
 sftp-config.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
+Dr0v
 Gemfile.lock
 db.sql.gz
 environ
@@ -210,7 +211,6 @@ www.zip
 .env.prod.local
 .travis.yml
 Dockerfile
-Dr0v
 abc6
 abc8
 docs
