@@ -31,9 +31,9 @@ server/.env
 phpinfo.php
 wp-config.php
 .git/HEAD
+robots.txt
 site/.env
 www/.env
-robots.txt
 .env.testing
 admin/.env
 info.php
@@ -70,12 +70,12 @@ dev/.env
 htdocs/.env
 mcp/
 package.json
+security.txt
 v1/.env
 v2/.env
 config.php.bak
 dashboard/.env
 docker-compose.yaml
-security.txt
 shop/.env
 site.zip
 terraform.tfstate
@@ -260,6 +260,7 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 .env.uat
 .npmrc
+.well-known/security.txt
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 config.php
 containers/json
@@ -273,7 +274,6 @@ vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
 wp-config.php.old
 .htaccess
-.well-known/security.txt
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php

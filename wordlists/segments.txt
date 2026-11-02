@@ -77,6 +77,7 @@ new
 ..
 .svn
 database.yml
+security.txt
 temp
 tmp
 .env.old
@@ -87,7 +88,6 @@ db
 log
 prod
 project
-security.txt
 var
 .env.development
 auth
@@ -97,9 +97,9 @@ phpinfo.php
 .gitlab-ci.yml
 client
 html
+robots.txt
 site
 wp-config.php
-robots.txt
 secrets.yml
 .env.testing
 compose
@@ -186,12 +186,12 @@ open
 secrets.env
 static
 twilio
+.well-known
 aws.env
 download
 images
 mysql.sql
 .claude
-.well-known
 actuator
 backup.zip
 content
@@ -943,6 +943,7 @@ system:ping
 ui
 version.php
 vertex.json
+vicidial
 webjars
 win
 wp-blog-header.php
