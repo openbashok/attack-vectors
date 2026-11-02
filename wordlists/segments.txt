@@ -26,8 +26,8 @@ web
 config.json
 .aws
 public
-logs
 SDK
+logs
 webLanguage
 lib
 frontend
@@ -724,6 +724,7 @@ README.md
 ReportServer
 Thumbs.db
 aaa9
+aab9
 adminpanel
 ads.txt
 app-ads.txt
@@ -793,7 +794,6 @@ __phpmyadmin
 _phpMyAdmin
 _phpmyadmin
 _phpmyadmin_
-aab9
 agent
 amplify
 amplify.yaml
@@ -844,6 +844,7 @@ gcp.json
 gemini.json
 hetong.js
 home.tar.gz
+hudson
 icons
 inc
 include

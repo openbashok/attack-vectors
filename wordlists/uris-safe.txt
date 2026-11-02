@@ -796,6 +796,7 @@ _nx=@@
 _rest_route=/batch%2Fv1
 _script_alert_1__/script_.html
 aaa9
+aab9
 actuator
 actuator/configprops
 actuator/heapdump
@@ -885,7 +886,6 @@ _phpmyadmin/index.php_lang=en
 _phpmyadmin_/index.php_lang=en
 _pp=enable_pp=env
 _pp=env_pp=env
-aab9
 actuator/env
 actuator/favicon.ico
 admin/.env.local
@@ -985,6 +985,7 @@ frontend/.git/config
 gcp-credentials.json
 health/liveliness
 home.tar.gz
+hudson
 icons/.env
 id_dsa
 inc/config.php
@@ -1247,6 +1248,7 @@ Backend/.env
 CHANGELOG.md
 CVS/
 Chai/.env
+DcGn
 Exercise.Frontend/.env
 FileZilla.xml
 HUNIV_migration/.env
@@ -1278,6 +1280,7 @@ _next/rsc
 _profiler/empty/search/results_limit=10
 _rest_route=%2Fbatch%2Fv1
 _site.zip
+aab8
 actuator/logfile
 admin
 agc/admin.php
@@ -1556,7 +1559,6 @@ html/.git/config
 htpasswd.txt
 hubspot.config
 hubspot.json
-hudson
 i.php
 iagent/idialer.php
 id_ed25519
@@ -1577,6 +1579,8 @@ jm0735rn23p2nc
 joomla-backup.zip
 joomla.tar.gz
 joomla.zip
+jquery-3.3.1.slim.min.js
+jquery-3.3.2.slim.min.js
 js-plugin/.env
 js/config.json
 ju9t0fhp8tatgc
@@ -1646,6 +1650,7 @@ nbproject/
 new-js/.env
 nextjs.zip
 ng/
+ni7O
 node.zip
 nodejs.zip
 ntxohlrylfokkz

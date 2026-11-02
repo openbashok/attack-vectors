@@ -796,6 +796,7 @@ README.md
 ReportServer
 Thumbs.db
 aaa9
+aab9
 actuator
 actuator/configprops
 actuator/heapdump
@@ -885,7 +886,6 @@ __phpmyadmin/index.php?lang=en
 _phpMyAdmin/index.php?lang=en
 _phpmyadmin/index.php?lang=en
 _phpmyadmin_/index.php?lang=en
-aab9
 actuator/env
 actuator/favicon.ico
 admin/.env.local
@@ -985,6 +985,7 @@ frontend/.git/config
 gcp-credentials.json
 health/liveliness
 home.tar.gz
+hudson
 icons/.env
 id_dsa
 inc/config.php
@@ -1253,6 +1254,7 @@ Backend/.env
 CHANGELOG.md
 CVS/
 Chai/.env
+DcGn
 Exercise.Frontend/.env
 FileZilla.xml
 HUNIV_migration/.env
@@ -1273,6 +1275,7 @@ _ignition/execute-solution
 _netrc
 _next/rsc
 _profiler/empty/search/results?limit=10
+aab8
 actuator/logfile
 admin
 agc/admin.php
@@ -1551,7 +1554,6 @@ html/.git/config
 htpasswd.txt
 hubspot.config
 hubspot.json
-hudson
 i.php
 iagent/idialer.php
 id_ed25519
@@ -1572,6 +1574,8 @@ jm0735rn23p2nc
 joomla-backup.zip
 joomla.tar.gz
 joomla.zip
+jquery-3.3.1.slim.min.js
+jquery-3.3.2.slim.min.js
 js-plugin/.env
 js/config.json
 ju9t0fhp8tatgc
@@ -1641,6 +1645,7 @@ nbproject/
 new-js/.env
 nextjs.zip
 ng/
+ni7O
 node.zip
 nodejs.zip
 ntxohlrylfokkz
