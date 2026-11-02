@@ -24,8 +24,8 @@ settings.py
 .env.backup
 .env.local.php
 .env.test
-.env.prod
 HEAD
+.env.prod
 view
 database.yml
 .env.old
@@ -37,16 +37,16 @@ config.php
 phpinfo.php
 .gitlab-ci.yml
 wp-config.php
+robots.txt
 secrets.yml
 .env.testing
 login
 settings.json
 info.php
-robots.txt
+secrets.json
 application.yml
 config.js
 credentials.json
-secrets.json
 sh
 site.zip
 .env.dist
@@ -137,6 +137,7 @@ wp-config.php.bak
 .env_sample
 .env.default
 .env.template
+id_rsa
 json
 web
 .env~
@@ -144,17 +145,16 @@ metadatauploader
 .htpasswd
 HNAP1
 config.py
-id_rsa
 .env.ci
 .env.config
 .env.sample
 .env.uat
+.npmrc
 hello.world
 login.html
 test.hello
 wp-config.php.old
 .htaccess
-.npmrc
 database.php
 v1
 .env.preprod
@@ -175,6 +175,7 @@ secrets.py
 .env.1
 .env.test.local
 .env.www
+.git-credentials
 about
 api
 backup.tar.gz
@@ -190,7 +191,6 @@ wp-config.php.save
 .env.tmp
 .env_old
 .envrc
-.git-credentials
 authorized_keys
 aws.json
 docker-compose.prod.yml
@@ -315,6 +315,7 @@ x.js
 .env_bak
 .env_copy
 .env_example
+.netrc
 .s3cfg
 7f13c0a9d8644f3ca0a563b6b56e49d7
 ansible.cfg
@@ -337,7 +338,6 @@ www.google.com:443
 .dockerignore
 .git
 .hg
-.netrc
 .remote-sync.json
 .vs
 .vscode

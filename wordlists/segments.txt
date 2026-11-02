@@ -66,10 +66,10 @@ debug
 sendgrid
 .env.test
 tests
-default
-.env.prod
 .ssh
 HEAD
+default
+.env.prod
 old
 view
 blog
@@ -99,6 +99,7 @@ client
 html
 site
 wp-config.php
+robots.txt
 secrets.yml
 .env.testing
 compose
@@ -107,19 +108,18 @@ env
 info.php
 media
 portal
-robots.txt
 settings
 sql
-data
-shop
 .docker
+data
+secrets.json
+shop
 application
 application.yml
 bin
 config.js
 credentials.json
 docs
-secrets.json
 sh
 site.zip
 system
@@ -134,10 +134,10 @@ uploads
 index.html
 test.php
 .env.orig
+.kube
 database.sql
 dump.sql
 htdocs
-.kube
 aws.yml
 backup.sql
 dashboard
@@ -250,6 +250,7 @@ mysql
 .env.default
 .env.template
 drupal
+id_rsa
 json
 shared
 testing
@@ -263,11 +264,11 @@ HNAP1
 build
 config.py
 containers
-id_rsa
 .env.ci
 .env.config
 .env.sample
 .env.uat
+.npmrc
 LICENSE
 geoserver
 hello.world
@@ -277,7 +278,6 @@ test.hello
 vue-heroes
 wp-config.php.old
 .htaccess
-.npmrc
 V2
 database
 database.php
@@ -318,6 +318,7 @@ workflows
 .env.1
 .env.test.local
 .env.www
+.git-credentials
 about
 all
 audio
@@ -346,7 +347,6 @@ wp-config.php.save
 .env.tmp
 .env_old
 .envrc
-.git-credentials
 _static
 account
 assets..
@@ -557,6 +557,7 @@ x.js
 .env_copy
 .env_example
 .gitlab
+.netrc
 .s3cfg
 31_structure_tests
 7f13c0a9d8644f3ca0a563b6b56e49d7
@@ -712,7 +713,6 @@ xampp
 %3Cscript%3Ealert%281%29%3C
 .config
 .dockerignore
-.netrc
 .remote-sync.json
 .terraform
 .vs
