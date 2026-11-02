@@ -232,6 +232,7 @@ config.php~
 db.php
 db.sql.gz
 id_ed25519
+login.js
 login.jsp
 openapi.json
 swagger.json
@@ -263,6 +264,7 @@ composer.json
 config.inc.php.bak
 credentials.py
 credentials.yml.enc
+diag_Form
 docker-compose.override.yml
 env.txt
 environment.rb
@@ -313,13 +315,11 @@ aws-ses.json
 build.gradle
 credentials.yml
 deployment.yaml
-diag_Form
 downloads
 ecosystem.config.js
 env.php
 environment.json
 id_ecdsa
-login.js
 logon.aspx
 microsoft.exchange.ediscovery.exporttool.application
 one.one.one.one:443

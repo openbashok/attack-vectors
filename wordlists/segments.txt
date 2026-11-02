@@ -28,8 +28,8 @@ config.json
 public
 logs
 SDK
-lib
 webLanguage
+lib
 frontend
 app_dev.php
 backend
@@ -44,8 +44,8 @@ storage
 credentials
 docker
 .env.example
-.env.bak
 assets
+.env.bak
 v2
 v1
 login
@@ -286,6 +286,7 @@ zend
 build
 database
 database.php
+js
 libraries
 sites
 wp-config.php.old
@@ -311,7 +312,6 @@ config.yml
 deploy
 docker-compose
 evox
-js
 login.html
 phpMyAdmin
 production
@@ -434,6 +434,7 @@ id_ed25519
 kyc
 lab
 live
+login.js
 login.jsp
 mail
 mailer
@@ -451,6 +452,7 @@ sitemaps
 swagger.json
 task
 tools
+views
 vue
 withMongo
 withPostgres
@@ -475,6 +477,7 @@ $(pwd)
 .yarnrc
 07-accessing-data
 Dockerfile
+GponForm
 ansible
 api-docs
 api.ipinfo.io:443
@@ -490,6 +493,7 @@ config.inc.php.bak
 credentials.py
 credentials.yml.enc
 default_settings
+diag_Form
 dist
 docker-compose.override.yml
 downloads
@@ -547,7 +551,6 @@ ContainerRegistry
 Current
 Datavase
 FIRST_CONFIG
-GponForm
 Nosto
 PMA
 Passportjs
@@ -596,7 +599,6 @@ deployment.yaml
 deploymentscripts
 develop
 developerslv
-diag_Form
 directories
 django_project_path
 docker-node-mongo-redis
@@ -641,7 +643,6 @@ liveObjects
 localhost
 locally
 logging
-login.js
 logon.aspx
 magento
 metrics
@@ -692,7 +693,6 @@ traefik
 universalresolver
 upload
 v13.0
-views
 vod_installer
 web_shell_cmd.gch
 webadmin

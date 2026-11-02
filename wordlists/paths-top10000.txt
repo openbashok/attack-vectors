@@ -430,6 +430,7 @@ HNAP1/
 RDWeb
 abc7
 admin-app/.env
+admin/assets/js/views/login.js
 api/config.env
 backup.tar.gz
 backup.zip
@@ -498,6 +499,7 @@ www.zip
 .ssh/id_ed25519
 .yarnrc
 Dockerfile
+GponForm/diag_Form
 api
 api.ipinfo.io:443
 api/
@@ -572,13 +574,11 @@ Archipel/.env
 Assignment4/.env
 ClientApp/.env
 FIRST_CONFIG/.env
-GponForm/diag_Form
 Passportjs/.env
 __tests__/test-become/.env
 acme-challenge/.env
 acme/.env
 admin/
-admin/assets/js/views/login.js
 adminer.php
 adminer.sql
 airflow.cfg

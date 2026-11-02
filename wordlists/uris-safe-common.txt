@@ -436,6 +436,7 @@ HNAP1/
 RDWeb
 abc7
 admin-app/.env
+admin/assets/js/views/login.js
 api/config.env
 backup.tar.gz
 backup.zip
@@ -505,6 +506,7 @@ www.zip
 .ssh/id_ed25519
 .yarnrc
 Dockerfile
+GponForm/diag_Form_images/
 api
 api.ipinfo.io:443
 api/
@@ -580,7 +582,6 @@ Archipel/.env
 Assignment4/.env
 ClientApp/.env
 FIRST_CONFIG/.env
-GponForm/diag_Form_images/
 Passportjs/.env
 __tests__/test-become/.env
 _s=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E
@@ -588,7 +589,6 @@ _s=UNION+SELECT+ALL+FROM+information_schema+AND+%27+or+SLEEP%285%29+or+%27
 acme-challenge/.env
 acme/.env
 admin/
-admin/assets/js/views/login.js
 adminer.php
 adminer.sql
 airflow.cfg
