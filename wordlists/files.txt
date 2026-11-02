@@ -39,9 +39,9 @@ phpinfo.php
 wp-config.php
 secrets.yml
 .env.testing
+login
 info.php
 robots.txt
-login
 settings.json
 application.yml
 config.js
@@ -150,6 +150,7 @@ id_rsa
 .env.sample
 .env.uat
 hello.world
+login.html
 test.hello
 wp-config.php.old
 .htaccess
@@ -168,7 +169,6 @@ sftp.json
 .env_1
 app.php
 health
-login.html
 master.key
 secrets.py
 *
@@ -216,6 +216,7 @@ docs
 id_dsa
 login.jsp
 sitemap.xml
+swagger.json
 wp-config.bak
 wp-config.php.orig
 wp-config.php.save
@@ -236,6 +237,7 @@ wp-config.php~
 .yarnrc.yml
 RDWeb
 abc7
+admin
 adminer.php
 adminer.sql
 airflow.cfg
@@ -257,7 +259,6 @@ local_settings.py
 login.js
 openapi.json
 pub
-swagger.json
 wp-config.php.txt
 .dockerenv
 .env.aws
@@ -274,7 +275,6 @@ wp-config.php.txt
 .env_backup
 .env_dev
 .env_prod
-admin
 admin.php
 administrator
 api-docs
@@ -302,6 +302,7 @@ users
 wp-admin
 wp-config.old
 ws
+x.js
 .boto
 .env.back
 .env.bkp
@@ -322,6 +323,7 @@ aws-ses.json
 build.gradle
 environment.json
 heapdump
+license.txt
 microsoft.exchange.ediscovery.exporttool.application
 one.one.one.one:443
 pom.xml
@@ -331,7 +333,6 @@ speed.cloudflare.com:443
 swagger-ui.html
 web_shell_cmd.gch
 www.google.com:443
-x.js
 %3Cinvalid%3Ehello.html
 .dockerignore
 .git
@@ -369,7 +370,6 @@ env.js
 gaukingo
 html
 known_hosts
-license.txt
 list
 login.asp
 nmaplowercheck1792956439
@@ -427,6 +427,7 @@ config.production.json
 config.yaml
 connect.php
 connection.php
+console
 data.sql
 database.php.bak
 database.zip
@@ -481,6 +482,7 @@ wp-config.php.zip
 wp-config.txt
 wp-content
 wp-includes
+wp-json
 wp-load.php
 wp-login.php
 wp-settings.php

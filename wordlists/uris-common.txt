@@ -335,6 +335,7 @@ backend/.env.local
 config.py
 config/app.php
 config/master.key
+login
 secrets.py
 server/.git/config
 vendor/.env
@@ -352,7 +353,6 @@ cgi-bin/.env
 deploy/.env
 development/.env
 evox/about
-login
 protected/.env
 sdk
 shared/.env
@@ -384,6 +384,8 @@ docker-compose.prod.yml
 docker-compose/.env
 files/.git/config
 index.html
+login.html
+manage/account/login
 media../.git/config
 media/.git/config
 project/.git/config
@@ -399,9 +401,7 @@ backup.zip
 cgi-bin/login.cgi
 current/.env
 login.htm
-login.html
 mail/.env
-manage/account/login
 private/.env
 production/.env
 www.zip
@@ -510,6 +510,7 @@ remote/login?lang=en
 sftp.json
 sitemaps/.env
 storage/.env.local
+swagger.json
 tools/.env
 user/.env.staging
 v1
@@ -533,6 +534,7 @@ wp-config.php.txt
 .env_prod
 .ssh/id_dsa
 GponForm/diag_Form?images/
+admin/
 api
 api.ipinfo.io:443
 api/
@@ -561,11 +563,11 @@ laravel/.env.example
 local.py
 myapp/settings.py
 owa/auth/logon.aspx
+owa/auth/x.js
 php/.env
 proc/self/environ
 root/.env
 src/.env.local
-swagger.json
 web/.env.local
 wp-config.old
 wp-content/uploads/
@@ -605,7 +607,6 @@ acme-challenge/.env
 acme/.env
 actuator/heapdump
 admin.php
-admin/
 alpha/.env
 anaconda/.env
 ansible.cfg
@@ -709,6 +710,7 @@ laravel/core/.env.production
 laravel/core/.env.staging
 libraries/.env
 libs/.env
+license.txt
 localhost/.env
 locally/.env
 logging/.env
@@ -720,7 +722,6 @@ nginx/.env
 node_modules/.env
 nuxt/.env
 one.one.one.one:443
-owa/auth/x.js
 pfbe/.env
 pom.xml
 preview/.env
@@ -829,7 +830,6 @@ docs/setup.md
 druid/index.html
 index.php?rest_route=/batch/v1
 known_hosts
-license.txt
 manager/html
 manager/text/list
 middleware/.env
