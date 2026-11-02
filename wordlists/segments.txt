@@ -35,10 +35,10 @@ frontend
 backend
 core
 www
+mcp
 dev
 server
 secrets.yaml
-mcp
 storage
 credentials
 demo
@@ -241,12 +241,12 @@ stage
 twilio.env
 wp-config.php.backup
 rest
+sse
 wp-config.php.bak
 .env.dev.local
 .env.staging.local
 .env_sample
 mysql
-sse
 .env.default
 .env.template
 drupal
@@ -311,6 +311,7 @@ app.php
 master.key
 owa
 root
+scripts
 secrets.py
 workflows
 .circleci
@@ -334,7 +335,6 @@ protected
 pub
 qa
 remote
-scripts
 sdk
 settings.php
 static..
@@ -838,6 +838,7 @@ dev.env
 dump
 dump.sql.gz
 env.local.php
+epa
 ews
 exchange.asmx
 export.sql
@@ -865,6 +866,7 @@ mysql-admin
 mysql.php
 mysqladmin
 newsite
+nsepa_setup.exe
 openai.json
 opt
 pMA
@@ -940,6 +942,7 @@ ui
 version.php
 vertex.json
 webjars
+win
 wp-blog-header.php
 wp-config.php.dist
 wp-config.php.gz

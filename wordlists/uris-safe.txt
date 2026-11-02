@@ -68,13 +68,13 @@ blog/.env
 db.sql
 dev/.env
 htdocs/.env
+mcp/
 package.json
 v1/.env
 v2/.env
 config.php.bak
 dashboard/.env
 docker-compose.yaml
-mcp/
 security.txt
 shop/.env
 site.zip
@@ -155,6 +155,7 @@ docs/.env
 download/.env
 env.json
 home/.env
+mcp
 saas/.env
 .env.stage
 api/v2/.env
@@ -165,7 +166,6 @@ bedrock.env
 configuration.json
 env-config.js
 google-services.json
-mcp
 server.key
 store/.env
 .aws/.env
@@ -235,14 +235,14 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
+sse
 wp-config.php.bak
 .env.dev.local
 .env.staging.local
 .env_sample
-sse
+api/mcp
 .env.default
 .env.template
-api/mcp
 .env_
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 developmentserver/metadatauploader
@@ -982,6 +982,7 @@ docker/.env-prod
 docs
 dump.sql.gz
 env.js
+epa/scripts/win/nsepa_setup.exe
 ews/exchange.asmx
 export.sql
 frontend/.git/config
@@ -1524,7 +1525,6 @@ env.production.js
 env.zip
 env/template/.env
 environments/local/.env
-epa/scripts/win/nsepa_setup.exe
 etc/boto.cfg
 eventmanager
 examples/09-production/.env

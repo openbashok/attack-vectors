@@ -10,8 +10,8 @@ phpinfo
 .env.staging
 config.json
 webLanguage
-secrets.yaml
 mcp
+secrets.yaml
 test
 credentials
 .env.example
@@ -130,11 +130,11 @@ tests
 tmp
 twilio.env
 wp-config.php.backup
+sse
 wp-config.php.bak
 .env.dev.local
 .env.staging.local
 .env_sample
-sse
 .env.default
 .env.template
 json
@@ -452,6 +452,7 @@ liveliness
 local.settings.json
 main.yml
 mysql.php
+nsepa_setup.exe
 openai.json
 printenv
 private.key
