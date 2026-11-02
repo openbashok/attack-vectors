@@ -350,6 +350,7 @@ www/.git/config
 .git/logs/HEAD
 .svn/wc.db
 app/.env.local
+boaform/admin/formLogin
 compose/.env
 config.inc.php
 docker-compose/.env
@@ -370,7 +371,6 @@ audio/.env
 backup.tar.gz
 backup.zip
 backup/.git/config
-boaform/admin/formLogin
 cgi-bin/.env
 cgi-bin/login.cgi
 cms/.git/config

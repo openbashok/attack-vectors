@@ -27,9 +27,9 @@ config.json
 .aws
 public
 SDK
+webLanguage
 lib
 logs
-webLanguage
 frontend
 app_dev.php
 backend
@@ -336,11 +336,13 @@ terraform.tfstate.backup
 .envrc
 .git-credentials
 authorized_keys
+boaform
 django
 environments
 etc
 examples
 fixtures
+formLogin
 owa
 php
 pma
@@ -360,7 +362,6 @@ assets..
 audio
 aws.json
 begin
-boaform
 community
 current
 db.sql.gz
@@ -369,7 +370,6 @@ doc
 docker-compose.prod.yml
 enviroments
 environ
-formLogin
 id_ed25519
 includes
 login.cgi

@@ -1396,6 +1396,7 @@ bedrock.yml
 bitcoind/.env
 blog/wp-json/batch/v1
 boaform/admin/formLogin_username=admin_psd=admin
+boaform/admin/formLogin_username=user_psd=user
 boxes/oracle-vagrant-boxes/OLCNE/.env
 build.tar.gz
 build.zip

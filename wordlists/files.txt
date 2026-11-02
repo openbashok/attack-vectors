@@ -189,6 +189,7 @@ terraform.tfstate.backup
 .envrc
 .git-credentials
 authorized_keys
+formLogin
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wc.db
 .env.www
@@ -197,7 +198,6 @@ aws.json
 db.sql.gz
 docker-compose.prod.yml
 environ
-formLogin
 id_ed25519
 login.cgi
 login.htm
