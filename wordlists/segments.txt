@@ -27,8 +27,8 @@ config.json
 .aws
 public
 SDK
-logs
 webLanguage
+logs
 lib
 frontend
 app_dev.php
