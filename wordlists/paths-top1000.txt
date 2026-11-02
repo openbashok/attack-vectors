@@ -968,6 +968,7 @@ ews/exchange.asmx
 export.sql
 frontend/.git/config
 gcp-credentials.json
+health
 health/liveliness
 home.tar.gz
 hudson
@@ -997,4 +998,3 @@ mysql/index.php
 mysql/mysqlmanager/index.php
 mysql/pMA/index.php
 mysql/pma/index.php
-mysql/sqlmanager/index.php

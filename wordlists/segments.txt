@@ -282,6 +282,7 @@ V2
 database
 database.php
 ec
+health
 libraries
 workspace
 yii
@@ -294,7 +295,6 @@ zend
 conf
 configuration
 configuration.php
-health
 js
 public_html
 *

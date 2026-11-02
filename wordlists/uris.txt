@@ -989,6 +989,7 @@ ews/exchange.asmx
 export.sql
 frontend/.git/config
 gcp-credentials.json
+health
 health/liveliness
 home.tar.gz
 hudson
@@ -1568,7 +1569,6 @@ gradle.properties
 graphql
 gunicorn.conf.py
 haloocom_connect4/astguiclient.php
-health
 helm.zip
 home/*/.aws/credentials
 home/ec2-user/.aws/credentials
