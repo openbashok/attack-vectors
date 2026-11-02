@@ -10,15 +10,16 @@ api/.env
 config/.env
 .env.save
 .env.backup
-.env.test
 .env.dev
+.env.test
+laravel/.env
 .env.prod
 .env.example
 config.json
-laravel/.env
 .aws/credentials
 src/.env
 .env.old
+.env.staging
 backend/.env
 docker-compose.yml
 frontend/.env
@@ -26,7 +27,6 @@ web/.env
 .env.development
 public/.env
 server/.env
-.env.staging
 .gitlab-ci.yml
 phpinfo.php
 wp-config.php
@@ -50,6 +50,8 @@ _profiler/phpinfo
 api/.git/config
 backup/.env
 database.yml
+get
+ip.cypher.rest:443
 secrets.json
 settings.py
 storage/.env
@@ -59,8 +61,6 @@ credentials.json
 crm/.env
 database.sql
 dump.sql
-get
-ip.cypher.rest:443
 settings/.env
 .kube/config
 backup.sql
@@ -145,8 +145,10 @@ test/.env.php
 twilio/.env.php
 uploads/.env
 var/.env.local.php
+auth/.env
 aws.env
 mysql.sql
+settings.json
 administrator/.env
 assets/.env
 beta/.env
@@ -179,7 +181,6 @@ Application/.env
 api/test
 app.log
 app/config/parameters.yml
-auth/.env
 beta/
 cache/.env
 claude.env
@@ -220,7 +221,6 @@ sandbox/.env
 server.js
 service/.env
 services/.env
-settings.json
 stage/.env
 staging/
 static/.env
@@ -361,6 +361,7 @@ src/.git/config
 static../.git/config
 terraform.tfstate.backup
 wp-admin/.env
+wp-config.php.save
 .env.2
 .env.docker
 .env.tmp
@@ -422,6 +423,7 @@ app/.env.production
 config/aws.json
 config/aws.yml
 config/config.php
+dist/.env
 login.jsp
 panel/.env
 server/.env.local
@@ -429,7 +431,6 @@ sitemap.xml
 var/www/.env
 wp-config.bak
 wp-config.php.orig
-wp-config.php.save
 wp-config.php_
 .circleci/config.yml
 .docker/laravel/app/.env
@@ -662,7 +663,6 @@ custom/.env
 develop/.env
 developerslv/.env
 directories/.env
-dist/.env
 django/.env
 django_project_path/.env
 doc/.env
@@ -824,7 +824,9 @@ clientaccesspolicy.xml
 cmd.exe
 config.php.old
 config.php.save
+credentials.csv
 database.json
+db.py
 debug
 docs/setup.md
 druid/index.html

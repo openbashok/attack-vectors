@@ -20,9 +20,9 @@ credentials
 laravel.log
 info
 settings.py
+.env.dev
 .env.backup
 .env.local.php
-.env.dev
 .env.test
 .env.prod
 HEAD
@@ -40,9 +40,9 @@ wp-config.php
 secrets.yml
 .env.testing
 login
+settings.json
 info.php
 robots.txt
-settings.json
 application.yml
 config.js
 credentials.json
@@ -52,14 +52,14 @@ site.zip
 .env.dist
 .env.production.local
 entries
+get
+ip.cypher.rest:443
 terraform.tfstate
 index.html
 test.php
 .env.orig
 database.sql
 dump.sql
-get
-ip.cypher.rest:443
 aws.yml
 backup.sql
 db.sql
@@ -184,6 +184,7 @@ sdk
 settings.php
 terraform.tfstate.backup
 wc.db
+wp-config.php.save
 .env.2
 .env.docker
 .env.tmp
@@ -219,7 +220,6 @@ sitemap.xml
 swagger.json
 wp-config.bak
 wp-config.php.orig
-wp-config.php.save
 wp-config.php~
 .env-example
 .env-sample
@@ -362,8 +362,10 @@ config.php.old
 config.php.save
 configprops
 cores
+credentials.csv
 data
 database.json
+db.py
 debug
 deploy.yml
 env.js

@@ -17,8 +17,8 @@ favicon.ico
 .env.production
 admin
 .env.php
-phpinfo
 laravel
+phpinfo
 %%32%65%%32%65
 .env.staging
 _profiler
@@ -56,6 +56,7 @@ v1
 laravel.log
 settings.py
 staging
+.env.dev
 .env.backup
 .env.local.php
 beta
@@ -63,7 +64,6 @@ cms
 crm
 debug
 sendgrid
-.env.dev
 .env.test
 tests
 default
@@ -90,6 +90,7 @@ project
 security.txt
 var
 .env.development
+auth
 config.env
 config.php
 phpinfo.php
@@ -98,10 +99,10 @@ client
 html
 site
 wp-config.php
-auth
 secrets.yml
 .env.testing
 compose
+settings.json
 env
 info.php
 media
@@ -110,7 +111,6 @@ robots.txt
 settings
 sql
 data
-settings.json
 shop
 .docker
 application
@@ -127,6 +127,8 @@ ws
 .env.dist
 .env.production.local
 entries
+get
+ip.cypher.rest:443
 terraform.tfstate
 uploads
 index.html
@@ -134,9 +136,7 @@ test.php
 .env.orig
 database.sql
 dump.sql
-get
 htdocs
-ip.cypher.rest:443
 .kube
 aws.yml
 backup.sql
@@ -340,6 +340,7 @@ settings.php
 static..
 terraform.tfstate.backup
 wc.db
+wp-config.php.save
 .env.2
 .env.docker
 .env.tmp
@@ -375,6 +376,7 @@ begin
 community
 current
 db.sql.gz
+dist
 doc
 enviroments
 environ
@@ -409,7 +411,6 @@ swagger
 swagger.json
 wp-config.bak
 wp-config.php.orig
-wp-config.php.save
 wp-config.php~
 .env-example
 .env-sample
@@ -516,7 +517,6 @@ config.inc.php.bak
 credentials.yml.enc
 default_settings
 diag_Form
-dist
 docker-compose.override.yml
 engine
 env.php
@@ -740,7 +740,9 @@ config.php.save
 configprops
 console
 cores
+credentials.csv
 database.json
+db.py
 deploy.yml
 druid
 env.js
