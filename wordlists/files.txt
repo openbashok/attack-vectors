@@ -50,6 +50,8 @@ credentials.json
 secrets.json
 site.zip
 .env.orig
+get
+ip.cypher.rest:443
 terraform.tfstate
 entries
 index.html
@@ -57,8 +59,6 @@ config.php.bak
 database.sql
 dump.sql
 env
-get
-ip.cypher.rest:443
 test.php
 aws.yml
 backup.sql

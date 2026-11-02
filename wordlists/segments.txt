@@ -125,7 +125,9 @@ secrets.json
 site.zip
 system
 .env.orig
+get
 htdocs
+ip.cypher.rest:443
 terraform.tfstate
 .docker
 entries
@@ -133,8 +135,6 @@ index.html
 config.php.bak
 database.sql
 dump.sql
-get
-ip.cypher.rest:443
 services
 test.php
 .kube

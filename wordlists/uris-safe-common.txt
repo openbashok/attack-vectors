@@ -46,6 +46,8 @@ api/.git/config
 client/.env
 core/.env
 database.yml
+get
+ip.cypher.rest:443
 secrets.json
 settings.py
 .svn/entries
@@ -57,8 +59,6 @@ credentials.json
 crm/.env
 database.sql
 dump.sql
-get
-ip.cypher.rest:443
 security.txt
 settings/.env
 storage/.env
