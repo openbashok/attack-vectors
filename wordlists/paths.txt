@@ -815,6 +815,7 @@ druid/index.html
 known_hosts
 license.txt
 manager/html
+manager/text/list
 middleware/.env
 nmaplowercheck1792956439
 nmaplowercheck1792956465
@@ -978,7 +979,6 @@ live/.env.local
 live/.env.production
 live/.env.staging
 live_env
-manager/text/list
 market/.env.local
 market/.env.production
 market/.env.staging

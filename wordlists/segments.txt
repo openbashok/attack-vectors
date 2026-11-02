@@ -460,6 +460,7 @@ local_settings.py
 login.js
 mail
 mailer
+manager
 market
 master
 openapi.json
@@ -527,7 +528,6 @@ id_rsa.pub
 instance
 local.py
 logon.aspx
-manager
 mcp.json
 metadata
 myapp
@@ -745,6 +745,7 @@ env.js
 gaukingo
 known_hosts
 license.txt
+list
 login.asp
 middleware
 nmaplowercheck1792956439
@@ -764,6 +765,7 @@ server-status
 server.crt
 setup.md
 stripe-credentials.json
+text
 themes
 ubuntu
 webpages
@@ -851,7 +853,6 @@ include
 index.js
 install.php
 javascript
-list
 live_env
 liveliness
 local.settings.json
@@ -932,7 +933,6 @@ ssl.key
 studioserver
 sysadmin
 system:ping
-text
 ui
 version.php
 vertex.json

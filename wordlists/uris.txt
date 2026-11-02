@@ -831,6 +831,7 @@ index.php?rest_route=/batch/v1
 known_hosts
 license.txt
 manager/html
+manager/text/list
 middleware/.env
 nmaplowercheck1792956439
 nmaplowercheck1792956465
@@ -1001,7 +1002,6 @@ live/.env.production
 live/.env.staging
 live_env
 login?pp=enable&pp=env
-manager/text/list
 market/.env.local
 market/.env.production
 market/.env.staging

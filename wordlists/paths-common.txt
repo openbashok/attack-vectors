@@ -815,6 +815,7 @@ druid/index.html
 known_hosts
 license.txt
 manager/html
+manager/text/list
 middleware/.env
 nmaplowercheck1792956439
 nmaplowercheck1792956465
