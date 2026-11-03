@@ -73,9 +73,9 @@ view
 .env.prod
 blog
 old
+security.txt
 .ssh
 database.yml
-security.txt
 temp
 tmp
 new
@@ -85,21 +85,21 @@ log
 apps
 docker-compose.yml
 administrator
+auth
 html
 prod
 project
 site
 var
 .env.development
-auth
 config.env
 phpinfo.php
 .gitlab-ci.yml
 client
 config.php
 db
-wp-config.php
 robots.txt
+wp-config.php
 secrets.yml
 .env.testing
 info.php
@@ -150,6 +150,7 @@ docker-compose.yaml
 local
 services
 .env.json
+.well-known
 base
 env.json
 error.log
@@ -161,7 +162,6 @@ service
 user
 web.config
 yarn.lock
-.well-known
 appsettings.json
 main
 store
@@ -249,6 +249,8 @@ wp-config.php.bak
 .env.dev.local
 .env.staging.local
 .env_sample
+developmentserver
+metadatauploader
 .env.default
 .env.template
 containers
@@ -258,9 +260,7 @@ shared
 testing
 .env~
 aws
-developmentserver
 geoserver
-metadatauploader
 .htaccess
 .htpasswd
 HNAP1
@@ -345,6 +345,7 @@ pub
 qa
 sdk
 settings.php
+sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 terraform.tfstate.backup
@@ -377,7 +378,6 @@ media..
 myadmin
 php
 sftp-config.json
-sitemap.xml
 update
 users
 .env.copy
