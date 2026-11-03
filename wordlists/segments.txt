@@ -161,6 +161,7 @@ service
 user
 web.config
 yarn.lock
+.well-known
 appsettings.json
 main
 store
@@ -172,7 +173,6 @@ store
 .env.php.bak
 .env.production.php
 .env.sample.php
-.well-known
 API
 actuator
 apis
@@ -378,6 +378,7 @@ myadmin
 php
 sftp-config.json
 sitemap.xml
+update
 users
 .env.copy
 09-managing-state
@@ -395,9 +396,9 @@ environ
 includes
 login.jsp
 mail
+pki-validation
 run
 self
-update
 version
 www.zip
 .env.prod.local
@@ -412,7 +413,6 @@ ansible
 autodiscover
 diag_Form
 en
-pki-validation
 s3
 solr
 swagger

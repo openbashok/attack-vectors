@@ -203,6 +203,7 @@ login.cgi
 logon.html
 sftp-config.json
 sitemap.xml
+update
 .env.copy
 Dr0v
 Gemfile.lock
@@ -211,7 +212,6 @@ composer.lock
 db.sql.gz
 environ
 login.jsp
-update
 version
 www.zip
 .env.prod.local

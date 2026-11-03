@@ -400,6 +400,7 @@ settings.php
 sftp-config.json
 sitemap.xml
 .env.copy
+.well-known/pki-validation/update
 Dr0v
 Gemfile.lock
 admin/config.php
@@ -417,7 +418,6 @@ www.zip
 .ssh/config
 .ssh/id_ed25519
 .travis.yml
-.well-known/pki-validation/update
 Dockerfile
 GponForm/diag_Form_images/
 abc6
