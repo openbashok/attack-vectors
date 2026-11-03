@@ -17,9 +17,9 @@ mcp
 .env.bak
 .env.example
 laravel.log
+.env.dev
 .env.save
 info
-.env.dev
 settings.py
 .env.local.php
 HEAD
@@ -31,15 +31,15 @@ security.txt
 database.yml
 login
 .env.old
+settings.json
 docker-compose.yml
 phpinfo.php
 .env.development
-settings.json
 config.env
 config.php
+robots.txt
 wp-config.php
 .gitlab-ci.yml
-robots.txt
 secrets.yml
 .env.testing
 index.html
@@ -164,6 +164,7 @@ configuration.php
 .env.secret
 health
 index
+wp-config.php.save
 *
 .env.txt
 .env_1
@@ -179,9 +180,9 @@ app.php
 master.key
 secrets.py
 settings.php
+sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
-wp-config.php.save
 .env.test.local
 .env.www
 about
@@ -193,7 +194,6 @@ login.cgi
 logon.html
 mcp.json
 sdk
-sitemap.xml
 .env.2
 .env.docker
 .env.tmp
@@ -261,9 +261,11 @@ appsettings.production.json
 auth
 config.php~
 configprops
+credentials.csv
 credentials.py
 credentials.yml
 db.php
+db.py
 deployment.yaml
 downloads
 ecosystem.config.js
@@ -341,8 +343,6 @@ claude.json
 config.production.json
 config.yaml
 console
-credentials.csv
-db.py
 deploy.yml
 environment.json
 gcp.json

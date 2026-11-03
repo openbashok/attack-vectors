@@ -10,16 +10,16 @@ api/.env
 config/.env
 .env.save
 .env.dev
-.env.backup
 laravel/.env
+.env.backup
 .env.test
-.env.prod
 config.json
+.env.prod
 .aws/credentials
 .env.example
+.env.staging
 src/.env
 .env.old
-.env.staging
 backend/.env
 docker-compose.yml
 web/.env
@@ -31,9 +31,9 @@ phpinfo.php
 wp-config.php
 .git/HEAD
 .gitlab-ci.yml
+robots.txt
 site/.env
 www/.env
-robots.txt
 admin/.env
 .env.testing
 info.php
@@ -86,6 +86,7 @@ application.yml
 application/.env
 apps/.env
 appsettings.json
+auth/.env
 base/.env
 cms/.env
 config.env
@@ -102,6 +103,7 @@ portal/.env
 project/.env
 secrets.yaml
 sendgrid.env
+settings.json
 staging/.env
 system/.env
 test/.env
@@ -127,7 +129,6 @@ apis/.env
 app_dev.php/_profiler/.env
 app_dev.php/_profiler/open?file=app/config/parameters.yml
 app_dev.php/_profiler/phpinfo
-auth/.env
 aws.env
 back/.env
 bot/.env
@@ -141,7 +142,6 @@ phpinfo/
 secrets.env
 sendgrid/.env
 sendgrid/.env.php
-settings.json
 test
 test/.env.php
 twilio/.env.php
@@ -325,6 +325,7 @@ config/secrets.yml
 configuration/.env
 index.html
 phpinfo
+wp-config.php.save
 *
 .env.txt
 .env_1
@@ -349,10 +350,10 @@ login.html
 manage/account/login
 secrets.py
 server/.git/config
+sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 terraform.tfstate.backup
 vendor/.env
-wp-config.php.save
 www/.git/config
 +CSCOE+/logon.html
 .docker/config.json
@@ -366,11 +367,11 @@ cgi-bin/.env
 cgi-bin/login.cgi
 deploy/.env
 development/.env
+dist/.env
 evox/about
 protected/.env
 sdk
 shared/.env
-sitemap.xml
 sites/all/libraries/mailchimp/.env
 static../.git/config
 wp-admin/.env
@@ -414,7 +415,6 @@ composer.lock
 config/aws.json
 config/aws.yml
 current/.env
-dist/.env
 mail/.env
 panel/.env
 private/.env
@@ -481,9 +481,11 @@ config.php~
 config/application.yml
 config/settings.py
 core/app/.env
+credentials.csv
 credentials.py
 credentials.yml
 cronlab/.env
+db.py
 db.sql.gz
 deployment.yaml
 deployment/.env
@@ -677,10 +679,8 @@ config/config.env
 console
 core/Datavase/.env
 cp/.env
-credentials.csv
 css/.env
 custom/.env
-db.py
 develop/.env
 developerslv/.env
 directories/.env
