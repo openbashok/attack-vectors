@@ -175,6 +175,7 @@ app.php
 login.htm
 master.key
 secrets.py
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.1
 .env.test.local
 .env.www
@@ -187,7 +188,6 @@ id_ed25519
 sdk
 settings.php
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 wp-config.php.save
 .env.2
@@ -469,6 +469,7 @@ config.dev.env
 config.production.json
 connect.php
 connection.php
+dana-na
 data.sql
 database.php.bak
 database.zip

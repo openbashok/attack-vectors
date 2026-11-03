@@ -320,6 +320,7 @@ pub
 remote
 scripts
 secrets.py
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 workflows
 .circleci
 .env.1
@@ -346,7 +347,6 @@ qa
 sdk
 settings.php
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 terraform.tfstate.backup
 wp-config.php.save
@@ -760,6 +760,7 @@ config.php.swp
 config.xml
 cores
 credentials.csv
+dana-na
 database.json
 db.py
 deploy.yml

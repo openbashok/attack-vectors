@@ -346,6 +346,7 @@ config/master.key
 login.htm
 secrets.py
 server/.git/config
+sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 vendor/.env
 www/.git/config
 .env.1
@@ -365,7 +366,6 @@ sdk
 shared/.env
 sitemap.xml
 sites/all/libraries/mailchimp/.env
-sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 static../.git/config
 terraform.tfstate.backup
 wp-admin/.env
@@ -997,6 +997,7 @@ connection.php
 crm/.env.local
 crm/.env.production
 crm/.env.staging
+dana-na
 data.sql
 database.php
 database.php.bak
