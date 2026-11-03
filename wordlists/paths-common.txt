@@ -19,6 +19,7 @@ config.json
 .aws/credentials
 .env.example
 .env.staging
+robots.txt
 src/.env
 .env.old
 backend/.env
@@ -27,7 +28,6 @@ web/.env
 .env.development
 frontend/.env
 public/.env
-robots.txt
 server/.env
 phpinfo.php
 wp-config.php
@@ -52,6 +52,7 @@ secrets.json
 _profiler/phpinfo
 api/.git/config
 database.yml
+security.txt
 settings.py
 .env.production.local
 .kube/config
@@ -65,7 +66,6 @@ database.sql
 dev/.env
 dump.sql
 htdocs/.env
-security.txt
 settings/.env
 backup.sql
 blog/.env
@@ -78,6 +78,7 @@ v1/.env
 v2/.env
 config.php.bak
 docker-compose.yaml
+mcp/
 site.zip
 storage/logs/laravel.log
 .env.json
@@ -96,7 +97,6 @@ error.log
 laravel.log
 library/.env
 local/.env
-mcp/
 media/.env
 new/.env
 package-lock.json
@@ -166,6 +166,7 @@ saas/.env
 store/.env
 bak/.env
 google-services.json
+mcp
 server.key
 .aws/.env
 .bedrock/.env
@@ -205,7 +206,6 @@ log/.env
 login/.env
 logs/
 logs/.env
-mcp
 node/.env
 php_error.log
 php_errors.log
@@ -234,18 +234,18 @@ wp-config.php.backup
 .env.stage
 .env.live
 sse
+.well-known/security.txt
+api/mcp
 wp-config.php.bak
 .env.dev.local
 .env.staging.local
 .env_sample
-api/mcp
 developmentserver/metadatauploader
 login
 .aws/config
 .env.default
 .env.template
 .env~
-.well-known/security.txt
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 containers/json
 docker/.env

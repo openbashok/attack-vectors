@@ -38,10 +38,10 @@ www
 dev
 secrets.yaml
 core
+mcp
 server
 storage
 login
-mcp
 demo
 v1
 .env.bak
@@ -60,6 +60,7 @@ debug
 settings.py
 .env.local.php
 beta
+security.txt
 sendgrid
 HEAD
 crm
@@ -71,9 +72,9 @@ old
 tests
 .env.prod
 .svn
-security.txt
 view
 blog
+robots.txt
 var
 .ssh
 auth
@@ -89,7 +90,6 @@ settings.json
 apps
 docker-compose.yml
 phpinfo.php
-robots.txt
 site
 .env.development
 administrator
@@ -138,6 +138,7 @@ sh
 test.php
 .env.dist
 .env.orig
+.well-known
 database.sql
 dump.sql
 home
@@ -145,7 +146,6 @@ backup.sql
 db.sql
 debug.log
 package.json
-.well-known
 application.properties
 config.php.bak
 docker-compose.yaml
@@ -243,9 +243,9 @@ panel
 rest
 .env.live
 mysql
+sse
 wp-admin
 json
-sse
 wp-config.php.bak
 .env.dev.local
 .env.staging.local
