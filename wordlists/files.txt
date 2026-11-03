@@ -37,8 +37,8 @@ phpinfo.php
 .gitlab-ci.yml
 config.php
 wp-config.php
-login
 robots.txt
+login
 secrets.yml
 .env.testing
 info.php
@@ -186,6 +186,7 @@ id_ed25519
 login.htm
 sdk
 settings.php
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 wp-config.php.save
 .env.2
@@ -200,7 +201,6 @@ formLogin
 id_dsa
 sftp-config.json
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.copy
 Dr0v
 Gemfile.lock

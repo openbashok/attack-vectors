@@ -34,10 +34,10 @@ wp-config.php
 .git/HEAD
 site/.env
 www/.env
+robots.txt
 .env.testing
 admin/.env
 info.php
-robots.txt
 old/.env
 prod/.env
 html/.env
@@ -63,6 +63,7 @@ credentials.json
 crm/.env
 database.sql
 dump.sql
+security.txt
 settings/.env
 backup.sql
 blog/.env
@@ -70,7 +71,6 @@ db.sql
 dev/.env
 htdocs/.env
 package.json
-security.txt
 v1/.env
 v2/.env
 config.php.bak
@@ -251,6 +251,7 @@ geoserver/web/
 .htaccess
 .htpasswd
 .ssh/id_rsa
+.well-known/security.txt
 build/.env
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 login
@@ -261,7 +262,6 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 .env.uat
 .npmrc
-.well-known/security.txt
 config.php
 hello.world
 test.hello
@@ -355,6 +355,7 @@ remote/login
 sdk
 shared/.env
 sites/all/libraries/mailchimp/.env
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 static../.git/config
 terraform.tfstate.backup
 wp-admin/.env
@@ -389,7 +390,6 @@ project/.git/config
 settings.php
 sftp-config.json
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 +CSCOE+/logon.html
 .env.copy
 Dr0v

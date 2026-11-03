@@ -75,12 +75,12 @@ blog
 old
 .ssh
 database.yml
+security.txt
 temp
 tmp
 new
 ..
 log
-security.txt
 .env.old
 apps
 docker-compose.yml
@@ -172,6 +172,7 @@ store
 .env.php.bak
 .env.production.php
 .env.sample.php
+.well-known
 API
 actuator
 apis
@@ -184,7 +185,6 @@ open
 secrets.env
 static
 twilio
-.well-known
 aws.env
 download
 images
@@ -343,6 +343,7 @@ qa
 remote
 sdk
 settings.php
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 terraform.tfstate.backup
 wp-config.php.save
@@ -373,7 +374,6 @@ myadmin
 php
 sftp-config.json
 sitemap.xml
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 users
 +CSCOE+
 .env.copy
