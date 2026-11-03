@@ -116,6 +116,8 @@ secrets.json
 shop
 config.js
 data
+get
+ip.cypher.rest:443
 .docker
 application
 application.yml
@@ -125,8 +127,6 @@ site.zip
 sql
 system
 entries
-get
-ip.cypher.rest:443
 uploads
 ws
 .env.production.local

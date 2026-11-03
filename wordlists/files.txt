@@ -48,11 +48,11 @@ terraform.tfstate
 credentials.json
 secrets.json
 config.js
+get
+ip.cypher.rest:443
 application.yml
 site.zip
 entries
-get
-ip.cypher.rest:443
 .env.production.local
 aws.yml
 sh

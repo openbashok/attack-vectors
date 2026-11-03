@@ -42,6 +42,8 @@ html/.env
 prod/.env
 config.js
 core/.env
+get
+ip.cypher.rest:443
 backup/.env
 client/.env
 secrets.json
@@ -49,8 +51,6 @@ secrets.json
 _profiler/phpinfo
 api/.git/config
 database.yml
-get
-ip.cypher.rest:443
 settings.py
 .env.production.local
 .kube/config
