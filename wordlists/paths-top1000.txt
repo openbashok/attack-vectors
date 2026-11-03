@@ -27,12 +27,12 @@ web/.env
 .env.development
 frontend/.env
 public/.env
+robots.txt
 server/.env
 phpinfo.php
 wp-config.php
 .git/HEAD
 .gitlab-ci.yml
-robots.txt
 site/.env
 www/.env
 admin/.env
@@ -329,6 +329,7 @@ database/.env
 login.htm
 public/.git/config
 remote/login
+sitemap.xml
 src/.git/config
 wp-content/.env
 .env.1
@@ -343,7 +344,6 @@ login.html
 manage/account/login
 secrets.py
 server/.git/config
-sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 terraform.tfstate.backup
 vendor/.env

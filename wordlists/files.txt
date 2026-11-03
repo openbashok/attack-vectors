@@ -26,18 +26,18 @@ HEAD
 .env.backup
 .env.test
 .env.prod
-view
 security.txt
+view
 database.yml
 login
 .env.old
 settings.json
 docker-compose.yml
 phpinfo.php
+robots.txt
 .env.development
 config.env
 config.php
-robots.txt
 wp-config.php
 .gitlab-ci.yml
 secrets.yml
@@ -173,6 +173,7 @@ Jenkinsfile
 aws.json
 login.htm
 sftp.json
+sitemap.xml
 wc.db
 .env.1
 api
@@ -180,7 +181,6 @@ app.php
 master.key
 secrets.py
 settings.php
-sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 .env.test.local

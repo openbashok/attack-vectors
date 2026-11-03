@@ -71,9 +71,9 @@ old
 tests
 .env.prod
 .svn
+security.txt
 view
 blog
-security.txt
 var
 .ssh
 auth
@@ -89,6 +89,7 @@ settings.json
 apps
 docker-compose.yml
 phpinfo.php
+robots.txt
 site
 .env.development
 administrator
@@ -96,7 +97,6 @@ prod
 project
 config.env
 config.php
-robots.txt
 wp-config.php
 .gitlab-ci.yml
 client
@@ -145,13 +145,13 @@ backup.sql
 db.sql
 debug.log
 package.json
+.well-known
 application.properties
 config.php.bak
 docker-compose.yaml
 local
 services
 .env.json
-.well-known
 appsettings.json
 base
 env.json
@@ -316,6 +316,7 @@ phpmyadmin
 production
 remote
 sftp.json
+sitemap.xml
 wc.db
 .env.1
 account
@@ -330,7 +331,6 @@ pub
 scripts
 secrets.py
 settings.php
-sitemap.xml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfstate.backup
 +CSCOE+
