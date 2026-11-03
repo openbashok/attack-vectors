@@ -210,6 +210,7 @@ Gemfile.lock
 admin
 composer.lock
 db.sql.gz
+diag_Form
 environ
 login.jsp
 version
@@ -219,7 +220,6 @@ www.zip
 Dockerfile
 abc6
 abc8
-diag_Form
 docs
 swagger.json
 wp-config.bak

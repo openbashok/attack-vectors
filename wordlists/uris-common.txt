@@ -403,6 +403,7 @@ sftp-config.json
 .well-known/pki-validation/update
 Dr0v
 Gemfile.lock
+GponForm/diag_Form?images/
 admin/config.php
 backup.tar.gz
 backup.zip
@@ -419,7 +420,6 @@ www.zip
 .ssh/id_ed25519
 .travis.yml
 Dockerfile
-GponForm/diag_Form?images/
 abc6
 abc8
 actuator/health
