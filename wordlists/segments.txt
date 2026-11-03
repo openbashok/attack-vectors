@@ -281,6 +281,7 @@ sites
 test.hello
 vue-heroes
 wp-config.php.old
+*
 V2
 database
 database.php
@@ -289,7 +290,6 @@ libraries
 workspace
 yii
 zend
-*
 .env.preprod
 .env.sandbox
 .env.secret
@@ -506,6 +506,7 @@ $(pwd)
 .env_dev
 .env_prod
 07-accessing-data
+Current
 aaa9
 admin.php
 api-docs
@@ -526,10 +527,12 @@ console
 credentials.yml.enc
 default_settings
 docker-compose.override.yml
+ecp
 engine
 env.php
 env.txt
 environment.rb
+exporttool
 functions
 icanhazip.com:443
 id_rsa.pub
@@ -538,6 +541,7 @@ local.py
 logon.aspx
 mcp.json
 metadata
+microsoft.exchange.ediscovery.exporttool.application
 myapp
 oracle-vagrant-boxes
 proc
@@ -574,7 +578,6 @@ Archipel
 Assignment4
 ClientApp
 ContainerRegistry
-Current
 Datavase
 FIRST_CONFIG
 Nosto
@@ -619,7 +622,6 @@ directories
 django_project_path
 docker-node-mongo-redis
 drupal-test
-ecp
 env-config
 environment
 environment.json
@@ -627,7 +629,6 @@ error
 errors
 example
 example27-how-to-load-env
-exporttool
 fedex
 fileserver
 films
@@ -661,7 +662,6 @@ logging
 login.asp
 magento
 metrics
-microsoft.exchange.ediscovery.exporttool.application
 misc
 mysqlmanager
 next
@@ -990,6 +990,7 @@ wp-load.php
 wp-login.php
 wp-pma-mod
 wp-settings.php
+www.cloudflare.com:443
 www.tar.gz
 xml
 xmlrpc.php

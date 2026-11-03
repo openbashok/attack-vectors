@@ -164,11 +164,11 @@ database.php
 configuration.php
 health
 index
+*
 .git-credentials
 Jenkinsfile
 sftp.json
 wc.db
-*
 .env.txt
 .env_1
 app.php
@@ -301,6 +301,7 @@ id_rsa.pub
 local.py
 logon.aspx
 mcp.json
+microsoft.exchange.ediscovery.exporttool.application
 server-status
 settings
 terraform.tfvars
@@ -333,7 +334,6 @@ environment.json
 heapdump
 license.txt
 login.asp
-microsoft.exchange.ediscovery.exporttool.application
 one.one.one.one:443
 pom.xml
 private.key
@@ -529,6 +529,7 @@ wp-json
 wp-load.php
 wp-login.php
 wp-settings.php
+www.cloudflare.com:443
 www.tar.gz
 xml
 xmlrpc.php
