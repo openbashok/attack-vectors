@@ -33,16 +33,17 @@ security.txt
 docker-compose.yml
 .env.development
 config.env
+login
 phpinfo.php
 .gitlab-ci.yml
 config.php
 wp-config.php
 robots.txt
-login
 secrets.yml
 .env.testing
 info.php
 settings.json
+index.html
 secrets.json
 application.yml
 config.js
@@ -52,7 +53,6 @@ entries
 get
 ip.cypher.rest:443
 terraform.tfstate
-index.html
 sh
 test.php
 .env.dist
@@ -147,13 +147,13 @@ metadatauploader
 .htpasswd
 HNAP1
 config.py
+login.html
 .env.ci
 .env.config
 .env.sample
 .env.uat
 .npmrc
 hello.world
-login.html
 test.hello
 wp-config.php.old
 database.php
@@ -172,6 +172,7 @@ wc.db
 .env.txt
 .env_1
 app.php
+login.htm
 master.key
 secrets.py
 .env.1
@@ -183,7 +184,6 @@ backup.tar.gz
 config.inc.php
 config.yml
 id_ed25519
-login.htm
 sdk
 settings.php
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
@@ -199,6 +199,8 @@ aws.json
 docker-compose.prod.yml
 formLogin
 id_dsa
+login.cgi
+logon.html
 sftp-config.json
 sitemap.xml
 .env.copy
@@ -208,8 +210,7 @@ admin
 composer.lock
 db.sql.gz
 environ
-login.cgi
-logon.html
+login.jsp
 update
 version
 www.zip
@@ -220,7 +221,6 @@ abc6
 abc8
 diag_Form
 docs
-login.jsp
 swagger.json
 wp-config.bak
 wp-config.php.orig
@@ -332,6 +332,7 @@ console
 environment.json
 heapdump
 license.txt
+login.asp
 microsoft.exchange.ediscovery.exporttool.application
 one.one.one.one:443
 pom.xml
@@ -403,7 +404,6 @@ index.php~
 known_hosts
 list
 logfile
-login.asp
 logout
 modern
 myadmin

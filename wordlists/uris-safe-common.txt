@@ -268,6 +268,7 @@ _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 config.php
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
+login
 test.hello_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -295,7 +296,6 @@ lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-login
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -329,6 +329,7 @@ app/config/.env
 config/database.php
 config/secrets.yml
 database/.env
+index.html
 public/.git/config
 src/.git/config
 wp-content/.env
@@ -342,7 +343,7 @@ backend/.env.local
 config.py
 config/app.php
 config/master.key
-index.html
+login.htm
 secrets.py
 server/.git/config
 vendor/.env
@@ -357,7 +358,8 @@ cgi-bin/.env
 deploy/.env
 development/.env
 evox/about
-login.htm
+login.html
+manage/account/login
 protected/.env
 sdk
 shared/.env
@@ -367,6 +369,7 @@ static../.git/config
 terraform.tfstate.backup
 wp-admin/.env
 wp-config.php.save
++CSCOE+/logon.html
 .docker/config.json
 .env.2
 .env.docker
@@ -374,9 +377,11 @@ wp-config.php.save
 .env_old
 .vscode/settings.json
 _static/.env
+admin/index.html
 app/.env.local
 assets../.git/config
 backup/.git/config
+cgi-bin/login.cgi
 cms/.git/config
 compose/.env
 config.inc.php
@@ -388,25 +393,21 @@ dev/.git/config
 docker-compose.prod.yml
 docker-compose/.env
 files/.git/config
-login.html
-manage/account/login
 media../.git/config
 media/.git/config
 project/.git/config
 settings.php
 sftp-config.json
 sitemap.xml
-+CSCOE+/logon.html
 .env.copy
 Dr0v
 Gemfile.lock
 admin/config.php
-admin/index.html
 backup.tar.gz
 backup.zip
-cgi-bin/login.cgi
 composer.lock
 current/.env
+login.jsp
 mail/.env
 private/.env
 production/.env
@@ -428,7 +429,6 @@ config/aws.json
 config/aws.yml
 config/config.php
 dist/.env
-login.jsp
 panel/.env
 server/.env.local
 var/www/.env
@@ -555,6 +555,7 @@ config.php.save
 config/credentials.yml.enc
 config/environment.rb
 django/settings.py
+doc/index.html
 docker-compose.override.yml
 docker/compose/.env
 docker/compose/withMySQL/.env
@@ -573,6 +574,7 @@ owa/auth/logon.aspx
 owa/auth/x.js
 php/.env
 proc/self/environ
+remote/login
 root/.aws/credentials
 root/.env
 server-status
@@ -616,6 +618,7 @@ acme-challenge/.env
 acme/.env
 actuator/heapdump
 admin.php
+admin/login.asp
 alpha/.env
 anaconda/.env
 ansible.cfg
@@ -675,7 +678,6 @@ directories/.env
 django/.env
 django_project_path/.env
 doc/.env
-doc/index.html
 docker-node-mongo-redis/.env
 drupal/.env
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
@@ -741,7 +743,6 @@ pub/.env
 qa/.env
 rails/.env
 react/.env
-remote/login
 repo/.env
 repos/.env
 resources/.env
@@ -829,7 +830,6 @@ actuator/logfile
 admin
 admin/.env.production
 admin/login
-admin/login.asp
 administrator
 adminpanel
 ads.txt
