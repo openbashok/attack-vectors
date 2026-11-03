@@ -144,10 +144,10 @@ metadatauploader
 id_rsa
 login.html
 v1
+HNAP1
 .htaccess
 .htpasswd
 .npmrc
-HNAP1
 config.py
 .env.ci
 .env.config
@@ -199,6 +199,7 @@ sdk
 .env.tmp
 .env_old
 .envrc
+Dr0v
 authorized_keys
 docker-compose.prod.yml
 environ
@@ -210,7 +211,6 @@ swagger.json
 update
 .env.copy
 .env.prod.local
-Dr0v
 Gemfile.lock
 admin
 composer.lock

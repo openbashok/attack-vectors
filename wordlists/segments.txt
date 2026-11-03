@@ -262,6 +262,7 @@ login.html
 shared
 testing
 .github
+HNAP1
 geoserver
 root
 wp-json
@@ -269,7 +270,6 @@ wp-json
 .htaccess
 .htpasswd
 .npmrc
-HNAP1
 build
 config.py
 sites
@@ -365,6 +365,7 @@ $(pwd)
 .env.tmp
 .env_old
 .envrc
+Dr0v
 _static
 assets..
 authorized_keys
@@ -393,7 +394,6 @@ users
 .env.prod.local
 09-managing-state
 @fs
-Dr0v
 Gemfile.lock
 GponForm
 azure
