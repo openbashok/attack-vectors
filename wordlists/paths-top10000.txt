@@ -250,6 +250,7 @@ docker/.env
 build/.env
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 geoserver/web/
+login
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .aws/config
 .docker/.env
@@ -262,7 +263,6 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 config.php
 containers/json
 hello.world
-login
 test.hello
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -392,6 +392,7 @@ sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 +CSCOE+/logon.html
 Dr0v
 Gemfile.lock
+admin/config.php
 admin/index.html
 backup.tar.gz
 backup.zip
@@ -411,7 +412,6 @@ Dockerfile
 abc6
 abc8
 actuator/health
-admin/config.php
 api/.env.local
 app/.env.production
 config/aws.json
@@ -815,6 +815,7 @@ db.py
 debug
 docs/setup.md
 druid/index.html
+health
 known_hosts
 manager/html
 manager/text/list
@@ -968,7 +969,6 @@ ews/exchange.asmx
 export.sql
 frontend/.git/config
 gcp-credentials.json
-health
 health/liveliness
 home.tar.gz
 hudson

@@ -31,14 +31,14 @@ database.yml
 security.txt
 .env.old
 docker-compose.yml
+config.php
 .env.development
 config.env
-config.php
 phpinfo.php
 .gitlab-ci.yml
+login
 robots.txt
 wp-config.php
-login
 secrets.yml
 .env.testing
 info.php
@@ -162,8 +162,8 @@ v1
 .env.secret
 .env.swp
 configuration.php
-Jenkinsfile
 health
+Jenkinsfile
 index
 sftp.json
 *

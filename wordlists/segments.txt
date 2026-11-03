@@ -26,8 +26,8 @@ web
 config.json
 .aws
 SDK
-public
 webLanguage
+public
 logs
 lib
 app_dev.php
@@ -43,8 +43,8 @@ storage
 credentials
 demo
 .env.example
-.env.bak
 login
+.env.bak
 docker
 cgi-bin
 assets
@@ -84,6 +84,7 @@ tmp
 apps
 docker-compose.yml
 administrator
+config.php
 db
 log
 prod
@@ -92,7 +93,6 @@ var
 .env.development
 auth
 config.env
-config.php
 phpinfo.php
 .gitlab-ci.yml
 client
@@ -271,6 +271,7 @@ geoserver
 .env.uat
 .npmrc
 LICENSE
+health
 hello.world
 login.html
 sites
@@ -282,7 +283,6 @@ V2
 database
 database.php
 ec
-health
 libraries
 workspace
 yii

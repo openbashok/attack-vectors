@@ -293,6 +293,7 @@ lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+login
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -317,7 +318,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 conf/.env
 configuration.php
 configuration/.env
-login
 phpinfo
 public_html/.env
 Jenkinsfile
@@ -398,6 +398,7 @@ sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 +CSCOE+/logon.html
 Dr0v
 Gemfile.lock
+admin/config.php
 admin/index.html
 backup.tar.gz
 backup.zip
@@ -417,7 +418,6 @@ Dockerfile
 abc6
 abc8
 actuator/health
-admin/config.php
 api/.env.local
 app/.env.production
 config/aws.json
@@ -830,6 +830,7 @@ db.py
 debug
 docs/setup.md
 druid/index.html
+health
 index.php?rest_route=/batch/v1
 known_hosts
 manager/html
