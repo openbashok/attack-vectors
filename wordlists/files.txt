@@ -221,6 +221,8 @@ Dockerfile
 abc6
 abc8
 docs
+files
+pub
 swagger.json
 wp-config.bak
 wp-config.php.orig
@@ -254,13 +256,12 @@ credentials.py
 credentials.yml
 db.php
 deployment.yaml
+downloads
 ecosystem.config.js
-files
 id_ecdsa
 local_settings.py
 login.js
 openapi.json
-pub
 wp-config.php.txt
 .dockerenv
 .env.aws
@@ -292,7 +293,6 @@ config.php.save
 configprops
 credentials.yml.enc
 docker-compose.override.yml
-downloads
 env.php
 env.txt
 environment.rb

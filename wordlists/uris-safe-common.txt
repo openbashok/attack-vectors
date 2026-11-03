@@ -429,7 +429,9 @@ config/aws.json
 config/aws.yml
 config/config.php
 dist/.env
+files/
 panel/.env
+pub/
 server/.env.local
 var/www/.env
 wp-config.bak
@@ -484,11 +486,11 @@ dev/.env.local
 docker/app/.env
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
+downloads/
 ecosystem.config.js
 en/.env
 env/.env
 exapi/.env
-files/
 files/.env
 kyc/.env
 lab/.env
@@ -506,7 +508,6 @@ new/.env.staging
 openapi.json
 product/.env.staging
 psnlink/.env
-pub/
 redmine/.env
 releases/.env
 remote/login_lang=en
@@ -560,7 +561,6 @@ docker-compose.override.yml
 docker/compose/.env
 docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
-downloads/
 engine/.env
 env.txt
 frontend/.env.local

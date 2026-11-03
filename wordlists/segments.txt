@@ -200,6 +200,7 @@ bak
 bedrock.env
 configuration.json
 env-config.js
+files
 google-services.json
 platform
 server.key
@@ -223,7 +224,6 @@ developer
 env.example
 erp
 facturacion
-files
 infos
 node
 parameters.yml
@@ -316,6 +316,7 @@ login.htm
 master.key
 owa
 pma
+pub
 remote
 scripts
 secrets.py
@@ -341,7 +342,6 @@ manage
 phpMyAdmin
 private
 protected
-pub
 qa
 sdk
 settings.php
@@ -412,6 +412,7 @@ abc6
 abc8
 ansible
 autodiscover
+downloads
 en
 s3
 solr
@@ -458,7 +459,6 @@ db.php
 dbadmin
 deployment
 deployment.yaml
-downloads
 ecosystem.config.js
 end
 exapi
