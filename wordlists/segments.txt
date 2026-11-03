@@ -768,6 +768,7 @@ sellers.json
 server-status
 server.crt
 setup.md
+shell
 stripe-credentials.json
 text
 themes
@@ -929,7 +930,6 @@ server_info
 service-account-credentials.json
 setup.cgi
 setup.php
-shell
 shopdb
 site.sql
 soap

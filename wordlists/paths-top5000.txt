@@ -1092,6 +1092,7 @@ service/.env.production
 service/.env.staging
 setup.cgi
 setup.php
+shell
 shop/.env.local
 shop/.env.production
 shop/.env.staging
@@ -1576,6 +1577,7 @@ infra.zip
 infrastructure.zip
 internal_forms_authentication
 inventory.ini
+ip.ifconfig.dpdns.org:443
 items/.env
 jasperserver-pro/login.html
 jasperserver/login.html
@@ -1751,7 +1753,6 @@ settings.gradle
 settings.ini
 settings.tar.gz
 settings.zip
-shell
 showLogin.cc
 signin
 site/.git/config

