@@ -252,6 +252,7 @@ index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .ssh/id_rsa
 build/.env
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
+geoserver/web/
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .aws/config
 .docker/.env
@@ -264,7 +265,6 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 config.php
 containers/json
-geoserver/web/
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
 test.hello_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
@@ -317,6 +317,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 conf/.env
 configuration.php
 configuration/.env
+login
 phpinfo
 public_html/.env
 Jenkinsfile
@@ -336,7 +337,6 @@ backend/.env.local
 config.py
 config/app.php
 config/master.key
-login
 secrets.py
 server/.git/config
 vendor/.env
@@ -354,6 +354,7 @@ cgi-bin/.env
 deploy/.env
 development/.env
 evox/about
+login.htm
 protected/.env
 sdk
 shared/.env
@@ -402,7 +403,6 @@ backup.tar.gz
 backup.zip
 cgi-bin/login.cgi
 current/.env
-login.htm
 mail/.env
 private/.env
 production/.env
@@ -541,6 +541,7 @@ api.ipinfo.io:443
 api/
 app.json
 app/settings.py
+autodiscover/autodiscover.json_@zdi/Powershell
 backend/.git/config
 boaform/admin/formLogin_username=adminisp_psd=adminisp
 client/.env.local
@@ -624,7 +625,6 @@ app/frontend/.env
 app1-static/.env
 app2-static/.env
 app_nginx_static_path/.env
-autodiscover/autodiscover.json_@zdi/Powershell
 aws-ses.json
 aws/.env
 aws/credentials

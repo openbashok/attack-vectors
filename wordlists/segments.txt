@@ -25,8 +25,8 @@ _profiler
 web
 config.json
 .aws
-public
 SDK
+public
 webLanguage
 logs
 lib
@@ -44,9 +44,9 @@ credentials
 demo
 .env.example
 .env.bak
+login
 docker
 cgi-bin
-login
 assets
 backup
 v2
@@ -264,13 +264,13 @@ HNAP1
 build
 config.py
 containers
+geoserver
 .env.ci
 .env.config
 .env.sample
 .env.uat
 .npmrc
 LICENSE
-geoserver
 hello.world
 login.html
 sites
@@ -329,6 +329,7 @@ deploy
 development
 docker-compose
 evox
+login.htm
 mailchimp
 phpMyAdmin
 private
@@ -384,7 +385,6 @@ environ
 id_ed25519
 includes
 login.cgi
-login.htm
 logon.html
 mail
 run
@@ -398,6 +398,7 @@ www.zip
 Dockerfile
 abc6
 abc8
+autodiscover
 css
 en
 id_dsa
@@ -438,7 +439,6 @@ application-prod.properties
 application-prod.yml
 application.properties.bak
 appsettings.production.json
-autodiscover
 azure
 blogs
 code
@@ -507,6 +507,7 @@ api-docs
 api.ipinfo.io:443
 app.json
 astguiclient.php
+autodiscover.json
 batch
 bdd
 boxes
@@ -582,7 +583,6 @@ ansible.cfg
 app1-static
 app2-static
 app_nginx_static_path
-autodiscover.json
 aws-ses.json
 awstats
 back-end
@@ -855,6 +855,7 @@ hudson
 identity
 inc
 include
+index.htm
 index.js
 install.php
 javascript

@@ -249,6 +249,7 @@ docker/.env
 .ssh/id_rsa
 build/.env
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
+geoserver/web/
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .aws/config
 .docker/.env
@@ -260,8 +261,8 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .well-known/security.txt
 config.php
 containers/json
-geoserver/web/
 hello.world
+login
 test.hello
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -309,7 +310,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 conf/.env
 configuration.php
 configuration/.env
-login
 phpinfo
 public_html/.env
 Jenkinsfile
@@ -346,6 +346,7 @@ cgi-bin/.env
 deploy/.env
 development/.env
 evox/about
+login.htm
 protected/.env
 remote/login
 sdk
@@ -396,7 +397,6 @@ backup.tar.gz
 backup.zip
 cgi-bin/login.cgi
 current/.env
-login.htm
 mail/.env
 private/.env
 production/.env
@@ -534,6 +534,7 @@ api.ipinfo.io:443
 api/
 app.json
 app/settings.py
+autodiscover/autodiscover.json
 backend/.git/config
 client/.env.local
 composer.json
@@ -614,7 +615,6 @@ app/frontend/.env
 app1-static/.env
 app2-static/.env
 app_nginx_static_path/.env
-autodiscover/autodiscover.json
 aws-ses.json
 aws/.env
 aws/credentials
@@ -979,6 +979,7 @@ inc/config.php
 include/config.php
 includes/config.php
 includes/db.php
+index.htm
 install.php
 lib/config.php
 live/.env.local
