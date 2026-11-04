@@ -16,8 +16,8 @@ config.json
 .env.prod
 .env.test
 .aws/credentials
-.env.staging
 robots.txt
+.env.staging
 .env.old
 backend/.env
 .env.example
@@ -50,9 +50,9 @@ _profiler/phpinfo
 backup/.env
 core/.env
 database.yml
+security.txt
 settings.py
 client/.env
-security.txt
 storage/.env
 .svn/entries
 api/.git/config
@@ -177,6 +177,7 @@ server.key
 .env.save.1
 .env/.env
 .json
+.well-known/security.txt
 Application/.env
 api/mcp
 api/test
@@ -236,7 +237,6 @@ user/.env
 v3/.env
 wp-config.php.backup
 .env.stage
-.well-known/security.txt
 wp-config.php.bak
 .aws/config
 .env.live
@@ -370,6 +370,7 @@ vendor/.env
 www/.git/config
 .env.test.local
 .env.www
+Dr0v
 audio/.env
 backups/.env
 cgi-bin/.env
@@ -391,7 +392,6 @@ wp-admin/.env
 .travis.yml
 .vscode/settings.json
 .well-known/pki-validation/update
-Dr0v
 _static/.env
 aaa9
 actuator/configprops
@@ -441,6 +441,8 @@ mail/.env
 private/.env
 production/.env
 terraform.tfvars
+version
+ws
 www.zip
 .env.aws
 .envrc
@@ -465,7 +467,7 @@ root/.aws/credentials
 server-status
 server/.env.local
 service-account.json
-version
+v1
 wp-config.bak
 wp-config.php_
 .boto
@@ -549,10 +551,8 @@ sitemaps/.env
 storage/.env.local
 tools/.env
 user/.env.staging
-v1
 vendor/laravel/.env
 wp-config.php.txt
-ws
 .config/gcloud/application_default_credentials.json
 .dockerenv
 .env.bak_
@@ -778,6 +778,7 @@ projbackend/.env
 pub/.env
 qa/.env
 rails/.env
+raw
 react/.env
 repo/.env
 repos/.env
@@ -794,6 +795,7 @@ server/config/.env
 services/traefik/.env
 sites/.env
 soap
+socket.io/_EIO=4_transport=websocket
 sources/.env
 speed.cloudflare.com:443
 src/gameprovider-service/.env

@@ -37,10 +37,10 @@ lib
 www
 frontend
 storage
+v1
 dev
 login
 server
-v1
 secrets.yaml
 core
 demo
@@ -56,10 +56,10 @@ docker
 laravel.log
 .env.dev
 .env.save
+security.txt
 staging
 HEAD
 debug
-security.txt
 settings.py
 .env.local.php
 default
@@ -73,11 +73,11 @@ sendgrid
 .env.test
 cms
 old
+robots.txt
 database.yml
 sql
 tests
 administrator
-robots.txt
 .svn
 auth
 blog
@@ -118,6 +118,8 @@ ip.cypher.rest:443
 media
 portal
 shop
+ws
+.well-known
 actuator
 application.yml
 aws
@@ -127,8 +129,6 @@ system
 .kube
 data
 htdocs
-ws
-.well-known
 application
 aws.yml
 bin
@@ -364,6 +364,7 @@ swagger
 terraform.tfvars
 .env.test.local
 .env.www
+Dr0v
 all
 audio
 azure
@@ -382,6 +383,7 @@ self
 service-account.json
 static..
 update
+version
 .env.2
 .env.prod.local
 .env.tmp
@@ -390,7 +392,6 @@ update
 .idea
 .terraform
 .travis.yml
-Dr0v
 _static
 aaa9
 assets..
@@ -417,7 +418,6 @@ phpmyadmin5
 pki-validation
 secrets
 users
-version
 wp-config.php.orig
 .env.copy
 .netrc
@@ -744,6 +744,7 @@ pfbe
 pom.xml
 preview
 private.key
+raw
 repo
 repos
 robots
@@ -753,6 +754,7 @@ script
 serve-browserbench
 service-account-credentials.json
 soap
+socket.io
 sources
 speed.cloudflare.com:443
 ssl.key
@@ -1125,6 +1127,7 @@ epa
 ews
 exchange.asmx
 export.sql
+favicon
 fidry
 fly.toml
 gcp-key.json
@@ -1170,7 +1173,6 @@ prod.secret.exs
 production.env
 production.key
 proxy.php
-raw
 runtime-config.js
 secret.json
 sendgrid.yml
@@ -1182,7 +1184,6 @@ settings.xml
 setup.cgi
 setup.php
 site.sql
-socket.io
 sql.php
 studioserver
 svs-path-check-nonexistent
