@@ -236,6 +236,7 @@ wp-config.php.backup
 .env.live
 api/mcp
 .well-known/security.txt
+developmentserver/metadatauploader
 login
 wp-config.php.bak
 .aws/config
@@ -243,7 +244,6 @@ wp-config.php.bak
 .env.staging.local
 .env_sample
 .env~
-developmentserver/metadatauploader
 geoserver/web/
 .env.default
 .env.template

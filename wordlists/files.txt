@@ -133,13 +133,13 @@ wp-config.php.backup
 .env.stage
 .env.live
 json
+metadatauploader
 wp-config.php.bak
 .env.dev.local
 .env.staging.local
 .env_sample
 .env~
 login.html
-metadatauploader
 .env.default
 .env.template
 id_rsa

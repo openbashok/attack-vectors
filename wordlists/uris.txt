@@ -238,13 +238,13 @@ wp-config.php.backup
 .env.live
 api/mcp
 .well-known/security.txt
+developmentserver/metadatauploader
 wp-config.php.bak
 .aws/config
 .env.dev.local
 .env.staging.local
 .env_sample
 .env~
-developmentserver/metadatauploader
 geoserver/web/
 .env.default
 .env.template
@@ -1803,6 +1803,7 @@ next.config.js
 nextjs.zip
 ng/
 ni7O
+nice%20ports%2C/Tri%6Eity.txt%2ebak
 node.zip
 nodejs.zip
 ntxohlrylfokkz

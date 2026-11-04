@@ -248,6 +248,8 @@ json
 root
 s3
 wp-admin
+developmentserver
+metadatauploader
 wp-config.php.bak
 .env.dev.local
 .env.staging.local
@@ -255,11 +257,9 @@ wp-config.php.bak
 .env~
 .github
 containers
-developmentserver
 drupal
 geoserver
 login.html
-metadatauploader
 testing
 *
 .env.default
