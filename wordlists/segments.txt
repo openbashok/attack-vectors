@@ -77,11 +77,11 @@ database.yml
 sql
 tests
 administrator
+robots.txt
 .svn
 auth
 blog
 html
-robots.txt
 settings.json
 view
 .env.old
@@ -118,12 +118,12 @@ ip.cypher.rest:443
 media
 portal
 shop
+actuator
 application.yml
 aws
 compose
 .env.production.local
 .kube
-actuator
 data
 htdocs
 system
@@ -277,11 +277,11 @@ wp-json
 .env.swp
 configuration.php
 etc
+health
 wp-config.php.old
 .htaccess
 LICENSE
 build
-health
 hello.world
 settings.php
 test.hello
@@ -896,6 +896,7 @@ host_vars
 htpasswd.txt
 hubspot.config
 hubspot.json
+hudson
 icons
 index.min.js
 index.php.bak
@@ -1134,7 +1135,6 @@ hibernate.cfg.xml
 home.tar.gz
 horizon
 hubspot.yml
-hudson
 identity
 inc
 include

@@ -18,9 +18,9 @@ config.json
 .env.test
 .aws/credentials
 .env.staging
+robots.txt
 .env.old
 backend/.env
-robots.txt
 .env.example
 src/.env
 .env.development
@@ -387,6 +387,7 @@ wp-admin/.env
 Dr0v
 _static/.env
 actuator/configprops
+actuator/health
 admin/config.php
 app/.env.local
 app/.env.production
@@ -421,7 +422,6 @@ wp-config.php.orig
 .yarnrc.yml
 Gemfile.lock
 GponForm/diag_Form
-actuator/health
 ansible.cfg
 application-prod.yml
 backup.tar.gz

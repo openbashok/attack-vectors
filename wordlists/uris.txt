@@ -17,9 +17,9 @@ config.json
 .env.test
 .aws/credentials
 .env.staging
+robots.txt
 .env.old
 backend/.env
-robots.txt
 .env.example
 src/.env
 .env.development
@@ -394,6 +394,7 @@ wp-admin/.env
 Dr0v
 _static/.env
 actuator/configprops
+actuator/health
 admin/config.php
 app/.env.local
 app/.env.production
@@ -427,7 +428,6 @@ wp-config.php.orig
 .yarnrc.yml
 Gemfile.lock
 GponForm/diag_Form?images/
-actuator/health
 ansible.cfg
 application-prod.yml
 backup.tar.gz
@@ -1065,6 +1065,7 @@ html/.git/config
 htpasswd.txt
 hubspot.config
 hubspot.json
+hudson
 id_ed25519
 index.php.bak
 index.php?lang=en
@@ -1420,7 +1421,6 @@ health/liveliness
 hibernate.cfg.xml
 home.tar.gz
 horizon
-hudson
 icons/.env
 inc/config.php
 include/config.php

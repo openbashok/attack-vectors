@@ -161,6 +161,7 @@ test.hello
 .env.sample
 .env.uat
 aws.json
+health
 mcp.json
 swagger.json
 wp-config.php.save
@@ -169,7 +170,6 @@ wp-config.php.save
 Jenkinsfile
 config.inc.php
 config.yml
-health
 login.htm
 sftp.json
 terraform.tfstate.backup
@@ -486,6 +486,7 @@ html
 htpasswd.txt
 hubspot.config
 hubspot.json
+hudson
 index.min.js
 index.php.bak
 index.php~
@@ -657,7 +658,6 @@ hibernate.cfg.xml
 home.tar.gz
 horizon
 hubspot.yml
-hudson
 index.htm
 infophp.php
 install.php
