@@ -25,8 +25,8 @@ laravel
 %%32%65%%32%65
 .env.staging
 SDK
-web
 webLanguage
+web
 credentials
 logs
 public
@@ -1086,6 +1086,7 @@ bedrock-credentials.json
 bedrock-credentials.yml
 bootstrap.properties
 bootstrap.yml
+cdn-cgi
 ci.yml
 classes
 client_secret.json
@@ -1186,6 +1187,7 @@ sql.php
 studioserver
 svs-path-check-nonexistent
 system:ping
+trace
 ui
 validate
 version.php
@@ -1194,6 +1196,7 @@ vpn
 vpnsvc
 web.config.bak
 webjars
+wiki
 win
 wp-blog-header.php
 wp-config.php.dist

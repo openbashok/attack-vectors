@@ -1336,6 +1336,7 @@ beta/.env.staging
 bootstrap.properties
 bootstrap.yml
 bootstrap/cache/config.php
+cdn-cgi/trace
 cgi-bin/printenv
 client_secret.json
 cluster_credentials.json
@@ -1504,6 +1505,7 @@ vpnsvc/connect.cgi
 web.config.bak
 web/.git/config
 webjars/swagger-ui/index.html
+wiki
 wp-admin/
 wp-blog-header.php
 wp-config.php.dist
@@ -1984,7 +1986,6 @@ web.tar.gz
 web_2024.zip
 webfig/
 webpack.config.js
-wiki
 woocommerce.zip
 wp-admin.zip
 wp-content.tar.gz

@@ -702,9 +702,11 @@ sql.php
 svs-path-check-nonexistent
 swagger
 system:ping
+trace
 version.php
 vpn
 web.config.bak
+wiki
 wp-blog-header.php
 wp-config.php.dist
 wp-config.php.gz
