@@ -2,8 +2,8 @@
 eval-stdin.php
 index.php
 config
-.env.local
 favicon.ico
+.env.local
 .env.production
 config.json
 .env.php
@@ -98,6 +98,7 @@ mysql.sql
 credentials.xml
 parameters.yml
 server.key
+sse
 .env.save.1
 .json
 app.log
@@ -122,7 +123,6 @@ php_errors.log
 readme.md
 requirements.txt
 server.js
-sse
 staging
 temp
 tests

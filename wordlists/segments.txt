@@ -10,8 +10,8 @@ vendor
 .git
 api
 app
-.env.local
 favicon.ico
+.env.local
 test
 .%2e
 admin
@@ -34,8 +34,8 @@ app_dev.php
 backend
 lib
 www
-frontend
 mcp
+frontend
 storage
 dev
 server
@@ -210,6 +210,7 @@ bak
 panel
 platform
 server.key
+sse
 .bedrock
 .env.save.1
 .json
@@ -237,7 +238,6 @@ readme.md
 requirements.txt
 sandbox
 server.js
-sse
 stage
 twilio.env
 wp-config.php.backup

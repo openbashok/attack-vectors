@@ -74,6 +74,7 @@ appsettings.json
 config.php.bak
 dashboard/.env
 docker-compose.yaml
+mcp/
 settings/.env
 shop/.env
 application.properties
@@ -81,7 +82,6 @@ application.yml
 blog/.env
 debug.log
 error.log
-mcp/
 package.json
 v1/.env
 v2/.env
@@ -139,6 +139,7 @@ demo/.env
 env.json
 info/
 main/.env
+mcp
 phpinfo/
 secrets.env
 sendgrid/.env
@@ -154,7 +155,6 @@ aws.yml
 bedrock.env
 configuration.json
 google-services.json
-mcp
 mysql.sql
 store/.env
 .env.development.local
@@ -169,6 +169,7 @@ home/.env
 saas/.env
 bak/.env
 server.key
+sse
 .aws/.env
 .bedrock/.env
 .claude/.env
@@ -217,7 +218,6 @@ sandbox/.env
 server.js
 service/.env
 services/.env
-sse
 stage/.env
 staging/
 static/.env
@@ -234,11 +234,11 @@ v3/.env
 wp-config.php.backup
 .env.stage
 .well-known/security.txt
+api/mcp
 wp-config.php.bak
 .aws/config
 .env.live
 .env~
-api/mcp
 developmentserver/metadatauploader
 login
 .env.dev.local
