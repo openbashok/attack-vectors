@@ -147,6 +147,7 @@ test/.env.php
 twilio/.env.php
 uploads/.env
 var/.env.local.php
+mcp
 mysql.sql
 .env.development.local
 administrator/.env
@@ -163,7 +164,6 @@ download/.env
 env-config.js
 env.json
 home/.env
-mcp
 saas/.env
 store/.env
 bak/.env
@@ -219,6 +219,7 @@ sandbox/.env
 server.js
 service/.env
 services/.env
+sse
 stage/.env
 staging/
 static/.env
@@ -234,7 +235,6 @@ user/.env
 v3/.env
 wp-config.php.backup
 .env.stage
-sse
 .env.live
 api/mcp
 .well-known/security.txt
@@ -249,10 +249,10 @@ developmentserver/metadatauploader
 .env~
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 containers/json
+geoserver/web/
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 docker/.env
-geoserver/web/
 login
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .htaccess

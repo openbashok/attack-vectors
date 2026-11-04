@@ -34,8 +34,8 @@ lib
 app_dev.php
 frontend
 backend
-www
 mcp
+www
 dev
 secrets.yaml
 core
@@ -236,12 +236,12 @@ readme.md
 requirements.txt
 sandbox
 server.js
+sse
 stage
 twilio.env
 wp-config.php.backup
 .env.stage
 rest
-sse
 .env.live
 json
 mysql
@@ -258,12 +258,12 @@ testing
 .env.default
 .env.template
 .env~
+geoserver
 id_rsa
 login.html
 shared
 .github
 HNAP1
-geoserver
 root
 wp-json
 *
