@@ -66,6 +66,7 @@ backup.sql
 db.sql
 dev/.env
 htdocs/.env
+mcp/
 storage/logs/laravel.log
 test.php
 .env.dist
@@ -74,7 +75,6 @@ appsettings.json
 config.php.bak
 dashboard/.env
 docker-compose.yaml
-mcp/
 settings/.env
 shop/.env
 application.properties
@@ -116,6 +116,7 @@ yarn.lock
 aws.env
 env-config.js
 info
+mcp
 secrets.yml
 .config.yaml
 .env.example.php
@@ -139,7 +140,6 @@ demo/.env
 env.json
 info/
 main/.env
-mcp
 phpinfo/
 secrets.env
 sendgrid/.env
@@ -167,9 +167,9 @@ docs/.env
 download/.env
 home/.env
 saas/.env
+sse
 bak/.env
 server.key
-sse
 .aws/.env
 .bedrock/.env
 .claude/.env
@@ -177,6 +177,7 @@ sse
 .env/.env
 .json
 Application/.env
+api/mcp
 api/test
 app.log
 app/config/parameters.yml
@@ -234,7 +235,6 @@ v3/.env
 wp-config.php.backup
 .env.stage
 .well-known/security.txt
-api/mcp
 wp-config.php.bak
 .aws/config
 .env.live
@@ -345,12 +345,15 @@ src/.git/config
 wp-content/.env
 .env.docker
 .git/index
+HNAP1
 admin/.git/config
 backend/.env.local
 config.inc.php
 config.py
 config/app.php
+evox/about
 login.jsp
+sdk
 secrets.py
 server/.git/config
 settings.php
@@ -360,7 +363,6 @@ vendor/.env
 www/.git/config
 .env.test.local
 .env.www
-HNAP1
 audio/.env
 backups/.env
 cgi-bin/.env
@@ -368,10 +370,8 @@ current/.env
 deploy/.env
 development/.env
 dist/.env
-evox/about
 openapi.json
 protected/.env
-sdk
 sites/all/libraries/mailchimp/.env
 static../.git/config
 swagger.json
@@ -780,6 +780,8 @@ server/config/.env
 services/traefik/.env
 sites/.env
 soap
+solr/admin/cores
+solr/admin/info/system
 sources/.env
 speed.cloudflare.com:443
 src/gameprovider-service/.env
@@ -1182,8 +1184,6 @@ settings.ini
 shopdb/index.php
 signin
 site/.git/config
-solr/admin/cores
-solr/admin/info/system
 sql/myadmin/index.php
 sql/php-myadmin/index.php
 sql/phpMyAdmin/index.php
