@@ -29,9 +29,9 @@ public/.env
 phpinfo.php
 web/.env
 wp-config.php
+.git/HEAD
 server/.env
 www/.env
-.git/HEAD
 .gitlab-ci.yml
 frontend/.env
 admin/.env
