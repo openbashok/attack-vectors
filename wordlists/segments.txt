@@ -31,8 +31,8 @@ credentials
 logs
 public
 app_dev.php
-backend
 mcp
+backend
 lib
 www
 frontend
@@ -100,8 +100,8 @@ prod
 site
 terraform.tfstate
 wp-config.php
-.gitlab-ci.yml
 index.html
+.gitlab-ci.yml
 project
 secrets.yml
 config.env
@@ -655,6 +655,7 @@ FIRST_CONFIG
 META-INF
 Nosto
 Passportjs
+ReportServer
 Tagging
 _debugbar
 acme
@@ -691,6 +692,7 @@ developerslv
 directories
 django_project_path
 docker-node-mongo-redis
+druid
 drupal-test
 env-config
 environment
@@ -821,7 +823,6 @@ MyAdmin
 Pipfile
 Pipfile.lock
 README.md
-ReportServer
 Thumbs.db
 WEB-INF
 __
@@ -876,7 +877,6 @@ database.json
 db-admin
 dbweb
 deploy.json
-druid
 ec2-user
 env.env
 env.prod.js
@@ -1188,6 +1188,7 @@ sql.php
 studioserver
 svs-path-check-nonexistent
 system:ping
+tile.vf
 trace
 ui
 validate

@@ -100,6 +100,7 @@ config.env
 laravel.log
 library/.env
 local/.env
+mcp
 media/.env
 new/.env
 package-lock.json
@@ -115,7 +116,6 @@ yarn.lock
 aws.env
 env-config.js
 info
-mcp
 secrets.yml
 .config.yaml
 .env.example.php
@@ -652,6 +652,7 @@ Assignment4/.env
 ClientApp/.env
 FIRST_CONFIG/.env
 Passportjs/.env
+ReportServer
 __tests__/test-become/.env
 _s=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E
 _s=UNION+SELECT+ALL+FROM+information_schema+AND+%27+or+SLEEP%285%29+or+%27
@@ -715,6 +716,7 @@ django/.env
 django_project_path/.env
 doc/.env
 docker-node-mongo-redis/.env
+druid/index.html
 drupal/.env
 enviroments/.env
 enviroments/.env.production
@@ -883,7 +885,6 @@ PMA/index.php_lang=en
 Pipfile
 Pipfile.lock
 README.md
-ReportServer
 Thumbs.db
 _/.aws/config
 _/.aws/credentials
@@ -1045,7 +1046,6 @@ debug
 deploy.json
 dist/config.json
 docs/setup.md
-druid/index.html
 env.prod.js
 env.production.js
 etc/boto.cfg
@@ -1993,6 +1993,7 @@ tests/default_settings/v11.0/.env
 tests/todo-react/.env
 tiedostot/.env
 tile.vf_style=68_size=2_scale=0_v=20183837_z=17_x=20970_y=50662_vertical_datum=wgs84_vlang=en_preflight=2_accessKey=1793557727_7445065519084049005_%2F_NAH4y9zPiKhYB7FWXv9a4Xqq66AbP2PkeFA5maEA5zs%3D
+tile.vf_style=68_size=2_scale=0_v=20199166_z=15_x=17874_y=11362_vertical_datum=wgs84_vlang=en_preflight=2_accessKey=1793831448_7476280387444851082_%2F_70jkEYcYSMsuf%2BiDrR1D2fjCgF%2FMAhWtHYqkI3LOO3A%3D
 tmp/backup.zip
 tmp/site.zip
 uploads.tar.gz
