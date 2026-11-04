@@ -2,8 +2,8 @@
 eval-stdin.php
 index.php
 config
-.env.local
 favicon.ico
+.env.local
 .env.production
 config.json
 .env.php
@@ -20,9 +20,9 @@ laravel.log
 .env.dev
 .env.save
 info
+security.txt
 settings.py
 .env.local.php
-security.txt
 .env.backup
 HEAD
 .env.prod

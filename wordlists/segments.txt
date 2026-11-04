@@ -10,8 +10,8 @@ vendor
 .git
 api
 app
-.env.local
 favicon.ico
+.env.local
 test
 .%2e
 admin
@@ -58,12 +58,12 @@ laravel.log
 staging
 .env.save
 debug
+security.txt
 crm
 settings.py
 .env.local.php
 beta
 default
-security.txt
 sendgrid
 var
 .env.backup
@@ -123,6 +123,7 @@ config.js
 data
 htdocs
 ws
+.well-known
 application
 application.yml
 aws.yml
@@ -137,7 +138,6 @@ system
 .kube
 entries
 uploads
-.well-known
 test.php
 .env.dist
 .env.orig
