@@ -137,10 +137,10 @@ system
 .kube
 entries
 uploads
+.well-known
 test.php
 .env.dist
 .env.orig
-.well-known
 database.sql
 dump.sql
 backup.sql
@@ -370,6 +370,7 @@ qa
 sdk
 self
 static..
+update
 .config
 .env.2
 .env.docker
@@ -398,10 +399,10 @@ php
 phpmyadmin3
 phpmyadmin4
 phpmyadmin5
+pki-validation
 sftp-config.json
 swagger
 terraform.tfvars
-update
 users
 version
 .env.copy
@@ -422,7 +423,6 @@ enviroments
 includes
 mail
 openapi.json
-pki-validation
 run
 service-account.json
 vue

@@ -1,7 +1,7 @@
 .env
 favicon.ico
-index.php
 SDK/webLanguage
+index.php
 .git/config
 .env.production
 app/.env
@@ -375,6 +375,7 @@ wp-admin/.env
 .env.tmp
 .env_old
 .vscode/settings.json
+.well-known/pki-validation/update
 Dr0v
 _static/.env
 admin/config.php
@@ -404,7 +405,6 @@ settings.php
 sftp-config.json
 var/www/.env
 .env.copy
-.well-known/pki-validation/update
 Gemfile.lock
 GponForm/diag_Form
 backup.tar.gz

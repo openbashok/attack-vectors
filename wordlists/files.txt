@@ -199,6 +199,7 @@ environ
 id_ed25519
 login.jsp
 sdk
+update
 .env.2
 .env.docker
 .env.prod.local
@@ -213,7 +214,6 @@ id_dsa
 settings
 sftp-config.json
 terraform.tfvars
-update
 version
 .env.copy
 Gemfile.lock
