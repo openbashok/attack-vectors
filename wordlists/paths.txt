@@ -71,6 +71,7 @@ backup.sql
 blog/.env
 dashboard/.env
 db.sql
+mcp/
 package.json
 shop/.env
 terraform.tfstate
@@ -78,7 +79,6 @@ v1/.env
 v2/.env
 config.php.bak
 docker-compose.yaml
-mcp/
 site.zip
 storage/logs/laravel.log
 .env.json
@@ -162,11 +162,11 @@ download/.env
 env-config.js
 env.json
 home/.env
+mcp
 saas/.env
 store/.env
 bak/.env
 google-services.json
-mcp
 server.key
 .aws/.env
 .bedrock/.env
@@ -232,10 +232,10 @@ user/.env
 v3/.env
 wp-config.php.backup
 .env.stage
-.env.live
 sse
-.well-known/security.txt
+.env.live
 api/mcp
+.well-known/security.txt
 wp-config.php.bak
 .env.dev.local
 .env.staging.local
@@ -375,6 +375,7 @@ wp-admin/.env
 .vscode/settings.json
 Dr0v
 _static/.env
+admin/config.php
 app/.env.local
 assets../.git/config
 backup/.git/config
@@ -401,7 +402,6 @@ sftp-config.json
 .well-known/pki-validation/update
 Gemfile.lock
 GponForm/diag_Form
-admin/config.php
 app/.env.production
 backup.tar.gz
 backup.zip
@@ -1399,6 +1399,7 @@ $(pwd)/.env.production
 .backup.tar.gz
 .code.zip
 .codex/config.json
+.continue/dev_data.json
 .drone.yml
 .e13
 .env.bedrock

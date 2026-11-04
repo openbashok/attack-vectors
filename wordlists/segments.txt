@@ -14,8 +14,8 @@ test
 .env.local
 .%2e
 favicon.ico
-.env.production
 admin
+.env.production
 .env.php
 phpinfo
 laravel
@@ -35,10 +35,10 @@ app_dev.php
 frontend
 backend
 www
+mcp
 dev
 secrets.yaml
 core
-mcp
 server
 storage
 demo
@@ -93,10 +93,10 @@ phpinfo.php
 site
 .env.development
 administrator
+config.php
 prod
 project
 config.env
-config.php
 wp-config.php
 .gitlab-ci.yml
 client
@@ -241,10 +241,10 @@ twilio.env
 wp-config.php.backup
 .env.stage
 rest
+sse
 .env.live
 json
 mysql
-sse
 wp-admin
 wp-config.php.bak
 .env.dev.local

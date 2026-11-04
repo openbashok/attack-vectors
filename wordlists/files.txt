@@ -11,8 +11,8 @@ config.json
 .env.staging
 webLanguage
 credentials
-secrets.yaml
 mcp
+secrets.yaml
 test
 .env.bak
 .env.example
@@ -36,8 +36,8 @@ settings.json
 docker-compose.yml
 phpinfo.php
 .env.development
-config.env
 config.php
+config.env
 wp-config.php
 .gitlab-ci.yml
 secrets.yml
@@ -129,9 +129,9 @@ tmp
 twilio.env
 wp-config.php.backup
 .env.stage
+sse
 .env.live
 json
-sse
 web
 wp-config.php.bak
 .env.dev.local
