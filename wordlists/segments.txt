@@ -24,8 +24,8 @@ _profiler
 laravel
 %%32%65%%32%65
 .env.staging
-web
 SDK
+web
 webLanguage
 credentials
 logs
@@ -123,11 +123,11 @@ aws
 compose
 .env.production.local
 .kube
+actuator
 data
 htdocs
 ws
 .well-known
-actuator
 application
 aws.yml
 bin
@@ -195,6 +195,7 @@ static
 twilio
 wp-content
 configuration.json
+files
 google-services.json
 images
 mysql.sql
@@ -202,7 +203,6 @@ mysql.sql
 cache
 content
 credentials.xml
-files
 parameters.yml
 saas
 v3
@@ -281,6 +281,7 @@ wp-config.php.old
 .htaccess
 LICENSE
 build
+health
 hello.world
 settings.php
 test.hello
@@ -293,7 +294,6 @@ aws.json
 database
 ec
 environments
-health
 js
 mcp.json
 phpMyAdmin
@@ -328,6 +328,7 @@ dist
 index
 login.htm
 master.key
+pub
 .boto
 .circleci
 .s3cfg
@@ -337,7 +338,6 @@ id_ed25519
 myadmin
 owa
 production
-pub
 remote
 sitemap.xml
 task
@@ -400,6 +400,7 @@ cron
 dbadmin
 django
 docker-compose.prod.yml
+downloads
 env.js
 env.php
 examples
@@ -434,7 +435,6 @@ composer.lock
 config.php~
 db.sql.gz
 diag_Form
-downloads
 enviroments
 gcloud
 includes

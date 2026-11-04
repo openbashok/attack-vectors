@@ -169,6 +169,7 @@ wp-config.php.save
 Jenkinsfile
 config.inc.php
 config.yml
+health
 sftp.json
 terraform.tfstate.backup
 .env.preprod
@@ -177,7 +178,6 @@ terraform.tfstate.backup
 .env.txt
 .env_1
 authorized_keys
-health
 index
 login.htm
 master.key
@@ -218,8 +218,10 @@ configprops
 docker-compose.prod.yml
 env.js
 env.php
+files
 formLogin
 id_dsa
+pub
 settings
 version
 wp-config.php.orig
@@ -235,9 +237,8 @@ composer.lock
 config.php~
 db.sql.gz
 diag_Form
-files
+downloads
 local_settings.py
-pub
 runtime-env.js
 www.zip
 .env.aws
@@ -249,7 +250,6 @@ config.php.old
 credentials.yml.enc
 docker-compose.override.yml
 docs
-downloads
 server-status
 wp-config.bak
 wp-config.php~
