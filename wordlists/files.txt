@@ -1,7 +1,7 @@
 .env
 eval-stdin.php
-config
 index.php
+config
 .env.local
 favicon.ico
 .env.production
@@ -46,10 +46,10 @@ credentials.json
 .env.testing
 index.html
 info.php
-secrets.json
-config.js
 get
 ip.cypher.rest:443
+secrets.json
+config.js
 application.yml
 aws.yml
 sh
@@ -583,6 +583,7 @@ ci.yml
 cluster_credentials.json
 code
 config.dev.env
+connect.cgi
 connect.php
 connection.php
 dana-na
