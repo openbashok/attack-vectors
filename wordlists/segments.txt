@@ -73,9 +73,9 @@ old
 .env.prod
 .svn
 blog
+robots.txt
 view
 auth
-robots.txt
 var
 .ssh
 database.yml
@@ -182,6 +182,7 @@ aws.env
 back
 bot
 config.dev.php
+download
 k8s
 kubernetes
 open
@@ -190,7 +191,6 @@ static
 twilio
 .vscode
 bedrock.env
-download
 images
 mysql.sql
 wp-content
@@ -253,12 +253,12 @@ wp-config.php.bak
 containers
 developmentserver
 drupal
+geoserver
 metadatauploader
 testing
 .env.default
 .env.template
 .env~
-geoserver
 id_rsa
 login.html
 shared

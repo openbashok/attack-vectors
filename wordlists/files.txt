@@ -27,8 +27,8 @@ HEAD
 .env.backup
 .env.test
 .env.prod
-view
 robots.txt
+view
 database.yml
 login
 .env.old
@@ -128,9 +128,9 @@ temp
 tests
 tmp
 twilio.env
+web
 wp-config.php.backup
 .env.stage
-web
 .env.live
 json
 wp-config.php.bak
