@@ -18,8 +18,8 @@ test
 .env.example
 laravel.log
 .env.dev
-.env.save
 security.txt
+.env.save
 HEAD
 info
 settings.py
@@ -98,8 +98,8 @@ mysql.sql
 credentials.xml
 parameters.yml
 sse
-server.key
 web
+server.key
 .env.save.1
 .json
 app.log

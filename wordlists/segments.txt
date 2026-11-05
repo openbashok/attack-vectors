@@ -55,8 +55,8 @@ db
 docker
 laravel.log
 .env.dev
-.env.save
 security.txt
+.env.save
 staging
 HEAD
 debug
@@ -66,9 +66,9 @@ default
 var
 .env.backup
 crm
+robots.txt
 .ssh
 beta
-robots.txt
 sendgrid
 .env.prod
 .env.test
@@ -113,13 +113,13 @@ settings
 secrets.json
 .env.testing
 .docker
+.well-known
 get
 ip.cypher.rest:443
 media
 portal
 shop
 ws
-.well-known
 actuator
 application.yml
 aws
@@ -254,6 +254,7 @@ metadatauploader
 root
 s3
 wp-admin
+geoserver
 shared
 *
 .env.dev.local
@@ -264,7 +265,6 @@ shared
 HNAP1
 containers
 drupal
-geoserver
 sites
 testing
 .env.default

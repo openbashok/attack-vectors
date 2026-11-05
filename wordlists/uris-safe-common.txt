@@ -44,13 +44,13 @@ ip.cypher.rest:443
 prod/.env
 config.js
 secrets.json
+security.txt
 .env.production.local
 .kube/config
 _profiler/phpinfo
 backup/.env
 core/.env
 database.yml
-security.txt
 settings.py
 client/.env
 storage/.env
@@ -169,6 +169,7 @@ download/.env
 home/.env
 saas/.env
 sse
+.well-known/security.txt
 bak/.env
 server.key
 .aws/.env
@@ -177,7 +178,6 @@ server.key
 .env.save.1
 .env/.env
 .json
-.well-known/security.txt
 Application/.env
 api/mcp
 api/test
@@ -242,12 +242,12 @@ wp-config.php.bak
 .env.live
 .env_
 developmentserver/metadatauploader
+geoserver/web/
 .env.dev.local
 .env.staging.local
 .env_sample
 .npmrc
 config.php
-geoserver/web/
 login
 .env.default
 .env.template
