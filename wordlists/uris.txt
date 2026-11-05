@@ -240,8 +240,8 @@ wp-config.php.backup
 wp-config.php.bak
 .aws/config
 .env.live
-.env~
 developmentserver/metadatauploader
+.env~
 .env.dev.local
 .env.staging.local
 .env_sample

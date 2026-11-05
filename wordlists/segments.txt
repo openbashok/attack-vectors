@@ -244,15 +244,15 @@ twilio.env
 wp-config.php.backup
 wp-config.php.bak
 .env.live
+developmentserver
 id_rsa
+metadatauploader
 rest
 s3
 %00.env
 .env~
-developmentserver
 json
 login.html
-metadatauploader
 root
 wp-admin
 *
