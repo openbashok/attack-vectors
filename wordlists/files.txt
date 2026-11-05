@@ -222,6 +222,8 @@ service-account.json
 .envrc
 .travis.yml
 aaa9
+abc6
+abc8
 auth.json
 configprops
 downloads
@@ -237,6 +239,7 @@ ws
 .netrc
 .yarnrc.yml
 Gemfile.lock
+abc7
 admin
 ansible.cfg
 application-prod.yml
@@ -251,8 +254,6 @@ www.zip
 .env.aws
 Dockerfile
 aab9
-abc6
-abc8
 api-docs
 config.php.old
 credentials.yml.enc
@@ -275,7 +276,6 @@ wp-config.php~
 .envs
 .npmrc._default
 .yarnrc
-abc7
 adminer.php
 adminer.sql
 airflow.cfg
@@ -351,6 +351,7 @@ id_rsa.pub
 list
 local.py
 microsoft.exchange.ediscovery.exporttool.application
+run
 system
 uploads
 users
@@ -388,7 +389,6 @@ pom.xml
 private.key
 raw
 redlion
-run
 service-account-credentials.json
 soap
 socket.io

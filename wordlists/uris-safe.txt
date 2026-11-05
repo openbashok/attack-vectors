@@ -412,6 +412,8 @@ wp-admin/.env
 .vscode/sftp.json
 _static/.env
 aaa9
+abc6
+abc8
 actuator/configprops
 actuator/health
 admin/config.php
@@ -434,6 +436,7 @@ ws
 .yarnrc.yml
 Gemfile.lock
 GponForm/diag_Form_images/
+abc7
 ansible.cfg
 application-prod.yml
 backup.tar.gz
@@ -455,8 +458,6 @@ www.zip
 Dockerfile
 HNAP1/
 aab9
-abc6
-abc8
 admin/login.asp
 api
 api/.env.local
@@ -492,7 +493,6 @@ wp-config.php_
 .ssh/id_ecdsa
 .vscode/.env
 .yarnrc
-abc7
 actuator/heapdump
 admin-app/.env
 admin/assets/js/views/login.js
@@ -581,6 +581,7 @@ admin/
 admin/.env.production
 api/
 api/.env.production
+api/metrics/run
 app.json
 app/settings.py
 appsettings.Production.json
@@ -663,7 +664,6 @@ alpha/.env
 anaconda/.env
 ansible/.env
 api/.env.example
-api/metrics/run
 api/shared/config/.env
 api/shared/config/config.env
 api/src/.env
