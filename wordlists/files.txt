@@ -23,10 +23,10 @@ laravel.log
 HEAD
 info
 login
+robots.txt
 settings.py
 .env.backup
 .env.local.php
-robots.txt
 .env.prod
 .env.test
 database.yml
@@ -178,6 +178,7 @@ wp-config.php.save
 Jenkinsfile
 config.inc.php
 config.yml
+sitemap.xml
 terraform.tfstate.backup
 wc.db
 .env.txt
@@ -187,7 +188,6 @@ index
 login.cgi
 logon.html
 master.key
-sitemap.xml
 %2eenv
 .boto
 .s3cfg
@@ -231,6 +231,7 @@ id_dsa
 server-status
 settings
 wp-config.php.orig
+ws
 .env.copy
 .netrc
 .yarnrc.yml
@@ -245,7 +246,6 @@ db.sql.gz
 diag_Form
 local_settings.py
 runtime-env.js
-ws
 www.zip
 .env.aws
 Dockerfile
@@ -714,6 +714,7 @@ setup.php
 shell
 site.sql
 sql.php
+status
 svs-path-check-nonexistent
 swagger
 system:ping

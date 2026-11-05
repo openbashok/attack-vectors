@@ -13,9 +13,9 @@ config/.env
 laravel/.env
 .env.backup
 config.json
+robots.txt
 .env.prod
 .env.test
-robots.txt
 .aws/credentials
 .env.staging
 backend/.env
@@ -151,6 +151,7 @@ twilio/.env.php
 uploads/.env
 var/.env.local.php
 .env.development.local
+.well-known/security.txt
 api/v2/.env
 assets/config.json
 aws.yml
@@ -159,7 +160,6 @@ configuration.json
 google-services.json
 mysql.sql
 store/.env
-.well-known/security.txt
 administrator/.env
 assets/.env
 beta/.env
@@ -334,6 +334,7 @@ Jenkinsfile
 admin/index.html
 configuration/.env
 login.html
+sitemap.xml
 terraform.tfstate.backup
 +CSCOE+/logon.html
 .docker/config.json
@@ -345,7 +346,6 @@ conf/.env
 config/master.key
 database/.env
 public/.git/config
-sitemap.xml
 src/.git/config
 HNAP1
 admin/.git/config
@@ -425,6 +425,7 @@ server-status
 var/www/.env
 version
 wp-config.php.orig
+ws
 .circleci/config.yml
 .env.copy
 .netrc
@@ -446,7 +447,6 @@ production/.env
 remote/login
 terraform.tfvars
 v1
-ws
 www.zip
 .env.aws
 .envrc
@@ -2004,6 +2004,7 @@ owa/
 package/%252eenv
 package/%2eenv?v=CsjVf
 packages/web/.env
+panel/status
 parameters%2eyml?v=AVLes
 partymgr/control/main
 php-info.php?v=GZHRZ
