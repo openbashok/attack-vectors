@@ -68,12 +68,12 @@ var
 crm
 .ssh
 beta
+robots.txt
 sendgrid
 .env.prod
 .env.test
 cms
 old
-robots.txt
 database.yml
 sql
 tests
@@ -331,6 +331,7 @@ index
 master.key
 pub
 remote
+sitemap.xml
 +CSCOE+
 .boto
 .circleci
@@ -345,7 +346,6 @@ myadmin
 owa
 production
 sdk
-sitemap.xml
 task
 wc.db
 ~
@@ -417,6 +417,7 @@ phpmyadmin4
 phpmyadmin5
 pki-validation
 secrets
+server-status
 users
 wp-config.php.orig
 .env.copy
@@ -465,7 +466,6 @@ instance
 metadata
 proc
 react
-server-status
 terraform
 wp-config.bak
 wp-config.php~

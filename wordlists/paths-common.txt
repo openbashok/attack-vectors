@@ -16,8 +16,8 @@ laravel/.env
 config.json
 .env.prod
 .env.test
-.aws/credentials
 robots.txt
+.aws/credentials
 .env.staging
 .env.old
 backend/.env
@@ -332,6 +332,7 @@ configuration/.env
 login.html
 manage/account/login
 remote/login
+sitemap.xml
 +CSCOE+/logon.html
 .svn/wc.db
 HNAP1
@@ -343,7 +344,6 @@ evox/about
 public/.git/config
 sdk
 shared/.env
-sitemap.xml
 src/.git/config
 wp-content/.env
 .env.docker
@@ -413,6 +413,7 @@ media/.git/config
 panel/.env
 project/.git/config
 pub/
+server-status
 var/www/.env
 wp-config.php.orig
 .circleci/config.yml
@@ -457,7 +458,6 @@ docker-compose.override.yml
 instance/config.py
 proc/self/environ
 root/.aws/credentials
-server-status
 server/.env.local
 service-account.json
 v1
