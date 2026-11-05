@@ -77,8 +77,8 @@ old
 database.yml
 sql
 tests
-administrator
 .svn
+administrator
 auth
 blog
 html
@@ -332,6 +332,7 @@ master.key
 pub
 remote
 sitemap.xml
+wc.db
 +CSCOE+
 .boto
 .circleci
@@ -347,7 +348,6 @@ owa
 production
 sdk
 task
-wc.db
 ~
 .config
 .env.docker

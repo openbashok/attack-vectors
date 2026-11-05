@@ -8,8 +8,8 @@ favicon.ico
 config.json
 .env.php
 phpinfo
-.env.staging
 webLanguage
+.env.staging
 credentials
 mcp
 secrets.yaml
@@ -183,6 +183,7 @@ authorized_keys
 index
 master.key
 sitemap.xml
+wc.db
 .boto
 .s3cfg
 about
@@ -191,7 +192,6 @@ id_ed25519
 login.cgi
 logon.html
 sdk
-wc.db
 .env.docker
 app.php
 login.jsp

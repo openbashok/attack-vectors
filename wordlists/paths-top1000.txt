@@ -326,6 +326,7 @@ terraform.tfstate.backup
 .env.txt
 .env_1
 .git/logs/HEAD
+.svn/wc.db
 conf/.env
 config/master.key
 configuration/.env
@@ -334,7 +335,6 @@ manage/account/login
 remote/login
 sitemap.xml
 +CSCOE+/logon.html
-.svn/wc.db
 HNAP1
 admin/index.html
 app/config/.env
