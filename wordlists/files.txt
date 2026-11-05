@@ -28,8 +28,8 @@ settings.py
 robots.txt
 .env.prod
 .env.test
-database.yml
 login
+database.yml
 settings.json
 config.php
 view
@@ -165,6 +165,7 @@ sftp.json
 test.hello
 .env.sample
 health
+login.htm
 mcp.json
 swagger.json
 wp-config.php.save
@@ -177,7 +178,6 @@ wp-config.php.save
 Jenkinsfile
 config.inc.php
 config.yml
-login.htm
 terraform.tfstate.backup
 wc.db
 .env.txt
@@ -202,6 +202,7 @@ login.jsp
 secrets.py
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
+update
 version
 .env.test.local
 .env.www
@@ -213,7 +214,6 @@ files
 openapi.json
 pub
 service-account.json
-update
 .env.2
 .env.prod.local
 .env.tmp
@@ -495,6 +495,7 @@ htpasswd.txt
 hubspot.config
 hubspot.json
 hudson
+index.htm
 index.min.js
 index.php.bak
 index.php~
@@ -671,9 +672,9 @@ home.tar.gz
 horizon
 hubspot.yml
 i.php
-index.htm
 infophp.php
 install.php
+ip.ifconfig.dpdns.org:443
 jolokia
 latest
 live_env

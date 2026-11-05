@@ -246,11 +246,11 @@ geoserver/web/
 .env.dev.local
 .env.staging.local
 .env_sample
+login
 .env.default
 .env.template
 .npmrc
 config.php
-login
 .htpasswd
 .ssh/id_rsa
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
@@ -302,6 +302,7 @@ lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+login.htm
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -330,7 +331,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 Jenkinsfile
 _
 configuration/.env
-login.htm
 terraform.tfstate.backup
 .docker/config.json
 .env.txt
@@ -372,6 +372,7 @@ vendor/.env
 .env.test.local
 .env.www
 .vscode/settings.json
+.well-known/pki-validation/update
 Dr0v
 assets../.git/config
 audio/.env
@@ -408,7 +409,6 @@ wp-admin/.env
 .ssh/id_ed25519
 .travis.yml
 .vscode/sftp.json
-.well-known/pki-validation/update
 _static/.env
 aaa9
 actuator/configprops
@@ -1076,6 +1076,7 @@ hubspot.config
 hubspot.json
 hudson
 id_ed25519
+index.htm
 index.php.bak
 index.php_
 index.php_lang=en
@@ -1435,9 +1436,9 @@ inc/config.php
 include/config.php
 includes/config.php
 includes/db.php
-index.htm
 infophp.php
 install.php
+ip.ifconfig.dpdns.org:443
 jolokia
 jolokia/list
 lib/config.php
@@ -1894,7 +1895,6 @@ infra.zip
 infra/%2eenv_v=yJACU
 infrastructure.zip
 internal_forms_authentication
-ip.ifconfig.dpdns.org:443
 items/.env
 jasperserver-pro/login.html
 jasperserver/login.html
@@ -2114,6 +2114,7 @@ v1/mapOverlay
 v1/models
 v1/system/status
 v1/system/version
+v2/_catalog
 v4/.env_v=zsdIu
 var/backup.zip
 vendor/%252eenv

@@ -239,9 +239,9 @@ wp-config.php.bak
 .aws/config
 .env.live
 developmentserver/metadatauploader
+login
 .env~
 geoserver/web/
-login
 .env.dev.local
 .env.staging.local
 .env_sample
@@ -294,6 +294,7 @@ lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+login.htm
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -322,7 +323,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .svn/wc.db
 Jenkinsfile
 configuration/.env
-login.htm
 terraform.tfstate.backup
 .docker/config.json
 .env.txt
@@ -365,6 +365,7 @@ vendor/.env
 .env.test.local
 .env.www
 .vscode/settings.json
+.well-known/pki-validation/update
 Dr0v
 assets../.git/config
 audio/.env
@@ -401,7 +402,6 @@ wp-admin/.env
 .ssh/id_ed25519
 .travis.yml
 .vscode/sftp.json
-.well-known/pki-validation/update
 _static/.env
 aaa9
 actuator/configprops
