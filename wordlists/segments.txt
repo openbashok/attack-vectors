@@ -13,8 +13,8 @@ app
 favicon.ico
 .env.local
 test
-.%2e
 admin
+.%2e
 .env.production
 config.json
 .env.php
@@ -51,8 +51,8 @@ cgi-bin
 .env.example
 backup
 info
-laravel.log
 security.txt
+laravel.log
 .env.dev
 db
 docker
@@ -84,12 +84,12 @@ blog
 html
 settings.json
 config.php
+index.html
 view
 .env.old
 phpinfo.php
 docker-compose.yml
 env
-index.html
 log
 temp
 tmp
@@ -251,12 +251,12 @@ id_rsa
 rest
 s3
 %00.env
+*
 .env~
 geoserver
 json
 root
 wp-admin
-*
 .env.dev.local
 .env.staging.local
 .env_sample
@@ -282,6 +282,7 @@ wp-json
 configuration.php
 etc
 health
+manage
 .env.ci
 .env.config
 .env.uat
@@ -292,12 +293,12 @@ database
 hello.world
 js
 login.htm
-manage
 settings.php
 sftp.json
 test.hello
 .env.sample
 V2
+account
 ec
 environments
 mcp.json
@@ -317,7 +318,6 @@ zend
 .env.secret
 .git-credentials
 Jenkinsfile
-account
 backups
 config.inc.php
 config.yml

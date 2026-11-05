@@ -262,6 +262,7 @@ build/.env
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 configuration.php
 docker/.env
+index.html
 phpinfo
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.ci
@@ -272,7 +273,6 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 config/database.yml
 config/secrets.yml
 hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
-index.html
 index.php?-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
 login.htm
 test.hello?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
@@ -280,6 +280,7 @@ vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
+*
 .docker/.env
 .env.sample
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -303,6 +304,7 @@ lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+manage/account/login
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -322,7 +324,6 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-*
 .env.1
 .env.preprod
 .env.sandbox
@@ -330,16 +331,15 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .git-credentials
 .svn/wc.db
 Jenkinsfile
+admin/index.html
 configuration/.env
 login.html
-manage/account/login
 terraform.tfstate.backup
 +CSCOE+/logon.html
 .docker/config.json
 .env.txt
 .env_1
 .git/logs/HEAD
-admin/index.html
 cgi-bin/login.cgi
 conf/.env
 config/master.key
