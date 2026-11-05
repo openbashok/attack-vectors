@@ -494,6 +494,7 @@ api/config.env
 application-prod.properties
 application.properties.bak
 appsettings.production.json
+autodiscover/autodiscover.json
 aws-ses.json
 aws/credentials
 blogs/.env
@@ -574,7 +575,6 @@ app/settings.py
 appsettings.Production.json
 auth.json
 authorized_keys
-autodiscover/autodiscover.json
 backend/.env.production
 backend/.git/config
 client/.env.local
@@ -1341,6 +1341,7 @@ bootstrap.properties
 bootstrap.yml
 bootstrap/cache/config.php
 cdn-cgi/trace
+cgi-bin/authLogin.cgi
 cgi-bin/printenv
 client_secret.json
 cluster_credentials.json
@@ -1674,7 +1675,6 @@ cardea/backend/.env
 cert.zip
 cf_scripts/scripts/ajax/ckeditor/ckeditor.js
 cgi-bin/ExportSettings.sh
-cgi-bin/authLogin.cgi
 cgi-bin/config.exp
 cgi-bin/luci
 cgi-bin/network_tools
@@ -1773,6 +1773,7 @@ gb6mlorz6ohbq2
 gcloud-credentials.json
 goautodial-agent/astguiclient.php
 goautodial/
+goform/fast_setting_wifi_set
 gunicorn.conf.py
 haloocom_connect4/astguiclient.php
 helm.zip
@@ -1842,6 +1843,7 @@ localhost.zip
 localsettings.php.bak
 log.tar.gz
 login.do
+login/Auth
 login/login
 logon/LogonPoint/index.html
 logs.tar.gz

@@ -22,10 +22,10 @@ config.json
 phpinfo
 _profiler
 laravel
-%%32%65%%32%65
-.env.staging
 SDK
 webLanguage
+%%32%65%%32%65
+.env.staging
 web
 credentials
 logs
@@ -38,17 +38,17 @@ www
 frontend
 storage
 v1
-dev
 login
+dev
 server
 secrets.yaml
 core
 demo
 .env.bak
 assets
+cgi-bin
 v2
 .env.example
-cgi-bin
 info
 backup
 db
@@ -430,6 +430,7 @@ GponForm
 ansible.cfg
 application-prod.yml
 application_default_credentials.json
+autodiscover
 bedrock
 begin
 code
@@ -456,7 +457,6 @@ abc6
 abc8
 ansible
 api-docs
-autodiscover
 cloud
 config.php.old
 credentials.yml.enc
@@ -497,6 +497,7 @@ amplify.yml
 application-prod.properties
 application.properties.bak
 appsettings.production.json
+autodiscover.json
 aws-ses.json
 azure.yaml
 bedrock.json
@@ -586,7 +587,6 @@ api.ipinfo.io:443
 app.json
 appsettings.Production.json
 astguiclient.php
-autodiscover.json
 azure-openai.json
 bdd
 bedrock.config
@@ -1045,6 +1045,7 @@ wp-pma-mod
 .pnpmfile.cjs
 .vault-token
 Accounts
+Auth
 COMMIT_EDITMSG
 LocalSettings.php
 OA_HTML
@@ -1068,6 +1069,7 @@ appsettings.Development.json
 appsettings.Local.json
 appsettings.json.bak
 archives
+authLogin.cgi
 auto_login
 autodiscover.xml
 aws-bedrock.config

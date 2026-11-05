@@ -501,6 +501,7 @@ api/config.env
 application-prod.properties
 application.properties.bak
 appsettings.production.json
+autodiscover/autodiscover.json?@zdi/Powershell
 aws-ses.json
 aws/credentials
 blogs/.env
@@ -582,7 +583,6 @@ app/settings.py
 appsettings.Production.json
 auth.json
 authorized_keys
-autodiscover/autodiscover.json?@zdi/Powershell
 backend/.env.production
 backend/.git/config
 boaform/admin/formLogin?username=adminisp&psd=adminisp

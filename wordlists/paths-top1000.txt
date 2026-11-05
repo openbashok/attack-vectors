@@ -494,6 +494,7 @@ api/config.env
 application-prod.properties
 application.properties.bak
 appsettings.production.json
+autodiscover/autodiscover.json
 aws-ses.json
 aws/credentials
 blogs/.env
@@ -574,7 +575,6 @@ app/settings.py
 appsettings.Production.json
 auth.json
 authorized_keys
-autodiscover/autodiscover.json
 backend/.env.production
 backend/.git/config
 client/.env.local

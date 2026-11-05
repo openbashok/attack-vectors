@@ -279,6 +279,7 @@ application-prod.properties
 application.properties.bak
 appsettings.production.json
 auth
+autodiscover.json
 aws-ses.json
 azure.yaml
 bedrock.json
@@ -329,7 +330,6 @@ api.ipinfo.io:443
 app.json
 appsettings.Production.json
 astguiclient.php
-autodiscover.json
 azure-openai.json
 bedrock.config
 composer.json
@@ -577,6 +577,7 @@ wp-config.php-backup
 .pnpmfile.cjs
 .vault-token
 Accounts
+Auth
 COMMIT_EDITMSG
 LocalSettings.php
 Pulumi.yaml
@@ -598,6 +599,7 @@ application-staging.yml
 appsettings.Development.json
 appsettings.Local.json
 appsettings.json.bak
+authLogin.cgi
 auto_login
 autodiscover.xml
 aws-bedrock.config
