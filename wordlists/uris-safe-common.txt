@@ -374,6 +374,7 @@ vendor/.env
 .vscode/settings.json
 .well-known/pki-validation/update
 Dr0v
+RDWeb
 assets../.git/config
 audio/.env
 backup/.git/config
@@ -491,7 +492,6 @@ wp-config.php_
 .ssh/id_ecdsa
 .vscode/.env
 .yarnrc
-RDWeb
 abc7
 actuator/heapdump
 admin-app/.env

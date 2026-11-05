@@ -21,9 +21,9 @@ laravel.log
 .env.dev
 .env.save
 HEAD
+robots.txt
 info
 login
-robots.txt
 settings.py
 .env.backup
 .env.local.php
@@ -207,6 +207,7 @@ version
 .env.test.local
 .env.www
 Dr0v
+RDWeb
 backup.tar.gz
 docker-compose.prod.yml
 environ
@@ -274,7 +275,6 @@ wp-config.php~
 .envs
 .npmrc._default
 .yarnrc
-RDWeb
 abc7
 adminer.php
 adminer.sql

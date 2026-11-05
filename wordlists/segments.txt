@@ -372,6 +372,7 @@ version
 .env.test.local
 .env.www
 Dr0v
+RDWeb
 all
 assets..
 audio
@@ -493,7 +494,6 @@ wp-config.php~
 .npmrc._default
 .yarnrc
 PMA
-RDWeb
 __tests__
 abc7
 admin-app
