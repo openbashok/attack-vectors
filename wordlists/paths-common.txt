@@ -1207,6 +1207,7 @@ sql/webadmin/index.php
 sql/webdb/index.php
 sql/websql/index.php
 sqlmanager/index.php
+static/admin/javascript/hetong.js
 stripe-credentials.json
 template.yaml
 terraform/terraform.tfvars.json

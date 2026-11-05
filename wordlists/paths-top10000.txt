@@ -1207,6 +1207,7 @@ sql/webadmin/index.php
 sql/webdb/index.php
 sql/websql/index.php
 sqlmanager/index.php
+static/admin/javascript/hetong.js
 stripe-credentials.json
 template.yaml
 terraform/terraform.tfvars.json
@@ -1270,6 +1271,7 @@ www.tar.gz
 LocalSettings.php
 META-INF/context.xml
 META-INF/persistence.xml
+Public/home/js/check.js
 Pulumi.yaml
 WEB-INF/classes/application.properties
 \.\.env
@@ -1498,7 +1500,6 @@ staging/%252eenv
 staging/.env.local
 staging/.env.production
 staging/.env.staging
-static/admin/javascript/hetong.js
 storage/app/.env
 studioserver/.git/config
 svs-path-check-nonexistent
@@ -1512,6 +1513,7 @@ test/.env.production
 test/.env.staging
 tile.vf
 ubuntu/.env
+v2/_catalog
 var/.env
 var/log/nginx/error.log
 vendor/fidry/cpu-core-counter/.envrc
@@ -1646,7 +1648,6 @@ InstantCV/server/.env
 Kubernetes/.env
 OA_HTML/AppsLocalLogin.jsp
 OA_HTML/AppsTCFServer
-Public/home/js/check.js
 SiteLoader
 Socketio/.env
 Telerik.Web.UI.WebResource.axd
@@ -2079,7 +2080,6 @@ v1/mapOverlay
 v1/models
 v1/system/status
 v1/system/version
-v2/_catalog
 v4/.env
 var/backup.zip
 vendor/%252eenv

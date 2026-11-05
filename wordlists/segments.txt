@@ -46,8 +46,8 @@ secrets.yaml
 demo
 .env.bak
 assets
-cgi-bin
 v2
+cgi-bin
 .env.example
 backup
 info
@@ -129,6 +129,7 @@ data
 system
 .kube
 aws.yml
+home
 htdocs
 application
 bin
@@ -138,7 +139,6 @@ docs
 dump.sql
 entries
 error.log
-home
 sh
 site.zip
 test.php
@@ -176,6 +176,7 @@ aws.env
 bedrock.env
 env-config.js
 files
+static
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -193,7 +194,6 @@ download
 k8s
 kubernetes
 secrets.env
-static
 twilio
 .env.development.local
 configuration.json
@@ -290,6 +290,7 @@ LICENSE
 aws.json
 database
 hello.world
+js
 login.htm
 manage
 settings.php
@@ -299,7 +300,6 @@ test.hello
 V2
 ec
 environments
-js
 mcp.json
 phpMyAdmin
 pma
@@ -900,6 +900,7 @@ global.asa
 google
 google-ai.json
 graphql
+hetong.js
 host_vars
 htpasswd.txt
 hubspot.config
@@ -912,6 +913,7 @@ index.php.bak
 index.php~
 init.json
 inventory.ini
+javascript
 keys
 keys.json
 known_hosts
@@ -1058,12 +1060,14 @@ Auth
 COMMIT_EDITMSG
 LocalSettings.php
 OA_HTML
+Public
 Pulumi.yaml
 ViewUserInfo.php
 \.\.env
 \\.env
 __debug__
 __fixtures__
+_catalog
 accessTokens.json
 acme.json
 agent
@@ -1100,6 +1104,7 @@ bedrock-credentials.yml
 bootstrap.properties
 bootstrap.yml
 cdn-cgi
+check.js
 ci.yml
 classes
 client_secret.json
@@ -1144,7 +1149,6 @@ fly.toml
 gcp-key.json
 gemini.yml
 google-ai.yml
-hetong.js
 hibernate.cfg.xml
 home.tar.gz
 horizon
@@ -1156,7 +1160,6 @@ include
 infophp.php
 install.php
 ip.ifconfig.dpdns.org:443
-javascript
 latest
 live_env
 liveliness

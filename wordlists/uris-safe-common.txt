@@ -1229,6 +1229,7 @@ sql/webadmin/index.php_lang=en
 sql/webdb/index.php_lang=en
 sql/websql/index.php_lang=en
 sqlmanager/index.php_lang=en
+static/admin/javascript/hetong.js
 stripe-credentials.json
 template.yaml
 terraform/terraform.tfvars.json

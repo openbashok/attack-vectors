@@ -489,6 +489,7 @@ gemini.env
 global.asa
 google-ai.json
 graphql
+hetong.js
 host_vars
 html
 htpasswd.txt
@@ -593,6 +594,7 @@ ViewUserInfo.php
 \.\.env
 \\.env
 __debug__
+_catalog
 _debugbar
 accessTokens.json
 acme.json
@@ -627,6 +629,7 @@ bedrock-credentials.json
 bedrock-credentials.yml
 bootstrap.properties
 bootstrap.yml
+check.js
 ci.yml
 client_secret.json
 cluster_credentials.json
@@ -666,7 +669,6 @@ fly.toml
 gcp-key.json
 gemini.yml
 google-ai.yml
-hetong.js
 hibernate.cfg.xml
 home.tar.gz
 horizon

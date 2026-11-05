@@ -1225,6 +1225,7 @@ sql/webadmin/index.php?lang=en
 sql/webdb/index.php?lang=en
 sql/websql/index.php?lang=en
 sqlmanager/index.php?lang=en
+static/admin/javascript/hetong.js
 stripe-credentials.json
 template.yaml
 terraform/terraform.tfvars.json
