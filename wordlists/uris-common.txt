@@ -38,10 +38,10 @@ site/.env
 html/.env
 info.php
 .env.testing
-old/.env
-prod/.env
 get
 ip.cypher.rest:443
+old/.env
+prod/.env
 security.txt
 .env.production.local
 _profiler/phpinfo
@@ -498,6 +498,7 @@ admin/login.asp
 adminer.php
 adminer.sql
 airflow.cfg
+api.ipinfo.io:443
 api/config.env
 application-prod.properties
 application.properties.bak
@@ -530,6 +531,7 @@ env/.env
 exapi/.env
 files/.env
 gcp-credentials.json
+icanhazip.com:443
 kyc/.env
 lab/.env
 laravel/.env.local
@@ -575,7 +577,6 @@ wp-config.php.txt
 actuator/env
 admin/
 admin/.env.production
-api.ipinfo.io:443
 api/
 api/.env.production
 app.json
@@ -602,7 +603,6 @@ env.txt
 frontend/.env.local
 functions/.env
 google-credentials.json
-icanhazip.com:443
 laravel/.env.example
 local.py
 myapp/settings.py

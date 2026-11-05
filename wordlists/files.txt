@@ -279,6 +279,7 @@ adminer.sql
 airflow.cfg
 amplify.yaml
 amplify.yml
+api.ipinfo.io:443
 application-prod.properties
 application.properties.bak
 appsettings.production.json
@@ -302,6 +303,7 @@ gcp-credentials.json
 gcp.json
 gemini.json
 heapdump
+icanhazip.com:443
 id_ecdsa
 index.js
 local.settings.json
@@ -330,7 +332,6 @@ wp-config.php.txt
 .remote-sync.json
 admin.php
 administrator
-api.ipinfo.io:443
 app.json
 appsettings.Production.json
 astguiclient.php
@@ -346,7 +347,6 @@ env.txt
 environment.rb
 google-credentials.json
 gradle.properties
-icanhazip.com:443
 id_rsa.pub
 list
 local.py
