@@ -42,12 +42,12 @@ old/.env
 prod/.env
 get
 ip.cypher.rest:443
+security.txt
 .env.production.local
 _profiler/phpinfo
 config.js
 core/.env
 secrets.json
-security.txt
 .kube/config
 backup/.env
 database.yml
@@ -159,6 +159,7 @@ configuration.json
 google-services.json
 mysql.sql
 store/.env
+.well-known/security.txt
 administrator/.env
 assets/.env
 beta/.env
@@ -169,7 +170,6 @@ download/.env
 home/.env
 saas/.env
 sse
-.well-known/security.txt
 bak/.env
 server.key
 .aws/.env
@@ -262,6 +262,7 @@ build/.env
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 configuration.php
 docker/.env
+phpinfo
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.ci
 .env.config
@@ -272,7 +273,6 @@ config/database.yml
 config/secrets.yml
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
-phpinfo
 test.hello_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -328,6 +328,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .git-credentials
 .svn/wc.db
 Jenkinsfile
+_
 configuration/.env
 login.htm
 terraform.tfstate.backup
@@ -335,7 +336,6 @@ terraform.tfstate.backup
 .env.txt
 .env_1
 .git/logs/HEAD
-_
 conf/.env
 config/master.key
 database/.env

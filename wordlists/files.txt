@@ -17,9 +17,9 @@ test
 .env.bak
 .env.example
 laravel.log
+security.txt
 .env.dev
 .env.save
-security.txt
 HEAD
 info
 settings.py
@@ -168,6 +168,7 @@ health
 mcp.json
 swagger.json
 wp-config.php.save
+*
 .env.1
 .env.preprod
 .env.sandbox
@@ -179,7 +180,6 @@ config.yml
 login.htm
 terraform.tfstate.backup
 wc.db
-*
 .env.txt
 .env_1
 authorized_keys
