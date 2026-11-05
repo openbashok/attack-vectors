@@ -1288,6 +1288,7 @@ api-docs/
 api/%2eenv
 api/.env.staging
 api/api-docs
+api/client/update
 api/config.dev.env
 api/config.php
 api/docs/
@@ -1674,7 +1675,6 @@ ansible.zip
 api-docs.json
 api.tar.gz
 api.zip
-api/client/update
 api/config
 api/info
 api/json

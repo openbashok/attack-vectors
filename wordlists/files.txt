@@ -198,11 +198,11 @@ id_ed25519
 login.jsp
 sdk
 sftp-config.json
+update
 .env.docker
 secrets.py
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
-update
 version
 .env.test.local
 .env.www

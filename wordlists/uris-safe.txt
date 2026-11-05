@@ -1309,6 +1309,7 @@ api-docs/
 api/%2eenv_v=BMV1r
 api/.env.staging
 api/api-docs
+api/client/update_arch=amd64_commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17_os=windows
 api/config.dev.env
 api/config.php
 api/docs/
@@ -1696,7 +1697,6 @@ ansible.zip
 api-docs.json
 api.tar.gz
 api.zip
-api/client/update_arch=amd64_commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17_os=windows
 api/config
 api/info
 api/json
