@@ -242,10 +242,10 @@ wp-config.php.bak
 .env.live
 developmentserver/metadatauploader
 .env~
+geoserver/web/
 .env.dev.local
 .env.staging.local
 .env_sample
-geoserver/web/
 .env.default
 .env.template
 .npmrc

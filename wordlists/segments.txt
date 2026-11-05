@@ -251,6 +251,7 @@ rest
 s3
 %00.env
 .env~
+geoserver
 json
 login.html
 root
@@ -259,7 +260,6 @@ wp-admin
 .env.dev.local
 .env.staging.local
 .env_sample
-geoserver
 shared
 %252eenv
 .env.default

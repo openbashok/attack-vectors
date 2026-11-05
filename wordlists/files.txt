@@ -95,10 +95,10 @@ secrets.env
 configuration.json
 google-services.json
 mysql.sql
+web
 credentials.xml
 parameters.yml
 sse
-web
 server.key
 .env.save.1
 .env.stage
