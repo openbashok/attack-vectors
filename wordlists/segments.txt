@@ -107,14 +107,14 @@ secrets.yml
 client
 config.env
 credentials.json
+get
+ip.cypher.rest:443
 settings
 .well-known
 config.js
 info.php
 secrets.json
 .env.testing
-get
-ip.cypher.rest:443
 media
 portal
 ws

@@ -36,11 +36,11 @@ server/.env
 www/.env
 admin/.env
 site/.env
+get
+ip.cypher.rest:443
 html/.env
 info.php
 .env.testing
-get
-ip.cypher.rest:443
 old/.env
 prod/.env
 security.txt
@@ -2093,6 +2093,7 @@ vue_CRM/.env
 web-dist/.env
 web.tar.gz
 web_2024.zip
+webclient/
 webfig/
 webpack.config.js
 woocommerce.zip
