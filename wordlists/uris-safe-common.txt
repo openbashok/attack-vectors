@@ -423,6 +423,7 @@ downloads/
 panel/.env
 server-status
 var/www/.env
+version
 wp-config.php.orig
 .circleci/config.yml
 .env.copy
@@ -442,7 +443,7 @@ mail/.env
 private/.env
 production/.env
 terraform.tfvars
-version
+v1
 ws
 www.zip
 .env.aws
@@ -468,7 +469,6 @@ root/.aws/credentials
 server/.env.local
 service-account.json
 sftp.json
-v1
 wp-config.bak
 wp-config.php_
 .boto

@@ -35,9 +35,9 @@ backend
 mcp
 lib
 www
+v1
 frontend
 storage
-v1
 login
 server
 dev
@@ -367,6 +367,7 @@ sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 swagger
 terraform.tfvars
+version
 .env.test.local
 .env.www
 Dr0v
@@ -391,7 +392,6 @@ qa
 self
 service-account.json
 update
-version
 .env.2
 .env.prod.local
 .env.tmp
