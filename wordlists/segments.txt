@@ -30,9 +30,9 @@ web
 credentials
 logs
 public
+mcp
 app_dev.php
 backend
-mcp
 lib
 www
 login
@@ -200,13 +200,13 @@ configuration.json
 google-services.json
 images
 mysql.sql
+sse
 cache
 content
 credentials.xml
 panel
 parameters.yml
 saas
-sse
 v3
 bak
 platform
@@ -322,6 +322,7 @@ backups
 config.inc.php
 config.yml
 configuration
+index
 libraries
 pub
 remote
@@ -335,7 +336,6 @@ $(pwd)
 authorized_keys
 conf
 dist
-index
 login.cgi
 logon.html
 master.key

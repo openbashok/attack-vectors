@@ -62,6 +62,7 @@ test.php
 credentials.json
 crm/.env
 database.sql
+mcp/
 storage/logs/laravel.log
 terraform.tfstate
 .env.dist
@@ -69,7 +70,6 @@ backup.sql
 db.sql
 dev/.env
 htdocs/.env
-mcp/
 settings/.env
 v1/.env
 .env.orig
@@ -87,6 +87,7 @@ error.log
 package.json
 web.config
 env
+mcp
 secrets.yaml
 site.zip
 staging/.env
@@ -102,7 +103,6 @@ config.env
 laravel.log
 library/.env
 local/.env
-mcp
 media/.env
 new/.env
 package-lock.json
@@ -158,6 +158,7 @@ bedrock.env
 configuration.json
 google-services.json
 mysql.sql
+sse
 store/.env
 administrator/.env
 assets/.env
@@ -168,7 +169,7 @@ docs/.env
 download/.env
 home/.env
 saas/.env
-sse
+api/mcp
 bak/.env
 server.key
 .aws/.env
@@ -179,7 +180,6 @@ server.key
 .env/.env
 .json
 Application/.env
-api/mcp
 api/test
 app.log
 app/config/parameters.yml
@@ -341,6 +341,7 @@ database/.env
 public/.git/config
 src/.git/config
 wp-content/.env
+.git/index
 HNAP1
 admin/.git/config
 app/config/.env
@@ -353,7 +354,6 @@ sftp-config.json
 shared/.env
 www/.git/config
 .env.docker
-.git/index
 backend/.env.local
 config.inc.php
 config.py

@@ -96,9 +96,9 @@ web
 configuration.json
 google-services.json
 mysql.sql
+sse
 credentials.xml
 parameters.yml
-sse
 server.key
 .env.save.1
 .env.stage
@@ -178,13 +178,13 @@ wp-config.php.save
 Jenkinsfile
 config.inc.php
 config.yml
+index
 sitemap.xml
 terraform.tfstate.backup
 wc.db
 .env.txt
 .env_1
 authorized_keys
-index
 login.cgi
 logon.html
 master.key
