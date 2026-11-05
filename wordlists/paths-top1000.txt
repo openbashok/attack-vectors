@@ -459,6 +459,7 @@ config/credentials.yml.enc
 docker-compose.override.yml
 instance/config.py
 lib/.env
+owa/auth/logon.aspx
 proc/self/environ
 root/.aws/credentials
 server/.env.local
@@ -537,7 +538,6 @@ master/.env
 new/.env.local
 new/.env.production
 new/.env.staging
-owa/auth/logon.aspx
 product/.env.staging
 psnlink/.env
 redmine/.env
@@ -754,6 +754,7 @@ localhost/.env
 locally/.env
 logging/.env
 magento/.env
+manager/html
 misc/.env
 next/.env
 nginx-server/.env
@@ -997,4 +998,3 @@ config/index.js
 config/mail.php
 config/openai.json
 config/runtime-env.js
-config/secrets.js

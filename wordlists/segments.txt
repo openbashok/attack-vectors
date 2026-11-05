@@ -79,11 +79,11 @@ database.yml
 sql
 tests
 administrator
-blog
-settings.json
 auth
-config.php
+blog
 html
+settings.json
+config.php
 view
 .env.old
 phpinfo.php
@@ -338,6 +338,7 @@ index
 login.cgi
 logon.html
 master.key
+owa
 sitemap.xml
 %2eenv
 .boto
@@ -350,7 +351,6 @@ evox
 id_ed25519
 login.jsp
 myadmin
-owa
 production
 sdk
 sftp-config.json
@@ -469,6 +469,8 @@ en
 instance
 live
 login.asp
+logon.aspx
+manager
 metadata
 proc
 react
@@ -539,9 +541,7 @@ kyc
 lab
 local.settings.json
 login.js
-logon.aspx
 mailer
-manager
 market
 mysqlmanager
 nginx

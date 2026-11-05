@@ -258,6 +258,7 @@ credentials.yml.enc
 docker-compose.override.yml
 docs
 login.asp
+logon.aspx
 wp-config.bak
 wp-config.php~
 .%65%6e%76
@@ -309,7 +310,6 @@ id_ecdsa
 index.js
 local.settings.json
 login.js
-logon.aspx
 openai.json
 secrets.js
 secrets.toml
@@ -380,6 +380,7 @@ console
 debug
 environment.json
 filesystems.php
+html
 license.txt
 main.yml
 one.one.one.one:443
@@ -491,7 +492,6 @@ google-ai.json
 graphql
 hetong.js
 host_vars
-html
 htpasswd.txt
 hubspot.config
 hubspot.json
