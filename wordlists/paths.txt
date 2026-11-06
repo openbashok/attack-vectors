@@ -744,6 +744,7 @@ ftpmaster/.env
 gcp/.env
 grems-frontend/.env
 hasura/.env
+health/liveliness
 helm/.env
 higlass-website/.env
 icon/.env
@@ -1490,7 +1491,6 @@ global.asax
 google-ai.yml
 graphiql
 group_vars/
-health/liveliness
 hibernate.cfg.xml
 horde/.env
 horizon
@@ -1611,6 +1611,7 @@ test/.env.production
 test/.env.staging
 tile.vf
 ubuntu/.env
+v1/models
 v2/_catalog
 var/.env
 var/log/nginx/error.log
@@ -2183,7 +2184,6 @@ v1.40/containers/json
 v1/completions
 v1/embeddings
 v1/mapOverlay
-v1/models
 v1/system/status
 v1/system/version
 v4/.env

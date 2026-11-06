@@ -744,6 +744,7 @@ ftpmaster/.env
 gcp/.env
 grems-frontend/.env
 hasura/.env
+health/liveliness
 helm/.env
 higlass-website/.env
 icon/.env

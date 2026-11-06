@@ -744,6 +744,7 @@ ftpmaster/.env
 gcp/.env
 grems-frontend/.env
 hasura/.env
+health/liveliness
 helm/.env
 higlass-website/.env
 icon/.env
@@ -997,4 +998,3 @@ cloud/config.json
 cmd.exe
 components/.env
 conf.json
-config.dev.json
