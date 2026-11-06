@@ -19,6 +19,7 @@ security.txt
 .env.example
 laravel.log
 .env.dev
+config.php
 .env.save
 HEAD
 login
@@ -26,7 +27,6 @@ robots.txt
 info
 .env.backup
 .env.local.php
-config.php
 .env.prod
 .env.test
 settings.py
@@ -162,6 +162,7 @@ configuration.php
 .htaccess
 .s3cfg
 hello.world
+login.htm
 settings.php
 sitemap.xml
 test.hello
@@ -170,7 +171,6 @@ wc.db
 .env.preprod
 .env.sandbox
 .env.secret
-login.htm
 swagger.json
 wp-config.php.save
 .env.sample
@@ -391,7 +391,9 @@ environment.json
 execute-solution
 filesystems.php
 firebase-adminsdk.json
+hetong.js
 html
+index.htm
 license.txt
 main.yml
 one.one.one.one:443
@@ -472,6 +474,7 @@ bucket
 bucket.env
 buckets
 cert.pem
+check.js
 ci.yml
 claude_desktop_config.json
 clientaccesspolicy.xml
@@ -511,14 +514,12 @@ gemini.config
 gemini.env
 global.asa
 google-ai.json
-hetong.js
 home.tar.gz
 host_vars
 htpasswd.txt
 hubspot.config
 hubspot.json
 hudson
-index.htm
 index.min.js
 index.php.bak
 index.php~
@@ -673,7 +674,6 @@ bedrock-credentials.json
 bedrock-credentials.yml
 bootstrap.properties
 bootstrap.yml
-check.js
 client_secret.json
 cluster_credentials.json
 code
@@ -717,10 +717,12 @@ hibernate.cfg.xml
 horizon
 hubspot.yml
 i.php
+images
 index.php.old
 infophp.php
 ip.ifconfig.dpdns.org:443
 jolokia
+lang
 latest
 live_env
 liveliness

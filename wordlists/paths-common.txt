@@ -169,10 +169,10 @@ credentials.xml
 docs/.env
 download/.env
 home/.env
+login
 saas/.env
 api/mcp
 bak/.env
-login
 server.key
 .aws/.env
 .aws/config
@@ -270,6 +270,7 @@ config/database.php
 docker/.env
 hello.world
 index.html
+login.htm
 sitemap.xml
 test.hello
 vendor/phpunit/Util/PHP/eval-stdin.php
@@ -300,7 +301,6 @@ lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-login.htm
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -323,6 +323,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 .git-credentials
 admin/.git/config
+admin/config.php
 database/.env
 manage/account/login
 public/.git/config
@@ -376,7 +377,6 @@ shared/.env
 .vscode/sftp.json
 .well-known/pki-validation/update
 Dr0v
-admin/config.php
 backend/.env.local
 config.py
 deploy/.env
@@ -753,6 +753,7 @@ id_rsa.pub
 image_data/.env
 img/.env
 includes/.env
+index.htm
 js/.env
 k8s/.env
 kibana/.env
@@ -808,6 +809,7 @@ speed.cloudflare.com:443
 src/gameprovider-service/.env
 ssl.key
 stag/.env
+static/admin/javascript/hetong.js
 stats/.env
 stripe/.env
 swagger-ui.html
@@ -898,6 +900,7 @@ MyAdmin/index.php
 PMA/index.php
 Pipfile
 Pipfile.lock
+Public/home/js/check.js
 README.md
 Thumbs.db
 __/firebase/init.json
@@ -1090,7 +1093,6 @@ inc/config.php
 include/config.php
 includes/config.php
 includes/db.php
-index.htm
 index.php.bak
 index.php~
 install.php
@@ -1245,7 +1247,6 @@ sql/webadmin/index.php
 sql/webdb/index.php
 sql/websql/index.php
 sqlmanager/index.php
-static/admin/javascript/hetong.js
 stripe-credentials.json
 studioserver/.git/config
 template.yaml

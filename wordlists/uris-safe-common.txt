@@ -212,6 +212,7 @@ k8s/secrets.yaml
 kubernetes/secrets.yaml
 log/
 log/.env
+login
 login/.env
 logs/
 logs/.env
@@ -241,7 +242,6 @@ user/.env
 v3/.env
 wp-config.php.backup
 .env.live
-login
 geoserver/web/
 .env.dev.local
 .env.staging.local
@@ -275,6 +275,7 @@ docker/.env
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.html
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
+login.htm
 sitemap.xml
 test.hello_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/Util/PHP/eval-stdin.php
@@ -308,7 +309,6 @@ lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-login.htm
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -331,6 +331,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 .git-credentials
 admin/.git/config
+admin/config.php
 database/.env
 manage/account/login
 public/.git/config
@@ -383,7 +384,6 @@ wp-content/.env
 .vscode/sftp.json
 .well-known/pki-validation/update
 Dr0v
-admin/config.php
 backend/.env.local
 config.py
 deploy/.env
@@ -764,6 +764,7 @@ id_rsa.pub
 image_data/.env
 img/.env
 includes/.env
+index.htm
 js/.env
 k8s/.env
 kibana/.env
@@ -819,6 +820,7 @@ speed.cloudflare.com:443
 src/gameprovider-service/.env
 ssl.key
 stag/.env
+static/admin/javascript/hetong.js
 stats/.env
 stripe/.env
 swagger-ui.html
@@ -902,6 +904,7 @@ MyAdmin/index.php_lang=en
 PMA/index.php_lang=en
 Pipfile
 Pipfile.lock
+Public/home/js/check.js
 README.md
 Thumbs.db
 _/.aws/config
@@ -1109,7 +1112,6 @@ inc/config.php
 include/config.php
 includes/config.php
 includes/db.php
-index.htm
 index.php.bak
 index.php_
 index.php_lang=en
@@ -1266,7 +1268,6 @@ sql/webadmin/index.php_lang=en
 sql/webdb/index.php_lang=en
 sql/websql/index.php_lang=en
 sqlmanager/index.php_lang=en
-static/admin/javascript/hetong.js
 stripe-credentials.json
 studioserver/.git/config
 template.yaml
