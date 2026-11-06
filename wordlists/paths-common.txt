@@ -37,12 +37,12 @@ server/.env
 site/.env
 www/.env
 .env.testing
+get
 info.php
+ip.cypher.rest:443
 html/.env
 prod/.env
 _profiler/phpinfo
-get
-ip.cypher.rest:443
 old/.env
 security.txt
 core/.env
@@ -471,6 +471,7 @@ api
 api.ipinfo.io:443
 api/.env.local
 app/etc/env.php
+autodiscover/autodiscover.json
 composer.json
 config/credentials.yml.enc
 gcp-credentials.json
@@ -508,7 +509,6 @@ api/config.env
 application-prod.properties
 application.properties.bak
 appsettings.production.json
-autodiscover/autodiscover.json
 aws-ses.json
 aws/credentials
 backend/.git/config

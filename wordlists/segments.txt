@@ -110,12 +110,12 @@ secrets.yml
 settings
 config.env
 .env.testing
+get
 info.php
+ip.cypher.rest:443
 config.js
 media
 secrets.json
-get
-ip.cypher.rest:443
 actuator
 compose
 data
@@ -427,6 +427,7 @@ _static
 aaa9
 aab9
 auth.json
+autodiscover
 config.php~
 cron
 db.php
@@ -451,7 +452,6 @@ GponForm
 ansible.cfg
 application-prod.yml
 application_default_credentials.json
-autodiscover
 bedrock
 community
 composer.lock
@@ -480,6 +480,7 @@ wp-config.php~
 ansible
 api-docs
 api.ipinfo.io:443
+autodiscover.json
 bdd
 boxes
 ci
@@ -531,7 +532,6 @@ amplify.yml
 application-prod.properties
 application.properties.bak
 appsettings.production.json
-autodiscover.json
 aws-ses.json
 azure.yaml
 bedrock.json

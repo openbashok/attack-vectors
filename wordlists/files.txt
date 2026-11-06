@@ -46,11 +46,11 @@ secrets.yml
 config.env
 env
 .env.testing
+get
 info.php
+ip.cypher.rest:443
 config.js
 secrets.json
-get
-ip.cypher.rest:443
 aws.yml
 application.yml
 entries
@@ -264,6 +264,7 @@ wp-config.php~
 .env.aws
 api-docs
 api.ipinfo.io:443
+autodiscover.json
 composer.json
 credentials.yml.enc
 docs
@@ -294,7 +295,6 @@ application-prod.properties
 application.properties.bak
 appsettings.production.json
 auth
-autodiscover.json
 aws-ses.json
 azure.yaml
 bedrock.json
