@@ -1441,6 +1441,7 @@ beta/.env.local
 beta/.env.production
 beta/.env.staging
 boaform/admin/formLogin
+boaform/admin/formLogin_username=user_psd=user
 bootstrap.properties
 bootstrap.yml
 bootstrap/cache/config.php
@@ -1855,7 +1856,6 @@ bitcoind/.env
 blog/%2eenv_v=pp3zc
 blog/_w3tc_minify=6cc23.css
 boaform/admin/formLogin_username=admin_psd=admin
-boaform/admin/formLogin_username=user_psd=user
 boxes/oracle-vagrant-boxes/OLCNE/.env
 build.tar.gz
 build.zip
