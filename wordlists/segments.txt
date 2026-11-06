@@ -249,11 +249,11 @@ metadatauploader
 backup.zip
 login.html
 root
+*
 .env.live
 json
 s3
 %00.env
-*
 .env~
 geoserver
 wp-admin
@@ -1032,6 +1032,7 @@ vault.yml
 vertex-ai-credentials.json
 vertex-ai.json
 webroot
+wiki
 wp
 wp-config.php-backup
 wp-pma-mod
@@ -1276,7 +1277,6 @@ vpnsvc
 web.config.bak
 webjars
 well-known
-wiki
 win
 winscp.ini
 with-dotenv

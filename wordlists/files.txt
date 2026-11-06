@@ -157,6 +157,7 @@ wp-config.php.old
 configuration.php
 hello.world
 test.hello
+*
 .env.ci
 .env.config
 .htaccess
@@ -166,7 +167,6 @@ login.htm
 settings.php
 sftp.json
 sitemap.xml
-*
 .env.sample
 health
 mcp.json
@@ -566,6 +566,7 @@ v2
 vault.yml
 vertex-ai-credentials.json
 vertex-ai.json
+wiki
 workflows
 wp-config.php-backup
 www.tar.gz
@@ -743,7 +744,6 @@ trace
 version.php
 vpn
 web.config.bak
-wiki
 winscp.ini
 wp-blog-header.php
 wp-config.php.dist

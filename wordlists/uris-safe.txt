@@ -278,6 +278,7 @@ vendor/phpunit/src/Util/PHP/eval-stdin.php
 .env.config
 .htaccess
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+_
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -319,7 +320,6 @@ yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .docker/.env
 .env.sample
-_
 app/.git/config
 config/database.php
 manage/account/login
@@ -1251,6 +1251,7 @@ vertex-ai.json
 vertex.json
 vue/config.json
 webroot/.env
+wiki
 wp-admin
 wp-admin/css/colors/modern/
 wp-admin/css/colors/sunrise/
@@ -1612,7 +1613,6 @@ web.config.bak
 web/.git/config
 webjars/swagger-ui/index.html
 well-known/.env
-wiki
 winscp.ini
 wordpress/.git/config
 wordpress/wp-json/batch/v1
