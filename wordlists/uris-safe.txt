@@ -24,13 +24,13 @@ backend/.env
 docker-compose.yml
 public/.env
 .git/HEAD
+phpinfo.php
 web/.env
 wp-config.php
 .env.development
 .gitlab-ci.yml
 admin/.env
 frontend/.env
-phpinfo.php
 src/.env
 server/.env
 site/.env
@@ -270,6 +270,7 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.swp
 .htaccess
 .svn/wc.db
+_
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 config/database.php
 docker/.env
@@ -287,7 +288,6 @@ www/.git/config
 .env.sandbox
 .env.secret
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-_
 admin/config.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -367,6 +367,7 @@ assets../.git/config
 backup/.git/config
 cms/.git/config
 config.inc.php
+config.py
 config/.git/config
 config/aws.json
 config/aws.yml
@@ -389,7 +390,6 @@ wp-content/.env
 .well-known/pki-validation/update
 app/.env.production
 backend/.env.local
-config.py
 deploy/.env
 files/
 pub/

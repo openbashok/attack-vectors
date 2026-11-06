@@ -25,13 +25,13 @@ backend/.env
 docker-compose.yml
 public/.env
 .git/HEAD
+phpinfo.php
 web/.env
 wp-config.php
 .env.development
 .gitlab-ci.yml
 admin/.env
 frontend/.env
-phpinfo.php
 src/.env
 server/.env
 site/.env
@@ -264,6 +264,7 @@ cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%
 configuration.php
 sitemap.xml
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+*
 .env.swp
 .htaccess
 .svn/wc.db
@@ -278,7 +279,6 @@ vendor/phpunit/phpunit/LICENSE/eval-stdin.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
 www/.git/config
-*
 .env.preprod
 .env.sandbox
 .env.secret
@@ -361,6 +361,7 @@ assets../.git/config
 backup/.git/config
 cms/.git/config
 config.inc.php
+config.py
 config/.git/config
 config/aws.json
 config/aws.yml
@@ -382,7 +383,6 @@ shared/.env
 .well-known/pki-validation/update
 app/.env.production
 backend/.env.local
-config.py
 deploy/.env
 files/
 pub/

@@ -30,8 +30,8 @@ login
 .env.test
 settings.py
 .env.backup
-view
 phpinfo.php
+view
 settings.json
 database.yml
 .env.old
@@ -154,11 +154,12 @@ sftp.json
 .env.uat
 .htpasswd
 HNAP1
+config.py
 .env.ci
 .env.config
-config.py
 configuration.php
 sitemap.xml
+*
 .env.swp
 .htaccess
 .s3cfg
@@ -167,7 +168,6 @@ login.htm
 settings.php
 test.hello
 wc.db
-*
 .env.preprod
 .env.sandbox
 .env.secret
