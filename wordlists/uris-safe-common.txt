@@ -51,13 +51,13 @@ secrets.json
 .kube/config
 backup/.env
 database.yml
+mcp/
 settings.py
 storage/.env
 .svn/entries
 api/.git/config
 client/.env
 dump.sql
-mcp/
 credentials.json
 crm/.env
 database.sql
@@ -75,6 +75,7 @@ settings/.env
 appsettings.json
 config.php.bak
 dashboard/.env
+mcp
 shop/.env
 v1/.env
 v2/.env
@@ -83,7 +84,6 @@ application.yml
 blog/.env
 debug.log
 error.log
-mcp
 package.json
 web.config
 env
@@ -117,6 +117,7 @@ yarn.lock
 aws.env
 env-config.js
 secrets.yml
+sse
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -146,13 +147,13 @@ phpinfo/
 secrets.env
 sendgrid/.env
 sendgrid/.env.php
-sse
 test
 test/.env.php
 twilio/.env.php
 uploads/.env
 var/.env.local.php
 .env.development.local
+api/mcp
 api/v2/.env
 assets/config.json
 aws.yml
@@ -162,7 +163,6 @@ google-services.json
 mysql.sql
 store/.env
 administrator/.env
-api/mcp
 assets/.env
 beta/.env
 content/.env

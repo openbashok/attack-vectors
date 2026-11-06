@@ -176,6 +176,7 @@ aws.env
 bedrock.env
 env-config.js
 files
+sse
 static
 .config.yaml
 .env.example.php
@@ -194,7 +195,6 @@ download
 k8s
 kubernetes
 secrets.env
-sse
 twilio
 .env.development.local
 configuration.json

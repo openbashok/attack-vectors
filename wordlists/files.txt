@@ -81,6 +81,7 @@ yarn.lock
 aws.env
 bedrock.env
 env-config.js
+sse
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -91,7 +92,6 @@ env-config.js
 .env.sample.php
 config.dev.php
 secrets.env
-sse
 web
 .env.development.local
 configuration.json
