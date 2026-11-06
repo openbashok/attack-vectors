@@ -7,28 +7,28 @@ app/.env
 .env.bak
 .env.local
 api/.env
+.env.dev
 .env.save
 config/.env
-.env.dev
 laravel/.env
+robots.txt
 .env.backup
 config.json
-robots.txt
 .env.prod
 .env.test
 .aws/credentials
-.env.staging
 backend/.env
-.env.example
 .env.old
+.env.staging
+.env.example
 docker-compose.yml
+.git/HEAD
 public/.env
 src/.env
 .env.development
-web/.env
 phpinfo.php
+web/.env
 wp-config.php
-.git/HEAD
 .gitlab-ci.yml
 frontend/.env
 server/.env
@@ -36,15 +36,15 @@ www/.env
 admin/.env
 site/.env
 get
+info.php
 ip.cypher.rest:443
 html/.env
-info.php
 .env.testing
 old/.env
 prod/.env
 security.txt
-.env.production.local
 _profiler/phpinfo
+.env.production.local
 config.js
 core/.env
 secrets.json
@@ -63,18 +63,18 @@ crm/.env
 database.sql
 storage/logs/laravel.log
 terraform.tfstate
+test.php
 .env.dist
 backup.sql
 db.sql
 dev/.env
+docker-compose.yaml
 htdocs/.env
 settings/.env
-test.php
 .env.orig
 appsettings.json
 config.php.bak
 dashboard/.env
-docker-compose.yaml
 shop/.env
 v1/.env
 v2/.env
@@ -98,6 +98,7 @@ auth/.env
 base/.env
 cms/.env
 config.env
+info
 laravel.log
 library/.env
 local/.env
@@ -115,7 +116,6 @@ yarn.lock
 ../.env
 aws.env
 env-config.js
-info
 secrets.yml
 .config.yaml
 .env.example.php
@@ -125,6 +125,7 @@ secrets.yml
 .env.php.bak
 .env.production.php
 .env.sample.php
+.well-known/security.txt
 ?phpinfo=-1
 ?url=.env
 API/.env
@@ -152,7 +153,6 @@ twilio/.env.php
 uploads/.env
 var/.env.local.php
 .env.development.local
-.well-known/security.txt
 api/v2/.env
 assets/config.json
 aws.yml
@@ -241,9 +241,9 @@ wp-config.php.backup
 wp-config.php.bak
 .aws/config
 .env.live
+login
 .env~
 geoserver/web/
-login
 .env.dev.local
 .env.staging.local
 .env_sample
@@ -254,12 +254,14 @@ cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
 containers/json
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
+phpinfo
 .htpasswd
 .ssh/id_rsa
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-config.php.old
 .env.swp
+.env.uat
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 build/.env
 configuration.php
@@ -267,7 +269,6 @@ docker/.env
 hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.html
 index.php?-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
-phpinfo
 test.hello?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -275,7 +276,6 @@ vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
 .env.ci
 .env.config
-.env.uat
 .htaccess
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -323,6 +323,7 @@ app/.git/config
 config/database.php
 manage/account/login
 public_html/.env
+sitemap.xml
 wp-config.php.save
 .env.1
 .env.preprod
@@ -334,7 +335,6 @@ Jenkinsfile
 admin/index.html
 configuration/.env
 login.html
-sitemap.xml
 terraform.tfstate.backup
 +CSCOE+/logon.html
 .docker/config.json
@@ -365,6 +365,7 @@ Dr0v
 backend/.env.local
 config.inc.php
 config.py
+docker-compose.prod.yml
 secrets.py
 settings.php
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
@@ -391,7 +392,6 @@ deploy/.env
 dev/.git/config
 development/.env
 dist/.env
-docker-compose.prod.yml
 files/
 files/.git/config
 media../.git/config
@@ -434,6 +434,7 @@ ws
 .netrc
 .ssh/authorized_keys
 .yarnrc.yml
+Dockerfile
 Gemfile.lock
 GponForm/diag_Form?images/
 abc7
@@ -444,6 +445,7 @@ backup.zip
 composer.lock
 config.php~
 doc/index.html
+docker-compose.override.yml
 local_settings.py
 mail/.env
 private/.env
@@ -455,7 +457,6 @@ www.zip
 .env.aws
 .envrc
 .ssh/config
-Dockerfile
 HNAP1/
 aab9
 admin/login.asp
@@ -465,7 +466,6 @@ app/etc/env.php
 config.php.old
 config/config.php
 config/credentials.yml.enc
-docker-compose.override.yml
 instance/config.py
 owa/auth/logon.aspx
 proc/self/environ
@@ -477,6 +477,7 @@ wp-config.bak
 wp-config.php~
 .boto
 .docker/laravel/app/.env
+.dockerenv
 .env-example
 .env-sample
 .env.development.sample
@@ -559,7 +560,6 @@ web/
 webpages/login.html
 wp-config.php.txt
 .config/gcloud/application_default_credentials.json
-.dockerenv
 .env.bak~
 .env.new
 .env.old~
@@ -606,6 +606,7 @@ env.txt
 frontend/.env.local
 functions/.env
 google-credentials.json
+graphql
 laravel/.env.example
 local.py
 myapp/settings.py
@@ -657,8 +658,10 @@ FIRST_CONFIG/.env
 Passportjs/.env
 ReportServer
 __tests__/test-become/.env
+_ignition/execute-solution
 acme-challenge/.env
 acme/.env
+admin
 admin.php
 alpha/.env
 anaconda/.env
@@ -902,13 +905,11 @@ Thumbs.db
 __/firebase/init.json
 __ENV.js
 __phpmyadmin/index.php?lang=en
-_ignition/execute-solution
 _phpMyAdmin/index.php?lang=en
 _phpmyadmin/index.php?lang=en
 _phpmyadmin_/index.php?lang=en
 actuator
 actuator/logfile
-admin
 admin/db/index.php?lang=en
 admin/index.php?lang=en
 admin/login
@@ -950,6 +951,7 @@ app/amplify.yml
 app/config.php
 app/credentials.json
 app/terraform.tfstate
+app_dev.php
 application.yaml
 application_default_credentials.json
 assets/app.js
@@ -1060,7 +1062,6 @@ global.asa
 google-ai.json
 google/service-account.json
 gradle.properties
-graphql
 health
 home/*/.aws/credentials
 home/ec2-user/.aws/credentials
@@ -1148,6 +1149,7 @@ phpMyAdmin6.0/index.php?lang=en
 phpMyAdmin6/index.php?lang=en
 phpMyAdmin_/index.php?lang=en
 phpMyadmin/index.php?lang=en
+php_info.php
 phpmy-admin/index.php?lang=en
 phpmy/index.php?lang=en
 phpmyAdmin/index.php?lang=en
@@ -1316,6 +1318,7 @@ api/config.dev.env
 api/config.php
 api/docs/
 api/health
+api/login
 api/swagger-ui.html
 api/v1/Accounts
 api/v1/auto_login
@@ -1325,7 +1328,6 @@ apidocs/
 app/config/parameters.php
 app/etc/env.local.php
 app/etc/local.xml
-app_dev.php
 app_dev.php/_profiler
 application-dev.yml
 application-local.yml
@@ -1475,7 +1477,6 @@ parameters.yml
 pbxcore/api/v3/system:ping
 php/ViewUserInfo.php
 php/model/sql.php
-php_info.php
 portal/.env.local
 portal/.env.production
 portal/.env.staging
@@ -1681,12 +1682,14 @@ _backup.zip
 _flight
 _netrc
 _next/rsc
+_phpinfo.php
 _profiler/empty/search/results?limit=10
 a
 aab8
 admin/%252eenv
 admin/debug
 adminer%252ephp
+administrator/phpinfo.php
 agc/admin.php
 agc/astguiclient.php
 agc/index.php
@@ -1698,12 +1701,15 @@ api-docs.json
 api.tar.gz
 api.zip
 api/config
+api/documentation
 api/info
 api/json
-api/login
 api/rsc
 api/session/properties
+api/swagger
+api/v1/
 api/v1/health
+api/v1/login
 api/v1/secrets
 api/v1/version
 api/v2/weather/en-US/48.208/16.373?timezone=Europe/Vienna&dataSets=currentWeather
@@ -1789,6 +1795,7 @@ config/application.properties
 configs.zip
 configuration%2ephp%2ebak?v=RS1O6
 console/api/setup
+contact
 content.tar.gz
 content.zip
 core/persistence/.env
@@ -1799,6 +1806,7 @@ cryo_project/.env
 css/images/PTZOptics_powerby.png
 daemon/%2eenv?v=cmVKy
 dana-na/auth/url_default/welcome.cgi
+dashboard
 data.tar.gz
 data/backup.zip
 database.sql.gz
@@ -1807,6 +1815,7 @@ database.tar.gz
 dataset1/.env
 db/backup.sql.gz
 db_backup%252esql
+debug.php
 default/.env
 delivery/.env
 demo-app/.env
@@ -1818,6 +1827,7 @@ development.zip
 dist.tar.gz
 django.tar.gz
 dknp3y2yhmw5ux
+docker-compose.production.yml
 docker-compose/platform/.env
 docker-elk/.env
 docker/db/.env
@@ -1841,6 +1851,7 @@ e2e/.env
 e50on8epc2fcr6
 elision-dialer/agent/astguiclient.php
 en
+env.php
 env.zip
 env/%252eenv
 env/template/.env
@@ -1879,6 +1890,7 @@ goform/fast_setting_wifi_set
 gunicorn.conf.py
 haloocom_connect4/astguiclient.php
 helm.zip
+home
 hooks/%252eenv
 host.php?v=5XLMo
 iagent/idialer.php
@@ -2009,6 +2021,9 @@ parameters%2eyml?v=AVLes
 partymgr/control/main
 php-info.php?v=GZHRZ
 php/info%252ephp
+phpinf.php
+phpinfo.php.bak
+pinfo.php
 pipeline.zip
 postgres.zip
 prestashop.tar.gz
@@ -2087,6 +2102,7 @@ sugar_version.json
 superset_config.py
 symfony.tar.gz
 symfony.zip
+sysinfo.php
 temp/backup.zip
 temp/site.zip
 tenoaqxfjicxzm
@@ -2136,6 +2152,7 @@ wp-admin.zip
 wp-content.tar.gz
 wp-content/%2eenv?v=W51l2
 wp-content/.env?v=W51l2
+wp-content/phpinfo.php
 wp-json/
 wp-login.php
 wp-login.php?test=../../etc/passwd

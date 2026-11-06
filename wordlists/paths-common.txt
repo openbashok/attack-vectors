@@ -8,28 +8,28 @@ app/.env
 .env.bak
 .env.local
 api/.env
+.env.dev
 .env.save
 config/.env
-.env.dev
 laravel/.env
+robots.txt
 .env.backup
 config.json
-robots.txt
 .env.prod
 .env.test
 .aws/credentials
-.env.staging
 backend/.env
-.env.example
 .env.old
+.env.staging
+.env.example
 docker-compose.yml
+.git/HEAD
 public/.env
 src/.env
 .env.development
-web/.env
 phpinfo.php
+web/.env
 wp-config.php
-.git/HEAD
 .gitlab-ci.yml
 frontend/.env
 server/.env
@@ -37,16 +37,16 @@ www/.env
 admin/.env
 site/.env
 get
+info.php
 ip.cypher.rest:443
 html/.env
-info.php
 .env.testing
 old/.env
 prod/.env
 security.txt
+_profiler/phpinfo
 secrets.json
 .env.production.local
-_profiler/phpinfo
 config.js
 core/.env
 .kube/config
@@ -54,12 +54,12 @@ backup/.env
 database.yml
 settings.py
 storage/.env
+test.php
 .svn/entries
 api/.git/config
 client/.env
 dump.sql
 mcp/
-test.php
 credentials.json
 crm/.env
 database.sql
@@ -69,6 +69,7 @@ terraform.tfstate
 backup.sql
 db.sql
 dev/.env
+docker-compose.yaml
 htdocs/.env
 settings/.env
 v1/.env
@@ -76,7 +77,6 @@ v1/.env
 appsettings.json
 config.php.bak
 dashboard/.env
-docker-compose.yaml
 shop/.env
 v2/.env
 application.properties
@@ -100,6 +100,7 @@ auth/.env
 base/.env
 cms/.env
 config.env
+info
 laravel.log
 library/.env
 local/.env
@@ -116,7 +117,6 @@ yarn.lock
 ../.env
 aws.env
 env-config.js
-info
 secrets.yml
 .config.yaml
 .env.example.php
@@ -126,6 +126,7 @@ secrets.yml
 .env.php.bak
 .env.production.php
 .env.sample.php
+.well-known/security.txt
 API/.env
 apis/.env
 app_dev.php/_profiler/.env
@@ -151,7 +152,6 @@ twilio/.env.php
 uploads/.env
 var/.env.local.php
 .env.development.local
-.well-known/security.txt
 api/v2/.env
 assets/config.json
 aws.yml
@@ -171,6 +171,7 @@ download/.env
 home/.env
 saas/.env
 bak/.env
+login
 server.key
 .aws/.env
 .bedrock/.env
@@ -208,7 +209,6 @@ k8s/secrets.yaml
 kubernetes/secrets.yaml
 log/
 log/.env
-login
 login/.env
 logs/
 logs/.env
@@ -251,18 +251,19 @@ geoserver/web/
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
 containers/json
+phpinfo
 .htpasswd
 .ssh/id_rsa
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-config.php.old
 .env.swp
+.env.uat
 build/.env
 configuration.php
 docker/.env
 hello.world
 index.html
-phpinfo
 test.hello
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -270,7 +271,6 @@ vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
 .env.ci
 .env.config
-.env.uat
 .htaccess
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -315,6 +315,7 @@ app/.git/config
 config/database.php
 manage/account/login
 public_html/.env
+sitemap.xml
 wp-config.php.save
 .env.1
 .env.preprod
@@ -327,7 +328,6 @@ admin/index.html
 configuration/.env
 login.html
 remote/login
-sitemap.xml
 terraform.tfstate.backup
 +CSCOE+/logon.html
 .docker/config.json
@@ -358,6 +358,7 @@ Dr0v
 backend/.env.local
 config.inc.php
 config.py
+docker-compose.prod.yml
 secrets.py
 settings.php
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
@@ -384,7 +385,6 @@ deploy/.env
 dev/.git/config
 development/.env
 dist/.env
-docker-compose.prod.yml
 files/
 files/.git/config
 media../.git/config
@@ -428,6 +428,7 @@ ws
 .netrc
 .ssh/authorized_keys
 .yarnrc.yml
+Dockerfile
 Gemfile.lock
 GponForm/diag_Form
 abc7
@@ -438,6 +439,7 @@ backup.zip
 composer.lock
 config.php~
 doc/index.html
+docker-compose.override.yml
 local_settings.py
 mail/.env
 private/.env
@@ -448,7 +450,6 @@ www.zip
 .env.aws
 .envrc
 .ssh/config
-Dockerfile
 HNAP1/
 aab9
 admin/login.asp
@@ -458,7 +459,6 @@ app/etc/env.php
 config.php.old
 config/config.php
 config/credentials.yml.enc
-docker-compose.override.yml
 instance/config.py
 lib/.env
 owa/auth/logon.aspx
@@ -471,6 +471,7 @@ wp-config.bak
 wp-config.php~
 .boto
 .docker/laravel/app/.env
+.dockerenv
 .env-example
 .env-sample
 .env.development.sample
@@ -551,7 +552,6 @@ web/
 webpages/login.html
 wp-config.php.txt
 .config/gcloud/application_default_credentials.json
-.dockerenv
 .env.bak~
 .env.new
 .env.old~
@@ -598,6 +598,7 @@ env.txt
 frontend/.env.local
 functions/.env
 google-credentials.json
+graphql
 laravel/.env.example
 local.py
 myapp/settings.py
@@ -647,8 +648,10 @@ FIRST_CONFIG/.env
 Passportjs/.env
 ReportServer
 __tests__/test-become/.env
+_ignition/execute-solution
 acme-challenge/.env
 acme/.env
+admin
 admin.php
 alpha/.env
 anaconda/.env
@@ -886,13 +889,11 @@ Thumbs.db
 __/firebase/init.json
 __ENV.js
 __phpmyadmin/index.php
-_ignition/execute-solution
 _phpMyAdmin/index.php
 _phpmyadmin/index.php
 _phpmyadmin_/index.php
 actuator
 actuator/logfile
-admin
 admin/db/index.php
 admin/index.php
 admin/login
@@ -934,6 +935,7 @@ app/amplify.yml
 app/config.php
 app/credentials.json
 app/terraform.tfstate
+app_dev.php
 application.yaml
 application_default_credentials.json
 assets/app.js
@@ -1044,7 +1046,6 @@ global.asa
 google-ai.json
 google/service-account.json
 gradle.properties
-graphql
 health
 home/*/.aws/credentials
 home/ec2-user/.aws/credentials
@@ -1130,6 +1131,7 @@ phpMyAdmin6.0/index.php
 phpMyAdmin6/index.php
 phpMyAdmin_/index.php
 phpMyadmin/index.php
+php_info.php
 phpmy-admin/index.php
 phpmy/index.php
 phpmyAdmin/index.php
