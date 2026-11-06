@@ -22,8 +22,8 @@ laravel.log
 .env.save
 HEAD
 login
-info
 robots.txt
+info
 .env.backup
 .env.local.php
 config.php
@@ -163,6 +163,7 @@ configuration.php
 .s3cfg
 hello.world
 settings.php
+sitemap.xml
 test.hello
 wc.db
 *
@@ -170,7 +171,6 @@ wc.db
 .env.sandbox
 .env.secret
 login.htm
-sitemap.xml
 swagger.json
 wp-config.php.save
 .env.sample
@@ -315,6 +315,7 @@ icanhazip.com:443
 index.js
 local.settings.json
 login.js
+microsoft.exchange.ediscovery.exporttool.application
 openai.json
 run
 secrets.js
@@ -360,7 +361,6 @@ id_rsa.pub
 list
 local.py
 mail.php
-microsoft.exchange.ediscovery.exporttool.application
 swagger
 system
 vars

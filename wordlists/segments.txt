@@ -21,8 +21,8 @@ config.json
 .aws
 phpinfo
 SDK
-_profiler
 webLanguage
+_profiler
 laravel
 %%32%65%%32%65
 web
@@ -46,8 +46,8 @@ secrets.yaml
 demo
 v2
 .env.bak
-assets
 security.txt
+assets
 .env.example
 backup
 cgi-bin
@@ -59,8 +59,8 @@ docker
 HEAD
 staging
 debug
-db
 robots.txt
+db
 .env.backup
 .env.local.php
 .svn
@@ -103,8 +103,8 @@ client
 new
 project
 ..
-terraform.tfstate
 .well-known
+terraform.tfstate
 credentials.json
 secrets.yml
 settings
@@ -294,6 +294,7 @@ health
 hello.world
 manage
 settings.php
+sitemap.xml
 test.hello
 vue-heroes
 wc.db
@@ -306,7 +307,6 @@ configuration
 ec
 js
 login.htm
-sitemap.xml
 swagger.json
 workspace
 wp-config.php.save
@@ -501,6 +501,7 @@ terraform
 .gitlab-ci
 .npmrc._default
 .yarnrc
+Current
 PMA
 __tests__
 _ignition
@@ -537,10 +538,12 @@ deploy.yml
 deployment
 deployment.yaml
 ecosystem.config.js
+ecp
 end
 example
 exapi
 export
+exporttool
 front-end
 gcp.json
 gemini.json
@@ -554,6 +557,7 @@ login.js
 mailer
 market
 metrics
+microsoft.exchange.ediscovery.exporttool.application
 mysqlmanager
 nginx
 openai.json
@@ -604,7 +608,6 @@ wp-includes
 .remote-sync.json
 07-accessing-data
 1
-Current
 admin.php
 app.json
 appsettings.Production.json
@@ -618,11 +621,9 @@ config.toml
 console
 cores
 default_settings
-ecp
 engine
 env.txt
 environment.rb
-exporttool
 functions
 google-credentials.json
 gradle.properties
@@ -633,7 +634,6 @@ javascript
 list
 local.py
 mail.php
-microsoft.exchange.ediscovery.exporttool.application
 myapp
 oracle-vagrant-boxes
 plugins

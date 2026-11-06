@@ -11,9 +11,9 @@ api/.env
 .env.save
 config/.env
 laravel/.env
+robots.txt
 .env.backup
 config.json
-robots.txt
 .aws/credentials
 .env.prod
 .env.test
@@ -87,12 +87,12 @@ mcp
 package.json
 site.zip
 web.config
+.well-known/security.txt
 env
 staging/.env
 .env.json
 .env.local.php
 .env.php
-.well-known/security.txt
 application/.env
 apps/.env
 auth/.env
@@ -275,6 +275,7 @@ docker/.env
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.html
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
+sitemap.xml
 test.hello_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -315,7 +316,6 @@ phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/src/Util/PHP/eval-stdin.php
 public/index.php_s=/index/_think_app/invokefunction_function=call_user_func_array_vars_0_=md5_vars_1___=Hello
 public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-sitemap.xml
 test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -535,6 +535,7 @@ docker/app/.env
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 ecosystem.config.js
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 en/.env
 env.js
 env/.env
@@ -609,7 +610,6 @@ django/settings.py
 docker/compose/.env
 docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 engine/.env
 env.txt
 frontend/.env.local
