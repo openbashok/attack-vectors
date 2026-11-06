@@ -60,8 +60,8 @@ staging
 .env.save
 HEAD
 debug
-default
 robots.txt
+default
 .env.local.php
 db
 var
@@ -290,6 +290,7 @@ sites
 config.py
 configuration.php
 phpmyadmin
+sitemap.xml
 .env.swp
 .htaccess
 .s3cfg
@@ -300,7 +301,6 @@ js
 login.htm
 manage
 settings.php
-sitemap.xml
 test.hello
 wc.db
 workflows
@@ -356,6 +356,7 @@ static..
 update
 %2eenv
 .circleci
+Dr0v
 abc7
 about
 assets..
@@ -373,7 +374,6 @@ task
 ~
 .config
 .env.docker
-Dr0v
 backup.tar.gz
 batch
 css

@@ -92,6 +92,7 @@ staging/.env
 .env.json
 .env.local.php
 .env.php
+.well-known/security.txt
 application/.env
 apps/.env
 auth/.env
@@ -114,7 +115,6 @@ system/.env
 test/.env
 yarn.lock
 ../.env
-.well-known/security.txt
 aws.env
 env-config.js
 secrets.yml
@@ -265,6 +265,7 @@ index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 app/.git/config
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 configuration.php
+sitemap.xml
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.swp
 .htaccess
@@ -276,7 +277,6 @@ hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.html
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
 login.htm
-sitemap.xml
 test.hello_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -359,6 +359,7 @@ docker-compose.prod.yml
 static../.git/config
 .git/index
 .vscode/settings.json
+Dr0v
 HNAP1
 abc7
 app/config/.env
@@ -386,7 +387,6 @@ wp-content/.env
 .ssh/id_ed25519
 .vscode/sftp.json
 .well-known/pki-validation/update
-Dr0v
 app/.env.production
 backend/.env.local
 config.py
