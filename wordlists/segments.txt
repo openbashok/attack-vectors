@@ -12,14 +12,14 @@ api
 app
 favicon.ico
 test
-.env.local
 admin
+.env.local
 .%2e
 .env.production
 config.json
 .env.php
-phpinfo
 .aws
+phpinfo
 SDK
 _profiler
 webLanguage
@@ -31,10 +31,10 @@ credentials
 logs
 public
 mcp
+backend
 v1
 www
 app_dev.php
-backend
 login
 lib
 frontend
@@ -95,13 +95,13 @@ tmp
 apps
 prod
 site
+wp-config.php
 .env.development
 .gitlab-ci.yml
 index.html
 client
 new
 project
-wp-config.php
 ..
 terraform.tfstate
 .well-known
@@ -177,6 +177,7 @@ aws.env
 bedrock.env
 env-config.js
 static
+wp-config.php.bak
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -202,7 +203,6 @@ twilio
 configuration.json
 google-services.json
 rest
-wp-config.php.bak
 cache
 content
 credentials.xml
@@ -210,6 +210,7 @@ parameters.yml
 saas
 v3
 bak
+id_rsa
 panel
 platform
 server.key
@@ -247,7 +248,7 @@ twilio.env
 wp-config.php.backup
 .env.live
 backup.zip
-id_rsa
+geoserver
 login.html
 root
 *
@@ -255,7 +256,6 @@ root
 .env.staging.local
 .env_sample
 database.php
-geoserver
 json
 s3
 wp-admin
@@ -267,6 +267,7 @@ wp-admin
 wp-config.php.old
 wp-json
 .npmrc
+aws.json
 build
 containers
 database
@@ -282,7 +283,6 @@ LICENSE
 sites
 .env.ci
 .env.config
-aws.json
 config.py
 configuration.php
 phpmyadmin
@@ -632,6 +632,7 @@ id_rsa.pub
 javascript
 list
 local.py
+mail.php
 microsoft.exchange.ediscovery.exporttool.application
 myapp
 oracle-vagrant-boxes
@@ -949,7 +950,6 @@ kubeconfig
 logfile
 login_up.php
 logout
-mail.php
 manifest.json
 mcp.yaml
 mcp.yml
@@ -1068,6 +1068,7 @@ wp-config.php.gz
 wp-config.php.zip
 wp-config.txt
 wp-load.php
+wp-login.php
 wp-pma-mod
 wp-settings.php
 xmlrpc.php
@@ -1297,7 +1298,6 @@ well-known
 win
 winscp.ini
 with-dotenv
-wp-login.php
 wp_filemanager.php
 wrangler.toml
 www.cloudflare.com:443

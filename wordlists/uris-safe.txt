@@ -13,10 +13,10 @@ config/.env
 laravel/.env
 .env.backup
 config.json
+.aws/credentials
 .env.prod
 .env.test
 robots.txt
-.aws/credentials
 backend/.env
 .env.example
 .env.old
@@ -25,13 +25,13 @@ docker-compose.yml
 public/.env
 .git/HEAD
 web/.env
+wp-config.php
 .env.development
 .gitlab-ci.yml
+admin/.env
 frontend/.env
 phpinfo.php
 src/.env
-wp-config.php
-admin/.env
 server/.env
 site/.env
 www/.env
@@ -118,6 +118,7 @@ yarn.lock
 aws.env
 env-config.js
 secrets.yml
+wp-config.php.bak
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -161,7 +162,6 @@ bedrock.env
 configuration.json
 google-services.json
 store/.env
-wp-config.php.bak
 administrator/.env
 assets/.env
 beta/.env
@@ -242,10 +242,10 @@ v3/.env
 wp-config.php.backup
 .env.live
 login
+geoserver/web/
 .env.dev.local
 .env.staging.local
 .env_sample
-geoserver/web/
 .env.default
 .env.template
 .env_
@@ -453,6 +453,7 @@ config.php.old
 config/config.php
 doc/index.html
 docker-compose.override.yml
+id_rsa
 local_settings.py
 mail/.env
 private/.env
@@ -540,7 +541,6 @@ env/.env
 exapi/.env
 files/.env
 icanhazip.com:443
-id_rsa
 kyc/.env
 lab/.env
 laravel/.env.local
@@ -596,11 +596,13 @@ app/settings.py
 appsettings.Production.json
 auth.json
 authorized_keys
+aws.json
 backend/.env.production
 boaform/admin/formLogin_username=adminisp_psd=adminisp
 client/.env.local
 config.inc.php.bak
 config/environment.rb
+config/mail.php
 database.php
 debug/vars
 django/settings.py
@@ -976,7 +978,6 @@ auth/config.json
 aws-codecommit
 aws-exports.js
 aws.env.json
-aws.json
 aws.yaml
 aws/bucket
 aws/buckets
@@ -1032,7 +1033,6 @@ config/env.js
 config/gcp.json
 config/gemini.json
 config/index.js
-config/mail.php
 config/openai.json
 config/runtime-env.js
 config/secrets.js
@@ -1468,6 +1468,7 @@ config/sendgrid.yml
 config/services.php
 connectionstrings.config
 counterblockd/.env
+credentials
 crm/.env.local
 crm/.env.production
 crm/.env.staging
@@ -1640,6 +1641,7 @@ winscp.ini
 wordpress/.git/config
 wordpress/wp-json/batch/v1
 wp-content/plugins/hellopress/wp_filemanager.php
+wp-login.php
 wrangler.toml
 www.cloudflare.com:443
 %00.circleci/%00config.yml
@@ -1760,6 +1762,12 @@ Web/Auth
 WebInterface/
 WuEL
 __pwd_/.env.production
+__r156222769.html
+__r492808027
+__r529711326.html
+__r557723383.env
+__r571134968
+__r954489649.env
 _backup.zip
 _flight
 _next/rsc
@@ -2233,7 +2241,6 @@ wp-content/%2eenv_v=W51l2
 wp-content/.env_v=W51l2
 wp-content/phpinfo.php
 wp-json/
-wp-login.php
 wp-login.php_test=../../etc/passwd
 wp.tar.gz
 wp/.env

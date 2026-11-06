@@ -36,10 +36,10 @@ database.yml
 view
 .env.old
 docker-compose.yml
+wp-config.php
 .env.development
 .gitlab-ci.yml
 index.html
-wp-config.php
 terraform.tfstate
 credentials.json
 secrets.yml
@@ -81,6 +81,7 @@ yarn.lock
 aws.env
 bedrock.env
 env-config.js
+wp-config.php.bak
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -93,13 +94,13 @@ config.dev.php
 mysql.sql
 secrets.env
 sse
+web
 .env.development.local
 configuration.json
 google-services.json
-web
-wp-config.php.bak
 credentials.xml
 parameters.yml
+id_rsa
 server.key
 .env.save.1
 .env.stage
@@ -135,7 +136,6 @@ v1
 wp-config.php.backup
 .env.live
 backup.zip
-id_rsa
 login.html
 .env.dev.local
 .env.staging.local
@@ -148,6 +148,7 @@ json
 .env~
 wp-config.php.old
 .npmrc
+aws.json
 sftp.json
 %252eenv
 .env.uat
@@ -155,7 +156,6 @@ sftp.json
 HNAP1
 .env.ci
 .env.config
-aws.json
 config.py
 configuration.php
 .env.swp
@@ -359,6 +359,7 @@ graphql
 id_rsa.pub
 list
 local.py
+mail.php
 microsoft.exchange.ediscovery.exporttool.application
 swagger
 system
@@ -530,7 +531,6 @@ kubeconfig
 logfile
 login_up.php
 logout
-mail.php
 main
 manifest.json
 mcp.yaml
@@ -599,6 +599,7 @@ wp-config.txt
 wp-content
 wp-includes
 wp-load.php
+wp-login.php
 wp-settings.php
 xmlrpc.php
 %00backup.tar.gz
@@ -763,7 +764,6 @@ transparentpix.gif
 vpn
 web.config.bak
 winscp.ini
-wp-login.php
 wp_filemanager.php
 wrangler.toml
 www.cloudflare.com:443
