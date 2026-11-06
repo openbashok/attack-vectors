@@ -60,12 +60,12 @@ storage/logs/laravel.log
 client/.env
 credentials.json
 database.sql
+mcp/
 settings/.env
 .env.dist
 backup.sql
 crm/.env
 db.sql
-mcp/
 terraform.tfstate
 test.php
 v1/.env
@@ -77,13 +77,13 @@ docker-compose.yaml
 htdocs/.env
 appsettings.json
 dashboard/.env
+mcp
 shop/.env
 application.properties
 application.yml
 blog/.env
 debug.log
 error.log
-mcp
 package.json
 site.zip
 web.config
@@ -118,6 +118,7 @@ yarn.lock
 aws.env
 env-config.js
 secrets.yml
+sse
 wp-config.php.bak
 .config.yaml
 .env.example.php
@@ -148,7 +149,6 @@ phpinfo/
 secrets.env
 sendgrid/.env
 sendgrid/.env.php
-sse
 test
 test/.env.php
 twilio/.env.php
@@ -163,6 +163,7 @@ configuration.json
 google-services.json
 store/.env
 administrator/.env
+api/mcp
 assets/.env
 beta/.env
 content/.env
@@ -171,7 +172,6 @@ docs/.env
 download/.env
 home/.env
 saas/.env
-api/mcp
 bak/.env
 server.key
 .aws/.env
@@ -288,6 +288,7 @@ www/.git/config
 .env.secret
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 _
+admin/config.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -331,7 +332,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 .git-credentials
 admin/.git/config
-admin/config.php
 database/.env
 manage/account/login
 public/.git/config
@@ -456,6 +456,7 @@ docker-compose.override.yml
 id_rsa
 local_settings.py
 mail/.env
+owa/auth/logon.aspx
 private/.env
 production/.env
 remote/login
@@ -480,7 +481,6 @@ config/credentials.yml.enc
 gcp-credentials.json
 icanhazip.com:443
 instance/config.py
-owa/auth/logon.aspx
 proc/self/environ
 root/.aws/credentials
 server/.env.local

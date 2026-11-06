@@ -17,9 +17,9 @@ test
 .env.bak
 security.txt
 .env.example
+config.php
 laravel.log
 .env.dev
-config.php
 .env.save
 HEAD
 login
@@ -81,6 +81,7 @@ yarn.lock
 aws.env
 bedrock.env
 env-config.js
+sse
 wp-config.php.bak
 .config.yaml
 .env.example.php
@@ -93,7 +94,6 @@ wp-config.php.bak
 config.dev.php
 mysql.sql
 secrets.env
-sse
 web
 .env.development.local
 configuration.json
@@ -256,6 +256,7 @@ diag_Form
 docker-compose.override.yml
 id_ecdsa
 local_settings.py
+logon.aspx
 runtime-env.js
 wp-config.bak
 wp-config.php~
@@ -268,7 +269,6 @@ docs
 gcp-credentials.json
 icanhazip.com:443
 login.asp
-logon.aspx
 run
 .%65%6e%76
 .dockerenv

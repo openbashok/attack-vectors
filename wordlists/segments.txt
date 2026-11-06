@@ -51,10 +51,10 @@ assets
 .env.example
 backup
 cgi-bin
+config.php
 info
 laravel.log
 .env.dev
-config.php
 .env.save
 docker
 HEAD
@@ -82,11 +82,11 @@ old
 phpinfo.php
 settings.json
 tests
+auth
 blog
 database.yml
 view
 .env.old
-auth
 docker-compose.yml
 log
 sql
@@ -178,6 +178,7 @@ yarn.lock
 aws.env
 bedrock.env
 env-config.js
+sse
 wp-config.php.bak
 .config.yaml
 .env.example.php
@@ -197,7 +198,6 @@ k8s
 kubernetes
 mysql.sql
 secrets.env
-sse
 twilio
 .env.development.local
 configuration.json
@@ -330,6 +330,7 @@ config.yml
 id_ed25519
 index
 libraries
+owa
 remote
 sftp-config.json
 swagger
@@ -349,7 +350,6 @@ fixtures
 login.cgi
 logon.html
 master.key
-owa
 static..
 update
 %2eenv
@@ -459,6 +459,7 @@ framework
 gcloud
 id_ecdsa
 local_settings.py
+logon.aspx
 mail
 master
 runtime-env.js
@@ -481,7 +482,6 @@ icanhazip.com:443
 instance
 live
 login.asp
-logon.aspx
 manager
 metadata
 metrics
