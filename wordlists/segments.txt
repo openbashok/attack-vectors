@@ -47,8 +47,8 @@ demo
 v2
 .env.bak
 assets
-.env.example
 security.txt
+.env.example
 backup
 cgi-bin
 info

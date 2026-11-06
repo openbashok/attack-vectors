@@ -13,10 +13,10 @@ config/.env
 laravel/.env
 .env.backup
 config.json
+robots.txt
 .aws/credentials
 .env.prod
 .env.test
-robots.txt
 backend/.env
 .env.example
 .env.old
@@ -43,8 +43,8 @@ html/.env
 prod/.env
 _profiler/phpinfo
 old/.env
-core/.env
 security.txt
+core/.env
 api/.git/config
 storage/.env
 .env.production.local
@@ -92,6 +92,7 @@ staging/.env
 .env.json
 .env.local.php
 .env.php
+.well-known/security.txt
 application/.env
 apps/.env
 auth/.env
@@ -114,7 +115,6 @@ system/.env
 test/.env
 yarn.lock
 ../.env
-.well-known/security.txt
 aws.env
 env-config.js
 secrets.yml
