@@ -170,13 +170,13 @@ library
 open
 package-lock.json
 sendgrid.env
+sse
 user
 yarn.lock
 aws.env
 bedrock.env
 env-config.js
 files
-sse
 static
 .config.yaml
 .env.example.php

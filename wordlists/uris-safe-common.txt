@@ -70,12 +70,12 @@ db.sql
 dev/.env
 docker-compose.yaml
 htdocs/.env
+mcp
 settings/.env
 .env.orig
 appsettings.json
 config.php.bak
 dashboard/.env
-mcp
 shop/.env
 v1/.env
 v2/.env
@@ -110,6 +110,7 @@ project/.env
 secrets.yaml
 sendgrid.env
 settings.json
+sse
 system/.env
 test/.env
 yarn.lock
@@ -117,7 +118,6 @@ yarn.lock
 aws.env
 env-config.js
 secrets.yml
-sse
 .config.yaml
 .env.example.php
 .env.php-backup
