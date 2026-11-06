@@ -381,6 +381,7 @@ wp-content/.env
 .env.docker
 .ssh/id_ed25519
 .vscode/sftp.json
+.well-known/pki-validation/update
 Dr0v
 admin/config.php
 backend/.env.local
@@ -395,7 +396,6 @@ vendor/.env
 .env.test.local
 .env.www
 .travis.yml
-.well-known/pki-validation/update
 RDWeb
 abc6
 abc8

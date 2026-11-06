@@ -20,8 +20,8 @@ config.json
 .env.php
 phpinfo
 .aws
-_profiler
 SDK
+_profiler
 webLanguage
 laravel
 %%32%65%%32%65
@@ -104,10 +104,10 @@ project
 wp-config.php
 ..
 terraform.tfstate
+.well-known
 credentials.json
 secrets.yml
 settings
-.well-known
 config.env
 .env.testing
 get
@@ -351,6 +351,7 @@ logon.html
 master.key
 owa
 static..
+update
 %2eenv
 .circleci
 about
@@ -363,7 +364,6 @@ myadmin
 production
 sdk
 task
-update
 ~
 .config
 .env.docker
@@ -372,6 +372,7 @@ backup.tar.gz
 batch
 css
 deploy
+pki-validation
 scripts
 secrets.py
 service-account.json
@@ -399,7 +400,6 @@ includes
 mailchimp
 openapi.json
 php
-pki-validation
 private
 protected
 qa

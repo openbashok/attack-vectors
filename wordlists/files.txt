@@ -194,12 +194,12 @@ docker-compose.prod.yml
 login.cgi
 logon.html
 master.key
+update
 %2eenv
 about
 api
 login.jsp
 sdk
-update
 .env.docker
 Dr0v
 backup.tar.gz
