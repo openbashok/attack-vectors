@@ -598,6 +598,7 @@ wp-config.php.txt
 .env_prod
 .remote-sync.json
 07-accessing-data
+1
 Current
 admin.php
 app.json
@@ -1065,6 +1066,7 @@ www.tar.gz
 .pnpmfile.cjs
 .vault-token
 04-many-to-many-relationship
+9
 ADMIN
 Accounts
 Assignment3
@@ -1226,6 +1228,7 @@ newsite
 nsepa_setup.exe
 nuxt.config.js
 nuxt.config.ts
+op
 openai.yml
 openaikey
 openapi.yaml
