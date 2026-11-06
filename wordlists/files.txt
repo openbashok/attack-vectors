@@ -202,6 +202,8 @@ login.jsp
 sdk
 .env.docker
 Dr0v
+abc6
+abc8
 backup.tar.gz
 files
 pub
@@ -214,8 +216,7 @@ version
 .env.www
 .travis.yml
 RDWeb
-abc6
-abc8
+abc7
 configprops
 env.php
 environ
@@ -230,7 +231,6 @@ wp-config.php.orig
 .netrc
 aaa9
 aab9
-abc7
 admin
 auth.json
 config.php~
@@ -261,12 +261,15 @@ wp-config.bak
 wp-config.php~
 .env.aws
 api-docs
+api.ipinfo.io:443
 composer.json
 credentials.yml.enc
 docs
 gcp-credentials.json
+icanhazip.com:443
 login.asp
 logon.aspx
+run
 .%65%6e%76
 .dockerenv
 .env-example
@@ -287,7 +290,6 @@ administrator
 airflow.cfg
 amplify.yaml
 amplify.yml
-api.ipinfo.io:443
 application-prod.properties
 application.properties.bak
 appsettings.production.json
@@ -311,13 +313,11 @@ ecosystem.config.js
 gcp.json
 gemini.json
 heapdump
-icanhazip.com:443
 index.js
 local.settings.json
 login.js
 microsoft.exchange.ediscovery.exporttool.application
 openai.json
-run
 secrets.js
 secrets.toml
 swagger-ui.html
