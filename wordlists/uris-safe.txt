@@ -1932,6 +1932,7 @@ www.cloudflare.com:443
 .kilocode
 .kiro
 .nx587355789b65
+.nxe8fe5041f7a7
 .opencode
 .project.zip
 .qwen
