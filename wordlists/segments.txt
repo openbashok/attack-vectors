@@ -37,9 +37,9 @@ www
 v1
 login
 frontend
+server
 storage
 lib
-server
 dev
 secrets.yaml
 core
@@ -871,6 +871,7 @@ WEB-INF
 __
 __ENV.js
 __phpmyadmin
+_next
 _phpMyAdmin
 _phpmyadmin
 _phpmyadmin_
@@ -1354,6 +1355,7 @@ production.key
 proxy.php
 pt2
 roundcube
+route
 runtime-config.js
 secret.json
 sendgrid.yml

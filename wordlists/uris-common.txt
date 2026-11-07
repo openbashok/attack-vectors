@@ -447,6 +447,7 @@ Gemfile.lock
 GponForm/diag_Form?images/
 actuator/env
 ansible.cfg
+api
 api/metrics/run
 application-prod.yml
 composer.lock
@@ -474,7 +475,6 @@ wp-config.php~
 .ssh/config
 HNAP1/
 admin/login.asp
-api
 api.ipinfo.io:443
 api/.env.local
 app/etc/env.php

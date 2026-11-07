@@ -441,6 +441,7 @@ Gemfile.lock
 GponForm/diag_Form
 actuator/env
 ansible.cfg
+api
 api/metrics/run
 application-prod.yml
 composer.lock
@@ -467,7 +468,6 @@ wp-config.php~
 .ssh/config
 HNAP1/
 admin/login.asp
-api
 api.ipinfo.io:443
 api/.env.local
 app/etc/env.php
@@ -1442,6 +1442,7 @@ _debugbar
 _debugbar/open
 _ignition/health-check
 _netrc
+_next/server
 _profiler
 _profiler/latest
 access.log
@@ -1462,12 +1463,14 @@ api/config.dev.env
 api/docs/
 api/health
 api/login
+api/route
 api/swagger-ui.html
 api/v1/Accounts
 api/v1/auto_login
 api/v1/config
 api/v1/validate/code
 apidocs/
+app
 app.config
 app/config/parameters.php
 app/etc/env.local.php
