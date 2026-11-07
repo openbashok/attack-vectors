@@ -238,9 +238,9 @@ wp-config.php.backup
 .env.development.local
 api/mcp
 developmentserver/metadatauploader
+login
 .aws/config
 .env.stage
-login
 .env.live
 geoserver/web/
 .env.dev.local

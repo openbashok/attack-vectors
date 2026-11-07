@@ -205,6 +205,7 @@ k8s/secrets.yaml
 kubernetes/secrets.yaml
 log/
 log/.env
+login
 login/.env
 logs/
 logs/.env
@@ -236,7 +237,6 @@ wp-config.php.backup
 .env.development.local
 api/mcp
 developmentserver/metadatauploader
-login
 .aws/config
 .env.stage
 .env.live
