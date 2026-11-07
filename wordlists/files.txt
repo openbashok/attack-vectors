@@ -167,11 +167,11 @@ wc.db
 .env.swp
 .htaccess
 .s3cfg
+health
 hello.world
 login.htm
 settings.php
 test.hello
-health
 swagger.json
 wp-config.php.save
 .env.sample
@@ -224,6 +224,7 @@ environ
 formLogin
 openapi.json
 wp-config.php.orig
+ws
 .env.2
 .env.prod.local
 .env.tmp
@@ -240,7 +241,6 @@ env.js
 id_dsa
 server-status
 settings
-ws
 www.zip
 .env.copy
 .yarnrc.yml
@@ -344,6 +344,7 @@ x.js
 .gitignore
 .pypirc
 .remote-sync.json
+ReportServer
 actuator
 admin.php
 app.json
@@ -383,7 +384,6 @@ wp-config.php.swp
 .ftpconfig
 .github
 7f13c0a9d8644f3ca0a563b6b56e49d7
-ReportServer
 _profiler
 backup.sql.gz
 build.gradle

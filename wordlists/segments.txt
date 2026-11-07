@@ -117,9 +117,9 @@ media
 config.js
 secrets.json
 data
+actuator
 aws.yml
 portal
-actuator
 entries
 home
 htdocs
@@ -134,12 +134,12 @@ database.sql
 dump.sql
 site.zip
 test.php
+ws
 application
 docs
 error.log
 examples
 uploads
-ws
 .env.production.local
 application.properties
 backup.sql
@@ -273,12 +273,12 @@ wp-config.php.old
 aws.json
 build
 database
+health
 wp-json
 .env.uat
 .npmrc
 containers
 drupal
-health
 shared
 %252eenv
 .env.ci
@@ -628,6 +628,7 @@ x.js
 1
 Exercise.Frontend
 Kubernetes
+ReportServer
 admin.php
 app.json
 appsettings.Production.json
@@ -692,7 +693,6 @@ Final_Project
 META-INF
 Nosto
 Passportjs
-ReportServer
 Tagging
 _debugbar
 acme

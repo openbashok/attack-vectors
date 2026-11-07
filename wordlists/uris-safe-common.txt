@@ -391,6 +391,7 @@ shared/.env
 wp-content/.env
 .env.docker
 .ssh/id_ed25519
+actuator/health
 app/.env.production
 backend/.env.local
 deploy/.env
@@ -404,7 +405,6 @@ vendor/.env
 .travis.yml
 RDWeb
 actuator/configprops
-actuator/health
 audio/.env
 backups/.env
 cgi-bin/.env
@@ -418,6 +418,7 @@ var/www/.env
 version
 wp-admin/.env
 wp-config.php.orig
+ws
 .env.2
 .env.prod.local
 .env.tmp
@@ -436,7 +437,6 @@ cron/.env
 docker-compose/.env
 panel/.env
 server-status
-ws
 www.zip
 .circleci/config.yml
 .env.copy
@@ -587,6 +587,7 @@ wp-content/uploads/
 .pypirc
 .remote-sync.json
 .ssh/id_dsa
+ReportServer
 actuator
 admin/
 admin/.env.production
@@ -666,7 +667,6 @@ Assignment4/.env
 ClientApp/.env
 FIRST_CONFIG/.env
 Passportjs/.env
-ReportServer
 __tests__/test-become/.env
 _ignition/execute-solution
 _s=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E
