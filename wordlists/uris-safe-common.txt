@@ -35,10 +35,10 @@ src/.env
 server/.env
 site/.env
 www/.env
-get
-ip.cypher.rest:443
 .env.testing
+get
 info.php
+ip.cypher.rest:443
 html/.env
 prod/.env
 _profiler/phpinfo
@@ -60,7 +60,6 @@ client/.env
 credentials.json
 database.sql
 settings/.env
-.env.production.local
 backup.sql
 crm/.env
 db.sql
@@ -69,6 +68,7 @@ test.php
 v1/.env
 v2/.env
 .env.orig
+.env.production.local
 config.php.bak
 dev/.env
 docker-compose.yaml
@@ -77,7 +77,6 @@ appsettings.json
 dashboard/.env
 mcp/
 shop/.env
-.env.dist
 application.properties
 application.yml
 blog/.env
@@ -86,6 +85,7 @@ error.log
 package.json
 site.zip
 web.config
+.env.dist
 env
 staging/.env
 .env.json
@@ -114,7 +114,6 @@ system/.env
 test/.env
 yarn.lock
 ../.env
-.well-known/security.txt
 aws.env
 env-config.js
 secrets.yml
@@ -126,6 +125,7 @@ secrets.yml
 .env.php.bak
 .env.production.php
 .env.sample.php
+.well-known/security.txt
 API/.env
 _phpinfo=-1
 _url=.env
@@ -169,13 +169,12 @@ download/.env
 home/.env
 saas/.env
 sse
-wp-config.php.bak
 bak/.env
 server.key
+wp-config.php.bak
 .aws/.env
 .bedrock/.env
 .claude/.env
-.env.development.local
 .env.save.1
 .env/.env
 .json
@@ -236,6 +235,7 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
+.env.development.local
 api/mcp
 developmentserver/metadatauploader
 .aws/config
@@ -373,6 +373,7 @@ config/.git/config
 config/aws.json
 config/aws.yml
 core/.git/config
+current/.env
 data/.git/config
 dev/.git/config
 evox/about
@@ -392,7 +393,6 @@ wp-content/.env
 .vscode/sftp.json
 app/.env.production
 backend/.env.local
-current/.env
 deploy/.env
 secrets.py
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
@@ -838,6 +838,7 @@ tests/.env
 tests/default_settings/v13.0/.env
 tests/drupal-test/.env
 theme/.env
+ubuntu/.env
 upload/.env
 users/.env
 vendor/.env.example
@@ -1365,7 +1366,6 @@ test_smtp.py
 tests/default_settings/v11.0/.env
 tests/todo-react/.env
 tiedostot/.env
-ubuntu/.env
 urlmem-app/.env
 var/task/.env
 var/task/amplify.yaml
