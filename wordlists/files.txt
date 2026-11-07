@@ -119,6 +119,7 @@ env.example
 infos
 log
 logs
+metadatauploader
 php_error.log
 php_errors.log
 readme.md
@@ -131,7 +132,6 @@ tmp
 twilio.env
 wp-config.php.backup
 id_rsa
-metadatauploader
 .env.stage
 v1
 .env.live

@@ -226,10 +226,12 @@ credentials.ini
 crossdomain.xml
 database.config
 developer
+developmentserver
 env.example
 erp
 facturacion
 infos
+metadatauploader
 node
 php_error.log
 php_errors.log
@@ -241,9 +243,7 @@ server.js
 stage
 twilio.env
 wp-config.php.backup
-developmentserver
 id_rsa
-metadatauploader
 panel
 .env.stage
 .env.live

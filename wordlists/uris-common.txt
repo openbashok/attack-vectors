@@ -198,6 +198,7 @@ database.config
 demo/
 dev/
 developer/.env
+developmentserver/metadatauploader
 env.example
 erp/.env
 facturacion/.env
@@ -237,7 +238,6 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-developmentserver/metadatauploader
 .aws/config
 .env.stage
 login
