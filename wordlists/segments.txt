@@ -346,6 +346,7 @@ update
 .boto
 .env.txt
 .env_1
+Dr0v
 abc6
 abc8
 assets..
@@ -359,7 +360,6 @@ master.key
 media..
 %2eenv
 .circleci
-Dr0v
 __tests__
 abc7
 about

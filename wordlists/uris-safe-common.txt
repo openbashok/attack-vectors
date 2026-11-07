@@ -353,6 +353,7 @@ terraform.tfstate.backup
 .env.txt
 .env_1
 .vscode/settings.json
+Dr0v
 abc6
 abc8
 assets../.git/config
@@ -376,7 +377,6 @@ pub/
 .git/index
 .vscode/sftp.json
 .well-known/pki-validation/update
-Dr0v
 HNAP1
 abc7
 app/config/.env

@@ -191,6 +191,7 @@ update
 .boto
 .env.txt
 .env_1
+Dr0v
 abc6
 abc8
 api
@@ -201,7 +202,6 @@ logon.html
 master.key
 pub
 %2eenv
-Dr0v
 abc7
 about
 login.jsp
