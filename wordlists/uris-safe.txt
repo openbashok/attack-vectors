@@ -22,9 +22,9 @@ backend/.env
 .env.old
 .env.staging
 docker-compose.yml
+phpinfo.php
 public/.env
 .git/HEAD
-phpinfo.php
 web/.env
 wp-config.php
 .env.development
@@ -262,6 +262,7 @@ index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 .env.ci
 .env.config
 .ssh/id_rsa
+_
 app/.git/config
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 configuration.php
@@ -270,7 +271,6 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.swp
 .htaccess
 .svn/wc.db
-_
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 config/database.php
 docker/.env

@@ -23,9 +23,9 @@ backend/.env
 .env.old
 .env.staging
 docker-compose.yml
+phpinfo.php
 public/.env
 .git/HEAD
-phpinfo.php
 web/.env
 wp-config.php
 .env.development
@@ -256,6 +256,7 @@ config.php
 build/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 containers/json
+*
 .env.ci
 .env.config
 .ssh/id_rsa
@@ -264,7 +265,6 @@ cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%
 configuration.php
 sitemap.xml
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-*
 .env.swp
 .htaccess
 .svn/wc.db

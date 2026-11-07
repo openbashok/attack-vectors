@@ -155,11 +155,11 @@ sftp.json
 .htpasswd
 HNAP1
 config.py
+*
 .env.ci
 .env.config
 configuration.php
 sitemap.xml
-*
 .env.swp
 .htaccess
 .s3cfg

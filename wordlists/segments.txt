@@ -19,9 +19,9 @@ admin
 config.json
 .env.php
 phpinfo
-.aws
 SDK
 webLanguage
+.aws
 _profiler
 laravel
 web
@@ -246,9 +246,9 @@ wp-config.php.backup
 id_rsa
 panel
 .env.stage
+*
 .env.live
 backup.zip
-*
 examples
 fixtures
 geoserver
