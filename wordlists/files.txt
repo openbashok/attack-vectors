@@ -21,8 +21,8 @@ laravel.log
 .env.dev
 config.php
 .env.save
-HEAD
 robots.txt
+HEAD
 info
 login
 .env.local.php
@@ -131,8 +131,8 @@ tmp
 twilio.env
 wp-config.php.backup
 id_rsa
-.env.stage
 metadatauploader
+.env.stage
 v1
 .env.live
 backup.zip

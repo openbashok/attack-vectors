@@ -58,9 +58,9 @@ cgi-bin
 config.php
 staging
 .env.save
+robots.txt
 HEAD
 debug
-robots.txt
 default
 .env.local.php
 db
@@ -241,11 +241,11 @@ server.js
 stage
 twilio.env
 wp-config.php.backup
+developmentserver
 id_rsa
+metadatauploader
 panel
 .env.stage
-developmentserver
-metadatauploader
 .env.live
 backup.zip
 *
