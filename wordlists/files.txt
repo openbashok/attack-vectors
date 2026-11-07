@@ -40,8 +40,8 @@ docker-compose.yml
 wp-config.php
 .env.development
 terraform.tfstate
-credentials.json
 index.html
+credentials.json
 secrets.yml
 .env.testing
 config.env

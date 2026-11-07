@@ -19,9 +19,9 @@ admin
 .env.php
 phpinfo
 config.json
-.aws
 SDK
 webLanguage
+.aws
 _profiler
 laravel
 web
@@ -103,10 +103,10 @@ new
 ..
 sql
 terraform.tfstate
+index.html
 settings
 .well-known
 credentials.json
-index.html
 secrets.yml
 .env.testing
 config.env
@@ -638,6 +638,7 @@ config.inc.php.bak
 config.toml
 console
 cores
+druid
 engine
 env.txt
 environment.rb
@@ -729,7 +730,6 @@ developerslv
 directories
 django_project_path
 docker-node-mongo-redis
-druid
 drupal-test
 env-config
 environment

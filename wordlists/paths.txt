@@ -603,6 +603,7 @@ django/settings.py
 docker/compose/.env
 docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
+druid/index.html
 engine/.env
 env.txt
 frontend/.env.local
@@ -718,7 +719,6 @@ django/.env
 django_project_path/.env
 doc/.env
 docker-node-mongo-redis/.env
-druid/index.html
 drupal/.env
 enviroments/.env
 enviroments/.env.production
