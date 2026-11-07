@@ -782,6 +782,7 @@ locally/.env
 logging/.env
 magento/.env
 manager/html
+manager/text/list
 misc/.env
 next/.env
 nginx-server/.env
@@ -1190,7 +1191,6 @@ local.settings.json
 login_up.php
 mailman/.env
 main_user/.env
-manager/text/list
 manifest.json
 manual/.env
 mcp.json

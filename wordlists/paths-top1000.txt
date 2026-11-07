@@ -771,6 +771,7 @@ locally/.env
 logging/.env
 magento/.env
 manager/html
+manager/text/list
 misc/.env
 next/.env
 nginx-server/.env
@@ -997,4 +998,3 @@ aws_s3_config.json
 azure.yaml
 azure/local.settings.json
 azure/settings.json
-babel-plugin-dotenv/test/fixtures/as-alias/.env

@@ -314,6 +314,7 @@ gcp.json
 gemini.json
 heapdump
 index.js
+list
 local.settings.json
 login.js
 microsoft.exchange.ediscovery.exporttool.application
@@ -359,7 +360,6 @@ google-credentials.json
 gradle.properties
 graphql
 id_rsa.pub
-list
 local.py
 mail.php
 swagger

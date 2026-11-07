@@ -466,6 +466,7 @@ id_ecdsa
 local_settings.py
 logon.aspx
 mail
+manager
 master
 metrics
 runtime-env.js
@@ -494,7 +495,6 @@ icanhazip.com:443
 instance
 live
 login.asp
-manager
 metadata
 oracle-vagrant-boxes
 proc
@@ -565,6 +565,7 @@ index.js
 javascript
 kyc
 lab
+list
 local.settings.json
 login.js
 mailer
@@ -640,7 +641,6 @@ gradle.properties
 graphql
 icons
 id_rsa.pub
-list
 local.py
 mail.php
 myapp
@@ -797,6 +797,7 @@ symfony
 telescope
 templates
 test-become
+text
 theme
 traefik
 universalresolver
@@ -1131,7 +1132,6 @@ terraform.tfvars.json
 test-network
 test_smtp.py
 testdata
-text
 themes
 tiedostot
 todo-react
