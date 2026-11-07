@@ -271,6 +271,7 @@ docs
 gcp-credentials.json
 icanhazip.com:443
 login.asp
+microsoft.exchange.ediscovery.exporttool.application
 .%65%6e%76
 .dockerenv
 .env-example
@@ -317,7 +318,6 @@ index.js
 list
 local.settings.json
 login.js
-microsoft.exchange.ediscovery.exporttool.application
 openai.json
 secrets.js
 secrets.toml

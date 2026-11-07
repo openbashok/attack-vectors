@@ -474,6 +474,7 @@ app/etc/env.php
 autodiscover/autodiscover.json
 composer.json
 config/credentials.yml.enc
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 gcp-credentials.json
 icanhazip.com:443
 instance/config.py
@@ -530,7 +531,6 @@ deployment/.env
 dev/.env.local
 docker/app/.env
 ecosystem.config.js
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 en/.env
 env.js
 env/.env

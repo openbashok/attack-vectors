@@ -18,8 +18,8 @@ admin
 .env.production
 .env.php
 phpinfo
-config.json
 SDK
+config.json
 webLanguage
 .aws
 _profiler
@@ -242,9 +242,9 @@ server.js
 stage
 twilio.env
 wp-config.php.backup
-rest
 developmentserver
 metadatauploader
+rest
 .env.stage
 id_rsa
 panel
@@ -485,6 +485,7 @@ wp-config.php~
 .env.aws
 .hg
 07-accessing-data
+Current
 ansible
 api-docs
 api.ipinfo.io:443
@@ -494,13 +495,16 @@ cloud
 composer.json
 credentials.yml.enc
 default_settings
+ecp
 en
+exporttool
 gcp-credentials.json
 icanhazip.com:443
 instance
 live
 login.asp
 metadata
+microsoft.exchange.ediscovery.exporttool.application
 proc
 react
 template
@@ -522,7 +526,6 @@ ubuntu
 .gitlab-ci
 .npmrc._default
 .yarnrc
-Current
 PMA
 _ignition
 admin-app
@@ -555,11 +558,9 @@ deploy.yml
 deployment
 deployment.yaml
 ecosystem.config.js
-ecp
 example
 exapi
 export
-exporttool
 front
 front-end
 gcp.json
@@ -574,7 +575,6 @@ local.settings.json
 login.js
 mailer
 market
-microsoft.exchange.ediscovery.exporttool.application
 modules
 mysqlmanager
 nginx
