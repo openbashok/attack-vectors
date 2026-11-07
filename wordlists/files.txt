@@ -23,8 +23,8 @@ laravel.log
 info
 HEAD
 config.php
-.env.local.php
 robots.txt
+.env.local.php
 login
 .env.prod
 .env.test
@@ -157,9 +157,9 @@ aws.json
 .htpasswd
 HNAP1
 config.py
+sitemap.xml
 *
 configuration.php
-sitemap.xml
 wc.db
 .env.preprod
 .env.sandbox
@@ -239,6 +239,7 @@ config.php~
 db.php
 env.js
 id_dsa
+logon.aspx
 server-status
 settings
 www.zip
@@ -256,7 +257,6 @@ diag_Form
 docker-compose.override.yml
 id_ecdsa
 local_settings.py
-logon.aspx
 run
 runtime-env.js
 wp-config.bak

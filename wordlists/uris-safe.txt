@@ -262,13 +262,13 @@ app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 containers/json
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
+sitemap.xml
 .ssh/id_rsa
 .svn/wc.db
 _
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 config/database.php
 configuration.php
-sitemap.xml
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/.git/config
 .env.preprod
@@ -435,6 +435,7 @@ compose/.env
 config.php_
 cron/.env
 docker-compose/.env
+owa/auth/logon.aspx
 panel/.env
 server-status
 www.zip
@@ -460,7 +461,6 @@ docker/compose/withPostgres/.env
 id_rsa
 local_settings.py
 mail/.env
-owa/auth/logon.aspx
 private/.env
 production/.env
 remote/login
@@ -1968,6 +1968,7 @@ www.cloudflare.com:443
 DcGn
 OA_HTML/AppsLocalLogin.jsp
 OA_HTML/AppsTCFServer
+RDWeb/Pages/
 SiteLoader
 Telerik.Web.UI.WebResource.axd_type=rau
 WEB-INF/web.xml

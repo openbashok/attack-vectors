@@ -61,8 +61,8 @@ debug
 cgi-bin
 HEAD
 config.php
-.env.local.php
 robots.txt
+.env.local.php
 .svn
 beta
 sendgrid
@@ -78,13 +78,13 @@ tests
 view
 .env.backup
 phpinfo.php
+auth
 html
 log
 settings.json
 temp
 tmp
 administrator
-auth
 old
 blog
 database.yml
@@ -287,10 +287,10 @@ shared
 HNAP1
 LICENSE
 config.py
+sitemap.xml
 sites
 configuration.php
 phpmyadmin
-sitemap.xml
 wc.db
 $(pwd)
 .env.preprod
@@ -312,6 +312,7 @@ test.hello
 workflows
 V2
 ec
+owa
 swagger.json
 workspace
 wp-config.php.save
@@ -325,7 +326,6 @@ backups
 config.inc.php
 downloads
 mcp.json
-owa
 phpMyAdmin
 pma
 public_html
@@ -380,6 +380,7 @@ version
 ~
 .config
 .env.docker
+RDWeb
 backup.tar.gz
 batch
 css
@@ -394,7 +395,6 @@ terraform.tfvars
 .env.test.local
 .env.www
 .travis.yml
-RDWeb
 all
 audio
 azure
@@ -438,6 +438,7 @@ dbadmin
 django
 env.js
 id_dsa
+logon.aspx
 manager
 oracle-vagrant-boxes
 phpmyadmin3
@@ -471,7 +472,6 @@ framework
 gcloud
 id_ecdsa
 local_settings.py
-logon.aspx
 mail
 master
 metrics
