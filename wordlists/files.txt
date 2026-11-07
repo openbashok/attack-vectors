@@ -359,6 +359,7 @@ environment.rb
 google-credentials.json
 gradle.properties
 graphql
+html
 id_rsa.pub
 local.py
 mail.php
@@ -393,7 +394,6 @@ execute-solution
 filesystems.php
 firebase-adminsdk.json
 hetong.js
-html
 hudson
 index.htm
 license.txt
