@@ -106,13 +106,13 @@ index.html
 terraform.tfstate
 .well-known
 credentials.json
+get
+ip.cypher.rest:443
 secrets.yml
 settings
 config.env
 .env.testing
-get
 info.php
-ip.cypher.rest:443
 config.js
 media
 secrets.json

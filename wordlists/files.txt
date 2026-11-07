@@ -42,13 +42,13 @@ wp-config.php
 index.html
 terraform.tfstate
 credentials.json
+get
+ip.cypher.rest:443
 secrets.yml
 config.env
 env
 .env.testing
-get
 info.php
-ip.cypher.rest:443
 config.js
 secrets.json
 aws.yml
