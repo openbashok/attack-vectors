@@ -20,10 +20,10 @@ laravel.log
 .env.example
 .env.dev
 .env.save
+robots.txt
 info
 HEAD
 config.php
-robots.txt
 .env.local.php
 login
 .env.prod
@@ -42,13 +42,13 @@ wp-config.php
 terraform.tfstate
 index.html
 credentials.json
+get
+ip.cypher.rest:443
 secrets.yml
 .env.testing
 config.env
 env
-get
 info.php
-ip.cypher.rest:443
 config.js
 secrets.json
 aws.yml

@@ -35,10 +35,10 @@ src/.env
 site/.env
 server/.env
 www/.env
-.env.testing
 get
-info.php
 ip.cypher.rest:443
+.env.testing
+info.php
 prod/.env
 _profiler/phpinfo
 html/.env

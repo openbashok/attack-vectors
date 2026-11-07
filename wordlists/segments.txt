@@ -58,10 +58,10 @@ backup
 staging
 default
 debug
+robots.txt
 cgi-bin
 HEAD
 config.php
-robots.txt
 .env.local.php
 .svn
 beta
@@ -107,12 +107,12 @@ index.html
 settings
 .well-known
 credentials.json
+get
+ip.cypher.rest:443
 secrets.yml
 .env.testing
 config.env
-get
 info.php
-ip.cypher.rest:443
 media
 config.js
 secrets.json
