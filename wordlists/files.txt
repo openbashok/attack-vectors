@@ -638,6 +638,7 @@ LICENSE
 LocalSettings.php
 Pulumi.yaml
 ViewUserInfo.php
+WebInterface
 \.\.env
 \\.env
 __debug__

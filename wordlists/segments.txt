@@ -1204,6 +1204,7 @@ LocalSettings.php
 OA_HTML
 Pulumi.yaml
 ViewUserInfo.php
+WebInterface
 \.\.env
 \\.env
 __debug__

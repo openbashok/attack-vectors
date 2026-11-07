@@ -1451,6 +1451,7 @@ META-INF/context.xml
 META-INF/persistence.xml
 Pulumi.yaml
 WEB-INF/classes/application.properties
+WebInterface/
 _._.env
 __.env
 __debug__/
@@ -1852,7 +1853,6 @@ SiteLoader
 Telerik.Web.UI.WebResource.axd_type=rau
 WEB-INF/web.xml
 Web/Auth
-WebInterface/
 WuEL
 __r156222769.html
 __r492808027
