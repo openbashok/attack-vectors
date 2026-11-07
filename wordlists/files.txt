@@ -727,6 +727,7 @@ images
 index.php.old
 infophp.php
 ip.ifconfig.dpdns.org:443
+is-sslvpn-enabled
 jolokia
 lang
 latest

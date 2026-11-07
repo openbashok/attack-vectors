@@ -1486,6 +1486,7 @@ api/docs/
 api/health
 api/login
 api/route
+api/sonicos/is-sslvpn-enabled
 api/swagger-ui.html
 api/v1/Accounts
 api/v1/auto_login
