@@ -19,9 +19,9 @@ admin
 .env.php
 config.json
 phpinfo
-.aws
 SDK
 webLanguage
+.aws
 _profiler
 laravel
 web
@@ -752,6 +752,7 @@ heads
 helm
 hetong.js
 higlass-website
+hudson
 icon
 image_data
 img
@@ -986,7 +987,6 @@ host_vars
 htpasswd.txt
 hubspot.config
 hubspot.json
-hudson
 inc
 include
 index.min.js

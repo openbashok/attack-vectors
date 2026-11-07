@@ -747,6 +747,7 @@ hasura/.env
 health/liveliness
 helm/.env
 higlass-website/.env
+hudson
 icon/.env
 icons/.env
 id_dsa
@@ -997,4 +998,3 @@ aws/ses/smtp.env
 aws_s3_bucket
 aws_s3_config.json
 azure.yaml
-azure/local.settings.json

@@ -758,6 +758,7 @@ hasura/.env
 health/liveliness
 helm/.env
 higlass-website/.env
+hudson
 icon/.env
 icons/.env
 id_dsa
@@ -1164,7 +1165,6 @@ html/.git/config
 htpasswd.txt
 hubspot.config
 hubspot.json
-hudson
 id_ed25519
 inc/config.php
 include/config.php

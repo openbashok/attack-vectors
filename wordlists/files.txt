@@ -393,6 +393,7 @@ filesystems.php
 firebase-adminsdk.json
 hetong.js
 html
+hudson
 index.htm
 license.txt
 liveliness
@@ -523,7 +524,6 @@ host_vars
 htpasswd.txt
 hubspot.config
 hubspot.json
-hudson
 index.min.js
 index.php.bak
 index.php~
