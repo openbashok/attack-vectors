@@ -176,6 +176,7 @@ yarn.lock
 aws.env
 bedrock.env
 env-config.js
+files
 mysql
 .config.yaml
 .env.example.php
@@ -191,7 +192,6 @@ back
 bot
 config.dev.php
 download
-files
 k8s
 kubernetes
 mysql.sql
@@ -310,6 +310,7 @@ workflows
 V2
 configuration
 ec
+pub
 swagger.json
 workspace
 wp-config.php.save
@@ -325,12 +326,12 @@ mcp.json
 owa
 phpMyAdmin
 pma
-pub
 public_html
 .env.1
 Jenkinsfile
 app.php
 config.yml
+downloads
 id_ed25519
 index
 libraries
@@ -348,7 +349,6 @@ authorized_keys
 conf
 dist
 docker-compose.prod.yml
-downloads
 login.cgi
 logon.html
 master.key
@@ -371,6 +371,7 @@ production
 run
 sdk
 task
+version
 ~
 .config
 .env.docker
@@ -385,7 +386,6 @@ service-account.json
 solr
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
-version
 .env.test.local
 .env.www
 .travis.yml

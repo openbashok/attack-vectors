@@ -369,11 +369,13 @@ core/.git/config
 data/.git/config
 dev/.git/config
 evox/about
+files/
 files/.git/config
 login.jsp
 media../.git/config
 media/.git/config
 project/.git/config
+pub/
 sdk
 settings.php
 shared/.env
@@ -384,8 +386,6 @@ shared/.env
 app/.env.production
 backend/.env.local
 deploy/.env
-files/
-pub/
 secrets.py
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 swagger.json
@@ -402,10 +402,12 @@ cgi-bin/.env
 current/.env
 development/.env
 dist/.env
+downloads/
 openapi.json
 protected/.env
 sites/all/libraries/mailchimp/.env
 var/www/.env
+version
 wp-admin/.env
 wp-config.php.orig
 .env.2
@@ -425,11 +427,9 @@ compose/.env
 config.php~
 cron/.env
 docker-compose/.env
-downloads/
 panel/.env
 server-status
 sftp.json
-version
 ws
 www.zip
 .circleci/config.yml
