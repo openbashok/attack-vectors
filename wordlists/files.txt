@@ -94,9 +94,9 @@ mysql.sql
 secrets.env
 configuration.json
 google-services.json
+sse
 credentials.xml
 parameters.yml
-sse
 wp-config.php.bak
 server.key
 .env.development.local
@@ -767,6 +767,7 @@ settings.xml
 setup.cgi
 shell
 sql.php
+sslvpn_logon.shtml
 status
 svs-path-check-nonexistent
 system:ping

@@ -74,9 +74,9 @@ config.php.bak
 dev/.env
 docker-compose.yaml
 htdocs/.env
+mcp/
 appsettings.json
 dashboard/.env
-mcp/
 shop/.env
 .env.dist
 application.properties
@@ -88,6 +88,7 @@ package.json
 site.zip
 web.config
 env
+mcp
 secrets.yaml
 staging/.env
 .env.json
@@ -103,7 +104,6 @@ info
 laravel.log
 library/.env
 local/.env
-mcp
 media/.env
 new/.env
 package-lock.json
@@ -157,6 +157,7 @@ aws.yml
 bedrock.env
 configuration.json
 google-services.json
+sse
 store/.env
 administrator/.env
 assets/.env
@@ -167,7 +168,6 @@ docs/.env
 download/.env
 home/.env
 saas/.env
-sse
 wp-config.php.bak
 bak/.env
 server.key
@@ -179,6 +179,7 @@ server.key
 .env/.env
 .json
 Application/.env
+api/mcp
 api/test
 app.log
 app/config/parameters.yml
@@ -235,7 +236,6 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
-api/mcp
 developmentserver/metadatauploader
 .aws/config
 .env.stage
@@ -1778,6 +1778,7 @@ src/environments/environment.production.ts
 src/environments/environment.ts
 src/main/front-end/.env
 srv6_controller/controller/.env
+sslvpn_logon.shtml
 staging/%252eenv
 staging/.env.local
 staging/.env.production

@@ -31,9 +31,9 @@ credentials
 logs
 public
 app_dev.php
+mcp
 backend
 frontend
-mcp
 www
 login
 v1
@@ -202,6 +202,7 @@ configuration.json
 google-services.json
 mysql
 platform
+sse
 Application
 cache
 content
@@ -209,7 +210,6 @@ credentials.xml
 node
 parameters.yml
 saas
-sse
 v3
 wp-config.php.bak
 bak
@@ -1452,6 +1452,7 @@ spearmint
 spikes
 sql.php
 srv6_controller
+sslvpn_logon.shtml
 static_prod
 status
 style
