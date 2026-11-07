@@ -326,6 +326,7 @@ users
 vertex.json
 wp-admin
 wp-config.php.txt
+x.js
 .env.bak~
 .env.new
 .env.old~
@@ -366,7 +367,6 @@ system
 vars
 wp-config.old
 wp-config.php.swp
-x.js
 .dockercfg
 .env.back
 .env.bkp

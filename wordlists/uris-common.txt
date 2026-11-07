@@ -554,6 +554,7 @@ master/.env
 new/.env.local
 new/.env.production
 new/.env.staging
+owa/auth/x.js
 product/.env.staging
 psnlink/.env
 redmine/.env
@@ -619,7 +620,6 @@ graphql
 laravel/.env.example
 local.py
 myapp/settings.py
-owa/auth/x.js
 php/.env
 root/.env
 root/.s3cfg

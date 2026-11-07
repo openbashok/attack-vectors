@@ -79,11 +79,11 @@ env
 phpinfo.php
 view
 administrator
+auth
 html
 old
 settings.json
 .ssh
-auth
 blog
 database.yml
 log
@@ -322,6 +322,7 @@ account
 backups
 config.inc.php
 mcp.json
+owa
 phpMyAdmin
 pma
 pub
@@ -333,7 +334,6 @@ config.yml
 id_ed25519
 index
 libraries
-owa
 remote
 sftp-config.json
 swagger
@@ -602,6 +602,7 @@ websql
 wp
 wp-config.php.txt
 wp-includes
+x.js
 .env.bak~
 .env.new
 .env.old~
@@ -651,7 +652,6 @@ withMySQL
 withRedis
 wp-config.old
 wp-config.php.swp
-x.js
 .
 .c9
 .codex
