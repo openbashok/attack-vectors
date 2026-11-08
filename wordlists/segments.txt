@@ -34,11 +34,11 @@ app_dev.php
 backend
 frontend
 login
+mcp
 v1
 storage
 www
 core
-mcp
 server
 dev
 secrets.yaml
@@ -103,11 +103,11 @@ wp-config.php
 examples
 new
 config.js
+info.php
 ..
 .ssh
 credentials.json
 index.html
-info.php
 settings
 terraform.tfstate
 secrets.yml
@@ -122,10 +122,10 @@ ip.cypher.rest:443
 sql
 aws.yml
 data
+home
 secrets.json
 system
 entries
-home
 application
 application.yml
 htdocs
@@ -140,6 +140,7 @@ actuator
 compose
 docs
 error.log
+static
 uploads
 application.properties
 appsettings.json
@@ -147,7 +148,6 @@ backup.sql
 db.sql
 debug.log
 local
-static
 ws
 .env.orig
 config.php.bak
@@ -211,6 +211,7 @@ node
 parameters.yml
 saas
 server.key
+sse
 .bedrock
 .env.save.1
 .json
@@ -235,7 +236,6 @@ readme.md
 requirements.txt
 sandbox
 server.js
-sse
 stage
 twilio.env
 wp-config.php.backup
@@ -250,11 +250,11 @@ metadatauploader
 *
 .env.live
 bdd
+js
 login.html
 panel
 .github
 id_rsa
-js
 s3
 .env.dev.local
 .env.staging.local
@@ -405,6 +405,7 @@ ClientApp
 __fixtures__
 all
 audio
+autodiscover
 azure
 begin
 boaform
@@ -439,7 +440,6 @@ aaa9
 aab9
 application-prod.yml
 auth.json
-autodiscover
 boxes
 config.php~
 console
@@ -469,6 +469,7 @@ Dockerfile
 Gemfile.lock
 ansible.cfg
 application_default_credentials.json
+autodiscover.json
 bedrock
 community
 composer.lock
@@ -480,6 +481,7 @@ framework
 gcloud
 id_ecdsa
 img
+javascript
 local_settings.py
 mail
 market
@@ -505,7 +507,6 @@ Current
 ansible
 api-docs
 api.ipinfo.io:443
-autodiscover.json
 ci
 cloud
 composer.json
@@ -516,7 +517,6 @@ exporttool
 gcp-credentials.json
 icanhazip.com:443
 instance
-javascript
 login.asp
 mail.php
 metadata
@@ -666,6 +666,7 @@ google
 google-credentials.json
 gradle.properties
 graphql
+hetong.js
 icons
 id_rsa.pub
 latest
@@ -724,6 +725,7 @@ META-INF
 Nodejs-Projects
 Nosto
 Passportjs
+Public
 Tagging
 _debugbar
 acme
@@ -756,6 +758,7 @@ ch6-mytodo
 ch8b-mytodo
 challenge
 charts
+check.js
 chiminey
 ci.yml
 client-app
@@ -794,7 +797,6 @@ grems-frontend
 hasura
 heads
 helm
-hetong.js
 higlass-website
 hudson
 icon
@@ -916,7 +918,6 @@ MyAdmin
 OLCNE
 Pipfile
 Pipfile.lock
-Public
 README.md
 Socketio
 Thumbs.db
@@ -962,7 +963,6 @@ cert.pem
 ch2-mytodo
 ch8-mytodo
 ch8a-mytodo
-check.js
 checkout
 claude_desktop_config.json
 clientaccesspolicy.xml

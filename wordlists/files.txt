@@ -40,9 +40,9 @@ database.yml
 .gitlab-ci.yml
 wp-config.php
 config.js
+info.php
 credentials.json
 index.html
-info.php
 terraform.tfstate
 secrets.yml
 .env.testing
@@ -97,6 +97,7 @@ google-services.json
 credentials.xml
 parameters.yml
 server.key
+sse
 .env.save.1
 .json
 app.log
@@ -120,7 +121,6 @@ php_errors.log
 readme.md
 requirements.txt
 server.js
-sse
 staging
 temp
 tests
@@ -252,6 +252,7 @@ Dockerfile
 Gemfile.lock
 ansible.cfg
 application_default_credentials.json
+autodiscover.json
 composer.lock
 config.php.old
 db.sql.gz
@@ -267,7 +268,6 @@ wp-config.php~
 .env_backup
 api-docs
 api.ipinfo.io:443
-autodiscover.json
 composer.json
 credentials.csv
 credentials.yml.enc
@@ -369,6 +369,7 @@ filesystems.php
 google-credentials.json
 gradle.properties
 graphql
+hetong.js
 id_rsa.pub
 local.py
 owa
@@ -398,6 +399,7 @@ authLogin.cgi
 aws.php
 backup.sql.gz
 bitbucket-pipelines.yml
+check.js
 ci.yml
 console
 debug
@@ -406,7 +408,6 @@ env.production.js
 environment.json
 execute-solution
 firebase-adminsdk.json
-hetong.js
 hudson
 index.htm
 license.txt
@@ -492,7 +493,6 @@ bucket
 bucket.env
 buckets
 cert.pem
-check.js
 claude_desktop_config.json
 clientaccesspolicy.xml
 cline_mcp_settings.json

@@ -36,9 +36,9 @@ site/.env
 server/.env
 www/.env
 .env.testing
+info.php
 prod/.env
 _profiler/phpinfo
-info.php
 core/.env
 get
 ip.cypher.rest:443
@@ -81,6 +81,7 @@ application.properties
 application.yml
 debug.log
 error.log
+mcp/
 package.json
 site.zip
 web.config
@@ -90,7 +91,6 @@ apps/.env
 env
 info
 local/.env
-mcp/
 new/.env
 portal/.env
 project/.env
@@ -105,6 +105,7 @@ cms/.env
 config.env
 laravel.log
 library/.env
+mcp
 media/.env
 package-lock.json
 secrets.yaml
@@ -115,7 +116,6 @@ yarn.lock
 ../.env
 aws.env
 env-config.js
-mcp
 secrets.yml
 .config.yaml
 .env.example.php
@@ -170,6 +170,7 @@ home/.env
 saas/.env
 .well-known/security.txt
 server.key
+sse
 v3/.env
 .aws/.env
 .bedrock/.env
@@ -220,7 +221,6 @@ sandbox/.env
 server.js
 service/.env
 services/.env
-sse
 stage/.env
 staging/
 static/.env
@@ -235,8 +235,8 @@ twilio.env
 user/.env
 wp-config.php.backup
 wp-config.php.bak
-.env.development.local
 api/mcp
+.env.development.local
 .aws/config
 developmentserver/metadatauploader
 .env.stage
@@ -452,6 +452,7 @@ actuator/env
 ansible.cfg
 api
 application-prod.yml
+autodiscover/autodiscover.json_@zdi/Powershell
 composer.lock
 config.php.old
 config/config.php
@@ -481,7 +482,6 @@ admin/login.asp
 api.ipinfo.io:443
 api/.env.local
 app/etc/env.php
-autodiscover/autodiscover.json_@zdi/Powershell
 composer.json
 config.yml
 config/credentials.yml.enc
@@ -649,6 +649,7 @@ solr/admin/cores_action=STATUS_wt=json
 solr/admin/info/system
 sources/.env
 src/.env.local
+static/admin/javascript/hetong.js
 swagger/v1/swagger.json
 web/.env.local
 wp-config.old
@@ -686,6 +687,7 @@ Assignment4/.env
 ClientApp/.env
 FIRST_CONFIG/.env
 Passportjs/.env
+Public/home/js/check.js
 __tests__/test-become/.env
 _ignition/execute-solution
 _s=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E
@@ -842,7 +844,6 @@ src/gameprovider-service/.env
 ssl.key
 sslvpn_logon.shtml
 stag/.env
-static/admin/javascript/hetong.js
 stats/.env
 stripe/.env
 swagger-ui.html
@@ -940,7 +941,6 @@ MyAdmin/index.php_lang=en
 PMA/index.php_lang=en
 Pipfile
 Pipfile.lock
-Public/home/js/check.js
 README.md
 Socketio/.env
 Thumbs.db
