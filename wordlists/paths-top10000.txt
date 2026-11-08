@@ -41,10 +41,10 @@ www/.env
 _profiler/phpinfo
 info.php
 core/.env
-.svn/entries
-api/.git/config
 get
 ip.cypher.rest:443
+.svn/entries
+api/.git/config
 old/.env
 html/.env
 storage/.env
@@ -362,6 +362,7 @@ terraform.tfstate.backup
 .env.1
 .git/index
 .vscode/sftp.json
+Dr0v
 HNAP1
 admin/index.html
 conf/.env
@@ -373,7 +374,6 @@ sdk
 .env_1
 .s3cfg
 .well-known/pki-validation/update
-Dr0v
 app/config/.env
 cgi-bin/login.cgi
 config.inc.php

@@ -49,11 +49,11 @@ config.env
 .env.testing
 aws.yml
 env
+get
+ip.cypher.rest:443
 secrets.json
 entries
 application.yml
-get
-ip.cypher.rest:443
 debug.log
 application.properties
 error.log
@@ -199,12 +199,12 @@ update
 version
 .boto
 .env.1
+Dr0v
 authorized_keys
 master.key
 sdk
 .env.txt
 .env_1
-Dr0v
 api
 downloads
 login.jsp

@@ -14,9 +14,9 @@ laravel/.env
 .aws/credentials
 .env.prod
 backend/.env
+robots.txt
 .env.test
 config.json
-robots.txt
 .env.backup
 .env.example
 docker-compose.yml
@@ -38,12 +38,12 @@ server/.env
 prod/.env
 www/.env
 _profiler/phpinfo
+get
 info.php
+ip.cypher.rest:443
 core/.env
 .svn/entries
 api/.git/config
-get
-ip.cypher.rest:443
 old/.env
 html/.env
 storage/.env
@@ -366,6 +366,7 @@ pub/
 public_html/.env
 .env.1
 .vscode/sftp.json
+Dr0v
 HNAP1
 Jenkinsfile
 admin/index.html
@@ -377,7 +378,6 @@ terraform.tfstate.backup
 .env_1
 .git/index
 .well-known/pki-validation/update
-Dr0v
 app/config/.env
 cgi-bin/login.cgi
 conf/.env
