@@ -13,19 +13,19 @@ api/.env
 config/.env
 laravel/.env
 robots.txt
+.env.prod
 config.json
 .aws/credentials
-.env.prod
 .env.test
 backend/.env
 .env.backup
 .env.example
-docker-compose.yml
 .env.old
 .env.staging
+docker-compose.yml
 public/.env
-phpinfo.php
 web/.env
+phpinfo.php
 .git/HEAD
 .gitlab-ci.yml
 admin/.env
@@ -43,17 +43,17 @@ ip.cypher.rest:443
 prod/.env
 _profiler/phpinfo
 html/.env
-core/.env
 old/.env
+core/.env
 security.txt
 api/.git/config
 storage/.env
 .svn/entries
 secrets.json
+backup/.env
 config.js
 storage/logs/laravel.log
 .kube/config
-backup/.env
 database.yml
 dump.sql
 settings.py
@@ -103,6 +103,7 @@ info
 laravel.log
 library/.env
 local/.env
+mcp
 media/.env
 new/.env
 package-lock.json
@@ -116,7 +117,6 @@ yarn.lock
 ../.env
 aws.env
 env-config.js
-mcp
 secrets.yml
 .config.yaml
 .env.example.php
@@ -160,6 +160,7 @@ store/.env
 .well-known/security.txt
 administrator/.env
 assets/.env
+bak/.env
 beta/.env
 content/.env
 credentials.xml
@@ -167,7 +168,6 @@ docs/.env
 download/.env
 home/.env
 saas/.env
-bak/.env
 server.key
 sse
 .aws/.env
@@ -387,11 +387,13 @@ shared/.env
 actuator/health
 app/.env.production
 backend/.env.local
+backups/.env
 deploy/.env
 downloads/
 secrets.py
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 swagger.json
+var/www/.env
 vendor/.env
 .env.test.local
 .env.www
@@ -399,7 +401,6 @@ vendor/.env
 RDWeb
 actuator/configprops
 audio/.env
-backups/.env
 boaform/admin/formLogin
 cgi-bin/.env
 development/.env
@@ -408,7 +409,6 @@ openapi.json
 protected/.env
 sftp.json
 sites/all/libraries/mailchimp/.env
-var/www/.env
 version
 wp-admin/.env
 wp-config.php.orig
@@ -419,6 +419,7 @@ ws
 .env_old
 .netrc
 .s3cfg
+GponForm/diag_Form
 _static/.env
 aaa9
 aab9
@@ -439,7 +440,6 @@ www.zip
 .yarnrc.yml
 Dockerfile
 Gemfile.lock
-GponForm/diag_Form
 actuator/env
 ansible.cfg
 api
@@ -559,6 +559,7 @@ sitemaps/.env
 storage/.env.local
 tools/.env
 user/.env.staging
+var/www/html/.env
 vendor/laravel/.env
 web/
 webpages/login.html
@@ -625,7 +626,6 @@ solr/admin/cores
 solr/admin/info/system
 src/.env.local
 swagger/v1/swagger.json
-var/www/html/.env
 web/.env.local
 wp-config.old
 wp-config.php.swp
@@ -2145,6 +2145,7 @@ ci/%252eenv
 codeigniter.zip
 config%252ephp~
 config%2ejson
+config.backup
 config/application.properties
 configs.zip
 configuration%2ephp%2ebak
@@ -2218,6 +2219,8 @@ gunicorn.conf.py
 haloocom_connect4/astguiclient.php
 helm.zip
 home
+home/deploy/.env
+home/ubuntu/.env
 hooks/%252eenv
 host.php
 iagent/idialer.php
@@ -2325,6 +2328,7 @@ opencart.tar.gz
 opencart.zip
 opensearch
 opensearch.xml
+opt/app/.env
 order/.env
 owa/
 package/%252eenv
@@ -2381,6 +2385,7 @@ sources.zip
 soy-un-test-1793109733
 spring.zip
 sql/backup.sql.gz
+srv/app/.env
 ssi.cgi/Login.htm
 stager64
 staging.zip
