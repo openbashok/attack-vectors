@@ -553,6 +553,7 @@ laravel/.env.staging
 laravel/core/.env
 lib/.env
 mailer/.env
+manager/html
 master/.env
 new/.env.local
 new/.env.production
@@ -622,7 +623,6 @@ google-credentials.json
 graphql
 laravel/.env.example
 local.py
-manager/html
 myapp/settings.py
 php/.env
 root/.env

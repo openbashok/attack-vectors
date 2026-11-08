@@ -317,6 +317,7 @@ ecosystem.config.js
 gcp.json
 gemini.json
 heapdump
+html
 index.js
 list
 local.settings.json
@@ -360,7 +361,6 @@ environment.rb
 google-credentials.json
 gradle.properties
 graphql
-html
 id_rsa.pub
 local.py
 mail.php

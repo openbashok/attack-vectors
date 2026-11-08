@@ -73,8 +73,8 @@ env
 .env.test
 cms
 crm
-view
 html
+view
 settings.py
 db
 log
@@ -411,6 +411,7 @@ environ
 formLogin
 includes
 mailchimp
+manager
 openapi.json
 php
 private
@@ -444,7 +445,6 @@ django
 env.js
 id_dsa
 logon.aspx
-manager
 oracle-vagrant-boxes
 phpmyadmin3
 phpmyadmin4
