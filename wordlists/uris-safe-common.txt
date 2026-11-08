@@ -43,8 +43,8 @@ core/.env
 get
 ip.cypher.rest:443
 old/.env
-html/.env
 .svn/entries
+html/.env
 api/.git/config
 security.txt
 storage/.env
@@ -59,11 +59,11 @@ database.yml
 dump.sql
 settings.py
 v2/.env
+appsettings.json
 client/.env
 credentials.json
 crm/.env
 database.sql
-appsettings.json
 backup.sql
 db.sql
 dev/.env
@@ -236,13 +236,13 @@ user/.env
 wp-config.php.backup
 wp-config.php.bak
 api/mcp
-.env.development.local
 .aws/config
+.env.development.local
 developmentserver/metadatauploader
 .env.stage
 .env.live
-login
 geoserver/web/
+login
 .env.dev.local
 .env.staging.local
 .env_sample
@@ -254,12 +254,12 @@ wp-config.php.old
 .env.uat
 .env_
 .npmrc
+.svn/wc.db
 _
 build/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 sitemap.xml
 .env.ci
-.svn/wc.db
 app/.git/config
 config.php
 containers/json
@@ -274,6 +274,7 @@ www/.git/config
 .env.secret
 .ssh/id_rsa
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+config/secrets.yml
 configuration.php
 configuration/.env
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
@@ -296,7 +297,7 @@ apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-config/secrets.yml
+config/aws.json
 crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 database/.env
 demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -334,7 +335,6 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 abc6
 abc8
 config/app.php
-config/aws.json
 config/database.yml
 login.html
 sftp-config.json
@@ -384,6 +384,7 @@ conf/.env
 config.py
 config/master.key
 downloads/
+.s3cfg
 config.inc.php
 current/.env
 login.jsp
@@ -393,7 +394,6 @@ sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 vendor/.env
 wp-content/.env
 .env.docker
-.s3cfg
 .ssh/id_ed25519
 actuator/health
 app/.env.production
@@ -635,6 +635,7 @@ graphql
 health
 laravel/.env.example
 local.py
+manager/text/list
 myapp/settings.py
 owa/
 php/.env
@@ -738,6 +739,7 @@ community/.env
 config/.env.local
 config/aws.php
 config/config.env
+config/config.js
 console
 core/Datavase/.env
 cp/.env
@@ -801,7 +803,6 @@ localhost/.env
 locally/.env
 logging/.env
 magento/.env
-manager/text/list
 misc/.env
 newsite/.env
 next/.env
@@ -1081,7 +1082,6 @@ config/azure-openai.json
 config/azure.yaml
 config/bedrock.json
 config/bedrock.yml
-config/config.js
 config/credentials
 config/db.php
 config/env.js
@@ -1205,6 +1205,7 @@ keys.json
 keys/config.json
 known_hosts
 kubeconfig
+language/en-GB/en-GB.xml
 lcomernbootcamp/projbackend/.env
 leafer-app/.env
 lib/config.php
