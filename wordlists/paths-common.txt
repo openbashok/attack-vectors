@@ -38,8 +38,8 @@ server/.env
 www/.env
 .env.testing
 get
-ip.cypher.rest:443
 info.php
+ip.cypher.rest:443
 prod/.env
 _profiler/phpinfo
 html/.env
@@ -69,27 +69,27 @@ crm/.env
 db.sql
 terraform.tfstate
 .env.orig
-.env.production.local
 config.php.bak
 dev/.env
 docker-compose.yaml
 htdocs/.env
+.env.production.local
 appsettings.json
 dashboard/.env
-mcp/
 shop/.env
 application.properties
 application.yml
 blog/.env
 debug.log
 error.log
+mcp/
 package.json
 site.zip
 web.config
-.env.dist
 env
 secrets.yaml
 staging/.env
+.env.dist
 .env.json
 .env.local.php
 .env.php
@@ -103,7 +103,6 @@ info
 laravel.log
 library/.env
 local/.env
-mcp
 media/.env
 new/.env
 package-lock.json
@@ -117,6 +116,7 @@ yarn.lock
 ../.env
 aws.env
 env-config.js
+mcp
 secrets.yml
 .config.yaml
 .env.example.php
@@ -150,7 +150,6 @@ test/.env.php
 twilio/.env.php
 uploads/.env
 var/.env.local.php
-.well-known/security.txt
 api/v2/.env
 assets/config.json
 aws.yml
@@ -158,6 +157,7 @@ bedrock.env
 configuration.json
 google-services.json
 store/.env
+.well-known/security.txt
 administrator/.env
 assets/.env
 beta/.env
@@ -167,10 +167,9 @@ docs/.env
 download/.env
 home/.env
 saas/.env
-sse
 bak/.env
 server.key
-wp-config.php.bak
+sse
 .aws/.env
 .bedrock/.env
 .claude/.env
@@ -233,6 +232,7 @@ twilio.env
 user/.env
 v3/.env
 wp-config.php.backup
+wp-config.php.bak
 .env.development.local
 api/mcp
 login
@@ -240,10 +240,10 @@ developmentserver/metadatauploader
 .aws/config
 .env.stage
 .env.live
+geoserver/web/
 .env.dev.local
 .env.staging.local
 .env_sample
-geoserver/web/
 .env.default
 .env.template
 phpinfo
@@ -253,13 +253,13 @@ wp-config.php.old
 .npmrc
 build/.env
 config.php
+sitemap.xml
 .env.ci
 .env.config
 .htpasswd
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 containers/json
-sitemap.xml
 *
 .ssh/id_rsa
 .svn/wc.db
@@ -273,6 +273,7 @@ www/.git/config
 .env.secret
 .env.swp
 .htaccess
+admin/config.php
 configuration/.env
 docker/.env
 hello.world
@@ -285,7 +286,6 @@ vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/.git/config
-admin/config.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -345,6 +345,7 @@ terraform.tfstate.backup
 .docker/config.json
 .env.txt
 .env_1
+.git/index
 .vscode/settings.json
 Dr0v
 abc6
@@ -368,7 +369,6 @@ media/.git/config
 project/.git/config
 pub/
 wp-content/.env
-.git/index
 .vscode/sftp.json
 .well-known/pki-validation/update
 HNAP1
@@ -464,6 +464,9 @@ wp-config.bak
 wp-config.php~
 .boto
 .env.aws
+.env.yaml
+.env.yml
+.env_backup
 .envrc
 .ssh/config
 HNAP1/
@@ -492,9 +495,6 @@ server/.env.local
 .env.production.backup
 .env.project
 .env.travis
-.env.yaml
-.env.yml
-.env_backup
 .environment
 .envs
 .github/workflows/deploy.yml
@@ -625,6 +625,7 @@ solr/admin/cores
 solr/admin/info/system
 src/.env.local
 swagger/v1/swagger.json
+var/www/html/.env
 web/.env.local
 wp-config.old
 wp-config.php.swp
@@ -831,7 +832,6 @@ theme/.env
 ubuntu/.env
 upload/.env
 users/.env
-var/www/html/.env
 vendor/.env.example
 vod_installer/.env
 vue/.env
