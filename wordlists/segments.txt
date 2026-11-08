@@ -18,11 +18,11 @@ admin
 .env.production
 .env.php
 phpinfo
+SDK
 _profiler
 config.json
-.aws
-SDK
 webLanguage
+.aws
 web
 laravel
 .env.staging
@@ -274,6 +274,7 @@ root
 testing
 vue-heroes
 wp-config.php.old
+HNAP1
 database
 wp-admin
 %00.env
@@ -281,7 +282,6 @@ wp-admin
 .env.uat
 .env~
 .npmrc
-HNAP1
 drupal
 sitemap.xml
 workflows

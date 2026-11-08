@@ -448,6 +448,7 @@ www.zip
 .yarnrc.yml
 Dockerfile
 Gemfile.lock
+HNAP1/
 actuator/env
 ansible.cfg
 api
@@ -477,7 +478,6 @@ wp-config.php_
 .env_backup
 .envrc
 .ssh/config
-HNAP1/
 admin/login.asp
 api.ipinfo.io:443
 api/.env.local

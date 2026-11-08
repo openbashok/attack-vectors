@@ -147,13 +147,13 @@ sftp.json
 .env.template
 json
 wp-config.php.old
+HNAP1
 %00.env
 *
 .env.config
 .env.uat
 .env~
 .npmrc
-HNAP1
 sitemap.xml
 .env.ci
 config.py
