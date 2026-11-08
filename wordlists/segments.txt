@@ -18,8 +18,8 @@ admin
 .env.production
 .env.php
 phpinfo
-config.json
 SDK
+config.json
 webLanguage
 _profiler
 .aws
@@ -817,6 +817,7 @@ soap
 socket.io
 speed.cloudflare.com:443
 ssl.key
+sslvpn_logon.shtml
 stag
 stats
 stripe
@@ -1534,7 +1535,6 @@ source
 spearmint
 spikes
 sql.php
-sslvpn_logon.shtml
 static-root
 static_prod
 static_root

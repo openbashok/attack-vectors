@@ -417,6 +417,7 @@ soap
 socket.io
 speed.cloudflare.com:443
 ssl.key
+sslvpn_logon.shtml
 telescope
 web_shell_cmd.gch
 wp-json
@@ -774,7 +775,6 @@ settings.xml
 setup.cgi
 shell
 sql.php
-sslvpn_logon.shtml
 status
 svs-path-check-nonexistent
 system:ping
