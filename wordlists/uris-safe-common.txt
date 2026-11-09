@@ -14,9 +14,9 @@ laravel/.env
 .aws/credentials
 .env.prod
 backend/.env
-robots.txt
 .env.test
 config.json
+robots.txt
 .env.backup
 .env.example
 docker-compose.yml
@@ -39,11 +39,11 @@ prod/.env
 _profiler/phpinfo
 www/.env
 core/.env
-get
 info.php
-ip.cypher.rest:443
 .svn/entries
 api/.git/config
+get
+ip.cypher.rest:443
 old/.env
 storage/.env
 html/.env
@@ -71,21 +71,20 @@ db.sql
 dev/.env
 terraform.tfstate
 test.php
-.env.production.local
 dashboard/.env
 docker-compose.yaml
 htdocs/.env
-.env.dist
 blog/.env
 shop/.env
+.env.production.local
 application.properties
 application.yml
 debug.log
 error.log
-mcp/
 package.json
 site.zip
 web.config
+.env.dist
 .env.json
 application/.env
 apps/.env
@@ -105,7 +104,7 @@ cms/.env
 config.env
 laravel.log
 library/.env
-mcp
+mcp/
 media/.env
 package-lock.json
 secrets.yaml
@@ -141,6 +140,7 @@ demo/.env
 env.json
 info/
 main/.env
+mcp
 mysql.sql
 phpinfo/
 secrets.env
@@ -158,8 +158,6 @@ aws.yml
 bedrock.env
 configuration.json
 google-services.json
-wp-config.php.bak
-.well-known/security.txt
 administrator/.env
 assets/.env
 bak/.env
@@ -171,14 +169,15 @@ download/.env
 home/.env
 saas/.env
 server.key
-sse
 v3/.env
+wp-config.php.bak
 .aws/.env
 .bedrock/.env
 .claude/.env
 .env.save.1
 .env/.env
 .json
+.well-known/security.txt
 Application/.env
 api/test
 app.log
@@ -235,6 +234,7 @@ tmp/.env
 twilio.env
 user/.env
 wp-config.php.backup
+sse
 .aws/config
 .env.development.local
 api/mcp
@@ -431,6 +431,7 @@ GponForm/diag_Form_images/
 _static/.env
 aaa9
 aab9
+api/.env.local
 app/.env.local
 backup.tar.gz
 backup.zip
@@ -481,8 +482,8 @@ v1
 .ssh/config
 admin/login.asp
 api.ipinfo.io:443
-api/.env.local
 app/etc/env.php
+backend/.env.production
 backend/.git/config
 composer.json
 config.php.save
@@ -511,6 +512,7 @@ wp-content/uploads/
 .env.local.backup
 .env.production.backup
 .env.project
+.env.save_
 .env.travis
 .environment
 .envs
@@ -612,7 +614,7 @@ authorized_keys
 aws.env.json
 aws.json
 aws/s3/env.env
-backend/.env.production
+aws/ses/smtp.env
 boaform/admin/formLogin_username=adminisp_psd=adminisp
 build.gradle
 client/.env.local
@@ -647,6 +649,7 @@ root/.env
 root/.s3cfg
 runtime-env.js
 s3/.env.bak
+s3/bucket.env
 server/.env.production
 sites/default/settings.php
 solr/admin/cores_action=STATUS_wt=json
@@ -665,7 +668,6 @@ wp-config.old
 .env.ini
 .env.js
 .env.qa
-.env.save_
 .env.sendgrid
 .env1
 .env_bak
@@ -831,6 +833,7 @@ preview/.env
 private.key
 projbackend/.env
 pub/.env
+public/.env.local
 qa/.env
 rails/.env
 raw
@@ -842,6 +845,7 @@ rest/.env
 robots/.env
 run/.env
 s3cmd.ini
+sample.env
 samples/docker/deploymentscripts/.env
 script/.env
 scripts/.env
@@ -1057,7 +1061,6 @@ aws/config/s3.json
 aws/credentials.json
 aws/metadata
 aws/s3/credentials
-aws/ses/smtp.env
 aws_s3_bucket
 aws_s3_config.json
 azure.yaml
@@ -1342,7 +1345,6 @@ s3.key
 s3.secret
 s3.yml
 s3/.aws/config
-s3/bucket.env
 s3/config.json
 s3/credentials
 sam-template.yaml
