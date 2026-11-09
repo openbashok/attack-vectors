@@ -246,9 +246,9 @@ js
 .env.development.local
 mysql
 .env.stage
-.github
 developmentserver
 metadatauploader
+.github
 .env.live
 id_rsa
 s3

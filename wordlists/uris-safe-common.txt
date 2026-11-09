@@ -238,8 +238,8 @@ sse
 .aws/config
 .env.development.local
 api/mcp
-.env.stage
 developmentserver/metadatauploader
+.env.stage
 .env.live
 geoserver/web/
 login
