@@ -189,13 +189,13 @@ id_ed25519
 index
 login.cgi
 logon.html
+update
 Jenkinsfile
 abc7
 files
 index.js
 pub
 terraform.tfstate.backup
-update
 version
 .boto
 .env.1

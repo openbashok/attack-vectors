@@ -364,6 +364,7 @@ terraform.tfstate.backup
 .docker/config.json
 .env.1
 .git/index
+.well-known/pki-validation/update
 Dr0v
 HNAP1
 cgi-bin/login.cgi
@@ -374,7 +375,6 @@ sdk
 .env.txt
 .env_1
 .s3cfg
-.well-known/pki-validation/update
 app/config/.env
 config.inc.php
 config.py

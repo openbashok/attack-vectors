@@ -350,6 +350,7 @@ logon.html
 media..
 phpMyAdmin
 swagger
+update
 version
 .config
 Jenkinsfile
@@ -360,7 +361,6 @@ public_html
 remote
 scripts
 terraform.tfstate.backup
-update
 .boto
 .circleci
 .env.1
@@ -372,6 +372,7 @@ evox
 libraries
 login.jsp
 master.key
+pki-validation
 private
 run
 sdk
@@ -382,7 +383,6 @@ current
 dist
 includes
 myadmin
-pki-validation
 service-account.json
 wp-config.php.orig
 %2eenv

@@ -367,6 +367,7 @@ files/
 pub/
 public_html/.env
 .env.1
+.well-known/pki-validation/update
 Dr0v
 HNAP1
 Jenkinsfile
@@ -378,7 +379,6 @@ terraform.tfstate.backup
 .env.txt
 .env_1
 .git/index
-.well-known/pki-validation/update
 app/config/.env
 conf/.env
 config.inc.php
