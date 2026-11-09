@@ -1003,6 +1003,7 @@ __pwd_/terraform.tfvars
 _a=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E_b=UNION+SELECT+ALL+FROM+information_schema+AND+%27+or+SLEEP%285%29+or+%27_c=..%2F..%2F..%2F..%2Fetc%2Fpasswd
 _id=_script_alert_1__/script_
 _invalid_hello.html
+_next/server
 _nx=@@
 _phpMyAdmin/index.php_lang=en
 _phpmyadmin/index.php_lang=en
@@ -1039,12 +1040,14 @@ ansible/vault.yml
 api-docs
 api/config.json
 api/docs
+api/route
 api/settings
 api/v1/
 api/v1/config.json
 api/v2/
 api/v2/config.json
 apiconfig.json
+app
 app-ads.txt
 app-order-client/.env
 app.config.json

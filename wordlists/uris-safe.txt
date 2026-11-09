@@ -1003,6 +1003,7 @@ __pwd_/terraform.tfvars
 _a=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E_b=UNION+SELECT+ALL+FROM+information_schema+AND+%27+or+SLEEP%285%29+or+%27_c=..%2F..%2F..%2F..%2Fetc%2Fpasswd
 _id=_script_alert_1__/script_
 _invalid_hello.html
+_next/server
 _nx=@@
 _phpMyAdmin/index.php_lang=en
 _phpmyadmin/index.php_lang=en
@@ -1039,12 +1040,14 @@ ansible/vault.yml
 api-docs
 api/config.json
 api/docs
+api/route
 api/settings
 api/v1/
 api/v1/config.json
 api/v2/
 api/v2/config.json
 apiconfig.json
+app
 app-ads.txt
 app-order-client/.env
 app.config.json
@@ -1612,8 +1615,8 @@ _debugbar/open
 _etc/passwd../cmd.exe
 _ignition/health-check
 _netrc
+_next
 _next/.env
-_next/server
 _phpinfo.php
 _pp=enable_pp=env
 _pp=env_pp=env
@@ -1683,7 +1686,6 @@ api/config.dev.env
 api/docs/
 api/health
 api/login
-api/route
 api/shared/.env
 api/sonicos/is-sslvpn-enabled
 api/swagger-ui.html
@@ -1700,7 +1702,6 @@ api/vip/i18n/api/v2/translation/products/vRNIUI/versions/1
 api2/.env
 api3/.env
 apidocs/
-app
 app.config
 app/.env.back
 app/.env.sample

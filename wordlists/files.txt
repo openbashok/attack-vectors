@@ -532,6 +532,7 @@ adminpanel
 ads.txt
 amplifyconfiguration.json
 apiconfig.json
+app
 app-ads.txt
 app.config.json
 app_dev.php
@@ -629,6 +630,7 @@ passwd
 properties
 proxy
 register
+route
 rsc
 s3.key
 s3.secret
@@ -638,6 +640,7 @@ script%3E.html
 script>.html
 secret.json
 sendgrid.json
+server
 server-info.php
 server.crt
 server_info.php
@@ -766,6 +769,7 @@ _catalog
 _debug
 _debugbar
 _netrc
+_next
 access.log
 accessTokens.json
 acme.json
@@ -773,7 +777,6 @@ allversions
 api-key.txt
 apidocs
 apikey.txt
-app
 app.config
 app.zip
 application-local.yml
@@ -907,7 +910,6 @@ proxy.php
 rclone.conf
 rdx_en.json.gz
 rm-logo_small.png
-route
 routes
 runtime-config.js
 s3.js
@@ -915,7 +917,6 @@ secret.env
 secret.yaml
 sendgrid.yml
 sendgrid_keys.env
-server
 server_info
 service-account-key.json
 service_account.json

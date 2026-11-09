@@ -1003,6 +1003,7 @@ Travel_form/.env
 __/firebase/init.json
 __ENV.js
 __phpmyadmin/index.php?lang=en
+_next/server
 _phpMyAdmin/index.php?lang=en
 _phpmyadmin/index.php?lang=en
 _phpmyadmin_/index.php?lang=en
@@ -1035,12 +1036,14 @@ ansible/vault.yml
 api-docs
 api/config.json
 api/docs
+api/route
 api/settings
 api/v1/
 api/v1/config.json
 api/v2/
 api/v2/config.json
 apiconfig.json
+app
 app-ads.txt
 app-order-client/.env
 app.config.json
@@ -1613,8 +1616,8 @@ _debugbar
 _debugbar/open
 _ignition/health-check
 _netrc
+_next
 _next/.env
-_next/server
 _phpinfo.php
 _profiler/latest
 access.log
@@ -1682,7 +1685,6 @@ api/config.dev.env
 api/docs/
 api/health
 api/login
-api/route
 api/shared/.env
 api/sonicos/is-sslvpn-enabled
 api/swagger-ui.html
@@ -1699,7 +1701,6 @@ api/vip/i18n/api/v2/translation/products/vRNIUI/versions/1
 api2/.env
 api3/.env
 apidocs/
-app
 app.config
 app/.env.back
 app/.env.sample

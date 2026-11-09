@@ -33,9 +33,9 @@ public
 backend
 frontend
 app_dev.php
+server
 storage
 core
-server
 dev
 login
 v1
@@ -497,6 +497,7 @@ wp-includes
 09-managing-state
 @fs
 Gemfile.lock
+_next
 admin-app
 ansible.cfg
 autodiscover.json
@@ -678,7 +679,6 @@ Exercise.Frontend
 Kubernetes
 ReportServer
 WEB-INF
-_next
 admin.php
 api_key.txt
 app.json
@@ -723,6 +723,7 @@ prisma
 private.key
 redlion
 register
+route
 routes
 s3_config.json
 sample.env
@@ -903,7 +904,6 @@ repo
 reports
 repos
 robots
-route
 rust-backend
 s3cmd.ini
 sample02

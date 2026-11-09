@@ -1024,6 +1024,7 @@ WEB-INF/classes/application.properties
 __/firebase/init.json
 __ENV.js
 __phpmyadmin/index.php
+_next/server
 _phpMyAdmin/index.php
 _phpinfo.php
 _phpmyadmin/index.php
@@ -1056,6 +1057,7 @@ angular/config.json
 ansible/vault.yml
 api/config.json
 api/docs
+api/route
 api/settings
 api/shared/.env
 api/v1/
@@ -1063,6 +1065,7 @@ api/v1/config.json
 api/v2/
 api/v2/config.json
 apiconfig.json
+app
 app-ads.txt
 app-order-client/.env
 app.config.json

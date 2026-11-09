@@ -1003,6 +1003,7 @@ Travel_form/.env
 __/firebase/init.json
 __ENV.js
 __phpmyadmin/index.php?lang=en
+_next/server
 _phpMyAdmin/index.php?lang=en
 _phpmyadmin/index.php?lang=en
 _phpmyadmin_/index.php?lang=en
@@ -1035,12 +1036,14 @@ ansible/vault.yml
 api-docs
 api/config.json
 api/docs
+api/route
 api/settings
 api/v1/
 api/v1/config.json
 api/v2/
 api/v2/config.json
 apiconfig.json
+app
 app-ads.txt
 app-order-client/.env
 app.config.json
