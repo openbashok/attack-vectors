@@ -241,8 +241,8 @@ api/mcp
 developmentserver/metadatauploader
 .env_sample
 login
-.env.staging.local
 geoserver/web/
+.env.staging.local
 phpinfo
 wp-config.php.old
 .env.dev.local
@@ -254,9 +254,9 @@ wp-config.php.old
 .npmrc
 app/.git/config
 build/.env
+*
 .env.ci
 www/.git/config
-*
 .env.secret
 .env~
 .htpasswd

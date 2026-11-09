@@ -257,9 +257,9 @@ app/.git/config
 build/.env
 .env.ci
 .npmrc
+_
 www/.git/config
 .env_
-_
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
 config/database.php

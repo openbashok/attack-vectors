@@ -255,10 +255,10 @@ wp-config.php.old
 .env.uat
 app/.git/config
 build/.env
+*
 .env.ci
 .npmrc
 www/.git/config
-*
 .env~
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php

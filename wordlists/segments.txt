@@ -72,9 +72,9 @@ config.js
 sendgrid
 env
 log
+robots.txt
 settings.json
 .env.test
-robots.txt
 settings.py
 view
 cms
@@ -210,10 +210,10 @@ parameters.yml
 Application
 content
 credentials.xml
+geoserver
 saas
 server.key
 wp-config.php.bak
-geoserver
 requirements.txt
 server.js
 wp-config.php.backup
@@ -251,10 +251,10 @@ developmentserver
 metadatauploader
 .env_sample
 .github
+*
 id_rsa
 s3
 sftp.json
-*
 .env.staging.local
 aws.json
 bdd
