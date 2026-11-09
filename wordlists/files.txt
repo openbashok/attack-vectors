@@ -1,6 +1,6 @@
 .env
-config
 eval-stdin.php
+config
 index.php
 favicon.ico
 .env.local
@@ -74,13 +74,13 @@ web.config
 env.json
 sendgrid.env
 .env.json
+sh
 open
 package-lock.json
 yarn.lock
 aws.env
 bedrock.env
 env-config.js
-sh
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -148,10 +148,10 @@ backup.zip
 v1
 wc.db
 .env.uat
+json
 .env.config
 .npmrc
 config.py
-json
 %00.env
 *
 .env.ci
@@ -169,14 +169,14 @@ swagger.json
 %252eenv
 configuration.php
 health
+hello.world
 settings.php
+test.hello
 .env.swp
 .htaccess
 app.php
 docker-compose.prod.yml
-hello.world
 sftp-config.json
-test.hello
 wp-config.php.save
 .git-credentials
 about
@@ -234,6 +234,7 @@ env.js
 env.php
 environ
 formLogin
+logon.aspx
 openai.json
 run
 server-status
@@ -257,7 +258,6 @@ deployment.yaml
 diag_Form
 docker-compose.override.yml
 local_settings.py
-logon.aspx
 settings
 .env.aws
 .env.back
@@ -637,6 +637,7 @@ server_info.php
 services.php
 settings.ini
 settings.js
+setup.cgi
 setup.md
 setup.php
 signin
@@ -895,7 +896,6 @@ service-account-key.json
 service_account.json
 settings.xml
 settings.yml
-setup.cgi
 shell
 sql.php
 stripe.env
