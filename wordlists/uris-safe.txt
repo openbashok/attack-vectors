@@ -14,9 +14,9 @@ laravel/.env
 .aws/credentials
 .env.prod
 backend/.env
+robots.txt
 .env.test
 config.json
-robots.txt
 .env.backup
 .env.example
 .env.old
@@ -168,6 +168,7 @@ docs/.env
 download/.env
 home/.env
 saas/.env
+.well-known/security.txt
 server.key
 v3/.env
 wp-config.php.bak
@@ -178,7 +179,6 @@ wp-config.php.bak
 .env.save.1
 .env/.env
 .json
-.well-known/security.txt
 Application/.env
 api/test
 app.log
@@ -258,12 +258,12 @@ build/.env
 .env.ci
 .npmrc
 _
+sitemap.xml
 www/.git/config
 .env_
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
 config/database.php
-sitemap.xml
 .env.preprod
 .env.sandbox
 .env.secret
@@ -1902,6 +1902,7 @@ live/.env.local
 live/.env.production
 live/.env.staging
 live_env
+llms.txt
 lms/.env
 lms/db
 local.properties
@@ -2511,6 +2512,7 @@ zmusic-frontend/.env
 .vault-token_v=18e6211db471f141
 .vercel/project.json_v=18e62110b931ef09
 .vscode/.env_v=18e62112731bc630
+.well-known/security.txt/
 .wgetrc_v=18e62117f1d5dc5a
 .windsurf
 .windsurfrules_v=18e6211cd818bba5
@@ -3161,7 +3163,6 @@ litellm/config.yaml_v=18e621123b937890
 live/.env_v=flima
 ljge88dw9ua8ft
 llm/.env_v=18e6211f18261570
-llms.txt
 local/.env_v=18e62111b24599c8
 local/phpinfo.php
 local_settings.py_v=18e6211f801f01de

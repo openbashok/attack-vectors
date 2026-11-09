@@ -54,11 +54,11 @@ info
 backup
 docker
 staging
+security.txt
 .env.dev
 tests
 .svn
 default
-security.txt
 .env.prod
 config.php
 debug
@@ -71,8 +71,8 @@ beta
 config.js
 sendgrid
 env
-log
 robots.txt
+log
 settings.json
 .env.test
 settings.py
@@ -113,13 +113,13 @@ config.env
 examples
 .env.testing
 index.html
+.well-known
 aws.yml
 dashboard
 media
 entries
 portal
 secrets.json
-.well-known
 data
 application.yml
 get
@@ -288,6 +288,7 @@ wp-admin
 .env.ci
 .env.sample
 HNAP1
+sitemap.xml
 wp-json
 .env.secret
 .env~
@@ -296,7 +297,6 @@ wp-json
 drupal
 phpmyadmin
 resources
-sitemap.xml
 .env.preprod
 .env.sandbox
 LICENSE
@@ -1625,6 +1625,7 @@ letsencrypt
 library-backend-gql
 list.query
 live_env
+llms.txt
 local.properties
 local.xml
 localization.js

@@ -170,6 +170,7 @@ home/.env
 saas/.env
 server.key
 wp-config.php.bak
+.well-known/security.txt
 app/config/parameters.yml
 k8s/secrets.yaml
 requirements.txt
@@ -182,7 +183,6 @@ wp-config.php.backup
 .env.save.1
 .env/.env
 .json
-.well-known/security.txt
 Application/.env
 api/test
 app.log
@@ -256,6 +256,7 @@ app/.git/config
 build/.env
 *
 .env.ci
+sitemap.xml
 www/.git/config
 .env.secret
 .env~
@@ -263,7 +264,6 @@ www/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
 config/database.php
-sitemap.xml
 .env.preprod
 .env.sandbox
 admin/.git/config
@@ -1904,6 +1904,7 @@ live/.env.local
 live/.env.production
 live/.env.staging
 live_env
+llms.txt
 lms/.env
 lms/db
 local.properties
@@ -2392,6 +2393,7 @@ zmusic-frontend/.env
 .terraform/terraform.tfstate
 .trae
 .vercel/project.json
+.well-known/security.txt/
 .wgetrc
 .windsurf
 .windsurfrules
@@ -2883,7 +2885,6 @@ libraries.zip
 litellm/config.yaml
 ljge88dw9ua8ft
 llm/.env
-llms.txt
 local/phpinfo.php
 localhost.zip
 localsettings.php.bak

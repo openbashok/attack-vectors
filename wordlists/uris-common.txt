@@ -14,9 +14,9 @@ laravel/.env
 .aws/credentials
 .env.prod
 backend/.env
+robots.txt
 .env.test
 config.json
-robots.txt
 .env.backup
 .env.example
 .env.old
@@ -168,6 +168,7 @@ docs/.env
 download/.env
 home/.env
 saas/.env
+.well-known/security.txt
 server.key
 v3/.env
 wp-config.php.bak
@@ -178,7 +179,6 @@ wp-config.php.bak
 .env.save.1
 .env/.env
 .json
-.well-known/security.txt
 Application/.env
 api/test
 app.log
@@ -258,12 +258,12 @@ build/.env
 *
 .env.ci
 .npmrc
+sitemap.xml
 www/.git/config
 .env~
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
 config/database.php
-sitemap.xml
 .env.preprod
 .env.sandbox
 .env.secret

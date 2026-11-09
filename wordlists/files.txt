@@ -18,8 +18,8 @@ test
 laravel.log
 .env.example
 .env.save
-.env.dev
 security.txt
+.env.dev
 .env.prod
 config.php
 info
@@ -157,11 +157,11 @@ json
 .env.ci
 .env.sample
 HNAP1
+sitemap.xml
 .env.secret
 .env~
 .htpasswd
 .s3cfg
-sitemap.xml
 .env.preprod
 .env.sandbox
 config.yml
@@ -843,6 +843,7 @@ lang
 latest
 list.query
 live_env
+llms.txt
 local.properties
 local.xml
 localization.js
