@@ -73,10 +73,10 @@ cms
 apps
 config.js
 log
+robots.txt
 tmp
 crm
 env
-robots.txt
 settings.json
 view
 .env.test
@@ -91,9 +91,9 @@ docker-compose.yml
 .env.development
 .gitlab-ci.yml
 administrator
+auth
 blog
 prod
-auth
 client
 credentials.json
 old
@@ -293,6 +293,7 @@ wp-admin
 .env.secret
 HNAP1
 LICENSE
+owa
 workspace
 wp-json
 .env.preprod
@@ -301,7 +302,6 @@ wp-json
 .htpasswd
 .s3cfg
 configuration
-owa
 phpmyadmin
 resources
 about
@@ -342,6 +342,7 @@ downloads
 mcp.json
 media..
 pma
+version
 +CSCOE+
 abc6
 abc8
@@ -357,7 +358,7 @@ private
 scripts
 swagger
 update
-version
+Dr0v
 Jenkinsfile
 abc7
 development
@@ -368,7 +369,6 @@ terraform.tfstate.backup
 .boto
 .circleci
 .env.1
-Dr0v
 __tests__
 authorized_keys
 doc
@@ -565,6 +565,7 @@ webpages
 wp
 wp-config.php.swp
 wp-config.php.txt
+x.js
 %252f
 .%65%6e%76
 .dockerenv
@@ -653,7 +654,6 @@ views
 webadmin
 webdb
 websql
-x.js
 xampp
 xml
 ..;

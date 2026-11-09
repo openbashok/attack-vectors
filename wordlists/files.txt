@@ -27,8 +27,8 @@ phpinfo.php
 config.php
 HEAD
 config.js
-login
 robots.txt
+login
 settings.json
 view
 .env.test
@@ -190,16 +190,16 @@ index
 login.cgi
 logon.html
 update
+version
+Dr0v
 Jenkinsfile
 abc7
 files
 index.js
 pub
 terraform.tfstate.backup
-version
 .boto
 .env.1
-Dr0v
 authorized_keys
 environ
 login.jsp
@@ -306,6 +306,7 @@ vertex.json
 wp-admin
 wp-config.php.swp
 wp-config.php.txt
+x.js
 .%65%6e%76
 .dockerenv
 .env-example
@@ -348,7 +349,6 @@ main.js
 secrets.js
 status
 system
-x.js
 .dockercfg
 .env.bak~
 .env.new

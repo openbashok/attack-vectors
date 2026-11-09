@@ -14,9 +14,9 @@ laravel/.env
 .aws/credentials
 .env.prod
 backend/.env
+robots.txt
 .env.test
 config.json
-robots.txt
 .env.example
 .env.backup
 .env.old
@@ -361,6 +361,7 @@ manage/account/login
 .docker/.env
 .env.sample
 .git/logs/HEAD
+Dr0v
 abc7
 admin/index.html
 files/
@@ -368,7 +369,6 @@ pub/
 public_html/.env
 .env.1
 .well-known/pki-validation/update
-Dr0v
 HNAP1
 Jenkinsfile
 cgi-bin/login.cgi
@@ -406,6 +406,7 @@ backend/.env.local
 backups/.env
 secrets.py
 swagger.json
+version
 .env.prod.local
 .env.test.local
 .env.www
@@ -423,7 +424,6 @@ openapi.json
 owa/auth/logon.aspx
 protected/.env
 sites/all/libraries/mailchimp/.env
-version
 wp-admin/.env
 ws
 .env.2
@@ -499,6 +499,7 @@ gcp-credentials.json
 icanhazip.com:443
 instance/config.py
 laravel/.env.example
+owa/auth/x.js
 proc/self/environ
 root/.aws/credentials
 server/.env.local
@@ -574,7 +575,6 @@ master/.env
 new/.env.local
 new/.env.production
 new/.env.staging
-owa/auth/x.js
 product/.env.staging
 psnlink/.env
 redmine/.env

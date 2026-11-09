@@ -353,6 +353,7 @@ abc6
 abc8
 manage/account/login
 .docker/.env
+Dr0v
 Jenkinsfile
 abc7
 admin/index.html
@@ -365,7 +366,6 @@ terraform.tfstate.backup
 .env.1
 .git/index
 .well-known/pki-validation/update
-Dr0v
 HNAP1
 cgi-bin/login.cgi
 conf/.env
@@ -403,6 +403,7 @@ backend/.env.local
 development/.env
 openapi.json
 secrets.py
+version
 .env.prod.local
 .env.test.local
 .env.www
@@ -426,7 +427,6 @@ protected/.env
 server-status
 service-account.json
 sites/all/libraries/mailchimp/.env
-version
 wp-admin/.env
 wp-config.bak
 wp-config.php~
@@ -513,6 +513,7 @@ mailer/.env
 new/.env.local
 new/.env.production
 new/.env.staging
+owa/auth/x.js
 proc/self/environ
 root/.aws/credentials
 server/.env.local
@@ -578,7 +579,6 @@ laravel/.env.production
 laravel/.env.staging
 manager/html
 master/.env
-owa/auth/x.js
 product/.env.staging
 psnlink/.env
 redmine/.env
