@@ -182,6 +182,7 @@ wp-config.php.backup
 .env.save.1
 .env/.env
 .json
+.well-known/security.txt
 Application/.env
 api/test
 app.log
@@ -232,7 +233,6 @@ tmp/.env
 twilio.env
 user/.env
 wp-config.php.bak
-.well-known/security.txt
 sse
 .env.stage
 .env.development.local
@@ -256,9 +256,9 @@ wp-config.php.old
 app/.git/config
 build/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
+sitemap.xml
 .env.ci
 containers/json
-sitemap.xml
 www/.git/config
 .env.secret
 .env~

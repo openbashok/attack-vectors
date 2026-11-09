@@ -14,9 +14,9 @@ laravel/.env
 .aws/credentials
 .env.prod
 backend/.env
+robots.txt
 .env.test
 config.json
-robots.txt
 .env.example
 .env.old
 .env.staging
@@ -177,6 +177,7 @@ v3/.env
 .env.save.1
 .env/.env
 .json
+.well-known/security.txt
 Application/.env
 api/test
 app.log
@@ -232,7 +233,6 @@ tmp/.env
 twilio.env
 user/.env
 wp-config.php.backup
-.well-known/security.txt
 wp-config.php.bak
 .aws/config
 sse
@@ -257,11 +257,11 @@ _
 app/.git/config
 build/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
+sitemap.xml
 .env.ci
 .npmrc
 containers/json
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
-sitemap.xml
 www/.git/config
 .env_
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh

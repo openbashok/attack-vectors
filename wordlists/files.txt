@@ -28,10 +28,10 @@ config.php
 HEAD
 config.js
 login
+robots.txt
 view
 settings.json
 .env.test
-robots.txt
 settings.py
 .env.old
 .env.backup
@@ -153,11 +153,11 @@ wc.db
 *
 .npmrc
 config.py
+sitemap.xml
 %00.env
 .env.ci
 .env.sample
 HNAP1
-sitemap.xml
 .env.secret
 .env~
 .htpasswd

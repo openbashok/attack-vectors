@@ -21,8 +21,8 @@ phpinfo
 .aws
 config.json
 SDK
-_profiler
 webLanguage
+_profiler
 web
 laravel
 logs
@@ -55,9 +55,9 @@ backup
 info
 .env.dev
 docker
+security.txt
 tests
 default
-security.txt
 .svn
 .env.prod
 debug
@@ -76,10 +76,10 @@ log
 tmp
 crm
 env
+robots.txt
 view
 settings.json
 .env.test
-robots.txt
 settings.py
 ..
 .env.old
@@ -115,10 +115,10 @@ examples
 index.html
 .env.testing
 dashboard
+.well-known
 aws.yml
 media
 secrets.json
-.well-known
 entries
 portal
 system
@@ -284,6 +284,7 @@ drupal
 health
 openai
 root
+sitemap.xml
 vue-heroes
 wp-admin
 %00.env
@@ -291,7 +292,6 @@ wp-admin
 .env.sample
 HNAP1
 LICENSE
-sitemap.xml
 workspace
 wp-json
 .env.secret
