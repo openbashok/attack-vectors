@@ -9,8 +9,8 @@ app/.env
 .env.local
 api/.env
 .aws/credentials
-.env.dev
 .env.save
+.env.dev
 config/.env
 laravel/.env
 .env.prod
@@ -20,11 +20,11 @@ config.json
 robots.txt
 .env.backup
 .env.example
+.env.old
+.env.staging
 docker-compose.yml
 public/.env
 web/.env
-.env.old
-.env.staging
 .gitlab-ci.yml
 admin/.env
 frontend/.env
@@ -75,6 +75,7 @@ terraform.tfstate
 dashboard/.env
 docker-compose.yaml
 htdocs/.env
+.env.php
 .env.production.local
 application.properties
 application.yml
@@ -102,7 +103,6 @@ settings.json
 staging/.env
 system/.env
 .env.local.php
-.env.php
 auth/.env
 base/.env
 cms/.env
@@ -153,6 +153,7 @@ test/.env.php
 twilio/.env.php
 uploads/.env
 var/.env.local.php
+.aws/config
 api/v2/.env
 assets/config.json
 bedrock.env
@@ -176,7 +177,6 @@ server.js
 v3/.env
 wp-config.php.backup
 .aws/.env
-.aws/config
 .bedrock/.env
 .claude/.env
 .env.save.1
@@ -233,15 +233,15 @@ tmp/
 tmp/.env
 twilio.env
 user/.env
+.env.stage
 sse
 .env.development.local
-.env.stage
+.env.live
 api/mcp
 developmentserver/metadatauploader
-.env.live
+.env_sample
 login
 .env.staging.local
-.env_sample
 geoserver/web/
 phpinfo
 wp-config.php.old
