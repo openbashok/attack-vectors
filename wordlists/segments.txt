@@ -258,6 +258,7 @@ sftp.json
 .env.staging.local
 aws.json
 bdd
+build
 database.php
 login.html
 panel
@@ -266,7 +267,6 @@ wp-config.php.old
 .env.dev.local
 .env.template
 backup.zip
-build
 .env.default
 wc.db
 workflows
@@ -871,6 +871,7 @@ logging
 magento
 management
 manifest
+manifest.json
 minimax
 misc
 monitoring
@@ -1121,7 +1122,6 @@ login_up.php
 logout
 mailman
 main_user
-manifest.json
 manual
 mcp.yaml
 mcp.yml

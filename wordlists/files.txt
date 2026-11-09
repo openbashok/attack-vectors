@@ -446,6 +446,7 @@ license.txt
 liveliness
 main
 manifest
+manifest.json
 myadmin
 one.one.one.one:443
 php_info.php
@@ -597,7 +598,6 @@ kubeconfig
 logfile
 login_up.php
 logout
-manifest.json
 master
 mcp.yaml
 mcp.yml

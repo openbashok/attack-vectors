@@ -2798,6 +2798,7 @@ bot/.env_v=18e6211f1ae24995
 build.tar.gz
 build.zip
 build/%2eenv_v=13EMu
+build/manifest.json
 c8u97ymrl6z255
 cakephp.zip
 cart/%252eenv

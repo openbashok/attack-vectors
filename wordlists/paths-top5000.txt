@@ -2613,6 +2613,7 @@ blog/%2eenv
 build.tar.gz
 build.zip
 build/%2eenv
+build/manifest.json
 c8u97ymrl6z255
 cakephp.zip
 cart/%252eenv
