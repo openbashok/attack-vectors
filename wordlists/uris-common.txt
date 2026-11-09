@@ -252,11 +252,11 @@ wp-config.php.old
 .env.template
 .env.config
 .svn/wc.db
+*
 .env.uat
 app/.git/config
 build/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
-*
 .env.ci
 .npmrc
 containers/json
@@ -857,6 +857,7 @@ sample.env
 samples/docker/deploymentscripts/.env
 script/.env
 scripts/fvt/.env
+sellers.json
 serve-browserbench/.env
 server/.env.staging
 server/config/.env
@@ -1361,7 +1362,6 @@ secret/config.json
 secrets.js
 secrets.toml
 secrets/config.json
-sellers.json
 server.crt
 serverless.yaml
 serverless.yml

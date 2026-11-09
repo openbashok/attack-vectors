@@ -251,11 +251,11 @@ wp-config.php.old
 .svn/wc.db
 .env.config
 .env.uat
+*
 .npmrc
 app/.git/config
 build/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
-*
 .env.ci
 containers/json
 sitemap.xml
@@ -885,6 +885,7 @@ sample.env
 samples/docker/deploymentscripts/.env
 script/.env
 scripts/fvt/.env
+sellers.json
 serve-browserbench/.env
 server/.env.staging
 server/config/.env
@@ -997,4 +998,3 @@ $(pwd)/terraform.tfvars
 2phpmyadmin/index.php
 <invalid>hello.html
 <script>alert(1)</script>.html
-Admin_Files/

@@ -253,12 +253,12 @@ wp-config.php.old
 .env.config
 .svn/wc.db
 .env.uat
+_
 app/.git/config
 build/.env
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 .env.ci
 .npmrc
-_
 containers/json
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 sitemap.xml
@@ -857,6 +857,7 @@ sample.env
 samples/docker/deploymentscripts/.env
 script/.env
 scripts/fvt/.env
+sellers.json
 serve-browserbench/.env
 server/.env.staging
 server/config/.env
@@ -1365,7 +1366,6 @@ secret/config.json
 secrets.js
 secrets.toml
 secrets/config.json
-sellers.json
 server.crt
 serverless.yaml
 serverless.yml

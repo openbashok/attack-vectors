@@ -150,10 +150,10 @@ v1
 wc.db
 .env.config
 .env.uat
+*
 .npmrc
 config.py
 %00.env
-*
 .env.ci
 .env.sample
 HNAP1
@@ -461,6 +461,7 @@ pma
 pom.xml
 raw
 s3cmd.ini
+sellers.json
 serverless.yaml
 serverless.yml
 service-account-credentials.json
@@ -635,7 +636,6 @@ sam-template.yaml
 script%3E.html
 script>.html
 secret.json
-sellers.json
 sendgrid.json
 server-info.php
 server.crt

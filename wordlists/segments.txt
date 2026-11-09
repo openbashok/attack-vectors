@@ -252,10 +252,10 @@ metadatauploader
 mysql
 .env_sample
 .github
+*
 login.html
 panel
 shared
-*
 id_rsa
 s3
 sftp.json
@@ -907,6 +907,7 @@ rust-backend
 s3cmd.ini
 sample02
 sdl-first
+sellers.json
 serve-browserbench
 serverless.yaml
 serverless.yml
@@ -1226,7 +1227,6 @@ script%3E.html
 script>.html
 secret
 secret.json
-sellers.json
 sendgrid.json
 server-info.php
 server.crt
