@@ -41,10 +41,10 @@ core/.env
 www/.env
 .svn/entries
 api/.git/config
-info.php
-storage/.env
 get
+info.php
 ip.cypher.rest:443
+storage/.env
 old/.env
 html/.env
 storage/logs/laravel.log
@@ -410,6 +410,7 @@ swagger.json
 .env.test.local
 .env.www
 .netrc
+GponForm/diag_Form_images/
 RDWeb
 actuator/configprops
 api/metrics/run
@@ -428,7 +429,6 @@ ws
 .env.2
 .env.tmp
 .env_old
-GponForm/diag_Form_images/
 _static/.env
 aaa9
 aab9
@@ -1680,6 +1680,7 @@ api/.env:80/script/.env
 api/.env:80/shared/.env
 api/.env:80/sources/.env
 api/.env:80/system/.env
+api/active-coins
 api/api-docs
 api/client/update_arch=amd64_commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17_os=windows
 api/config.dev.env
@@ -2741,7 +2742,6 @@ api.zip
 api/.env.local_v=18e6211f623a021f
 api/.env.production_v=18e6211f634827d5
 api/.env_v=18e6211251773c7e
-api/active-coins
 api/anthropic/.env_v=18e621112cb29f8a
 api/anthropic/config.js_v=18e621112d60c4d3
 api/aws/s3.ts

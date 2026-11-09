@@ -51,9 +51,9 @@ aws.yml
 entries
 secrets.json
 env
-application.yml
 get
 ip.cypher.rest:443
+application.yml
 debug.log
 application.properties
 error.log
@@ -232,6 +232,7 @@ auth.json
 config.php.old
 config.php~
 config.yaml
+diag_Form
 env.js
 env.php
 formLogin
@@ -255,7 +256,6 @@ api-docs
 application_default_credentials.json
 db.sql.gz
 deployment.yaml
-diag_Form
 docker-compose.override.yml
 gcp-credentials.json
 local_settings.py
@@ -773,6 +773,7 @@ _next
 access.log
 accessTokens.json
 acme.json
+active-coins
 allversions
 api-key.txt
 apidocs
