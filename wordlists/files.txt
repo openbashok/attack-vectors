@@ -26,8 +26,8 @@ info
 phpinfo.php
 .env.local.php
 HEAD
-config.js
 login
+config.js
 robots.txt
 settings.json
 .env.test
@@ -50,10 +50,10 @@ config.env
 aws.yml
 entries
 env
-secrets.json
-application.yml
 get
 ip.cypher.rest:443
+secrets.json
+application.yml
 debug.log
 application.properties
 error.log

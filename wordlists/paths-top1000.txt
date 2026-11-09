@@ -42,9 +42,9 @@ www/.env
 core/.env
 info.php
 .svn/entries
-api/.git/config
 get
 ip.cypher.rest:443
+api/.git/config
 old/.env
 storage/.env
 html/.env
@@ -239,8 +239,8 @@ sse
 .env.live
 api/mcp
 developmentserver/metadatauploader
-.env_sample
 login
+.env_sample
 geoserver/web/
 .env.staging.local
 phpinfo

@@ -39,11 +39,11 @@ prod/.env
 _profiler/phpinfo
 www/.env
 core/.env
+get
 info.php
+ip.cypher.rest:443
 .svn/entries
 api/.git/config
-get
-ip.cypher.rest:443
 old/.env
 storage/.env
 html/.env
@@ -242,8 +242,8 @@ sse
 api/mcp
 developmentserver/metadatauploader
 .env_sample
-geoserver/web/
 login
+geoserver/web/
 .env.dev.local
 .env.staging.local
 phpinfo

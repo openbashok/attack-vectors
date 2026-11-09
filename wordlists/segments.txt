@@ -21,8 +21,8 @@ phpinfo
 .env.php
 config.json
 SDK
-_profiler
 webLanguage
+_profiler
 web
 laravel
 credentials
@@ -33,10 +33,10 @@ public
 backend
 frontend
 app_dev.php
+login
 server
 storage
 core
-login
 dev
 v1
 www
@@ -118,12 +118,12 @@ aws.yml
 dashboard
 media
 entries
+get
+ip.cypher.rest:443
 portal
 secrets.json
 data
 application.yml
-get
-ip.cypher.rest:443
 system
 application
 home
