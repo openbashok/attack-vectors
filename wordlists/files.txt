@@ -42,15 +42,15 @@ credentials.json
 database.yml
 info.php
 wp-config.php
+config.env
 secrets.yml
 terraform.tfstate
-config.env
 index.html
 .env.testing
 aws.yml
+secrets.json
 entries
 env
-secrets.json
 application.yml
 get
 ip.cypher.rest:443
@@ -147,9 +147,9 @@ backup.zip
 .env.default
 v1
 wc.db
+.env.config
 .env.uat
 json
-.env.config
 .npmrc
 config.py
 %00.env
@@ -173,13 +173,13 @@ hello.world
 settings.php
 test.hello
 .env.swp
+.git-credentials
 .htaccess
 app.php
 docker-compose.prod.yml
 login.htm
 sftp-config.json
 wp-config.php.save
-.git-credentials
 about
 config.inc.php
 mcp.json
@@ -201,6 +201,7 @@ version
 .env.1
 Dr0v
 authorized_keys
+environ
 login.jsp
 master.key
 sdk
@@ -223,6 +224,7 @@ application-prod.yml
 configprops
 id_dsa
 secrets.py
+.env.prod.local
 .env.test.local
 .env.www
 RDWeb
@@ -232,7 +234,6 @@ config.php~
 config.yaml
 env.js
 env.php
-environ
 formLogin
 logon.aspx
 openai.json
@@ -243,7 +244,6 @@ wp-config.php~
 ws
 www.zip
 .env.2
-.env.prod.local
 .env.tmp
 .env_old
 .envrc
@@ -257,6 +257,7 @@ db.sql.gz
 deployment.yaml
 diag_Form
 docker-compose.override.yml
+gcp-credentials.json
 local_settings.py
 settings
 .env.aws
@@ -272,7 +273,6 @@ claude.json
 composer.lock
 credentials.yml.enc
 deploy.yml
-gcp-credentials.json
 id_ecdsa
 login.asp
 runtime-env.js
@@ -412,6 +412,7 @@ wp-config.txt
 .env1
 .env_bak
 .env_copy
+.env_secret
 .ftpconfig
 .git
 .github
@@ -419,6 +420,7 @@ wp-config.txt
 .local.env
 .mcp.json
 .passwd-s3fs
+.vault-token
 7f13c0a9d8644f3ca0a563b6b56e49d7
 app.js
 application.yaml
@@ -497,7 +499,6 @@ xmlrpc.php
 .env.local.bak
 .env.mail
 .env.tar.gz
-.env_secret
 .firebaserc
 .ghc.environment
 .hg
@@ -507,7 +508,6 @@ xmlrpc.php
 .svn
 .terraform.lock.hcl
 .terraform.tfstate
-.vault-token
 .vs
 .vscode
 .well-known
@@ -575,6 +575,7 @@ db.zip
 deploy.json
 en-GB.xml
 env.backup
+env.bak
 export.sql
 favicon.png
 fly.toml
@@ -709,6 +710,7 @@ zld_product_spec.js
 .env.json.bak
 .env.key
 .env.log
+.env.monorepo
 .env.old.bak
 .env.original
 .env.previous
@@ -821,7 +823,6 @@ development.yml
 dqgqoeCXckuwPtxov
 dump
 elmah.axd
-env.bak
 env.local.php
 environment
 environment.prod.ts
@@ -924,11 +925,13 @@ stripe.env
 svs-path-check-nonexistent
 system:ping
 tile.vf
+token
 trace
 transparentpix.gif
 updates
 user
 userInfos
+userfiles
 values.yaml
 vpn
 web.config.bak

@@ -49,20 +49,20 @@ old/.env
 storage/.env
 html/.env
 storage/logs/laravel.log
+secrets.json
 security.txt
 v1/.env
 config.js
-secrets.json
 settings/.env
 backup/.env
 v2/.env
 .kube/config
+client/.env
 credentials.json
 dump.sql
 settings.py
 test.php
 appsettings.json
-client/.env
 crm/.env
 database.sql
 database.yml
@@ -78,15 +78,18 @@ htdocs/.env
 .env.php
 application.properties
 application.yml
+apps/.env
 blog/.env
 debug.log
 error.log
 package.json
+project/.env
 shop/.env
 site.zip
+staging/.env
 web.config
 application/.env
-apps/.env
+config.env
 local/.env
 new/.env
 portal/.env
@@ -94,12 +97,9 @@ secrets.yaml
 ../.env
 .env.json
 .env.production.local
-config.env
 env
 info
-project/.env
 settings.json
-staging/.env
 system/.env
 .env.dist
 .env.local.php
@@ -173,6 +173,7 @@ app/config/parameters.yml
 k8s/secrets.yaml
 requirements.txt
 server.js
+services/.env
 v3/.env
 wp-config.php.backup
 .aws/.env
@@ -218,7 +219,6 @@ pos/.env
 readme.md
 sandbox/.env
 service/.env
-services/.env
 stage/.env
 staging/
 static/.env
@@ -249,8 +249,8 @@ wp-config.php.old
 .env.template
 .env.default
 .svn/wc.db
-.env.uat
 .env.config
+.env.uat
 .npmrc
 app/.git/config
 build/.env
@@ -287,6 +287,7 @@ vendor/phpunit/phpunit/LICENSE/eval-stdin.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
 .env.swp
+.git-credentials
 .htaccess
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/config.php
@@ -329,7 +330,6 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-.git-credentials
 config/database.yml
 login.html
 static../.git/config
@@ -370,6 +370,7 @@ HNAP1
 cgi-bin/login.cgi
 conf/.env
 config/master.key
+deploy/.env
 evox/about
 sdk
 .env.txt
@@ -378,7 +379,6 @@ sdk
 app/config/.env
 config.inc.php
 config.py
-deploy/.env
 downloads/
 login.jsp
 settings.php
@@ -403,6 +403,7 @@ backend/.env.local
 development/.env
 openapi.json
 secrets.py
+.env.prod.local
 .env.test.local
 .env.www
 RDWeb
@@ -432,7 +433,6 @@ ws
 www.zip
 .circleci/config.yml
 .env.2
-.env.prod.local
 .env.tmp
 .env_old
 .ssh/authorized_keys
@@ -452,6 +452,7 @@ id_rsa
 local_settings.py
 mail/.env
 panel/.env
+production/.env
 terraform.tfvars
 .boto
 .env.aws
@@ -473,7 +474,6 @@ config/settings.py
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 gcp-credentials.json
-production/.env
 v1
 .env.yaml
 .env.yml
@@ -548,6 +548,7 @@ admin-app/.env
 admin/assets/js/views/login.js
 adminer.sql
 airflow.cfg
+api/v1/.env
 app/config.php
 app/settings.py
 appsettings.Production.json
@@ -582,6 +583,7 @@ product/.env.staging
 psnlink/.env
 redmine/.env
 releases/.env
+scripts/.env
 sitemaps/.env
 storage/.env.local
 swagger/v1/swagger.json
@@ -609,7 +611,6 @@ api/config.php
 api/shared/config/.env
 api/shared/config/config.env
 api/src/.env
-api/v1/.env
 app.json
 auth.json
 authorized_keys
@@ -660,7 +661,6 @@ root/.s3cfg
 runtime-env.js
 s3/.env.bak
 s3/bucket.env
-scripts/.env
 server/.env.production
 sites/default/settings.php
 solr/admin/cores
@@ -696,6 +696,7 @@ xampp/.env
 .env_bak
 .env_copy
 .env_example
+.env_secret
 .ftpconfig
 .git/
 .git/.env
@@ -707,6 +708,7 @@ xampp/.env
 .mcp.json
 .passwd-s3fs
 .streamlit/secrets.toml
+.vault-token
 07-accessing-data/begin/vue-heroes/.env
 09-managing-state/begin/vue-heroes/.env
 09-managing-state/end/vue-heroes/.env
@@ -965,7 +967,6 @@ $(pwd)/terraform.tfvars
 .env.local.bak
 .env.mail
 .env.tar.gz
-.env_secret
 .firebaserc
 .gemini/settings.json
 .ghc.environment
@@ -984,7 +985,6 @@ $(pwd)/terraform.tfvars
 .terraform.lock.hcl
 .terraform.tfstate
 .terraform/credentials.tfrc.json
-.vault-token
 .vs/
 .vscode/
 .vscode/mcp.json
@@ -1204,6 +1204,7 @@ docs/setup.md
 dotfiles/.env
 e2e/.env
 env.backup
+env.bak
 env/template/.env
 environments/local/.env
 etc/boto.cfg
@@ -1243,6 +1244,7 @@ i.php
 index.php.bak
 index.php~
 infophp.php
+infra/.env
 install.php
 inventory.ini
 items/.env
@@ -1300,6 +1302,8 @@ openai.json
 openapi.yaml
 opencode.json
 orientdb-client/.env
+packages/.env
+packages/api/.env
 packages/web/.env
 php-my-admin/index.php
 php-myadmin/index.php
@@ -1445,6 +1449,7 @@ vue_CRM/.env
 web-dist/.env
 webroot/.env
 wiki
+workspace/.env
 wp-admin
 wp-admin/css/colors/modern/
 wp-admin/css/colors/sunrise/

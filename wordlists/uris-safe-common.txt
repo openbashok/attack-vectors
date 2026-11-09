@@ -52,16 +52,16 @@ storage/logs/laravel.log
 settings/.env
 v1/.env
 config.js
+secrets.json
 v2/.env
 backup/.env
-secrets.json
 .kube/config
+client/.env
 credentials.json
 database.yml
 dump.sql
 settings.py
 appsettings.json
-client/.env
 crm/.env
 database.sql
 .env.orig
@@ -76,9 +76,12 @@ docker-compose.yaml
 htdocs/.env
 .env.php
 blog/.env
+project/.env
 shop/.env
+staging/.env
 application.properties
 application.yml
+apps/.env
 debug.log
 error.log
 package.json
@@ -86,21 +89,18 @@ site.zip
 web.config
 .env.json
 application/.env
-apps/.env
+config.env
 env
 info
 local/.env
 new/.env
 portal/.env
-project/.env
-staging/.env
 system/.env
 .env.local.php
 .env.production.local
 auth/.env
 base/.env
 cms/.env
-config.env
 laravel.log
 library/.env
 media/.env
@@ -169,6 +169,7 @@ download/.env
 home/.env
 saas/.env
 server.key
+services/.env
 v3/.env
 .aws/.env
 .bedrock/.env
@@ -218,7 +219,6 @@ requirements.txt
 sandbox/.env
 server.js
 service/.env
-services/.env
 stage/.env
 staging/
 static/.env
@@ -250,8 +250,8 @@ phpinfo
 wp-config.php.old
 .env.default
 .env.template
-.svn/wc.db
 .env.config
+.svn/wc.db
 .env.uat
 app/.git/config
 build/.env
@@ -333,6 +333,7 @@ www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.swp
+.git-credentials
 config/aws.yml
 docker-compose.prod.yml
 docker/.env
@@ -340,7 +341,6 @@ login.html
 static../.git/config
 wp-config.php.save
 +CSCOE+/logon.html
-.git-credentials
 .vscode/settings.json
 abc6
 abc8
@@ -384,13 +384,13 @@ conf/.env
 config.inc.php
 config.py
 config/master.key
+deploy/.env
 downloads/
 login.jsp
 settings.php
 sftp.json
 .s3cfg
 current/.env
-deploy/.env
 shared/.env
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 var/www/.env
@@ -406,6 +406,7 @@ backend/.env.local
 backups/.env
 secrets.py
 swagger.json
+.env.prod.local
 .env.test.local
 .env.www
 .netrc
@@ -425,7 +426,6 @@ version
 wp-admin/.env
 ws
 .env.2
-.env.prod.local
 .env.tmp
 .env_old
 GponForm/diag_Form_images/
@@ -444,6 +444,7 @@ doc/index.html
 docker-compose/.env
 panel/.env
 private/.env
+production/.env
 remote/login
 server-status
 service-account.json
@@ -470,7 +471,6 @@ docker/compose/withPostgres/.env
 id_rsa
 local_settings.py
 mail/.env
-production/.env
 terraform.tfvars
 v1
 .boto
@@ -534,6 +534,7 @@ adminer.php
 adminer.sql
 airflow.cfg
 api/config.env
+api/v1/.env
 app/config.php
 application-prod.properties
 application.properties.bak
@@ -606,7 +607,6 @@ admin/.env.production
 api/
 api/config.php
 api/src/.env
-api/v1/.env
 app.json
 app/settings.py
 appsettings.Production.json
@@ -650,6 +650,7 @@ root/.s3cfg
 runtime-env.js
 s3/.env.bak
 s3/bucket.env
+scripts/.env
 server/.env.production
 sites/default/settings.php
 solr/admin/cores_action=STATUS_wt=json
@@ -673,6 +674,7 @@ wp-config.old
 .env_bak
 .env_copy
 .env_example
+.env_secret
 .ftpconfig
 .git/.env
 .github/.env
@@ -854,7 +856,6 @@ s3cmd.ini
 sample.env
 samples/docker/deploymentscripts/.env
 script/.env
-scripts/.env
 scripts/fvt/.env
 serve-browserbench/.env
 server/.env.staging
@@ -938,7 +939,6 @@ xmlrpc.php
 .dockerignore
 .env.smtp
 .env.tar.gz
-.env_secret
 .gemini/settings.json
 .ghc.environment
 .git/
@@ -954,6 +954,7 @@ xmlrpc.php
 .terraform.lock.hcl
 .terraform.tfstate
 .terraform/credentials.tfrc.json
+.vault-token
 .vs/
 .vscode/
 .vscode/mcp.json
@@ -1180,6 +1181,7 @@ docs/setup.md
 dotfiles/.env
 dump.sql.gz
 e2e/.env
+env.bak
 env/template/.env
 environments/local/.env
 etc/boto.cfg
@@ -1277,6 +1279,8 @@ openai.config
 openai.json
 opencode.json
 orientdb-client/.env
+packages/.env
+packages/api/.env
 packages/web/.env
 php-my-admin/index.php_lang=en
 php-myadmin/index.php_lang=en
@@ -1421,6 +1425,7 @@ vue_CRM/.env
 web-dist/.env
 webroot/.env
 wiki
+workspace/.env
 wp-admin
 wp-admin/css/colors/modern/
 wp-admin/css/colors/sunrise/
