@@ -1010,6 +1010,7 @@ _phpMyAdmin
 _phpinfo.php
 _phpmyadmin
 _phpmyadmin_
+active-coins
 adminpanel
 ads.txt
 agora
@@ -1445,7 +1446,6 @@ accessTokens.json
 acme.json
 acme_challenges
 actions-server
-active-coins
 adapter-rest
 add-auth
 addOrg3

@@ -1034,6 +1034,7 @@ amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
 api-docs
+api/active-coins
 api/config.json
 api/docs
 api/route
@@ -1679,7 +1680,6 @@ api/.env:80/script/.env
 api/.env:80/shared/.env
 api/.env:80/sources/.env
 api/.env:80/system/.env
-api/active-coins
 api/api-docs
 api/client/update?arch=amd64&commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17&os=windows
 api/config.dev.env

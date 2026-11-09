@@ -1055,6 +1055,7 @@ amplify/team-provider-info.json
 amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
+api/active-coins
 api/config.json
 api/docs
 api/route

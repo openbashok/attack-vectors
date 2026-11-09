@@ -1055,6 +1055,7 @@ amplify/team-provider-info.json
 amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
+api/active-coins
 api/config.json
 api/docs
 api/route
@@ -1696,7 +1697,6 @@ api/.env:80/script/.env
 api/.env:80/shared/.env
 api/.env:80/sources/.env
 api/.env:80/system/.env
-api/active-coins
 api/api-docs
 api/client/update
 api/config.dev.env

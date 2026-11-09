@@ -528,6 +528,7 @@ README.md
 Thumbs.db
 __ENV.js
 _phpinfo.php
+active-coins
 adminpanel
 ads.txt
 amplifyconfiguration.json
@@ -773,7 +774,6 @@ _next
 access.log
 accessTokens.json
 acme.json
-active-coins
 allversions
 api-key.txt
 apidocs
