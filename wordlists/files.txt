@@ -74,13 +74,13 @@ env.json
 sendgrid.env
 .env.json
 .env.production.local
+sh
 open
 package-lock.json
 yarn.lock
 aws.env
 bedrock.env
 env-config.js
-sh
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -145,11 +145,11 @@ wp-config.php.old
 .env.template
 backup.zip
 .env.default
+json
 v1
 wc.db
 .env.config
 .env.uat
-json
 .npmrc
 config.py
 %00.env
@@ -165,13 +165,13 @@ sitemap.xml
 .env.preprod
 .env.sandbox
 config.yml
+hello.world
 swagger.json
+test.hello
 %252eenv
 configuration.php
 health
-hello.world
 settings.php
-test.hello
 .env.swp
 .git-credentials
 .htaccess
@@ -481,6 +481,7 @@ wp-includes
 wp-json
 wp-load.php
 wp-settings.php
+www.cloudflare.com:443
 www.google.com:443
 www.tar.gz
 xml
@@ -940,4 +941,3 @@ webpack.config.js
 winscp.ini
 wp_filemanager.php
 wrangler.toml
-www.cloudflare.com:443
