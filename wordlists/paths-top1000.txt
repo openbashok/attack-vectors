@@ -271,11 +271,11 @@ admin/.git/config
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 config.php
 configuration/.env
+index.html
 server/.git/config
 config/aws.json
 database/.env
 hello.world
-index.html
 public/.git/config
 src/.git/config
 test.hello
@@ -283,6 +283,7 @@ vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
++CSCOE+/logon.html
 .ssh/id_rsa
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -323,7 +324,6 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-+CSCOE+/logon.html
 .env.swp
 .git-credentials
 .htaccess
@@ -343,6 +343,7 @@ data/.git/config
 dev/.git/config
 files/.git/config
 login.html
+manage/account/login
 media../.git/config
 media/.git/config
 project/.git/config
@@ -351,14 +352,14 @@ project/.git/config
 .vscode/sftp.json
 abc6
 abc8
+admin/index.html
 files/
-manage/account/login
 pub/
 .docker/.env
 Dr0v
 Jenkinsfile
 abc7
-admin/index.html
+cgi-bin/login.cgi
 public_html/.env
 remote/login
 terraform.tfstate.backup
@@ -367,7 +368,6 @@ terraform.tfstate.backup
 .git/index
 .well-known/pki-validation/update
 HNAP1
-cgi-bin/login.cgi
 conf/.env
 config/master.key
 deploy/.env
