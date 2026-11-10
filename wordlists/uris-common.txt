@@ -13,15 +13,15 @@ config/.env
 laravel/.env
 .aws/credentials
 .env.prod
-robots.txt
 .env.test
 backend/.env
 config.json
-.env.backup
-.env.example
+robots.txt
 .env.old
+.env.example
 .env.staging
 docker-compose.yml
+.env.backup
 public/.env
 web/.env
 .gitlab-ci.yml
@@ -41,10 +41,10 @@ core/.env
 www/.env
 .svn/entries
 api/.git/config
-get
 info.php
-ip.cypher.rest:443
 storage/.env
+get
+ip.cypher.rest:443
 old/.env
 html/.env
 storage/logs/laravel.log
@@ -88,7 +88,6 @@ package.json
 site.zip
 web.config
 .env.json
-.env.production.local
 application/.env
 config.env
 env
@@ -97,14 +96,12 @@ local/.env
 new/.env
 portal/.env
 system/.env
-.env.dist
 .env.local.php
 auth/.env
 base/.env
 cms/.env
 laravel.log
 library/.env
-mcp/
 media/.env
 package-lock.json
 secrets.yaml
@@ -113,10 +110,12 @@ settings.json
 test/.env
 yarn.lock
 ../.env
+.env.production.local
 aws.env
 env-config.js
 secrets.yml
 .config.yaml
+.env.dist
 .env.example.php
 .env.php-backup
 .env.php-bak
@@ -140,7 +139,7 @@ demo/.env
 env.json
 info/
 main/.env
-mcp
+mcp/
 mysql.sql
 phpinfo/
 secrets.env
@@ -167,6 +166,7 @@ credentials.xml
 docs/.env
 download/.env
 home/.env
+mcp
 saas/.env
 server.key
 services/.env
@@ -177,7 +177,6 @@ v3/.env
 .env.save.1
 .env/.env
 .json
-.well-known/security.txt
 Application/.env
 api/test
 app.log
@@ -233,6 +232,7 @@ tmp/.env
 twilio.env
 user/.env
 wp-config.php.backup
+.well-known/security.txt
 wp-config.php.bak
 .aws/config
 sse
@@ -481,6 +481,7 @@ v1
 .envrc
 .github/workflows/deploy.yml
 .ssh/config
+admin/.env.production
 api.ipinfo.io:443
 api/.env.production
 app/etc/env.php
@@ -503,6 +504,7 @@ owa/auth/x.js
 proc/self/environ
 root/.aws/credentials
 server/.env.local
+src/.env.local
 user/.env.staging
 vendor/laravel/.env
 web/
@@ -603,7 +605,6 @@ wp-config.php.txt
 ReportServer
 actuator
 admin/
-admin/.env.production
 api/
 api/config.php
 api/src/.env
@@ -656,7 +657,6 @@ sites/default/settings.php
 solr/admin/cores?action=STATUS&wt=json
 solr/admin/info/system
 sources/.env
-src/.env.local
 static/admin/javascript/hetong.js
 swagger/v1/swagger.json
 web/.env.local
@@ -703,6 +703,7 @@ acme-challenge/.env
 acme/.env
 admin
 admin.php
+admin/.env.staging
 administrator/
 alpha/.env
 anaconda/.env
@@ -759,6 +760,7 @@ custom/.env
 database.php.bak
 db.php
 dbconfig.php
+demo/.env.local
 develop/.env
 developerslv/.env
 directories/.env
@@ -838,11 +840,14 @@ php_info.php
 pom.xml
 preview/.env
 private.key
+prod/.env.local
 projbackend/.env
 pub/.env
 public/.env.local
 public/.env.production
+public/.env.staging
 qa/.env
+qa/.env.local
 qa/.env.staging
 rails/.env
 raw
@@ -891,6 +896,7 @@ theme/.env
 ubuntu/.env
 upload/.env
 users/.env
+var/.env
 vendor/.env.example
 vod_installer/.env
 vue/.env
