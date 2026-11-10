@@ -422,6 +422,7 @@ wp-config.txt
 .passwd-s3fs
 .vault-token
 7f13c0a9d8644f3ca0a563b6b56e49d7
+active-coins
 app.js
 application.yaml
 authLogin.cgi
@@ -528,7 +529,6 @@ README.md
 Thumbs.db
 __ENV.js
 _phpinfo.php
-active-coins
 adminpanel
 ads.txt
 amplifyconfiguration.json

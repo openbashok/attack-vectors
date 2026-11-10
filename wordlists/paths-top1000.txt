@@ -734,6 +734,7 @@ ansible/.env
 api-docs
 api/.env.example
 api/.env.staging
+api/active-coins
 app/.env.example
 app/code/community/Nosto/Tagging/.env
 app/frontend/.env
@@ -997,4 +998,3 @@ $(pwd)/terraform.tfvars
 1phpmyadmin/index.php
 2phpmyadmin/index.php
 <invalid>hello.html
-<script>alert(1)</script>.html

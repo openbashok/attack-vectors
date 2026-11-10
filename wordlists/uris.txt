@@ -709,6 +709,7 @@ anaconda/.env
 ansible/.env
 api/.env.example
 api/.env.staging
+api/active-coins
 api/shared/config/.env
 api/shared/config/config.env
 app/.env.example
@@ -1034,7 +1035,6 @@ amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
 api-docs
-api/active-coins
 api/config.json
 api/docs
 api/route

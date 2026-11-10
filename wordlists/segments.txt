@@ -791,6 +791,7 @@ _debugbar
 a
 acme
 acme-challenge
+active-coins
 agc
 alpha
 amp_conf
@@ -1013,7 +1014,6 @@ _phpMyAdmin
 _phpinfo.php
 _phpmyadmin
 _phpmyadmin_
-active-coins
 adminpanel
 ads.txt
 agora

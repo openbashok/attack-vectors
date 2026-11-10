@@ -734,6 +734,7 @@ ansible/.env
 api-docs
 api/.env.example
 api/.env.staging
+api/active-coins
 app/.env.example
 app/code/community/Nosto/Tagging/.env
 app/frontend/.env
@@ -1055,7 +1056,6 @@ amplify/team-provider-info.json
 amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
-api/active-coins
 api/config.json
 api/docs
 api/route
