@@ -351,14 +351,14 @@ project/.git/config
 .vscode/sftp.json
 abc6
 abc8
+files/
 manage/account/login
+pub/
 .docker/.env
 Dr0v
 Jenkinsfile
 abc7
 admin/index.html
-files/
-pub/
 public_html/.env
 remote/login
 terraform.tfstate.backup
@@ -371,6 +371,7 @@ cgi-bin/login.cgi
 conf/.env
 config/master.key
 deploy/.env
+downloads/
 evox/about
 sdk
 sftp.json
@@ -380,13 +381,13 @@ sftp.json
 app/config/.env
 config.inc.php
 config.py
-downloads/
 login.jsp
 settings.php
 wp-config.php.orig
 wp-content/.env
 .ssh/id_ed25519
 .travis.yml
+actuator/health
 app/.env.production
 backups/.env
 current/.env
@@ -398,7 +399,6 @@ vendor/.env
 .env.docker
 .netrc
 actuator/configprops
-actuator/health
 backend/.env.local
 development/.env
 openapi.json

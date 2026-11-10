@@ -50,8 +50,8 @@ lib
 assets
 laravel.log
 staging
-backup
 .env.dev
+backup
 .env.save
 info
 docker
@@ -152,8 +152,8 @@ sql
 backup.sql
 config.php.bak
 user
-docker-compose.yaml
 actuator
+docker-compose.yaml
 images
 node
 store
@@ -199,13 +199,13 @@ wp-content
 app.log
 config.dev.php
 download
+files
 google-services.json
 mysql.sql
 platform
 secrets.env
 bak
 configuration.json
-files
 parameters.yml
 Application
 content
@@ -278,14 +278,15 @@ wc.db
 containers
 testing
 workflows
+health
 $(pwd)
 .env.ci
 .npmrc
 HNAP1
 config.py
 drupal
-health
 openai
+pub
 root
 sitemap.xml
 vue-heroes
@@ -295,7 +296,6 @@ wp-admin
 .env.secret
 LICENSE
 owa
-pub
 workspace
 wp-json
 .env.preprod
@@ -328,6 +328,7 @@ zend
 .htaccess
 account
 anthropic
+downloads
 etc
 login.htm
 manage
@@ -338,7 +339,6 @@ assets..
 backups
 config.inc.php
 default_settings
-downloads
 mcp.json
 media..
 pma
