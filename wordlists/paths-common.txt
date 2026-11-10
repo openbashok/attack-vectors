@@ -356,6 +356,7 @@ admin/index.html
 files/
 pub/
 .docker/.env
+.well-known/pki-validation/update
 Dr0v
 Jenkinsfile
 abc7
@@ -366,7 +367,6 @@ terraform.tfstate.backup
 .docker/config.json
 .env.1
 .git/index
-.well-known/pki-validation/update
 HNAP1
 conf/.env
 config/master.key

@@ -122,10 +122,10 @@ dashboard
 data
 entries
 secrets.json
+.well-known
 get
 ip.cypher.rest:443
 portal
-.well-known
 home
 static
 application.yml
@@ -345,6 +345,7 @@ login.cgi
 mcp.json
 media..
 pma
+update
 version
 abc6
 abc8
@@ -357,12 +358,12 @@ phpMyAdmin
 private
 scripts
 swagger
-update
 Dr0v
 Jenkinsfile
 abc7
 development
 index.js
+pki-validation
 production
 public_html
 remote
@@ -379,7 +380,6 @@ evox
 libraries
 login.jsp
 master.key
-pki-validation
 qa
 run
 sdk

@@ -364,12 +364,12 @@ pub/
 .docker/.env
 .env.sample
 .git/logs/HEAD
+.well-known/pki-validation/update
 Dr0v
 abc7
 cgi-bin/login.cgi
 public_html/.env
 .env.1
-.well-known/pki-validation/update
 HNAP1
 Jenkinsfile
 downloads/
