@@ -13,9 +13,9 @@ config/.env
 laravel/.env
 .aws/credentials
 .env.prod
+robots.txt
 .env.test
 backend/.env
-robots.txt
 config.json
 .env.backup
 .env.example
@@ -27,8 +27,8 @@ web/.env
 .gitlab-ci.yml
 admin/.env
 frontend/.env
-.env.development
 phpinfo.php
+.env.development
 site/.env
 src/.env
 wp-config.php
@@ -250,12 +250,12 @@ phpinfo
 wp-config.php.old
 .env.default
 .env.template
+*
 .env.config
 .svn/wc.db
 .env.uat
 app/.git/config
 build/.env
-*
 .env.ci
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 sitemap.xml
@@ -264,6 +264,7 @@ www/.git/config
 config/database.php
 containers/json
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
+vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.preprod
 .env.sandbox
 .env.secret
@@ -273,7 +274,6 @@ cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%
 config.php
 configuration/.env
 server/.git/config
-vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .htpasswd
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 config/aws.json
@@ -429,6 +429,7 @@ ws
 .env.2
 .env.tmp
 .env_old
+HNAP1/
 _static/.env
 aaa9
 aab9
@@ -457,7 +458,6 @@ www.zip
 .yarnrc.yml
 Dockerfile
 Gemfile.lock
-HNAP1/
 actuator/env
 admin/login.asp
 ansible.cfg
@@ -2314,6 +2314,7 @@ www-data/.env
 wwwroot/.env
 xml/info.xml
 zmusic-frontend/.env
+ztp/cgi-bin/handler
 ~/.env
 %00.aws/%00config?v=18e6211266ef5270
 %00.aws/%00credentials?v=18e621125a167670
@@ -2927,6 +2928,7 @@ cert.zip
 cf_scripts/scripts/ajax/ckeditor/ckeditor.js
 cgi-bin/ExportSettings.sh
 cgi-bin/config.exp
+cgi-bin/cstecgi.cgi
 cgi-bin/nas_sharing.cgi?user=messagebus&passwd=&cmd=15&system=aWQ=
 cgi-bin/network_tools
 charts/values.yaml?v=18e6211fa9d09365
@@ -3058,6 +3060,7 @@ crm/.env?v=18e62111b5e43536
 cron/.env?v=18e621124fe7eb4d
 css/elfinder.min.css
 css/images/PTZOptics_powerby.png
+ctrlt/DeviceUpgrade_1
 daemon/%2eenv?v=cmVKy
 dana-na/auth/url_default/welcome.cgi
 dashboard
@@ -3165,6 +3168,7 @@ geoserver/wfs?service=WFS&request=GetCapabilities
 goautodial-agent/astguiclient.php
 goautodial/
 goform/fast_setting_wifi_set
+goform/setUsbUnload
 google-services.json?v=18e6211ddafb58bb
 groq/.env?v=18e62112720df3c9
 gunicorn.conf.py
@@ -3556,6 +3560,7 @@ site_2025.zip
 site_2026.zip
 sitecore/shell/sitecore.version.xml
 sms.py?v=18e62111c50cfaba
+soap.cgi?service=WANIPConn1
 solr/
 source.tar.gz
 source.zip
@@ -3667,6 +3672,7 @@ viewinfo.php
 vite.config.js?v=18e6211f8cd26cd0
 voyage/.env?v=18e62112512690cd
 vue.zip
+wanipcn.xml
 web.config?v=18e6211374522b0b
 web.tar.gz
 web/.env?v=18e6211187153d92
@@ -3729,5 +3735,4 @@ xpvhykubaiexsm
 yii.zip
 yoenrmvpo5lqyq
 zabbix/favicon.ico
-ztp/cgi-bin/handler
 ~site.zip

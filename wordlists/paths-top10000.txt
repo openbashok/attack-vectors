@@ -16,8 +16,8 @@ laravel/.env
 .env.prod
 .env.test
 backend/.env
-config.json
 robots.txt
+config.json
 .env.backup
 .env.example
 .env.old
@@ -28,9 +28,9 @@ web/.env
 .gitlab-ci.yml
 admin/.env
 frontend/.env
+phpinfo.php
 .env.development
 .git/HEAD
-phpinfo.php
 site/.env
 src/.env
 wp-config.php
@@ -249,11 +249,11 @@ wp-config.php.old
 .env.template
 .env.default
 .svn/wc.db
+*
 .env.config
 .env.uat
 app/.git/config
 build/.env
-*
 .env.ci
 .npmrc
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
@@ -262,6 +262,7 @@ www/.git/config
 .env.secret
 config/database.php
 containers/json
+vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.preprod
 .env.sandbox
 .env~
@@ -271,7 +272,6 @@ cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%
 config.php
 configuration/.env
 server/.git/config
-vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 config/aws.json
 database/.env
 hello.world
@@ -438,6 +438,7 @@ www.zip
 .env_old
 .ssh/authorized_keys
 Dockerfile
+HNAP1/
 _static/.env
 aaa9
 aab9
@@ -461,7 +462,6 @@ terraform.tfvars
 .ssh/config
 .yarnrc.yml
 Gemfile.lock
-HNAP1/
 admin/login.asp
 ansible.cfg
 api
@@ -2316,6 +2316,7 @@ www-data/.env
 wwwroot/.env
 xml/info.xml
 zmusic-frontend/.env
+ztp/cgi-bin/handler
 ~/.env
 %00.aws/%00config
 %00.aws/%00credentials
@@ -2743,6 +2744,7 @@ cert.zip
 cf_scripts/scripts/ajax/ckeditor/ckeditor.js
 cgi-bin/ExportSettings.sh
 cgi-bin/config.exp
+cgi-bin/cstecgi.cgi
 cgi-bin/nas_sharing.cgi
 cgi-bin/network_tools
 charts/values.yaml
@@ -2834,6 +2836,7 @@ credentials/.env
 credentials/store/system/domain/_/api/json
 css/elfinder.min.css
 css/images/PTZOptics_powerby.png
+ctrlt/DeviceUpgrade_1
 daemon/%2eenv
 dana-na/auth/url_default/welcome.cgi
 dashboard
@@ -2909,6 +2912,7 @@ geoserver/wfs
 goautodial-agent/astguiclient.php
 goautodial/
 goform/fast_setting_wifi_set
+goform/setUsbUnload
 groq/.env
 gunicorn.conf.py
 haloocom_connect4/astguiclient.php
@@ -3207,6 +3211,7 @@ site_2025.zip
 site_2026.zip
 sitecore/shell/sitecore.version.xml
 sms.py
+soap.cgi
 solr/
 source.tar.gz
 source.zip
@@ -3300,6 +3305,7 @@ viewinfo.php
 vite.config.js
 voyage/.env
 vue.zip
+wanipcn.xml
 web.tar.gz
 web_2024.zip
 webclient/
@@ -3338,5 +3344,4 @@ xpvhykubaiexsm
 yii.zip
 yoenrmvpo5lqyq
 zabbix/favicon.ico
-ztp/cgi-bin/handler
 ~site.zip

