@@ -221,6 +221,7 @@ db.php
 openapi.json
 .env.docker
 .netrc
+127.0.0.1:801
 application-prod.yml
 config.yaml
 configprops
@@ -231,7 +232,6 @@ ws
 .env.prod.local
 .env.test.local
 .env.www
-127.0.0.1:801
 RDWeb
 config.php.old
 config.php~

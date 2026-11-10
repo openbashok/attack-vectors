@@ -399,6 +399,7 @@ var/www/.env
 vendor/.env
 .env.docker
 .netrc
+127.0.0.1:801
 HNAP1/
 actuator/configprops
 backend/.env.local
@@ -409,7 +410,6 @@ ws
 .env.prod.local
 .env.test.local
 .env.www
-127.0.0.1:801
 GponForm/diag_Form
 RDWeb
 actuator/env

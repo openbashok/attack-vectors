@@ -18,8 +18,8 @@ admin
 .env.production
 .aws
 SDK
-phpinfo
 webLanguage
+phpinfo
 .env.php
 config.json
 _profiler
@@ -418,6 +418,7 @@ users
 vue
 .env.docker
 .netrc
+127.0.0.1:801
 RDWeb
 application-prod.yml
 autodiscover
@@ -433,7 +434,6 @@ secrets.py
 .env.prod.local
 .env.test.local
 .env.www
-127.0.0.1:801
 ClientApp
 GponForm
 __fixtures__

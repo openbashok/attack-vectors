@@ -402,6 +402,7 @@ wp-content/.env
 .env.docker
 .ssh/id_ed25519
 .travis.yml
+127.0.0.1:801
 HNAP1/
 app/.env.production
 backend/.env.local
@@ -413,7 +414,6 @@ ws
 .env.test.local
 .env.www
 .netrc
-127.0.0.1:801
 GponForm/diag_Form_images/
 RDWeb
 actuator/configprops
