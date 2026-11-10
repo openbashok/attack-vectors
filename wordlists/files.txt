@@ -26,9 +26,9 @@ phpinfo.php
 .env.local.php
 HEAD
 config.php
+robots.txt
 view
 config.js
-robots.txt
 .env.old
 .env.test
 settings.json
@@ -126,8 +126,8 @@ temp
 tests
 tmp
 twilio.env
-wp-config.php.bak
 web
+wp-config.php.bak
 sse
 .env.stage
 .env.development.local
@@ -150,8 +150,8 @@ wc.db
 .env.config
 .env.uat
 json
-v1
 sitemap.xml
+v1
 .env.ci
 .npmrc
 HNAP1
@@ -164,8 +164,8 @@ config.py
 .env~
 .htpasswd
 .s3cfg
-config.yml
 health
+config.yml
 hello.world
 swagger.json
 test.hello
@@ -210,13 +210,13 @@ sdk
 .env_1
 api
 service-account.json
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php.orig
 %2eenv
 .travis.yml
 backup.tar.gz
 db.php
 openapi.json
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
 .env.docker
 .netrc

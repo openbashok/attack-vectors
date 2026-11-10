@@ -75,9 +75,9 @@ config.php
 log
 tmp
 env
+robots.txt
 view
 config.js
-robots.txt
 temp
 .env.old
 .env.test
@@ -149,10 +149,10 @@ test.php
 db.sql
 sql
 .env.orig
+actuator
 backup.sql
 config.php.bak
 user
-actuator
 docker-compose.yaml
 images
 node
@@ -213,6 +213,7 @@ credentials.xml
 developer
 saas
 server.key
+geoserver
 requirements.txt
 server.js
 wp-config.php.backup
@@ -231,7 +232,6 @@ database.config
 env.example
 erp
 facturacion
-geoserver
 infos
 php_error.log
 php_errors.log
@@ -276,10 +276,10 @@ wc.db
 .env.config
 .env.uat
 containers
-testing
-workflows
 health
 sitemap.xml
+testing
+workflows
 $(pwd)
 .env.ci
 .npmrc
@@ -394,6 +394,7 @@ includes
 mail
 myadmin
 service-account.json
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php.orig
 %2eenv
 .travis.yml
@@ -408,7 +409,6 @@ docker-compose
 mailchimp
 openapi.json
 secrets
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 task
 terraform.tfvars
 users

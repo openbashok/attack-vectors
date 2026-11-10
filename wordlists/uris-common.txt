@@ -13,9 +13,9 @@ config/.env
 laravel/.env
 .aws/credentials
 .env.prod
+robots.txt
 .env.test
 backend/.env
-robots.txt
 config.json
 .env.old
 .env.example
@@ -113,6 +113,7 @@ yarn.lock
 .env.production.local
 aws.env
 env-config.js
+mcp/
 secrets.yml
 .config.yaml
 .env.dist
@@ -139,7 +140,6 @@ demo/.env
 env.json
 info/
 main/.env
-mcp/
 mysql.sql
 phpinfo/
 secrets.env
@@ -157,6 +157,7 @@ aws.yml
 bedrock.env
 configuration.json
 google-services.json
+mcp
 administrator/.env
 assets/.env
 bak/.env
@@ -166,7 +167,6 @@ credentials.xml
 docs/.env
 download/.env
 home/.env
-mcp
 saas/.env
 server.key
 services/.env
@@ -233,16 +233,16 @@ twilio.env
 user/.env
 wp-config.php.backup
 .well-known/security.txt
+sse
 wp-config.php.bak
 .aws/config
-sse
 .env.stage
+api/mcp
 .env.development.local
 .env.live
-api/mcp
 developmentserver/metadatauploader
-.env_sample
 geoserver/web/
+.env_sample
 login
 .env.dev.local
 .env.staging.local
@@ -253,10 +253,10 @@ wp-config.php.old
 *
 .env.config
 .svn/wc.db
+sitemap.xml
 .env.uat
 app/.git/config
 build/.env
-sitemap.xml
 .env.ci
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 www/.git/config
@@ -381,6 +381,7 @@ terraform.tfstate.backup
 .env.txt
 .env_1
 .git/index
+actuator/health
 app/config/.env
 conf/.env
 config.inc.php
@@ -389,11 +390,10 @@ config/master.key
 deploy/.env
 login.jsp
 settings.php
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .s3cfg
-actuator/health
 current/.env
 shared/.env
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 var/www/.env
 vendor/.env
 wp-config.php.orig
