@@ -244,9 +244,9 @@ developmentserver/metadatauploader
 .env_sample
 geoserver/web/
 login
+phpinfo
 .env.dev.local
 .env.staging.local
-phpinfo
 wp-config.php.old
 .env.default
 .env.template
@@ -355,6 +355,7 @@ docker/.env
 login.html
 manage/account/login
 wp-config.php.save
+Dr0v
 abc6
 abc8
 admin/index.html
@@ -366,7 +367,6 @@ pub/
 .env_1
 .git/logs/HEAD
 .well-known/pki-validation/update
-Dr0v
 HNAP1
 abc7
 cgi-bin/login.cgi
@@ -584,6 +584,7 @@ master/.env
 new/.env.local
 new/.env.production
 new/.env.staging
+portal/redlion
 product/.env.staging
 psnlink/.env
 redmine/.env
@@ -628,6 +629,7 @@ auth.json
 authorized_keys
 boaform/admin/formLogin_username=adminisp_psd=adminisp
 build.gradle
+cgi-bin/authLogin.cgi
 client/.env.local
 config.inc.php.bak
 config/.env.production
@@ -656,7 +658,6 @@ manager/text/list
 myapp/settings.py
 owa/
 php/.env
-portal/redlion
 root/.env
 runtime-env.js
 scripts/.env
@@ -771,7 +772,6 @@ bootstrap/.env
 boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
 cdw-backend/.env
-cgi-bin/authLogin.cgi
 ch6-mytodo/.env
 ch8b-mytodo/.env
 challenge/.env

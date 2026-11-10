@@ -242,8 +242,8 @@ developmentserver/metadatauploader
 .env_sample
 login
 geoserver/web/
-.env.staging.local
 phpinfo
+.env.staging.local
 wp-config.php.old
 .env.dev.local
 .env.template
@@ -350,6 +350,7 @@ login.html
 manage/account/login
 .env.sample
 .git/logs/HEAD
+Dr0v
 abc6
 abc8
 admin/index.html
@@ -358,7 +359,6 @@ pub/
 terraform.tfstate.backup
 .docker/.env
 .well-known/pki-validation/update
-Dr0v
 HNAP1
 Jenkinsfile
 abc7
@@ -588,6 +588,7 @@ laravel/.env.production
 laravel/.env.staging
 manager/html
 master/.env
+portal/redlion
 product/.env.staging
 psnlink/.env
 redmine/.env
@@ -635,6 +636,7 @@ aws/.env
 awstats/.env
 bitbucket-pipelines.yml
 build.gradle
+cgi-bin/authLogin.cgi
 ci/.env
 client/.env.local
 config.inc.php.bak
@@ -671,7 +673,6 @@ nginx/.env
 node_modules/.env
 owa/
 php/.env
-portal/redlion
 private.key
 root/.env
 runtime-env.js
@@ -791,7 +792,6 @@ boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
 cdw-backend/.env
 cert.pem
-cgi-bin/authLogin.cgi
 ch6-mytodo/.env
 ch8b-mytodo/.env
 challenge/.env

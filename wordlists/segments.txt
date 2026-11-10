@@ -16,9 +16,9 @@ admin
 .%2e
 .env.local
 .env.production
-.aws
 SDK
 webLanguage
+.aws
 phpinfo
 .env.php
 config.json
@@ -56,9 +56,9 @@ staging
 info
 tests
 .env.prod
+cgi-bin
 docker
 .svn
-cgi-bin
 default
 security.txt
 debug
@@ -67,9 +67,9 @@ phpinfo.php
 var
 .env.local.php
 cms
+robots.txt
 apps
 beta
-robots.txt
 sendgrid
 env
 log
@@ -123,10 +123,10 @@ dashboard
 entries
 secrets.json
 .well-known
+portal
 get
 home
 ip.cypher.rest:443
-portal
 bin
 static
 application.yml
@@ -349,6 +349,7 @@ default_settings
 login.cgi
 pma
 update
+Dr0v
 abc6
 abc8
 babel-plugin-dotenv
@@ -362,7 +363,6 @@ private
 scripts
 swagger
 terraform.tfstate.backup
-Dr0v
 Jenkinsfile
 abc7
 code
@@ -656,6 +656,7 @@ phpMyAdmin2
 phpMyAdmin3
 phpmy-admin
 psnlink
+redlion
 redmine
 register
 releases
@@ -705,6 +706,7 @@ admin.php
 adminpanel
 app.json
 astguiclient.php
+authLogin.cgi
 aws.php
 backup.sql.gz
 bedrock.config
@@ -744,7 +746,6 @@ opt
 persistence
 prisma
 private.key
-redlion
 route
 routes
 s3_config.json
@@ -832,7 +833,6 @@ app_nginx_static_path
 app_types
 application.yaml
 applinks
-authLogin.cgi
 aws-codecommit
 aws.yaml
 aws_config

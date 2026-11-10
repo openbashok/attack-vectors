@@ -6,8 +6,8 @@ favicon.ico
 .env.local
 .env.production
 webLanguage
-.env.php
 phpinfo
+.env.php
 config.json
 .env.example
 .env.staging
@@ -188,6 +188,7 @@ wp-config.php.save
 config.inc.php
 login.cgi
 update
+Dr0v
 abc6
 abc8
 files
@@ -196,7 +197,6 @@ index
 index.js
 pub
 terraform.tfstate.backup
-Dr0v
 Jenkinsfile
 abc7
 api
@@ -355,6 +355,7 @@ id_rsa.pub
 local.settings.json
 login.js
 main.js
+redlion
 secrets.js
 smtp.env
 status
@@ -377,6 +378,7 @@ _profiler
 admin.php
 app.json
 astguiclient.php
+authLogin.cgi
 aws.php
 backup
 backup.sql.gz
@@ -400,7 +402,6 @@ login.esp
 main.yml
 owa
 private.key
-redlion
 s3_config.json
 sample.env
 serverless.yaml
@@ -440,7 +441,6 @@ wp-config.txt
 active-coins
 app.js
 application.yaml
-authLogin.cgi
 aws-codecommit
 aws.yaml
 aws_config
