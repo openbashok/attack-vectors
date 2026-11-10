@@ -819,6 +819,7 @@ frontend/.git/config
 ftp/.env
 ftpmaster/.env
 gcp/.env
+global-protect/login.esp
 grems-frontend/.env
 hasura/.env
 health/liveliness

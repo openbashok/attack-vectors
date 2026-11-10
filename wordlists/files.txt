@@ -451,6 +451,7 @@ known_hosts
 license.txt
 live_env
 liveliness
+login.esp
 main
 manifest
 manifest.json
@@ -895,7 +896,6 @@ local.properties
 local.xml
 localization.js
 login.aspx
-login.esp
 login.php
 logo.gif
 logo.png

@@ -819,6 +819,7 @@ frontend/.git/config
 ftp/.env
 ftpmaster/.env
 gcp/.env
+global-protect/login.esp
 grems-frontend/.env
 hasura/.env
 health/liveliness
@@ -997,4 +998,3 @@ $(pwd)/terraform.tfvars
 .vs/
 .vscode/
 .vscode/mcp.json
-.well-known/

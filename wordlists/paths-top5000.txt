@@ -819,6 +819,7 @@ frontend/.git/config
 ftp/.env
 ftpmaster/.env
 gcp/.env
+global-protect/login.esp
 grems-frontend/.env
 hasura/.env
 health/liveliness
@@ -1995,7 +1996,6 @@ geoserver/web/wicket/bookmarkable/org.geoserver.web.AboutGeoServerPage
 github-connect/.env
 github/.env
 gitlab-ci/.env
-global-protect/login.esp
 global.asax
 google-ai.yml
 google/.env
