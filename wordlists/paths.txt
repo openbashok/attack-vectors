@@ -399,6 +399,7 @@ var/www/.env
 vendor/.env
 .env.docker
 .netrc
+HNAP1/
 actuator/configprops
 backend/.env.local
 development/.env
@@ -408,7 +409,6 @@ secrets.py
 .env.test.local
 .env.www
 GponForm/diag_Form
-HNAP1/
 RDWeb
 actuator/env
 api

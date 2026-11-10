@@ -152,10 +152,10 @@ wc.db
 backup.zip
 sitemap.xml
 *
+HNAP1
 .env.ci
 .npmrc
 .s3cfg
-HNAP1
 config.py
 .env.sandbox
 .env.secret

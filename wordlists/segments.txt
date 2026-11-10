@@ -281,11 +281,11 @@ backup.zip
 packages
 sitemap.xml
 testing
+HNAP1
 workflows
 .env.ci
 .npmrc
 .s3cfg
-HNAP1
 config.py
 drupal
 wp-json

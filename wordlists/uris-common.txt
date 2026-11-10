@@ -402,6 +402,7 @@ wp-content/.env
 .env.docker
 .ssh/id_ed25519
 .travis.yml
+HNAP1/
 app/.env.production
 backend/.env.local
 backups/.env
@@ -412,7 +413,6 @@ swagger.json
 .env.www
 .netrc
 GponForm/diag_Form?images/
-HNAP1/
 RDWeb
 actuator/configprops
 api
