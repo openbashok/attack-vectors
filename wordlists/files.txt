@@ -24,9 +24,9 @@ security.txt
 info
 phpinfo.php
 .env.local.php
+robots.txt
 HEAD
 config.php
-robots.txt
 .env.test
 config.js
 settings.json
@@ -258,6 +258,7 @@ aab9
 admin
 api-docs
 application_default_credentials.json
+autodiscover.json
 db.sql.gz
 deployment.yaml
 docker-compose.override.yml
@@ -271,7 +272,6 @@ Gemfile.lock
 amplify.yaml
 amplify.yml
 ansible.cfg
-autodiscover.json
 bedrock.json
 claude.json
 composer.lock

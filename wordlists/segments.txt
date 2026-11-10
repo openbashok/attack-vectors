@@ -17,8 +17,8 @@ admin
 .env.local
 .env.production
 .aws
-phpinfo
 SDK
+phpinfo
 webLanguage
 .env.php
 config.json
@@ -72,9 +72,9 @@ sendgrid
 apps
 env
 log
+robots.txt
 HEAD
 config.php
-robots.txt
 tmp
 .env.test
 config.js
@@ -419,6 +419,7 @@ vue
 .netrc
 RDWeb
 application-prod.yml
+autodiscover
 batch
 config.yaml
 configprops
@@ -439,7 +440,6 @@ __fixtures__
 _next
 all
 audio
-autodiscover
 begin
 boaform
 config.php.old
@@ -477,6 +477,7 @@ aaa9
 aab9
 api-docs
 application_default_credentials.json
+autodiscover.json
 boxes
 db.sql.gz
 deployment.yaml
@@ -511,7 +512,6 @@ amplify
 amplify.yaml
 amplify.yml
 ansible.cfg
-autodiscover.json
 back-end
 bedrock.json
 bootstrap

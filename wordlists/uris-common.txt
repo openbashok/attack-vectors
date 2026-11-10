@@ -13,10 +13,10 @@ config/.env
 laravel/.env
 .aws/credentials
 .env.prod
+robots.txt
 .env.test
 backend/.env
 config.json
-robots.txt
 .env.old
 .env.example
 .env.staging
@@ -438,6 +438,7 @@ aab9
 actuator/env
 api/.env.local
 app/.env.local
+autodiscover/autodiscover.json?@zdi/Powershell
 backup.tar.gz
 backup.zip
 compose/.env
@@ -468,7 +469,6 @@ Gemfile.lock
 admin/login.asp
 ansible.cfg
 application-prod.yml
-autodiscover/autodiscover.json?@zdi/Powershell
 composer.lock
 config.yml
 docker-compose.override.yml

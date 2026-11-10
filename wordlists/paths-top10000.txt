@@ -450,6 +450,7 @@ _static/.env
 aaa9
 aab9
 application-prod.yml
+autodiscover/autodiscover.json
 compose/.env
 config.yml
 config/config.php
@@ -469,7 +470,6 @@ actuator/heapdump
 admin/login.asp
 ansible.cfg
 api/.env.production
-autodiscover/autodiscover.json
 composer.lock
 config.yaml
 config/credentials.yml.enc
