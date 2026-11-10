@@ -405,9 +405,11 @@ backend/.env.local
 development/.env
 openapi.json
 secrets.py
+ws
 .env.prod.local
 .env.test.local
 .env.www
+127.0.0.1:801
 GponForm/diag_Form
 RDWeb
 actuator/env
@@ -435,7 +437,6 @@ terraform.tfvars
 wp-admin/.env
 wp-config.bak
 wp-config.php~
-ws
 www.zip
 .boto
 .circleci/config.yml
@@ -476,6 +477,7 @@ config/settings.py
 credentials.yml
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 gcp-credentials.json
 instance/config.py
 root/.aws/credentials
@@ -505,7 +507,6 @@ core/app/.env
 credentials.csv
 db.sql.gz
 docker/app/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env.js
 env/.env
 icanhazip.com:443
@@ -573,6 +574,7 @@ db.py
 deployment.yaml
 deployment/.env
 dev/.env.local
+druid/index.html
 ecosystem.config.js
 en/.env
 env.txt
@@ -646,10 +648,10 @@ doc/.env
 docker/compose/.env
 docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
-druid/index.html
 engine/.env
 enviroments/.env
 enviroments/.env.production
+global-protect/login.esp
 google-credentials.json
 graphql
 health
@@ -848,7 +850,6 @@ frontend/.git/config
 ftp/.env
 ftpmaster/.env
 gcp/.env
-global-protect/login.esp
 grems-frontend/.env
 hasura/.env
 health/liveliness

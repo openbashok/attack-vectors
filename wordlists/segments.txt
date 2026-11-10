@@ -114,9 +114,9 @@ fixtures
 media
 system
 aws.yml
+index.html
 application
 data
-index.html
 .env:80
 .ssh
 dashboard
@@ -154,10 +154,10 @@ user
 aws
 backup.sql
 config.php.bak
+ws
 .vscode
 docker-compose.yaml
 images
-ws
 .env.dist
 node
 store
@@ -432,6 +432,7 @@ solr
 .env.prod.local
 .env.test.local
 .env.www
+127.0.0.1:801
 ClientApp
 GponForm
 __fixtures__
@@ -503,6 +504,7 @@ wp-includes
 .yarnrc.yml
 09-managing-state
 @fs
+Current
 Gemfile.lock
 admin-app
 amplify
@@ -520,8 +522,10 @@ composer.lock
 credentials.yml
 credentials.yml.enc
 deploy.yml
+ecp
 environment
 example
+exporttool
 framework
 front
 front-end
@@ -532,6 +536,7 @@ instance
 javascript
 login.asp
 metadata
+microsoft.exchange.ediscovery.exporttool.application
 product
 rails
 runtime-env.js
@@ -549,7 +554,6 @@ wp
 .pypirc
 07-accessing-data
 1
-Current
 adminer.php
 ansible
 api.ipinfo.io:443
@@ -562,8 +566,6 @@ ci
 composer.json
 config.php.save
 credentials.csv
-ecp
-exporttool
 functions
 gemini.json
 icanhazip.com:443
@@ -572,7 +574,6 @@ kyc
 mail.php
 mailer
 marketing
-microsoft.exchange.ediscovery.exporttool.application
 modules
 nginx
 refs
@@ -626,6 +627,7 @@ cronlab
 db.py
 deployment
 django_project_path
+druid
 ecosystem.config.js
 env.env
 env.txt
@@ -716,11 +718,11 @@ configs
 controllers
 cores
 dana-na
-druid
 engine
 environment.rb
 error
 filesystems.php
+global-protect
 google
 google-credentials.json
 gradle.properties
@@ -734,6 +736,7 @@ lambda
 latest
 lcomernbootcamp
 local.py
+login.esp
 main.yml
 myapp
 node_modules
@@ -891,7 +894,6 @@ fvt
 gameprovider-service
 gcp
 github.com
-global-protect
 grems-frontend
 hasura
 higlass-website
@@ -914,7 +916,6 @@ lms
 localhost
 locally
 logging
-login.esp
 magento
 management
 manifest
@@ -1057,6 +1058,7 @@ admins
 ads.txt
 agent
 agora
+ai
 amplifyconfiguration.json
 angular
 apiconfig.json
@@ -1509,7 +1511,6 @@ addOrg3
 admin-panel
 adminapp
 agent-rest
-ai
 allversions
 api-backend
 api-key.txt
@@ -1896,6 +1897,7 @@ shopware
 sidetree-mock
 simcore
 site-library
+site-profile.json
 siteMariage
 sitestatic
 smtp

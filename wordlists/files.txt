@@ -227,9 +227,11 @@ configprops
 id_dsa
 openai.json
 secrets.py
+ws
 .env.prod.local
 .env.test.local
 .env.www
+127.0.0.1:801
 RDWeb
 config.php.old
 config.php~
@@ -244,7 +246,6 @@ server-status
 settings
 wp-config.bak
 wp-config.php~
-ws
 www.zip
 .env.2
 .env.aws
@@ -280,6 +281,7 @@ deploy.yml
 heapdump
 id_ecdsa
 login.asp
+microsoft.exchange.ediscovery.exporttool.application
 runtime-env.js
 s3.json
 secrets.toml
@@ -304,7 +306,6 @@ gemini.json
 icanhazip.com:443
 keys.json
 mail.php
-microsoft.exchange.ediscovery.exporttool.application
 swagger-ui.html
 uploads
 users
@@ -395,6 +396,7 @@ graphql
 hetong.js
 hudson
 local.py
+login.esp
 main.yml
 owa
 private.key
@@ -468,7 +470,6 @@ known_hosts
 license.txt
 live_env
 liveliness
-login.esp
 main
 manifest
 manifest.json
@@ -944,6 +945,7 @@ service-account-key.json
 service_account.json
 settings.xml
 settings.yml
+site-profile.json
 sql.php
 stripe.env
 svs-path-check-nonexistent
