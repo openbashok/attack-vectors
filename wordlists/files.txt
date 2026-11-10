@@ -28,9 +28,9 @@ HEAD
 config.php
 view
 config.js
+robots.txt
 .env.old
 .env.test
-robots.txt
 settings.json
 login
 settings.py
@@ -151,11 +151,11 @@ wc.db
 .env.uat
 json
 v1
+sitemap.xml
 .env.ci
 .npmrc
 HNAP1
 config.py
-sitemap.xml
 %00.env
 .env.sample
 .env.secret
@@ -179,6 +179,7 @@ sftp-config.json
 .git-credentials
 .htaccess
 login.htm
+logon.html
 wp-config.php.save
 about
 config.inc.php
@@ -189,7 +190,6 @@ files
 id_ed25519
 index
 login.cgi
-logon.html
 pub
 update
 version

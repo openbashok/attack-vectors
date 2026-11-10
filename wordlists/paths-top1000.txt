@@ -254,10 +254,10 @@ wp-config.php.old
 .env.uat
 app/.git/config
 build/.env
+sitemap.xml
 .env.ci
 .npmrc
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
-sitemap.xml
 www/.git/config
 .env.secret
 config/database.php
@@ -323,6 +323,7 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
++CSCOE+/logon.html
 .env.swp
 .git-credentials
 .htaccess
@@ -345,7 +346,6 @@ login.html
 media../.git/config
 media/.git/config
 project/.git/config
-+CSCOE+/logon.html
 .env.sample
 .git/logs/HEAD
 .vscode/sftp.json

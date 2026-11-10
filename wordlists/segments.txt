@@ -77,11 +77,11 @@ tmp
 env
 view
 config.js
+robots.txt
 temp
 .env.old
 .env.test
 crm
-robots.txt
 settings.json
 settings.py
 services
@@ -279,6 +279,7 @@ containers
 testing
 workflows
 health
+sitemap.xml
 $(pwd)
 .env.ci
 .npmrc
@@ -288,7 +289,6 @@ drupal
 openai
 pub
 root
-sitemap.xml
 vue-heroes
 wp-admin
 %00.env
@@ -323,6 +323,7 @@ sftp-config.json
 sites
 yii
 zend
++CSCOE+
 .env.swp
 .git-credentials
 .htaccess
@@ -331,6 +332,7 @@ anthropic
 downloads
 etc
 login.htm
+logon.html
 manage
 static..
 wp-config.php.save
@@ -343,7 +345,6 @@ mcp.json
 media..
 pma
 version
-+CSCOE+
 abc6
 abc8
 babel-plugin-dotenv
@@ -352,7 +353,6 @@ deploy
 id_ed25519
 index
 login.cgi
-logon.html
 phpMyAdmin
 private
 scripts

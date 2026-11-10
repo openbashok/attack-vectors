@@ -15,8 +15,8 @@ laravel/.env
 .env.prod
 .env.test
 backend/.env
-config.json
 robots.txt
+config.json
 .env.old
 .env.example
 .env.staging
@@ -256,9 +256,9 @@ wp-config.php.old
 .env.uat
 app/.git/config
 build/.env
+sitemap.xml
 .env.ci
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
-sitemap.xml
 www/.git/config
 .npmrc
 config/database.php
@@ -327,6 +327,7 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
++CSCOE+/logon.html
 .htaccess
 .ssh/id_rsa
 admin/config.php
@@ -352,7 +353,6 @@ media../.git/config
 media/.git/config
 project/.git/config
 wp-config.php.save
-+CSCOE+/logon.html
 .vscode/sftp.json
 abc6
 abc8
