@@ -7,8 +7,8 @@ favicon.ico
 .env.production
 .env.php
 phpinfo
-config.json
 webLanguage
+config.json
 .env.example
 .env.staging
 credentials
@@ -127,8 +127,8 @@ tests
 tmp
 twilio.env
 wp-config.php.bak
-sse
 web
+sse
 .env.stage
 .env.development.local
 .env.live

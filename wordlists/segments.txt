@@ -19,9 +19,9 @@ admin
 .env.php
 phpinfo
 .aws
-config.json
 SDK
 webLanguage
+config.json
 _profiler
 .env.example
 web
@@ -231,6 +231,7 @@ database.config
 env.example
 erp
 facturacion
+geoserver
 infos
 php_error.log
 php_errors.log
@@ -240,7 +241,6 @@ rest
 sandbox
 stage
 twilio.env
-geoserver
 wp-config.php.bak
 sse
 .env.stage
