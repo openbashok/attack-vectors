@@ -18,9 +18,9 @@ admin
 .env.production
 .aws
 phpinfo
-.env.php
 SDK
 webLanguage
+.env.php
 config.json
 _profiler
 .env.example

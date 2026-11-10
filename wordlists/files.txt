@@ -5,9 +5,9 @@ index.php
 favicon.ico
 .env.local
 .env.production
+webLanguage
 .env.php
 phpinfo
-webLanguage
 config.json
 .env.example
 .env.staging
