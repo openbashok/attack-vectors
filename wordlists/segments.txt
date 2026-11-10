@@ -49,9 +49,9 @@ demo
 .env.example
 assets
 laravel.log
+.env.save
 backup
 staging
-.env.save
 info
 .env.dev
 docker
@@ -75,14 +75,14 @@ config.js
 log
 robots.txt
 tmp
+.env.test
 crm
 env
 settings.json
 view
-.env.test
+.env.old
 settings.py
 ..
-.env.old
 services
 temp
 html
@@ -745,6 +745,7 @@ wp-config.txt
 %2F.env
 .
 .amazonq
+.bitcoin
 .c9
 .claude.json
 .dockerignore
@@ -937,6 +938,7 @@ v13.0
 version.php
 vod_installer
 vpn
+wallets
 web_shell_cmd.gch
 windows
 wp-blog-header.php
@@ -964,6 +966,7 @@ xmlrpc.php
 .azure
 .bzr
 .continue
+.electrum
 .env.local.bak
 .env.mail
 .env.tar.gz
@@ -1898,6 +1901,7 @@ vpnsvc
 vuecli
 w
 w3tc-config
+wallet.dat
 web.config.bak
 webhook_secret.env
 webjars

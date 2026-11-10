@@ -13,12 +13,12 @@ config/.env
 laravel/.env
 .aws/credentials
 .env.prod
+.env.test
 backend/.env
 robots.txt
-.env.test
 config.json
-.env.example
 .env.backup
+.env.example
 .env.old
 .env.staging
 docker-compose.yml
@@ -27,11 +27,11 @@ web/.env
 .gitlab-ci.yml
 admin/.env
 frontend/.env
+.env.development
 phpinfo.php
 site/.env
 src/.env
 wp-config.php
-.env.development
 .git/HEAD
 .env.testing
 prod/.env

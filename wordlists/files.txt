@@ -28,12 +28,12 @@ config.php
 HEAD
 config.js
 robots.txt
+.env.test
 login
 settings.json
 view
-.env.test
-settings.py
 .env.old
+settings.py
 .env.backup
 docker-compose.yml
 .env.development
@@ -937,6 +937,8 @@ userInfos
 userfiles
 values.yaml
 vpn
+wallet.dat
+wallets
 web.config.bak
 webhook_secret.env
 webpack.config.js
