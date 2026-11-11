@@ -113,6 +113,7 @@ base/.env
 cms/.env
 laravel.log
 library/.env
+mcp/
 media/.env
 package-lock.json
 test/.env
@@ -122,7 +123,6 @@ aws.yml
 bot/.env
 env-config.js
 main/.env
-mcp/
 test
 .config.yaml
 .env.example.php
@@ -143,6 +143,7 @@ demo/.env
 env.json
 google-services.json
 info/
+mcp
 mysql.sql
 phpinfo/
 secrets.env
@@ -157,7 +158,6 @@ api/v2/.env
 app/config/parameters.yml
 assets/config.json
 bedrock.env
-mcp
 .aws/config
 administrator/.env
 assets/.env
@@ -233,8 +233,8 @@ tmp/.env
 twilio.env
 user/.env
 wp-config.php.bak
-.env.stage
 sse
+.env.stage
 .env.development.local
 .env.live
 api/mcp

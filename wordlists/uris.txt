@@ -108,6 +108,7 @@ base/.env
 cms/.env
 laravel.log
 library/.env
+mcp/
 media/.env
 package-lock.json
 secrets.yml
@@ -118,7 +119,6 @@ app_dev.php/_profiler/open?file=app/config/parameters.yml
 app_dev.php/_profiler/phpinfo
 debug/default/view?panel=config
 env-config.js
-mcp/
 test
 .config.yaml
 .env.example.php
@@ -143,6 +143,7 @@ demo/.env
 env.json
 info/
 main/.env
+mcp
 mysql.sql
 phpinfo/
 secrets.env
@@ -157,7 +158,6 @@ api/v2/.env
 assets/config.json
 bedrock.env
 google-services.json
-mcp
 administrator/.env
 app/config/parameters.yml
 assets/.env
@@ -234,8 +234,8 @@ twilio.env
 user/.env
 wp-config.php.backup
 .aws/config
-wp-config.php.bak
 sse
+wp-config.php.bak
 .env.stage
 .env.development.local
 .env.live

@@ -16,9 +16,9 @@ admin
 .%2e
 .env.local
 .env.production
-.aws
 SDK
 webLanguage
+.aws
 phpinfo
 .env.php
 config.json
@@ -242,10 +242,10 @@ sandbox
 stage
 twilio.env
 wp-config.php.bak
+sse
 .env.stage
 js
 s3
-sse
 .env.development.local
 .env.live
 developmentserver

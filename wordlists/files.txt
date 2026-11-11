@@ -14,8 +14,8 @@ config.json
 credentials
 secrets.yaml
 .env.bak
-test
 mcp
+test
 laravel.log
 .env.dev
 .env.save
@@ -127,9 +127,9 @@ tests
 tmp
 twilio.env
 wp-config.php.bak
+sse
 web
 .env.stage
-sse
 .env.development.local
 .env.live
 metadatauploader
