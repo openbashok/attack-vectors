@@ -19,9 +19,9 @@ test
 .env.dev
 .env.save
 laravel.log
-.env.prod
 robots.txt
 security.txt
+.env.prod
 info
 config.php
 phpinfo.php
@@ -191,6 +191,7 @@ login.htm
 mcp.json
 sdk
 update
+Dr0v
 admin
 files
 id_ed25519
@@ -198,7 +199,6 @@ index.js
 login.cgi
 pub
 .env.txt
-Dr0v
 Jenkinsfile
 abc6
 abc8
@@ -503,6 +503,7 @@ environment.json
 error.aspx
 execute-solution
 export.sql
+favicon
 firebase.json
 home.tar.gz
 human.aspx
@@ -911,7 +912,6 @@ eventmanager
 example.env
 exchange.asmx
 executions
-favicon
 favicon-19fbef86.svg
 favicon-abe32304.png
 fetch

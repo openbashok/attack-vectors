@@ -6,8 +6,8 @@ SDK/webLanguage
 app/.env
 .env.bak
 .env.local
-api/.env
 robots.txt
+api/.env
 .env.save
 .env.dev
 .env.prod
@@ -23,10 +23,10 @@ config.json
 docker-compose.yml
 .env.staging
 frontend/.env
+phpinfo.php
 web/.env
 .gitlab-ci.yml
 admin/.env
-phpinfo.php
 public/.env
 .env.development
 wp-config.php
@@ -48,10 +48,10 @@ settings/.env
 v1/.env
 www/.env
 html/.env
+security.txt
 storage/logs/laravel.log
 v2/.env
 old/.env
-security.txt
 config.js
 secrets.json
 appsettings.json
@@ -154,6 +154,7 @@ env-config.js
 home/.env
 mysql.sql
 store/.env
+.well-known/security.txt
 administrator/.env
 api/v2/.env
 aws.yml
@@ -171,7 +172,6 @@ login/.env
 temp/.env
 .aws/config
 .env.save.1
-.well-known/security.txt
 app/config/parameters.yml
 bak/.env
 content/.env
@@ -356,6 +356,7 @@ login.htm
 manage/account/login
 sdk
 wp-config.php.save
+Dr0v
 HNAP1
 admin/index.html
 config/database.yml
@@ -367,7 +368,6 @@ public_html/.env
 .env.txt
 .git/logs/HEAD
 .well-known/pki-validation/update
-Dr0v
 abc6
 abc8
 sftp.json
@@ -778,6 +778,7 @@ $(pwd)/terraform.tfvars
 .terraform.lock.hcl
 .terraform.tfstate
 .terraform/credentials.tfrc.json
+.well-known/robots.txt
 07-accessing-data/begin/vue-heroes/.env
 09-managing-state/begin/vue-heroes/.env
 09-managing-state/end/vue-heroes/.env
@@ -885,6 +886,7 @@ example/.env
 example27-how-to-load-env/sample02/.env
 examples/.env
 export.sql
+favicon
 fileserver/.env
 films/.env
 framework/.env
