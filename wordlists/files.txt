@@ -151,8 +151,8 @@ database.php
 .env.dev.local
 id_rsa
 json
-sitemap.xml
 v1
+sitemap.xml
 wc.db
 .env.secret
 HNAP1
@@ -180,8 +180,8 @@ app.php
 configuration.php
 settings.php
 swagger.json
-about
 version
+about
 .git-credentials
 .htaccess
 wp-config.php.save
@@ -218,6 +218,7 @@ service-account.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
 wp-config.php.orig
+ws
 .env_1
 .travis.yml
 backup.tar.gz
@@ -236,7 +237,6 @@ env.php
 formLogin
 id_dsa
 wp-config.php~
-ws
 .envrc
 127.0.0.1:801
 RDWeb
@@ -379,9 +379,11 @@ local.settings.json
 login.js
 main.yml
 private.key
+raw
 redlion
 secrets.js
 smtp.env
+socket.io
 status
 webui
 wp-config.php.dist
@@ -521,7 +523,6 @@ mysql.php
 one.one.one.one:443
 phpmyadmin
 pma
-raw
 rdx_en.json.gz
 register
 s3.key
@@ -535,7 +536,6 @@ settings.ini
 setup.php
 site.sql
 soap
-socket.io
 speed.cloudflare.com:443
 sslvpn-portal
 sslvpn_logon.shtml

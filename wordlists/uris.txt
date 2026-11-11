@@ -380,6 +380,7 @@ deploy/.env
 downloads/
 login.jsp
 terraform.tfstate.backup
+version
 .docker/config.json
 .env.docker
 .s3cfg
@@ -387,7 +388,7 @@ config.inc.php
 owa/auth/logon.aspx
 settings.php
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
-version
+ws
 .env_1
 .git/index
 actuator/health
@@ -410,7 +411,6 @@ config.php~
 current/.env
 swagger.json
 vendor/.env
-ws
 .netrc
 127.0.0.1:801
 HNAP1/
@@ -476,6 +476,7 @@ redmine/.env
 server-status
 sitemaps/.env
 terraform.tfvars
+v1
 .docker/laravel/app/.env
 .env-example
 .env-sample
@@ -521,7 +522,6 @@ root/.aws/credentials
 root/.env
 sources/.env
 tools/.env
-v1
 wp-content/uploads/
 .env.yaml
 .env.yml
@@ -626,6 +626,7 @@ nginx/.env
 node_modules/.env
 portal/redlion
 product/.env.staging
+raw
 react/.env
 releases/.env
 remote/login?lang=en
@@ -637,6 +638,7 @@ script/.env
 scripts/.env
 sites/.env
 sites/default/settings.php
+socket.io/?EIO=4&transport=websocket
 stag/.env
 static/admin/javascript/hetong.js
 storage/.env.local
@@ -950,7 +952,6 @@ qa/.env
 qa/.env.local
 qa/.env.staging
 rails/.env
-raw
 repos/.env
 robots/.env
 root/.aws/config
@@ -977,7 +978,6 @@ settings.ini
 setup.php
 site.sql
 soap
-socket.io/?EIO=4&transport=websocket
 sonicui/7/sslvpn-portal/
 speed.cloudflare.com:443
 src/config.js

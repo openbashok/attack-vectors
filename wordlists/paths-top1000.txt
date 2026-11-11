@@ -375,6 +375,7 @@ abc7
 cgi-bin/login.cgi
 downloads/
 login.jsp
+version
 .env.docker
 .git/index
 conf/.env
@@ -383,9 +384,9 @@ config/master.key
 owa/auth/logon.aspx
 settings.php
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
-version
 wp-config.php.orig
 wp-content/.env
+ws
 .env_1
 .ssh/id_ed25519
 .travis.yml
@@ -410,7 +411,6 @@ config.php~
 current/.env
 openapi.json
 wp-config.php~
-ws
 127.0.0.1:801
 HNAP1/
 RDWeb
@@ -484,6 +484,7 @@ production/.env
 redmine/.env
 sitemaps/.env
 tools/.env
+v1
 .docker/laravel/app/.env
 .env-example
 .env-sample
@@ -522,7 +523,6 @@ psnlink/.env
 root/.aws/credentials
 root/.env
 sources/.env
-v1
 wp-config.php.swp
 wp-content/uploads/
 .env.qa
@@ -639,6 +639,7 @@ master/.env
 portal/redlion
 private.key
 product/.env.staging
+raw
 react/.env
 releases/.env
 rest/.env
@@ -647,6 +648,7 @@ s3/.env.bak
 script/.env
 sites/.env
 sites/default/settings.php
+socket.io/
 stag/.env
 static/admin/javascript/hetong.js
 storage/.env.local
@@ -977,7 +979,6 @@ qa/.env
 qa/.env.local
 qa/.env.staging
 rails/.env
-raw
 repos/.env
 robots/.env
 root/.aws/config
@@ -997,4 +998,3 @@ scripts/fvt/.env
 sellers.json
 serve-browserbench/.env
 server/.env.staging
-server/config/.env

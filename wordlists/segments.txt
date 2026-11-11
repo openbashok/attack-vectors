@@ -135,10 +135,10 @@ application.yml
 debug.log
 docs
 uploads
+ws
 appsettings.json
 htdocs
 site.zip
-ws
 %2eenv
 .claude
 actuator
@@ -323,6 +323,7 @@ login.jsp
 logon.html
 resources
 sftp-config.json
+version
 .env.swp
 app.php
 configuration.php
@@ -331,7 +332,6 @@ remote
 settings.php
 static..
 swagger.json
-version
 account
 assets..
 backups
@@ -698,6 +698,7 @@ phpMyAdmin2
 phpMyAdmin3
 phpmy-admin
 private.key
+raw
 redlion
 register
 releases
@@ -707,6 +708,7 @@ secrets.js
 secure
 ses
 smtp.env
+socket.io
 sonicos
 sonicui
 sqladmin
@@ -1011,7 +1013,6 @@ play-ground
 plugin-qiankun
 preview
 proxy
-raw
 rdx
 rdx_en.json.gz
 repos
@@ -1033,7 +1034,6 @@ setup.php
 shell
 site.sql
 soap
-socket.io
 speed.cloudflare.com:443
 sslvpn-portal
 sslvpn_logon.shtml
