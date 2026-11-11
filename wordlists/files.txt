@@ -225,6 +225,7 @@ backup.tar.gz
 config.yaml
 db.php
 env.js
+formLogin
 openapi.json
 ws
 .envrc
@@ -235,7 +236,6 @@ config.php.old
 config.php~
 configprops
 env.php
-formLogin
 id_dsa
 logon.aspx
 openai.json

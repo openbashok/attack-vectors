@@ -399,6 +399,7 @@ wp-config.php.orig
 .ssh/id_ed25519
 .travis.yml
 app/.env.production
+boaform/admin/formLogin
 current/.env
 swagger.json
 var/www/.env
@@ -408,7 +409,6 @@ ws
 HNAP1/
 actuator/configprops
 backend/.env.local
-boaform/admin/formLogin
 config.php.old
 config.php~
 cron/.env

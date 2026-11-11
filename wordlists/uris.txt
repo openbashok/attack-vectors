@@ -1144,6 +1144,7 @@ bedrock.json
 bedrock.yml
 bitcoind/.env
 blog/wp-json/batch/v1
+boaform/admin/formLogin?username=admin&psd=admin
 boxes/oracle-vagrant-boxes/OLCNE/.env
 cardea/backend/.env
 cert.pem
@@ -1843,7 +1844,6 @@ beta/.env.local
 beta/.env.production
 beta/.env.staging
 boaform/admin/formLogin
-boaform/admin/formLogin?username=admin&psd=admin
 boaform/admin/formLogin?username=user&psd=user
 bookchain-client/.env
 bootstrap.properties
