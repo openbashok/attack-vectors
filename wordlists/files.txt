@@ -47,10 +47,10 @@ config.env
 terraform.tfstate
 .env.testing
 secrets.yml
-aws.yml
-env
 get
 ip.cypher.rest:443
+aws.yml
+env
 entries
 secrets.json
 application.yml
@@ -308,6 +308,7 @@ uploads
 users
 wp-admin
 wp-config.php.swp
+x.js
 .env.qa
 .env.yaml
 .env.yml
@@ -333,7 +334,6 @@ swagger-ui.html
 vertex.json
 wp-config.php.txt
 wp-config.txt
-x.js
 .dockercfg
 .dockerenv
 .env.development.sample

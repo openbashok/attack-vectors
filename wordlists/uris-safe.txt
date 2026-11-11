@@ -37,11 +37,11 @@ site/.env
 .git/HEAD
 prod/.env
 server/.env
+get
+ip.cypher.rest:443
 core/.env
 api/.git/config
-get
 info.php
-ip.cypher.rest:443
 storage/.env
 .svn/entries
 settings/.env
@@ -517,6 +517,7 @@ laravel/core/.env
 mailer/.env
 new/.env.local
 new/.env.staging
+owa/auth/x.js
 psnlink/.env
 root/.aws/credentials
 root/.env
@@ -547,7 +548,6 @@ database.php
 enviroments/.env
 enviroments/.env.production
 laravel/.env.example
-owa/auth/x.js
 proc/self/environ
 server/.env.local
 solr/admin/cores_action=STATUS_wt=json

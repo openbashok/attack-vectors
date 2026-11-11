@@ -39,10 +39,10 @@ site/.env
 prod/.env
 server/.env
 core/.env
-info.php
-api/.git/config
 get
 ip.cypher.rest:443
+info.php
+api/.git/config
 .svn/entries
 storage/.env
 v1/.env
@@ -519,6 +519,7 @@ exapi/.env
 global-protect/login.esp
 instance/config.py
 lab/.env
+owa/auth/x.js
 psnlink/.env
 root/.aws/credentials
 root/.env
@@ -556,7 +557,6 @@ laravel/.env.example
 new/.env.production
 nginx/.env
 node_modules/.env
-owa/auth/x.js
 proc/self/environ
 s3/bucket.env
 scripts/.env

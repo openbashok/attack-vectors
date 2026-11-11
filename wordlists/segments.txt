@@ -61,9 +61,9 @@ security.txt
 tests
 cgi-bin
 debug
+auth
 docker
 .svn
-auth
 config.php
 phpinfo.php
 config.js
@@ -117,14 +117,14 @@ secrets.yml
 .ssh
 application
 portal
+get
+ip.cypher.rest:443
 aws.yml
 dashboard
 examples
 fixtures
 static
-get
 home
-ip.cypher.rest:443
 entries
 secrets.json
 .env:80
@@ -282,6 +282,7 @@ wc.db
 workflows
 .env.secret
 HNAP1
+owa
 testing
 $(pwd)
 .env.ci
@@ -289,7 +290,6 @@ $(pwd)
 backup.zip
 bdd
 health
-owa
 packages
 wp-json
 .env.sandbox
@@ -590,6 +590,7 @@ terraform
 withMongo
 withPostgres
 wp-config.php.swp
+x.js
 .env.qa
 .env.yaml
 .env.yml
@@ -626,7 +627,6 @@ webpages
 website
 wp-config.php.txt
 wp-config.txt
-x.js
 %252f
 .c9
 .codex
