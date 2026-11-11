@@ -380,6 +380,7 @@ terraform.tfstate.backup
 .env.docker
 Jenkinsfile
 deploy/.env
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .docker/config.json
 .env_1
 .git/index
@@ -394,7 +395,6 @@ dist/.env
 login.jsp
 settings.php
 shared/.env
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 version
 wp-content/.env
 .env.2
@@ -405,6 +405,7 @@ current/.env
 var/www/.env
 vendor/.env
 wp-config.php.orig
+ws
 .ssh/id_ed25519
 .travis.yml
 127.0.0.1:801
@@ -416,7 +417,6 @@ owa/auth/logon.aspx
 secrets.py
 swagger.json
 wp-admin/.env
-ws
 .env.tmp
 .env.www
 .netrc

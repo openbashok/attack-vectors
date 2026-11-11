@@ -146,13 +146,13 @@ test.php
 application.properties
 database.sql
 error.log
+ws
 .kube
 actuator
 aws
 dump.sql
 sql
 user
-ws
 .env.dist
 .env.orig
 backup.sql
@@ -394,6 +394,7 @@ mail
 master.key
 qa
 run
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
 users
 .env_1
@@ -407,7 +408,6 @@ myadmin
 php
 secrets
 service-account.json
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php.orig
 .env.2
 .env.prod.local

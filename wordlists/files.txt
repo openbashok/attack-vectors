@@ -211,10 +211,10 @@ authorized_keys
 environ
 login.jsp
 master.key
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
 .env_1
 service-account.json
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php.orig
 .env.2
 .env.prod.local
@@ -226,6 +226,7 @@ config.yaml
 db.php
 env.js
 openapi.json
+ws
 .envrc
 .netrc
 127.0.0.1:801
@@ -240,7 +241,6 @@ logon.aspx
 openai.json
 secrets.py
 wp-config.php~
-ws
 .env.project
 .env.tmp
 .env.www
