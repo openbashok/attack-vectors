@@ -634,6 +634,7 @@ s3/.env.bak
 script/.env
 sites/.env
 stag/.env
+static/admin/javascript/hetong.js
 storage/.env.local
 swagger/v1/swagger.json
 tests/.env
@@ -656,6 +657,7 @@ wp-content/debug.log
 .github/workflows/ci.yml
 .mcp.json
 .remote-sync.json
+Public/home/js/check.js
 _profiler
 admin/
 api/
@@ -710,7 +712,6 @@ server/.env.production
 serverless.yaml
 serverless.yml
 sites/default/settings.php
-static/admin/javascript/hetong.js
 stats/.env
 swagger-ui.html
 symfony/.env
@@ -773,7 +774,6 @@ Assignment4/.env
 ClientApp/.env
 FIRST_CONFIG/.env
 Passportjs/.env
-Public/home/js/check.js
 _ignition/execute-solution
 acme-challenge/.env
 acme/.env

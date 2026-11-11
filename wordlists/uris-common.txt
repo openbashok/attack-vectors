@@ -629,6 +629,7 @@ script/.env
 scripts/.env
 sites/.env
 stag/.env
+static/admin/javascript/hetong.js
 storage/.env.local
 tests/.env
 var/www/html/.env
@@ -649,6 +650,7 @@ wp-config.php.txt
 .github/workflows/ci.yml
 .remote-sync.json
 .ssh/id_dsa
+Public/home/js/check.js
 actuator
 admin/
 api/
@@ -700,7 +702,6 @@ resources/.env
 runtime-env.js
 server/.env.production
 sites/default/settings.php
-static/admin/javascript/hetong.js
 swagger/v1/swagger.json
 symfony/.env
 template/.env
@@ -753,7 +754,6 @@ Assignment4/.env
 ClientApp/.env
 FIRST_CONFIG/.env
 Passportjs/.env
-Public/home/js/check.js
 _ignition/execute-solution
 acme-challenge/.env
 acme/.env

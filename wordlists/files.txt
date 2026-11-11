@@ -358,6 +358,7 @@ env.prod.js
 env.production.js
 env.txt
 gcp.json
+hetong.js
 html
 id_rsa.pub
 local.settings.json
@@ -394,6 +395,7 @@ bedrock.config
 bitbucket-pipelines.yml
 buckets
 build.gradle
+check.js
 ci.yml
 code
 config.inc.php.bak
@@ -404,7 +406,6 @@ filesystems.php
 google-credentials.json
 gradle.properties
 graphql
-hetong.js
 hudson
 local.py
 main.yml
@@ -456,7 +457,6 @@ aws_s3_config.json
 backup.tar
 boto.cfg
 cert.pem
-check.js
 claude_desktop_config.json
 config.dev.json
 config.development.json
@@ -980,6 +980,7 @@ wallets
 web.config.bak
 webhook_secret.env
 webpack.config.js
+welcome.cgi
 winscp.ini
 wp_filemanager.php
 wrangler.toml
