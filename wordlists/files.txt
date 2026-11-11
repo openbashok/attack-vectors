@@ -361,6 +361,7 @@ html
 id_rsa.pub
 local.settings.json
 login.js
+main
 redlion
 secrets.js
 smtp.env
@@ -478,7 +479,6 @@ known_hosts
 license.txt
 live_env
 liveliness
-main
 manifest
 manifest.json
 metadata
@@ -927,6 +927,7 @@ openai.config.js
 openai.ts
 openaikey
 org.geoserver.web.AboutGeoServerPage
+pa
 packed-refs
 param.cgi
 parameters.php

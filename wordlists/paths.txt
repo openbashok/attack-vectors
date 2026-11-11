@@ -2103,6 +2103,7 @@ mail/.env.db
 mail/.env.example
 mailchimp/.env
 mailinabox/.env
+main
 manage/env
 management/env
 market/.env
@@ -2158,6 +2159,7 @@ outputs/.env
 owncloud/.env
 owncloud/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php
 p/login/
+pa
 packages/app/.env
 packages/client/.env
 packages/database/.env
@@ -3133,6 +3135,7 @@ desktop/.env
 dev.zip
 development.yml
 development.zip
+device.rsp
 dist.tar.gz
 django.tar.gz
 dknp3y2yhmw5ux

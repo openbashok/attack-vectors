@@ -128,8 +128,8 @@ home
 secrets.json
 .env:80
 .ssh
-bin
 main
+bin
 application.yml
 docs
 uploads
@@ -1844,6 +1844,7 @@ out
 outputs
 override-value
 p
+pa
 packed
 packed-refs
 page-editor
