@@ -42,9 +42,9 @@ dev
 login
 www
 .env.bak
+mcp
 secrets.yaml
 lib
-mcp
 v2
 demo
 assets
@@ -119,10 +119,10 @@ dashboard
 examples
 fixtures
 portal
+.well-known
 get
 ip.cypher.rest:443
 static
-.well-known
 entries
 home
 secrets.json
@@ -246,8 +246,8 @@ php_errors.log
 pos
 readme.md
 s3
-twilio.env
 sse
+twilio.env
 .env.live
 .env.development.local
 developmentserver
@@ -336,6 +336,7 @@ backups
 downloads
 etc
 settings.php
+update
 version
 .git-credentials
 .htaccess
@@ -343,7 +344,6 @@ anthropic
 enviroments
 login.htm
 mcp.json
-update
 wp-config.php.save
 ~
 .boto
@@ -370,6 +370,7 @@ evox
 id_ed25519
 index
 phpMyAdmin
+pki-validation
 sdk
 swagger
 task
@@ -379,7 +380,6 @@ Jenkinsfile
 abc7
 code
 development
-pki-validation
 remote
 self
 solr
@@ -435,6 +435,7 @@ vue
 RDWeb
 application-prod.yml
 autodiscover
+boaform
 config.php.old
 config.php~
 configprops
@@ -443,6 +444,7 @@ cron
 django
 en
 env.php
+formLogin
 id_dsa
 logon.aspx
 openai.json
@@ -461,13 +463,11 @@ admin-app
 all
 audio
 begin
-boaform
 bootstrap
 dbadmin
 diag_Form
 end
 environment
-formLogin
 front
 gcloud
 live

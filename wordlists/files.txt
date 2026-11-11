@@ -13,8 +13,8 @@ config.json
 .env.staging
 credentials
 .env.bak
-secrets.yaml
 mcp
+secrets.yaml
 test
 .env.dev
 laravel.log
@@ -126,12 +126,12 @@ logs
 php_error.log
 php_errors.log
 readme.md
+sse
 staging
 temp
 tests
 tmp
 twilio.env
-sse
 .env.live
 .env.development.local
 metadatauploader
@@ -184,13 +184,13 @@ settings.php
 .htaccess
 login.htm
 mcp.json
+update
 version
 wp-config.php.save
 .boto
 config.inc.php
 index.js
 login.cgi
-update
 .env.txt
 Dr0v
 abc6
@@ -234,6 +234,7 @@ config.php.old
 config.php~
 configprops
 env.php
+formLogin
 id_dsa
 logon.aspx
 openai.json
@@ -245,7 +246,6 @@ ws
 .env.www
 RDWeb
 diag_Form
-formLogin
 local_settings.py
 run
 server-status

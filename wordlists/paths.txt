@@ -115,6 +115,7 @@ auth/.env
 bot/.env
 cms/.env
 demo/.env
+mcp/
 test
 .config.yaml
 .env.example.php
@@ -134,7 +135,7 @@ config/.env.php
 info/
 laravel.log
 library/.env
-mcp/
+mcp
 package-lock.json
 phpinfo/
 secrets.env
@@ -151,7 +152,6 @@ back/.env
 docs/.env
 env-config.js
 home/.env
-mcp
 store/.env
 .aws/config
 administrator/.env
@@ -225,6 +225,7 @@ platform/.env
 pos/.env
 readme.md
 service/.env
+sse
 stage/.env
 staging/
 temp/
@@ -234,11 +235,10 @@ tests/
 tmp/
 twilio.env
 user/.env
-sse
 .env.live
 .env.development.local
-developmentserver/metadatauploader
 api/mcp
+developmentserver/metadatauploader
 .env_sample
 .env.staging.local
 .env.template
@@ -353,6 +353,7 @@ login.html
 public_html/.env
 .env.txt
 .git/logs/HEAD
+.well-known/pki-validation/update
 Dr0v
 HNAP1
 abc6
@@ -365,7 +366,6 @@ sftp.json
 terraform.tfstate.backup
 .docker/.env
 .env.1
-.well-known/pki-validation/update
 Jenkinsfile
 abc7
 cgi-bin/login.cgi
@@ -407,6 +407,7 @@ var/www/.env
 HNAP1/
 actuator/configprops
 backend/.env.local
+boaform/admin/formLogin
 config.php.old
 config.php~
 cron/.env
@@ -429,7 +430,6 @@ app/.env.local
 audio/.env
 backup.tar.gz
 backup.zip
-boaform/admin/formLogin
 cgi-bin/.env
 config.yml
 docker-compose/.env

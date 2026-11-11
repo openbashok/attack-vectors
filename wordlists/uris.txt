@@ -109,6 +109,7 @@ cms/.env
 debug/default/view?panel=config
 demo/.env
 main/.env
+mcp/
 secrets.yaml
 secrets.yml
 settings.json
@@ -135,7 +136,7 @@ config/.env.php
 info/
 laravel.log
 library/.env
-mcp/
+mcp
 package-lock.json
 phpinfo/
 secrets.env
@@ -151,7 +152,6 @@ back/.env
 docs/.env
 env-config.js
 home/.env
-mcp
 store/.env
 administrator/.env
 api/v2/.env
@@ -225,6 +225,7 @@ pos/.env
 readme.md
 requirements.txt
 service/.env
+sse
 stage/.env
 staging/
 temp/
@@ -236,11 +237,10 @@ twilio.env
 user/.env
 wp-config.php.backup
 .env.stage
-sse
 .env.live
 .env.development.local
-developmentserver/metadatauploader
 api/mcp
+developmentserver/metadatauploader
 .env_sample
 geoserver/web/
 .env.staging.local
@@ -360,6 +360,7 @@ public_html/.env
 wp-config.php.save
 .env.sample
 .env.txt
+.well-known/pki-validation/update
 Dr0v
 HNAP1
 abc6
@@ -372,7 +373,6 @@ sftp.json
 .docker/.env
 .env.1
 .git/logs/HEAD
-.well-known/pki-validation/update
 abc7
 cgi-bin/login.cgi
 terraform.tfstate.backup
@@ -1843,6 +1843,7 @@ beta/.env.local
 beta/.env.production
 beta/.env.staging
 boaform/admin/formLogin
+boaform/admin/formLogin?username=admin&psd=admin
 boaform/admin/formLogin?username=user&psd=user
 bookchain-client/.env
 bootstrap.properties
@@ -3170,7 +3171,6 @@ bitbucket-pipelines.yml?v=18e6211e53f19ae9
 blank-jtganc
 blog/%2eenv?v=pp3zc
 blog/?w3tc_minify=6cc23.css
-boaform/admin/formLogin?username=admin&psd=admin
 bootstrap.properties?v=18e6211cdd6f10be
 bootstrap.yml?v=18e6211cd7b9c98c
 bot/.env?v=18e6211f1ae24995
