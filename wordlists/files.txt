@@ -5,8 +5,8 @@ index.php
 favicon.ico
 .env.local
 .env.production
-phpinfo
 webLanguage
+phpinfo
 .env.php
 config.json
 .env.example
@@ -279,6 +279,7 @@ adminer.php
 amplify.yaml
 amplify.yml
 ansible.cfg
+api.ipinfo.io:443
 bedrock.json
 claude.json
 composer.lock
@@ -286,6 +287,7 @@ config.production.json
 credentials.yml.enc
 deploy.yml
 heapdump
+icanhazip.com:443
 id_ecdsa
 login.asp
 microsoft.exchange.ediscovery.exporttool.application
@@ -301,7 +303,6 @@ system
 .pypirc
 _profiler
 administrator
-api.ipinfo.io:443
 application-prod.properties
 application.properties.bak
 appsettings.Production.json
@@ -314,7 +315,6 @@ cores
 credentials.csv
 docs
 gemini.json
-icanhazip.com:443
 keys.json
 mail.php
 main.js
@@ -467,6 +467,7 @@ credentials.tfrc.json
 database.php.bak
 dbconfig.php
 debug
+dqgqoeCXckuwPtxov
 dump.sql.gz
 environment.json
 execute-solution
@@ -555,6 +556,7 @@ Pipfile.lock
 README.md
 Thumbs.db
 __ENV.js
+_catalog
 _next
 _phpinfo.php
 access.log
@@ -635,6 +637,7 @@ mcp.yaml
 mcp.yml
 mcp_config.json
 me
+models
 modern
 mysql
 mysql.php
@@ -801,7 +804,6 @@ WebInterface
 \.\.env
 \\.env
 __debug__
-_catalog
 _debug
 _debugbar
 _netrc
@@ -837,6 +839,7 @@ cgiChkMasterPwd.exe
 check-version
 client_secret.json
 cluster_credentials.json
+completions
 componentutils
 compose.yml
 conf
@@ -855,9 +858,9 @@ db
 dev.env
 dev.secret.exs
 development%252eyml
-dqgqoeCXckuwPtxov
 dump
 elmah.axd
+embeddings
 env.local.php
 environment
 environment.prod.ts
@@ -916,7 +919,6 @@ logo.gif
 logo.png
 luci
 magento_version
-models
 nc_gina_ver.txt
 next.config.js
 nsepa_setup.exe

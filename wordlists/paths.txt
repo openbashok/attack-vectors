@@ -493,6 +493,7 @@ admin-app/.env
 admin/login.asp
 adminer.php
 ansible.cfg
+api.ipinfo.io:443
 api/.env.production
 blogs/.env
 composer.lock
@@ -507,6 +508,7 @@ en/.env
 env.js
 exapi/.env
 gcp-credentials.json
+icanhazip.com:443
 instance/config.py
 lab/.env
 psnlink/.env
@@ -521,7 +523,6 @@ v1
 .pypirc
 __tests__/test-become/.env
 admin/.env.production
-api.ipinfo.io:443
 api/config.env
 api/v1/.env
 app/etc/env.php
@@ -543,7 +544,6 @@ db.sql.gz
 enviroments/.env
 enviroments/.env.production
 functions/.env
-icanhazip.com:443
 js/.env
 laravel/.env.example
 new/.env.production
@@ -856,6 +856,7 @@ developerslv/.env
 directories/.env
 django_project_path/.env
 docker-node-mongo-redis/.env
+dqgqoeCXckuwPtxov
 drupal/.env
 dump.sql.gz
 environments/.env
@@ -1480,6 +1481,8 @@ tests/todo-react/.env
 tiedostot/.env
 ui/.env
 urlmem-app/.env
+v1/models
+v2/_catalog
 var/task/.env
 vertex-ai-credentials.json
 vertex-ai.json
@@ -1957,7 +1960,6 @@ docker/postgres/.env
 docs
 docs/.env.example
 dodoswap-client/.env
-dqgqoeCXckuwPtxov
 dump/
 elasticemail/.env
 elmah.axd
@@ -2399,8 +2401,8 @@ upfiles/.env
 user
 userfiles
 v1/.env.example
-v1/models
-v2/_catalog
+v1/completions
+v1/embeddings
 var/backup/.env
 var/log/nginx/error.log
 vendor/%252eenv
@@ -3706,9 +3708,7 @@ utils/s3-aws.js
 v1.40/containers/json
 v1/agent/self
 v1/catalog/services
-v1/completions
 v1/config
-v1/embeddings
 v1/kv/
 v1/mapOverlay
 v1/system/status

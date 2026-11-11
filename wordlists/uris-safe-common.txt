@@ -484,6 +484,7 @@ Gemfile.lock
 admin-app/.env
 admin/login.asp
 ansible.cfg
+api.ipinfo.io:443
 application-prod.yml
 blogs/.env
 composer.lock
@@ -498,6 +499,7 @@ en/.env
 env.js
 env/.env
 exapi/.env
+icanhazip.com:443
 id_rsa
 instance/config.py
 kyc/.env
@@ -521,7 +523,6 @@ __tests__/test-become/.env
 actuator/heapdump
 admin/.env.production
 adminer.php
-api.ipinfo.io:443
 api/.env.production
 api/v1/.env
 app/etc/env.php
@@ -537,7 +538,6 @@ credentials.yml
 enviroments/.env
 enviroments/.env.production
 gcp-credentials.json
-icanhazip.com:443
 laravel/.env.example
 owa/auth/x.js
 proc/self/environ
@@ -834,6 +834,7 @@ developerslv/.env
 directories/.env
 django_project_path/.env
 docker-node-mongo-redis/.env
+dqgqoeCXckuwPtxov
 drupal/.env
 environments/.env
 environments/production/.env
@@ -1453,6 +1454,8 @@ tests/default_settings/v11.0/.env
 tests/todo-react/.env
 tiedostot/.env
 urlmem-app/.env
+v1/models
+v2/_catalog
 var/task/.env
 vertex-ai-credentials.json
 vertex-ai.json

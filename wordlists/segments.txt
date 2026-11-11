@@ -533,6 +533,7 @@ amplify
 amplify.yaml
 amplify.yml
 ansible.cfg
+api.ipinfo.io:443
 back-end
 bedrock.json
 blogs
@@ -554,6 +555,7 @@ framework
 front-end
 functions
 heapdump
+icanhazip.com:443
 id_ecdsa
 img
 instance
@@ -583,7 +585,6 @@ wp
 07-accessing-data
 1
 ansible
-api.ipinfo.io:443
 application-prod.properties
 application.properties.bak
 appsettings.Production.json
@@ -595,7 +596,6 @@ cores
 credentials.csv
 export
 gemini.json
-icanhazip.com:443
 integration
 keys.json
 mail.php
@@ -897,6 +897,7 @@ developerslv
 directories
 docker-node-mongo-redis
 dockers
+dqgqoeCXckuwPtxov
 drupal-test
 dump
 dump.sql.gz
@@ -944,6 +945,7 @@ manifest.json
 middleware
 minimax
 misc
+models
 newsite
 nginx-server
 nuxt
@@ -1071,6 +1073,7 @@ __
 __ENV.js
 __debug__
 __phpmyadmin
+_catalog
 _phpMyAdmin
 _phpinfo.php
 _phpmyadmin
@@ -1208,7 +1211,6 @@ micro-app-react
 minio
 mobile
 model
-models
 modern
 msks
 my
@@ -1540,7 +1542,6 @@ WebObjects
 \.\.env
 \\.env
 _build
-_catalog
 _netrc
 accessTokens.json
 acme.json
@@ -1619,6 +1620,7 @@ cluster
 cluster_credentials.json
 codenames-frontend
 collected_static
+completions
 componentutils
 compose.yml
 composer
@@ -1657,11 +1659,11 @@ docker-network-healthcheck
 documents
 dodoswap-client
 dotenv-files
-dqgqoeCXckuwPtxov
 drupal-separate-services
 edv-rest
 elasticemail
 elmah.axd
+embeddings
 empty-values
 env.local.php
 environment.prod.ts

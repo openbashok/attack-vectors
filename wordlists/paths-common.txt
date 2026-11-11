@@ -493,6 +493,7 @@ admin-app/.env
 admin/login.asp
 adminer.php
 ansible.cfg
+api.ipinfo.io:443
 api/.env.production
 blogs/.env
 composer.lock
@@ -507,6 +508,7 @@ en/.env
 env.js
 exapi/.env
 gcp-credentials.json
+icanhazip.com:443
 instance/config.py
 lab/.env
 psnlink/.env
@@ -521,7 +523,6 @@ v1
 .pypirc
 __tests__/test-become/.env
 admin/.env.production
-api.ipinfo.io:443
 api/config.env
 api/v1/.env
 app/etc/env.php
@@ -543,7 +544,6 @@ db.sql.gz
 enviroments/.env
 enviroments/.env.production
 functions/.env
-icanhazip.com:443
 js/.env
 laravel/.env.example
 new/.env.production
@@ -856,6 +856,7 @@ developerslv/.env
 directories/.env
 django_project_path/.env
 docker-node-mongo-redis/.env
+dqgqoeCXckuwPtxov
 drupal/.env
 dump.sql.gz
 environments/.env
@@ -1480,6 +1481,8 @@ tests/todo-react/.env
 tiedostot/.env
 ui/.env
 urlmem-app/.env
+v1/models
+v2/_catalog
 var/task/.env
 vertex-ai-credentials.json
 vertex-ai.json
