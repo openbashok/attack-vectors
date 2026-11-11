@@ -16,8 +16,8 @@ admin
 .%2e
 .env.local
 .env.production
-phpinfo
 SDK
+phpinfo
 webLanguage
 .env.php
 .aws
