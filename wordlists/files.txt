@@ -181,9 +181,9 @@ configuration.php
 settings.php
 swagger.json
 about
+version
 .git-credentials
 .htaccess
-version
 wp-config.php.save
 .boto
 config.inc.php

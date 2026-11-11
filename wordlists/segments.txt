@@ -271,10 +271,10 @@ wp-config.php.old
 .env.uat
 aws.json
 database.php
+json
 .env.config
 .env.dev.local
 id_rsa
-json
 root
 sitemap.xml
 wc.db
@@ -331,6 +331,7 @@ remote
 settings.php
 static..
 swagger.json
+version
 account
 assets..
 backups
@@ -338,7 +339,6 @@ downloads
 environments
 manage
 media..
-version
 .git-credentials
 .htaccess
 update

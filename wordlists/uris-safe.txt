@@ -295,6 +295,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .htpasswd
 .vscode/sftp.json
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+admin/config.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -332,7 +333,6 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.swp
-admin/config.php
 assets../.git/config
 backup/.git/config
 cms/.git/config
@@ -3639,6 +3639,7 @@ js/.env_v=18e62112771f0f12
 js/NewWindow_2_all.js
 js/main.js_v=18e6211124d895fa
 json/login_session
+json/version
 ju9t0fhp8tatgc
 jupyter_server_config.json_v=18e6211e730101e6
 k8s.zip
