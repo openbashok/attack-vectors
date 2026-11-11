@@ -160,12 +160,12 @@ config.php.bak
 db.sql
 images
 docker-compose.yaml
+files
 node
 open
 sendgrid.env
 sh
 store
-files
 package.json
 service
 web.config
@@ -298,13 +298,13 @@ workflows
 .s3cfg
 LICENSE
 config.py
+pub
 sites
 workspace
 wp-admin
 .env.sample
 openai
 owa
-pub
 vue-heroes
 .env~
 about
@@ -327,13 +327,13 @@ static..
 account
 assets..
 configuration.php
+downloads
 environments
 logon.html
 manage
 media..
 swagger.json
 backups
-downloads
 etc
 settings.php
 update
@@ -641,6 +641,7 @@ adminer.sql
 airflow.cfg
 api_key.txt
 appsettings.production.json
+authLogin.cgi
 aws.env.json
 azure-openai.json
 azure.yaml
@@ -723,7 +724,6 @@ adminpanel
 app.js
 app.json
 astguiclient.php
-authLogin.cgi
 aws.php
 backup.sql.gz
 bedrock.config
@@ -1651,6 +1651,7 @@ dev.env
 dev.secret.exs
 dev_env
 development%252eyml
+device.rsp
 did-method-rest
 did-rest
 django-blog

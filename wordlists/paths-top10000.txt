@@ -349,7 +349,9 @@ manage/account/login
 wp-config.php.save
 .env.sample
 admin/index.html
+files/
 login.html
+pub/
 public_html/.env
 .env.txt
 .git/logs/HEAD
@@ -359,8 +361,6 @@ HNAP1
 abc6
 abc8
 evox/about
-files/
-pub/
 sdk
 sftp.json
 terraform.tfstate.backup
@@ -370,6 +370,7 @@ Jenkinsfile
 abc7
 cgi-bin/login.cgi
 deploy/.env
+downloads/
 remote/login
 .docker/config.json
 .env.docker
@@ -377,7 +378,6 @@ remote/login
 .s3cfg
 conf/.env
 config/master.key
-downloads/
 wp-content/.env
 .env_1
 actuator/health
@@ -595,6 +595,7 @@ aws.json
 aws/s3/env.env
 aws/ses/smtp.env
 bootstrap/.env
+cgi-bin/authLogin.cgi
 ci/.env
 config
 config/.env.production
@@ -667,7 +668,6 @@ auth.json
 authorized_keys
 bitbucket-pipelines.yml
 build.gradle
-cgi-bin/authLogin.cgi
 client/.env.local
 cloud/.env
 config.inc.php.bak
@@ -1947,6 +1947,7 @@ dev_env/.env
 developer/.env.example
 development%252eyml
 development/.env.production
+device.rsp
 django-blog/.env
 django_project_path/.env.example
 dniapi/userInfos
@@ -3135,7 +3136,6 @@ desktop/.env
 dev.zip
 development.yml
 development.zip
-device.rsp
 dist.tar.gz
 django.tar.gz
 dknp3y2yhmw5ux
