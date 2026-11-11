@@ -17,9 +17,9 @@ admin
 .env.local
 .env.production
 phpinfo
-.env.php
 SDK
 webLanguage
+.env.php
 .aws
 _profiler
 config.json
@@ -248,11 +248,11 @@ sse
 s3
 .env.development.local
 .env.live
+developmentserver
+metadatauploader
 sftp.json
 *
 .env_sample
-developmentserver
-metadatauploader
 .env.staging.local
 build
 .env.template
@@ -1104,6 +1104,7 @@ config.php.swo
 config.php.swp
 config.xml
 configuration.php.bak
+connect.cgi
 connect.php
 connection.php
 connectionstrings.config
@@ -1310,6 +1311,7 @@ vault.yml
 version.json
 vertex-ai-credentials.json
 vertex-ai.json
+vpnsvc
 vue-dashboard
 vue-end
 vue-til
@@ -1591,7 +1593,6 @@ config.dev.env
 config.ts
 configs.json
 confluence
-connect.cgi
 contact
 context.xml
 couchdb
@@ -1970,7 +1971,6 @@ vicidial
 videos
 vip
 vm-docker-compose
-vpnsvc
 vuecli
 w
 w3tc-config

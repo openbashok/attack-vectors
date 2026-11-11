@@ -147,6 +147,7 @@ var/.env.local.php
 yarn.lock
 aws.yml
 env-config.js
+mcp
 administrator/.env
 assets/.env
 back/.env
@@ -157,7 +158,6 @@ download/.env
 env.json
 google-services.json
 home/.env
-mcp
 mysql.sql
 saas/.env
 store/.env
@@ -238,8 +238,8 @@ sse
 .env.development.local
 .env.live
 api/mcp
-.env_sample
 developmentserver/metadatauploader
+.env_sample
 .env.staging.local
 .env.template
 login
@@ -1469,6 +1469,7 @@ var/task/.env
 vertex-ai-credentials.json
 vertex-ai.json
 vertex.json
+vpnsvc/connect.cgi
 vue-end/vue-til/.env
 vue/config.json
 vue_CRM/.env
@@ -2391,7 +2392,6 @@ videos/.env
 vm-docker-compose/.env
 vpn
 vpn/js/rdx/core/lang/rdx_en.json.gz
-vpnsvc/connect.cgi
 vue/vuecli/.env
 web.config.bak
 web/.env.bak

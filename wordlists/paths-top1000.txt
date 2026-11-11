@@ -147,6 +147,7 @@ var/.env.local.php
 yarn.lock
 aws.yml
 env-config.js
+mcp
 administrator/.env
 assets/.env
 back/.env
@@ -157,7 +158,6 @@ download/.env
 env.json
 google-services.json
 home/.env
-mcp
 mysql.sql
 saas/.env
 store/.env
@@ -238,8 +238,8 @@ sse
 .env.development.local
 .env.live
 api/mcp
-.env_sample
 developmentserver/metadatauploader
+.env_sample
 .env.staging.local
 .env.template
 login

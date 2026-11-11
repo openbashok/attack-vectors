@@ -6,16 +6,16 @@ favicon.ico
 .env.local
 .env.production
 phpinfo
-.env.php
 webLanguage
+.env.php
 config.json
 .env.example
 .env.staging
 credentials
 secrets.yaml
 .env.bak
-test
 mcp
+test
 laravel.log
 .env.dev
 .env.save
@@ -132,9 +132,9 @@ sse
 web
 .env.development.local
 .env.live
+metadatauploader
 sftp.json
 .env_sample
-metadatauploader
 .env.staging.local
 .env.template
 .env.default
@@ -584,6 +584,7 @@ config.php.swo
 config.php.swp
 config.xml
 configuration.php.bak
+connect.cgi
 connect.php
 connection.php
 connectionstrings.config
@@ -837,7 +838,6 @@ config.bak
 config.dev.env
 config.ts
 configs.json
-connect.cgi
 contact
 context.xml
 credentials-for-node
