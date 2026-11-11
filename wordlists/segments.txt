@@ -23,8 +23,8 @@ phpinfo
 .aws
 _profiler
 config.json
-.env.example
 web
+.env.example
 laravel
 credentials
 %%32%65%%32%65
@@ -89,8 +89,8 @@ docker-compose.yml
 prod
 settings.py
 html
-.env.development
 auth
+.env.development
 project
 .gitlab-ci.yml
 blog
@@ -119,6 +119,8 @@ dashboard
 examples
 fixtures
 portal
+get
+ip.cypher.rest:443
 static
 .well-known
 entries
@@ -126,8 +128,6 @@ home
 secrets.json
 .env:80
 .ssh
-get
-ip.cypher.rest:443
 bin
 main
 application.yml
@@ -213,12 +213,12 @@ rest
 saas
 bak
 content
+geoserver
 .docker
 .env.save.1
 Application
 credentials.xml
 erp
-geoserver
 server.js
 server.key
 wp-config.php.bak
@@ -303,6 +303,7 @@ workspace
 wp-admin
 .env.sample
 openai
+owa
 pub
 vue-heroes
 .env~
@@ -310,7 +311,6 @@ about
 config.yml
 docker-compose.prod.yml
 hello.world
-owa
 resources
 sftp-config.json
 test.hello
@@ -444,6 +444,7 @@ django
 en
 env.php
 id_dsa
+logon.aspx
 openai.json
 react
 secrets.py
@@ -471,7 +472,6 @@ front
 gcloud
 live
 local_settings.py
-logon.aspx
 market
 metadata
 metrics
@@ -493,6 +493,7 @@ _static
 aaa9
 aab9
 api-docs
+api.ipinfo.io:443
 application_default_credentials.json
 autodiscover.json
 awstats
@@ -503,6 +504,7 @@ db.sql.gz
 deployment.yaml
 docker-compose.override.yml
 gcp-credentials.json
+icanhazip.com:443
 kyc
 list
 mailer
@@ -533,7 +535,6 @@ amplify
 amplify.yaml
 amplify.yml
 ansible.cfg
-api.ipinfo.io:443
 back-end
 bedrock.json
 blogs
@@ -555,7 +556,6 @@ framework
 front-end
 functions
 heapdump
-icanhazip.com:443
 id_ecdsa
 img
 instance
