@@ -46,9 +46,9 @@ config.env
 terraform.tfstate
 .env.testing
 secrets.yml
+index.html
 aws.yml
 env
-index.html
 entries
 secrets.json
 get
@@ -130,8 +130,8 @@ temp
 tests
 tmp
 twilio.env
-sse
 web
+sse
 .env.live
 .env.development.local
 metadatauploader
@@ -176,9 +176,9 @@ test.hello
 .htpasswd
 app.php
 configuration.php
+logon.html
 swagger.json
 about
-logon.html
 settings.php
 .git-credentials
 .htaccess

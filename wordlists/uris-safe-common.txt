@@ -244,8 +244,8 @@ developmentserver/metadatauploader
 .env_sample
 .env.staging.local
 .env.template
-.env.default
 geoserver/web/
+.env.default
 phpinfo
 .env.config
 .env.dev.local
@@ -303,6 +303,7 @@ config/app.php
 crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 docker-compose.prod.yml
+index.html
 index.php_lang=../../../../../../../../tmp/index1
 index.php_lang=../../../../../../../../usr/local/lib/php/pearcmd_+config-create+/_/__echo_md5__hi______+/tmp/index1.php
 index.php_s=/index/_think_app/invokefunction_function=call_user_func_array_vars_0_=md5_vars_1___=Hello
@@ -326,6 +327,7 @@ workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
++CSCOE+/logon.html
 .env.swp
 .htpasswd
 assets../.git/config
@@ -339,11 +341,9 @@ core/.git/config
 data/.git/config
 dev/.git/config
 files/.git/config
-index.html
 media../.git/config
 media/.git/config
 project/.git/config
-+CSCOE+/logon.html
 .vscode/settings.json
 .vscode/sftp.json
 .htaccess
@@ -351,10 +351,11 @@ project/.git/config
 admin/config.php
 docker/.env
 login.htm
+manage/account/login
 .git-credentials
+admin/index.html
 config/database.yml
 login.html
-manage/account/login
 public_html/.env
 wp-config.php.save
 .env.sample
@@ -363,7 +364,6 @@ Dr0v
 HNAP1
 abc6
 abc8
-admin/index.html
 evox/about
 files/
 pub/
