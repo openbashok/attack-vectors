@@ -170,6 +170,7 @@ google-services.json
 login/.env
 temp/.env
 .env.save.1
+.well-known/security.txt
 app/config/parameters.yml
 bak/.env
 content/.env
@@ -181,7 +182,6 @@ static/.env
 tmp/.env
 .aws/config
 .json
-.well-known/security.txt
 cache/.env
 frontend/web/debug/default/view
 logs/.env
@@ -252,8 +252,8 @@ phpinfo
 .env.uat
 login
 wp-config.php.old
-build/.env
 sitemap.xml
+build/.env
 .env.ci
 .env.preprod
 .env.secret
@@ -606,6 +606,7 @@ engine/.env
 fedex/.env
 front/.env
 functions/.env
+global-protect/login.esp
 js/.env
 laravel/.env.local
 laravel/.env.production
@@ -682,7 +683,6 @@ env.production.js
 env.txt
 export/.env
 frontend/.env.local
-global-protect/login.esp
 google-credentials.json
 graphql
 health

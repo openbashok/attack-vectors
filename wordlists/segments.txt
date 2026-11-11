@@ -58,8 +58,8 @@ default
 .env.prod
 debug
 tests
-docker
 security.txt
+docker
 .svn
 cgi-bin
 config.js
@@ -67,9 +67,9 @@ phpinfo.php
 view
 ..
 .env.local.php
+robots.txt
 var
 cms
-robots.txt
 env
 sendgrid
 apps
@@ -114,12 +114,12 @@ secrets.yml
 system
 application
 index.html
+.well-known
 aws.yml
 dashboard
 examples
 fixtures
 portal
-.well-known
 get
 ip.cypher.rest:443
 static
@@ -275,10 +275,10 @@ database.php
 json
 root
 login.html
+sitemap.xml
 .env.secret
 containers
 id_rsa
-sitemap.xml
 wc.db
 $(pwd)
 .env.ci
@@ -663,12 +663,14 @@ example27-how-to-load-env
 front-app
 front-empathy
 gcp.json
+global-protect
 graphql
 heads
 id_rsa.pub
 inc
 lambda
 local.settings.json
+login.esp
 login.js
 mysqlmanager
 php-myadmin
@@ -743,7 +745,6 @@ develop
 environment.rb
 error
 filesystems.php
-global-protect
 google
 google-credentials.json
 gradle.properties
@@ -756,7 +757,6 @@ kitchensink
 latest
 lcomernbootcamp
 local.py
-login.esp
 main.yml
 monitoring
 myapp

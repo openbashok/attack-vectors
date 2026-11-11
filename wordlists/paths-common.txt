@@ -173,6 +173,7 @@ login/.env
 temp/.env
 tmp/.env
 .env.save.1
+.well-known/security.txt
 bak/.env
 credentials.xml
 developer/.env
@@ -184,7 +185,6 @@ static/.env
 v3/.env
 wp-config.php.bak
 .json
-.well-known/security.txt
 cache/.env
 frontend/web/debug/default/view
 k8s/secrets.yaml
@@ -250,10 +250,10 @@ phpinfo
 wp-config.php.old
 .env.config
 .env.dev.local
+sitemap.xml
 .env.secret
 .svn/wc.db
 build/.env
-sitemap.xml
 .env.ci
 .env.preprod
 app/.git/config
@@ -617,6 +617,7 @@ env.txt
 fedex/.env
 front/.env
 frontend/.env.local
+global-protect/login.esp
 lambda/.env
 laravel/.env.local
 laravel/.env.production
@@ -686,7 +687,6 @@ docker/compose/withRedis/.env
 env.prod.js
 env.production.js
 export/.env
-global-protect/login.esp
 google-credentials.json
 graphql
 health
