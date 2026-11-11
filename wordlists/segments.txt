@@ -15,9 +15,9 @@ test
 admin
 .%2e
 .env.local
-.env.production
 SDK
 webLanguage
+.env.production
 phpinfo
 .aws
 .env.php
@@ -280,11 +280,11 @@ sitemap.xml
 wc.db
 workflows
 .env.secret
+HNAP1
 containers
 $(pwd)
 .env.ci
 .env.preprod
-HNAP1
 backup.zip
 bdd
 health
@@ -305,12 +305,12 @@ config.yml
 pub
 workspace
 .env.sample
+about
 openai
 vue-heroes
 +CSCOE+
 .env~
 .htpasswd
-about
 docker-compose.prod.yml
 etc
 hello.world
@@ -350,10 +350,12 @@ deploy
 enviroments
 login.htm
 mcp.json
+sdk
 ~
 .config
 __tests__
 default_settings
+evox
 id_ed25519
 index.js
 login.cgi
@@ -363,7 +365,6 @@ private
 production
 public_html
 scripts
-sdk
 users
 .env.txt
 Dr0v
@@ -374,7 +375,6 @@ babel-plugin-dotenv
 conf
 dana-na
 dist
-evox
 index
 phpMyAdmin
 pki-validation
