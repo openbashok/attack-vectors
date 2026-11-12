@@ -101,10 +101,10 @@ old
 credentials.json
 new
 site
+.well-known
 info.php
 system
 wp-config.php
-.well-known
 database.yml
 settings
 config.env
@@ -276,9 +276,9 @@ database.php
 .env.dev.local
 id_rsa
 root
+sitemap.xml
 containers
 owa
-sitemap.xml
 wc.db
 workflows
 .env.secret

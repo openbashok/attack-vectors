@@ -126,6 +126,7 @@ test
 .env.php.bak
 .env.production.php
 .env.sample.php
+.well-known/security.txt
 API/.env
 apis/.env
 app_dev.php/_profiler/.env
@@ -147,7 +148,6 @@ uploads/.env
 var/.env.local.php
 yarn.lock
 .aws/config
-.well-known/security.txt
 assets/.env
 aws.yml
 back/.env
@@ -250,8 +250,8 @@ wp-config.php.old
 .env.uat
 .env.config
 .env.dev.local
-.svn/wc.db
 sitemap.xml
+.svn/wc.db
 .env.secret
 app/.git/config
 build/.env

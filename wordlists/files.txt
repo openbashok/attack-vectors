@@ -151,8 +151,8 @@ database.php
 .env.dev.local
 id_rsa
 json
-v1
 sitemap.xml
+v1
 wc.db
 .env.secret
 HNAP1

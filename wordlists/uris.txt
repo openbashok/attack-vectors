@@ -123,6 +123,7 @@ test
 .env.php.bak
 .env.production.php
 .env.sample.php
+.well-known/security.txt
 ?phpinfo=-1
 ?url=.env
 API/.env
@@ -147,7 +148,6 @@ twilio/.env.php
 uploads/.env
 var/.env.local.php
 yarn.lock
-.well-known/security.txt
 assets/.env
 back/.env
 docs/.env
