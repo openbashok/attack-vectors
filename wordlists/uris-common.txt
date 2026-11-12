@@ -31,11 +31,11 @@ public/.env
 src/.env
 .env.development
 wp-config.php
+get
+ip.cypher.rest:443
 _profiler/phpinfo
 site/.env
 .env.testing
-get
-ip.cypher.rest:443
 .git/HEAD
 prod/.env
 server/.env
@@ -212,6 +212,7 @@ crossdomain.xml
 database.config
 demo/
 dev/
+developmentserver/metadatauploader
 env.example
 facturacion/.env
 index.php?file=../../../../../../../../root/.aws/credentials
@@ -238,7 +239,6 @@ twilio.env
 user/.env
 wp-config.php.backup
 .env.stage
-developmentserver/metadatauploader
 .env.live
 .env.development.local
 geoserver/web/
@@ -521,6 +521,8 @@ owa/auth/x.js
 psnlink/.env
 root/.aws/credentials
 root/.env
+solr/admin/cores?action=STATUS&wt=json
+solr/admin/info/system
 sources/.env
 tools/.env
 wp-content/uploads/
@@ -551,8 +553,6 @@ laravel/.env.example
 manager/html
 proc/self/environ
 server/.env.local
-solr/admin/cores?action=STATUS&wt=json
-solr/admin/info/system
 src/.env.local
 user/.env.staging
 vendor/laravel/.env

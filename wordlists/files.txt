@@ -44,10 +44,10 @@ info.php
 wp-config.php
 database.yml
 config.env
-terraform.tfstate
-.env.testing
 get
 ip.cypher.rest:443
+terraform.tfstate
+.env.testing
 secrets.yml
 aws.yml
 env
@@ -124,6 +124,7 @@ dev
 env.example
 infos
 log
+metadatauploader
 php_error.log
 php_errors.log
 readme.md
@@ -132,7 +133,6 @@ temp
 tests
 tmp
 twilio.env
-metadatauploader
 .env.live
 sftp.json
 .env.development.local
@@ -274,6 +274,7 @@ docker-compose.override.yml
 icanhazip.com:443
 list
 microsoft.exchange.ediscovery.exporttool.application
+system
 .env-example
 .env-sample
 .env.back
@@ -294,6 +295,7 @@ composer.json
 composer.lock
 config.php.save
 config.production.json
+cores
 credentials.yml.enc
 heapdump
 id_ecdsa
@@ -303,7 +305,6 @@ login.esp
 runtime-env.js
 s3.json
 secrets.toml
-system
 uploads
 users
 wp-admin
@@ -322,7 +323,6 @@ application-prod.properties
 application.properties.bak
 aws-ses.json
 bucket.env
-cores
 credentials.csv
 docs
 gemini.json
