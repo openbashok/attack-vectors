@@ -235,9 +235,9 @@ tests/
 tmp/
 twilio.env
 user/.env
+developmentserver/metadatauploader
 .env.live
 api/mcp
-developmentserver/metadatauploader
 .env.development.local
 .env_sample
 login

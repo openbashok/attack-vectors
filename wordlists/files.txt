@@ -132,8 +132,8 @@ temp
 tests
 tmp
 twilio.env
-.env.live
 metadatauploader
+.env.live
 sftp.json
 .env.development.local
 %252eenv

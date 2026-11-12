@@ -237,9 +237,9 @@ twilio.env
 user/.env
 wp-config.php.backup
 .env.stage
+developmentserver/metadatauploader
 .env.live
 api/mcp
-developmentserver/metadatauploader
 .env.development.local
 .env_sample
 geoserver/web/

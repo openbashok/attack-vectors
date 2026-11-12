@@ -248,9 +248,9 @@ pos
 readme.md
 s3
 twilio.env
-.env.live
 developmentserver
 metadatauploader
+.env.live
 sftp.json
 .env.development.local
 *
