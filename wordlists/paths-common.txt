@@ -343,11 +343,13 @@ project/.git/config
 .htaccess
 .vscode/settings.json
 docker/.env
+files/
 login.html
 wp-config.php.save
 config/database.yml
 login.htm
 manage/account/login
+pub/
 sdk
 .env.sample
 .git/logs/HEAD
@@ -355,8 +357,6 @@ Dr0v
 HNAP1
 admin/index.html
 evox/about
-files/
-pub/
 public_html/.env
 remote/login
 .env.txt
@@ -365,6 +365,7 @@ Jenkinsfile
 abc6
 abc8
 deploy/.env
+downloads/
 sftp.json
 terraform.tfstate.backup
 .docker/.env
@@ -373,7 +374,6 @@ terraform.tfstate.backup
 .s3cfg
 abc7
 cgi-bin/login.cgi
-downloads/
 login.jsp
 owa/auth/logon.aspx
 version

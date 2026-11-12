@@ -158,11 +158,11 @@ backup.sql
 config.php.bak
 db.sql
 sql
+files
 images
 sh
 docker-compose.yaml
 wp-content
-files
 node
 open
 package.json
@@ -299,11 +299,11 @@ sites
 .npmrc
 .s3cfg
 LICENSE
+pub
 workspace
 wp-admin
 config.py
 config.yml
-pub
 .env.sample
 about
 hello.world
@@ -327,6 +327,7 @@ sftp-config.json
 .env.swp
 app.php
 configuration.php
+downloads
 phpmyadmin
 remote
 settings.php
@@ -335,7 +336,6 @@ swagger.json
 account
 assets..
 backups
-downloads
 environments
 manage
 media..
