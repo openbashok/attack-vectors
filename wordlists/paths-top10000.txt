@@ -378,6 +378,7 @@ login.jsp
 owa/auth/logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 version
+ws
 .env.docker
 .git/index
 conf/.env
@@ -386,10 +387,10 @@ config/master.key
 settings.php
 wp-config.php.orig
 wp-content/.env
-ws
 .env_1
 .ssh/id_ed25519
 .travis.yml
+RDWeb
 actuator/health
 app/config/.env
 backups/.env
@@ -414,7 +415,6 @@ wp-config.php~
 127.0.0.1:801
 GponForm/diag_Form
 HNAP1/
-RDWeb
 actuator/env
 backend/.env.local
 backup.tar.gz
@@ -554,6 +554,7 @@ enviroments/.env.production
 functions/.env
 js/.env
 laravel/.env.example
+manager/html
 new/.env.production
 nginx/.env
 node_modules/.env
@@ -635,7 +636,6 @@ lambda/.env
 laravel/.env.local
 laravel/.env.production
 laravel/.env.staging
-manager/html
 master/.env
 portal/redlion
 private.key

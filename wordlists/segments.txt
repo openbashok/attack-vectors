@@ -87,9 +87,9 @@ temp
 .env.old
 services
 docker-compose.yml
+html
 prod
 settings.py
-html
 .env.development
 client
 project
@@ -131,11 +131,11 @@ secrets.json
 main
 bin
 .vscode
+ws
 application.yml
 debug.log
 docs
 uploads
-ws
 appsettings.json
 htdocs
 site.zip
@@ -371,6 +371,7 @@ scripts
 users
 .env.txt
 Jenkinsfile
+RDWeb
 abc6
 abc8
 babel-plugin-dotenv
@@ -394,7 +395,6 @@ self
 solr
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.docker
-RDWeb
 doc
 environ
 libraries
@@ -415,6 +415,7 @@ config.yaml
 console
 current
 docker-compose
+manager
 myadmin
 openapi.json
 secrets
@@ -439,7 +440,6 @@ env.php
 formLogin
 id_dsa
 mailchimp
-manager
 plugins
 proc
 sources
