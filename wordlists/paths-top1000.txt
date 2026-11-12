@@ -271,6 +271,7 @@ database/.env
 server/.git/config
 config/database.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+admin/config.php
 config.php
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -321,7 +322,6 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.swp
 .vscode/sftp.json
-admin/config.php
 config/app.php
 config/aws.yml
 config/secrets.yml
@@ -823,6 +823,7 @@ api-docs
 api/.env.example
 api/.env.staging
 api/active-coins
+app
 app/.env.example
 app/.terraform/terraform.tfstate
 app/amplify.yaml
@@ -997,4 +998,3 @@ s3/.aws/config
 s3/credentials
 s3cmd.ini
 sam-template.yaml
-sample.env

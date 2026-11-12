@@ -22,8 +22,8 @@ robots.txt
 laravel.log
 security.txt
 .env.prod
-info
 config.php
+info
 phpinfo.php
 config.js
 login
@@ -473,6 +473,7 @@ xmlrpc.php
 Dashboard.jspa
 access.log
 active-coins
+app
 application.yaml
 auth.html
 aws-codecommit
@@ -600,7 +601,6 @@ ads.txt
 amplifyconfiguration.json
 apiconfig.json
 apikey.txt
-app
 app-ads.txt
 app.config.json
 app_dev.php

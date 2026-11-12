@@ -275,6 +275,7 @@ server/.git/config
 config/database.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+admin/config.php
 config.php
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
@@ -326,7 +327,6 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .htpasswd
 .vscode/sftp.json
-admin/config.php
 config/app.php
 configuration.php
 docker-compose.prod.yml
@@ -812,6 +812,7 @@ api/.env.staging
 api/active-coins
 api/shared/config/.env
 api/shared/config/config.env
+app
 app/.env.example
 app/.terraform/terraform.tfstate
 app/amplify.yaml
@@ -1149,7 +1150,6 @@ api/v1/config.json
 api/v2/
 api/v2/config.json
 apiconfig.json
-app
 app-ads.txt
 app-order-client/.env
 app.config.json

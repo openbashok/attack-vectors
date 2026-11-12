@@ -62,9 +62,9 @@ tests
 auth
 cgi-bin
 debug
+config.php
 docker
 .svn
-config.php
 phpinfo.php
 config.js
 var
