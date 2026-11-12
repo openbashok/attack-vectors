@@ -449,8 +449,10 @@ wp-config.php~
 .envrc
 .idea
 127.0.0.1:801
+GponForm
 application-prod.yml
 cron
+diag_Form
 django
 en
 master
@@ -466,7 +468,6 @@ www.zip
 .env.www
 ClientApp
 Dockerfile
-GponForm
 LogonPoint
 __fixtures__
 _next
@@ -478,7 +479,6 @@ autodiscover.json
 begin
 bootstrap
 dbadmin
-diag_Form
 end
 environment
 front
