@@ -80,6 +80,7 @@ info
 site.zip
 application/.env
 blog/.env
+mcp/
 package.json
 shop/.env
 .env.dist
@@ -88,7 +89,7 @@ config.env
 debug.log
 env
 error.log
-mcp/
+mcp
 media/.env
 portal/.env
 project/.env
@@ -100,7 +101,6 @@ application.properties
 application.yml
 apps/.env
 local/.env
-mcp
 new/.env
 settings.json
 system/.env
@@ -169,6 +169,7 @@ bedrock.env
 data/.env
 google-services.json
 login/.env
+sse
 temp/.env
 .aws/config
 .env.save.1
@@ -180,7 +181,6 @@ developer/.env
 erp/.env
 images/.env
 server.key
-sse
 static/.env
 tmp/.env
 wp-config.php.bak
@@ -199,6 +199,7 @@ v3/.env
 .claude/.env
 .env/.env
 Application/.env
+api/mcp
 api/test
 app.log
 beta/
@@ -237,7 +238,6 @@ twilio.env
 user/.env
 wp-config.php.backup
 .env.stage
-api/mcp
 developmentserver/metadatauploader
 .env.live
 .env.development.local

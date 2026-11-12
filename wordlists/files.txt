@@ -99,12 +99,12 @@ app.log
 configuration.json
 google-services.json
 server.key
+sse
 web
 wp-config.php.bak
 .env.save.1
 credentials.xml
 server.js
-sse
 .json
 config.ini
 logs
