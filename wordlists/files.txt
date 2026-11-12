@@ -17,9 +17,9 @@ mcp
 secrets.yaml
 test
 .env.dev
+robots.txt
 .env.save
 laravel.log
-robots.txt
 security.txt
 .env.prod
 info
@@ -831,6 +831,7 @@ LocalSettings.php
 Login.aspx
 Login.jsp
 Login.xhtml
+Pages
 Pulumi.yaml
 RASHTML5Gateway
 UI_String.js

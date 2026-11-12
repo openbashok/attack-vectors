@@ -45,9 +45,9 @@ info.php
 api/.git/config
 .svn/entries
 storage/.env
+security.txt
 v1/.env
 www/.env
-security.txt
 settings/.env
 storage/logs/laravel.log
 html/.env
@@ -112,6 +112,7 @@ app_dev.php/_profiler/phpinfo
 main/.env
 secrets.yml
 system/.env
+.well-known/security.txt
 app_dev.php/_profiler/open
 auth/.env
 bot/.env
@@ -126,7 +127,6 @@ test
 .env.php.bak
 .env.production.php
 .env.sample.php
-.well-known/security.txt
 API/.env
 apis/.env
 app_dev.php/_profiler/.env
@@ -1723,6 +1723,7 @@ Nuke.App.Ui/.env
 Orion/Login.aspx
 Pulumi.yaml
 RASHTML5Gateway/
+RDWeb/Pages/
 Serve_time_server/.env
 Server_with_db/.env
 Simple_server/.env
@@ -2827,7 +2828,6 @@ OA_HTML/AppsLocalLogin.jsp
 OA_HTML/AppsTCFServer
 Procfile
 Properties/launchSettings.json
-RDWeb/Pages/
 RDWeb/Pages/en-US/login.aspx
 RSC/R/0u0h8k9qqz6q4wr.txt
 RSC/cbu8y1xolsftybm.txt

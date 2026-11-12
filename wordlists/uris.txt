@@ -106,6 +106,7 @@ settings.json
 system/.env
 test/.env
 ../.env
+.well-known/security.txt
 app_dev.php/_profiler/open?file=app/config/parameters.yml
 app_dev.php/_profiler/phpinfo
 cms/.env
@@ -123,7 +124,6 @@ test
 .env.php.bak
 .env.production.php
 .env.sample.php
-.well-known/security.txt
 ?phpinfo=-1
 ?url=.env
 API/.env
@@ -1698,6 +1698,7 @@ Nuke.App.Ui/.env
 Orion/Login.aspx
 Pulumi.yaml
 RASHTML5Gateway/
+RDWeb/Pages/
 Serve_time_server/.env
 Server_with_db/.env
 Simple_server/.env
@@ -2951,7 +2952,6 @@ OA_HTML/AppsLocalLogin.jsp
 OA_HTML/AppsTCFServer
 Procfile?v=18e6211e7f89db02
 Properties/launchSettings.json?v=18e621135153a1a5
-RDWeb/Pages/
 RDWeb/Pages/en-US/login.aspx
 RSC/R/0u0h8k9qqz6q4wr.txt
 RSC/cbu8y1xolsftybm.txt

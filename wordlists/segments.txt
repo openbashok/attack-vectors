@@ -51,12 +51,12 @@ assets
 backup
 .env.dev
 info
+robots.txt
 .env.save
 default
 laravel.log
-robots.txt
-staging
 security.txt
+staging
 .env.prod
 tests
 auth
@@ -98,10 +98,10 @@ blog
 administrator
 index.html
 old
+.well-known
 credentials.json
 new
 site
-.well-known
 info.php
 system
 wp-config.php
@@ -394,6 +394,7 @@ self
 solr
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.docker
+RDWeb
 doc
 environ
 libraries
@@ -407,7 +408,6 @@ wp-config.php.orig
 .env_1
 .terraform
 .travis.yml
-RDWeb
 backup.tar.gz
 batch
 bedrock
@@ -1114,6 +1114,7 @@ INSTALL.md
 InstantCV
 MyAdmin
 OLCNE
+Pages
 Pipfile
 Pipfile.lock
 README.md
@@ -1583,7 +1584,6 @@ MyRentals.Web
 Nuke.App.Ui
 OA_HTML
 Orion
-Pages
 Pulumi.yaml
 RASHTML5Gateway
 RSC

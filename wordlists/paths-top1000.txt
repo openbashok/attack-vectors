@@ -45,9 +45,9 @@ info.php
 api/.git/config
 .svn/entries
 storage/.env
+security.txt
 v1/.env
 www/.env
-security.txt
 settings/.env
 storage/logs/laravel.log
 html/.env
@@ -112,6 +112,7 @@ app_dev.php/_profiler/phpinfo
 main/.env
 secrets.yml
 system/.env
+.well-known/security.txt
 app_dev.php/_profiler/open
 auth/.env
 bot/.env
@@ -126,7 +127,6 @@ test
 .env.php.bak
 .env.production.php
 .env.sample.php
-.well-known/security.txt
 API/.env
 apis/.env
 app_dev.php/_profiler/.env

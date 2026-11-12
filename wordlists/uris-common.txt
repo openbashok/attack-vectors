@@ -106,6 +106,7 @@ settings.json
 system/.env
 test/.env
 ../.env
+.well-known/security.txt
 app_dev.php/_profiler/open?file=app/config/parameters.yml
 app_dev.php/_profiler/phpinfo
 cms/.env
@@ -123,7 +124,6 @@ test
 .env.php.bak
 .env.production.php
 .env.sample.php
-.well-known/security.txt
 ?phpinfo=-1
 ?url=.env
 API/.env
