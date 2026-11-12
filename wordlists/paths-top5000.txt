@@ -237,8 +237,8 @@ twilio.env
 user/.env
 .env.live
 api/mcp
-.env.development.local
 developmentserver/metadatauploader
+.env.development.local
 .env_sample
 login
 .env.staging.local
@@ -255,11 +255,11 @@ sitemap.xml
 .env.secret
 app/.git/config
 build/.env
+*
 .env.ci
 .env.preprod
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 www/.git/config
-*
 .env.sandbox
 configuration/.env
 containers/json
@@ -375,13 +375,13 @@ abc7
 cgi-bin/login.cgi
 downloads/
 login.jsp
+owa/auth/logon.aspx
 version
 .env.docker
 .git/index
 conf/.env
 config.inc.php
 config/master.key
-owa/auth/logon.aspx
 settings.php
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 wp-config.php.orig
@@ -1005,6 +1005,7 @@ server/.env.staging
 server/config/.env
 services/traefik/.env
 settings.ini
+setup.cgi
 setup.php
 site.sql
 soap
@@ -1467,7 +1468,6 @@ services/deployment-agent/.env
 services/minio/.env
 services/registry/.env
 settings
-setup.cgi
 setup/.env
 shell
 shopdb/index.php

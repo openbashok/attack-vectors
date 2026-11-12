@@ -133,9 +133,9 @@ tests
 tmp
 twilio.env
 .env.live
+metadatauploader
 sftp.json
 .env.development.local
-metadatauploader
 %252eenv
 .env_sample
 .env.staging.local
@@ -156,10 +156,10 @@ sitemap.xml
 wc.db
 .env.secret
 HNAP1
+*
 .env.ci
 .env.preprod
 backup.zip
-*
 .env.sandbox
 .npmrc
 .s3cfg
@@ -210,9 +210,9 @@ api
 authorized_keys
 db.php
 downloads
+logon.aspx
 .env.docker
 environ
-logon.aspx
 master.key
 service-account.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
@@ -535,6 +535,7 @@ sam-template.yaml
 sellers.json
 service-account-credentials.json
 settings.ini
+setup.cgi
 setup.php
 site.sql
 soap
@@ -694,7 +695,6 @@ server_info.php
 service_account.json
 services.php
 settings.js
-setup.cgi
 setup.md
 shell
 showLogin.cc
