@@ -98,6 +98,7 @@ application.yml
 apps/.env
 env
 local/.env
+mcp/
 media/.env
 new/.env
 project/.env
@@ -108,7 +109,7 @@ test/.env
 .env.local.php
 app_dev.php/_profiler/phpinfo
 main/.env
-mcp/
+mcp
 secrets.yml
 system/.env
 app_dev.php/_profiler/open
@@ -116,7 +117,6 @@ auth/.env
 bot/.env
 cms/.env
 demo/.env
-mcp
 test
 .config.yaml
 .env.example.php
@@ -182,6 +182,7 @@ developer/.env
 erp/.env
 images/.env
 server.js
+sse
 static/.env
 v3/.env
 .json
@@ -194,7 +195,6 @@ logs/.env
 node/.env
 requirements.txt
 sandbox/.env
-sse
 wp-config.php.backup
 .aws/.env
 .bedrock/.env
@@ -235,15 +235,15 @@ tests/
 tmp/
 twilio.env
 user/.env
+api/mcp
 developmentserver/metadatauploader
 .env.live
-api/mcp
 .env.development.local
 .env_sample
+geoserver/web/
 login
 .env.staging.local
 .env.template
-geoserver/web/
 phpinfo
 wp-config.php.old
 .env.default

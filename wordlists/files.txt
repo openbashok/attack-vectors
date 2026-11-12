@@ -12,8 +12,8 @@ config.json
 .env.example
 .env.staging
 credentials
-.env.bak
 mcp
+.env.bak
 secrets.yaml
 test
 .env.dev
@@ -103,12 +103,12 @@ wp-config.php.bak
 .env.save.1
 credentials.xml
 server.js
+sse
+web
 .json
 config.ini
 logs
 requirements.txt
-sse
-web
 wp-config.php.backup
 .env.stage
 beta

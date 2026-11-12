@@ -88,6 +88,7 @@ config.env
 debug.log
 env
 error.log
+mcp/
 media/.env
 portal/.env
 project/.env
@@ -99,7 +100,7 @@ application.properties
 application.yml
 apps/.env
 local/.env
-mcp/
+mcp
 new/.env
 settings.json
 system/.env
@@ -111,7 +112,6 @@ cms/.env
 debug/default/view?panel=config
 demo/.env
 main/.env
-mcp
 secrets.yaml
 secrets.yml
 test
@@ -180,6 +180,7 @@ developer/.env
 erp/.env
 images/.env
 server.key
+sse
 static/.env
 tmp/.env
 wp-config.php.bak
@@ -192,7 +193,6 @@ logs/.env
 node/.env
 sandbox/.env
 server.js
-sse
 v3/.env
 .aws/.env
 .bedrock/.env
@@ -237,12 +237,12 @@ twilio.env
 user/.env
 wp-config.php.backup
 .env.stage
+api/mcp
 developmentserver/metadatauploader
 .env.live
-api/mcp
 .env.development.local
-.env_sample
 geoserver/web/
+.env_sample
 .env.staging.local
 .env.template
 login
