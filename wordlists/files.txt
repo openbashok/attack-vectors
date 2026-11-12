@@ -16,8 +16,8 @@ mcp
 .env.bak
 secrets.yaml
 test
-.env.dev
 robots.txt
+.env.dev
 .env.save
 laravel.log
 security.txt

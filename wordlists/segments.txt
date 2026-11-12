@@ -49,9 +49,9 @@ secrets.yaml
 demo
 assets
 backup
+robots.txt
 .env.dev
 info
-robots.txt
 .env.save
 default
 laravel.log
