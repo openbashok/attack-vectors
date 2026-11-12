@@ -3,8 +3,8 @@ eval-stdin.php
 config
 index.php
 favicon.ico
-.env.local
 webLanguage
+.env.local
 .env.production
 phpinfo
 .env.php
@@ -99,12 +99,12 @@ app.log
 configuration.json
 google-services.json
 server.key
+web
 wp-config.php.bak
 .env.save.1
 credentials.xml
 server.js
 sse
-web
 .json
 config.ini
 logs
@@ -185,6 +185,7 @@ about
 .git-credentials
 .htaccess
 files
+update
 wp-config.php.save
 .boto
 config.inc.php
@@ -192,7 +193,6 @@ login.htm
 mcp.json
 pub
 sdk
-update
 Dr0v
 admin
 id_ed25519

@@ -239,8 +239,8 @@ api/mcp
 developmentserver/metadatauploader
 .env.live
 .env.development.local
-.env_sample
 geoserver/web/
+.env_sample
 login
 .env.staging.local
 .env.template
@@ -353,6 +353,7 @@ pub/
 sdk
 .env.sample
 .git/logs/HEAD
+.well-known/pki-validation/update
 Dr0v
 HNAP1
 admin/index.html
@@ -360,7 +361,6 @@ evox/about
 public_html/.env
 remote/login
 .env.txt
-.well-known/pki-validation/update
 Jenkinsfile
 abc6
 abc8

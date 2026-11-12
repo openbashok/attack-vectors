@@ -14,9 +14,9 @@ favicon.ico
 test
 admin
 .%2e
-.env.local
 SDK
 webLanguage
+.env.local
 .env.production
 phpinfo
 .aws
@@ -104,9 +104,9 @@ site
 info.php
 system
 wp-config.php
+.well-known
 database.yml
 settings
-.well-known
 config.env
 media
 db
@@ -202,6 +202,7 @@ secrets.env
 yarn.lock
 bedrock.env
 env-config.js
+geoserver
 js
 kubernetes
 mysql.sql
@@ -209,7 +210,6 @@ platform
 app.log
 configuration.json
 developer
-geoserver
 google-services.json
 rest
 saas
@@ -339,9 +339,9 @@ backups
 environments
 manage
 media..
+update
 .git-credentials
 .htaccess
-update
 wp-config.php.save
 .boto
 anthropic
@@ -362,6 +362,7 @@ id_ed25519
 index.js
 login.cgi
 php
+pki-validation
 pma
 private
 production
@@ -377,7 +378,6 @@ conf
 dist
 index
 phpMyAdmin
-pki-validation
 swagger
 task
 terraform.tfstate.backup
