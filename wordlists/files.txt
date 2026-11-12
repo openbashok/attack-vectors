@@ -12,8 +12,8 @@ config.json
 .env.example
 .env.staging
 credentials
-mcp
 .env.bak
+mcp
 secrets.yaml
 test
 .env.dev
@@ -32,8 +32,8 @@ view
 .env.test
 HEAD
 settings.json
-.env.old
 .env.backup
+.env.old
 docker-compose.yml
 settings.py
 .env.development

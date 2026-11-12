@@ -29,8 +29,8 @@ web/.env
 .gitlab-ci.yml
 admin/.env
 public/.env
-.env.development
 src/.env
+.env.development
 wp-config.php
 _profiler/phpinfo
 site/.env
@@ -47,10 +47,10 @@ api/.git/config
 storage/.env
 v1/.env
 www/.env
+security.txt
 settings/.env
 storage/logs/laravel.log
 html/.env
-security.txt
 v2/.env
 old/.env
 config.js
@@ -147,6 +147,7 @@ uploads/.env
 var/.env.local.php
 yarn.lock
 .aws/config
+.well-known/security.txt
 assets/.env
 aws.yml
 back/.env
@@ -155,7 +156,6 @@ env-config.js
 home/.env
 mysql.sql
 store/.env
-.well-known/security.txt
 administrator/.env
 api/v2/.env
 beta/.env

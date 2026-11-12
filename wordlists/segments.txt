@@ -42,9 +42,9 @@ server
 dev
 www
 lib
+.env.bak
 mcp
 v2
-.env.bak
 secrets.yaml
 demo
 assets
@@ -54,8 +54,8 @@ info
 .env.save
 default
 laravel.log
-staging
 robots.txt
+staging
 security.txt
 .env.prod
 tests
@@ -81,10 +81,10 @@ tmp
 .env.test
 HEAD
 settings.json
+.env.backup
 log
 temp
 .env.old
-.env.backup
 services
 docker-compose.yml
 prod
@@ -106,9 +106,9 @@ system
 wp-config.php
 database.yml
 settings
+.well-known
 config.env
 media
-.well-known
 db
 terraform.tfstate
 .env.testing
