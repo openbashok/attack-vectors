@@ -251,6 +251,7 @@ www.zip
 .env.www
 Dockerfile
 aab9
+autodiscover.json
 diag_Form
 gcp-credentials.json
 local_settings.py
@@ -265,7 +266,6 @@ aaa9
 api-docs
 api.ipinfo.io:443
 application_default_credentials.json
-autodiscover.json
 credentials.yml
 db.sql.gz
 deploy.yml

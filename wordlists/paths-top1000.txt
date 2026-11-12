@@ -439,6 +439,7 @@ api/.env.local
 api/metrics/run
 app/.env.local
 audio/.env
+autodiscover/autodiscover.json
 cgi-bin/.env
 config.yaml
 config/config.php
@@ -465,7 +466,6 @@ _static/.env
 aaa9
 api.ipinfo.io:443
 application-prod.yml
-autodiscover/autodiscover.json
 compose/.env
 core/app/.env
 doc/index.html

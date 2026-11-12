@@ -432,6 +432,7 @@ actuator/env
 api
 api/metrics/run
 audio/.env
+autodiscover/autodiscover.json?@zdi/Powershell
 backup.tar.gz
 backup.zip
 cgi-bin/.env
@@ -458,7 +459,6 @@ aaa9
 api.ipinfo.io:443
 api/.env.local
 app/.env.local
-autodiscover/autodiscover.json?@zdi/Powershell
 compose/.env
 config.yaml
 core/app/.env

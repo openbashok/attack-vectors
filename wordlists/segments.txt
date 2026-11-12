@@ -426,6 +426,7 @@ vpn
 127.0.0.1:8099
 Login
 auth.json
+autodiscover
 azure
 b
 boaform
@@ -449,7 +450,6 @@ wp-config.php~
 .idea
 127.0.0.1:801
 application-prod.yml
-autodiscover
 cron
 django
 en
@@ -474,6 +474,7 @@ aab9
 admin-app
 all
 audio
+autodiscover.json
 begin
 bootstrap
 dbadmin
@@ -505,7 +506,6 @@ aaa9
 api-docs
 api.ipinfo.io:443
 application_default_credentials.json
-autodiscover.json
 awstats
 boxes
 cloud
