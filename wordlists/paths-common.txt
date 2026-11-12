@@ -252,10 +252,10 @@ wp-config.php.old
 .env.dev.local
 sitemap.xml
 .svn/wc.db
+*
 .env.secret
 app/.git/config
 build/.env
-*
 .env.ci
 .env.preprod
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
@@ -346,6 +346,7 @@ docker/.env
 files/
 login.html
 wp-config.php.save
+Dr0v
 config/database.yml
 login.htm
 manage/account/login
@@ -354,7 +355,6 @@ sdk
 .env.sample
 .git/logs/HEAD
 .well-known/pki-validation/update
-Dr0v
 HNAP1
 admin/index.html
 evox/about
@@ -1028,6 +1028,7 @@ tests/default_settings/v13.0/.env
 tests/drupal-test/.env
 theme/.env
 ubuntu/.env
+v2/_catalog
 var/task/amplify.yaml
 var/task/amplify.yml
 var/task/amplify/backend/function/*/src/index.js
@@ -1510,7 +1511,6 @@ tiedostot/.env
 ui/.env
 urlmem-app/.env
 v1/models
-v2/_catalog
 var/task/.env
 vertex-ai-credentials.json
 vertex-ai.json

@@ -13,9 +13,9 @@ app
 favicon.ico
 test
 admin
-.%2e
 SDK
 webLanguage
+.%2e
 .env.local
 .env.production
 phpinfo
@@ -252,8 +252,8 @@ developmentserver
 metadatauploader
 .env.live
 sftp.json
-.env.development.local
 *
+.env.development.local
 %252eenv
 .env_sample
 .github
@@ -344,6 +344,7 @@ update
 .htaccess
 wp-config.php.save
 .boto
+Dr0v
 anthropic
 config.inc.php
 deploy
@@ -353,7 +354,6 @@ mcp.json
 sdk
 ~
 .config
-Dr0v
 __tests__
 dana-na
 default_settings
@@ -873,6 +873,7 @@ Nosto
 Passportjs
 Tagging
 WebInterface
+_catalog
 _debug
 _debugbar
 _layouts
@@ -1128,7 +1129,6 @@ __
 __ENV.js
 __debug__
 __phpmyadmin
-_catalog
 _netrc
 _phpMyAdmin
 _phpinfo.php

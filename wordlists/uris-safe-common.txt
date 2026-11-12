@@ -5,8 +5,8 @@ SDK/webLanguage
 .env.production
 app/.env
 .env.bak
-.env.local
 robots.txt
+.env.local
 api/.env
 .env.save
 .env.dev
@@ -254,12 +254,12 @@ wp-config.php.old
 .env.uat
 sitemap.xml
 .svn/wc.db
+_
 app/.git/config
 build/.env
 .env.ci
 .env.preprod
 .env.secret
-_
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 www/.git/config
 .env.sandbox
@@ -352,6 +352,7 @@ project/.git/config
 files/
 login.html
 .git-credentials
+Dr0v
 docker/.env
 login.htm
 manage/account/login
@@ -359,7 +360,6 @@ pub/
 sdk
 wp-config.php.save
 .well-known/pki-validation/update
-Dr0v
 HNAP1
 admin/index.html
 config/database.yml
@@ -1009,6 +1009,7 @@ theme/.env
 ubuntu/.env
 upload/.env
 users/.env
+v2/_catalog
 var/.env
 var/task/amplify.yaml
 var/task/amplify.yml
@@ -1482,7 +1483,6 @@ tests/todo-react/.env
 tiedostot/.env
 urlmem-app/.env
 v1/models
-v2/_catalog
 var/task/.env
 vertex-ai-credentials.json
 vertex-ai.json

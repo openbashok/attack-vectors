@@ -5,8 +5,8 @@ SDK/webLanguage
 .env.production
 app/.env
 .env.bak
-.env.local
 robots.txt
+.env.local
 api/.env
 .env.save
 .env.dev
@@ -253,10 +253,10 @@ wp-config.php.old
 .env.dev.local
 .env.uat
 sitemap.xml
+*
 .svn/wc.db
 app/.git/config
 build/.env
-*
 .env.ci
 .env.preprod
 .env.secret
@@ -352,6 +352,7 @@ project/.git/config
 files/
 login.html
 .git-credentials
+Dr0v
 docker/.env
 login.htm
 manage/account/login
@@ -359,7 +360,6 @@ pub/
 sdk
 wp-config.php.save
 .well-known/pki-validation/update
-Dr0v
 HNAP1
 admin/index.html
 config/database.yml
@@ -1005,6 +1005,7 @@ theme/.env
 ubuntu/.env
 upload/.env
 users/.env
+v2/_catalog
 var/.env
 var/task/amplify.yaml
 var/task/amplify.yml
@@ -1482,7 +1483,6 @@ tests/todo-react/.env
 tiedostot/.env
 urlmem-app/.env
 v1/models
-v2/_catalog
 var/task/.env
 vertex-ai-credentials.json
 vertex-ai.json
@@ -2659,6 +2659,7 @@ ztp/cgi-bin/handler
 %77%70-%63%6f%6e%74%65%6e%74/.%65%6e%76?v=W51l2
 %77%70/.%65%6e%76?v=R8Xkc
 .%63%69%72%63%6c%65%63%69/%63%6f%6e%66%69%67.%79%6d%6c?v=dlGSX
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2F.env?v=18e62112c9193882
 ..%2f..%2f..%2f..%2f..%2f..%2fproc/self/environ
 ..%2f.env

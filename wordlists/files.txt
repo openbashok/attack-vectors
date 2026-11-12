@@ -154,9 +154,9 @@ json
 sitemap.xml
 v1
 wc.db
+*
 .env.secret
 HNAP1
-*
 .env.ci
 .env.preprod
 backup.zip
@@ -188,12 +188,12 @@ files
 update
 wp-config.php.save
 .boto
+Dr0v
 config.inc.php
 login.htm
 mcp.json
 pub
 sdk
-Dr0v
 admin
 id_ed25519
 index.js
@@ -471,6 +471,7 @@ xmlrpc.php
 .vault-token
 7f13c0a9d8644f3ca0a563b6b56e49d7
 Dashboard.jspa
+_catalog
 access.log
 active-coins
 app
@@ -592,7 +593,6 @@ Pipfile.lock
 README.md
 Thumbs.db
 __ENV.js
-_catalog
 _netrc
 _next
 _phpinfo.php
