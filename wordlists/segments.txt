@@ -392,6 +392,7 @@ includes
 logon.aspx
 self
 solr
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.docker
 doc
 environ
@@ -401,7 +402,6 @@ master.key
 qa
 run
 service-account.json
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
 wp-config.php.orig
 .env_1
@@ -470,6 +470,7 @@ GponForm
 LogonPoint
 __fixtures__
 _next
+aab9
 admin-app
 all
 audio
@@ -501,7 +502,6 @@ wordpress
 Current
 _static
 aaa9
-aab9
 api-docs
 api.ipinfo.io:443
 application_default_credentials.json
@@ -1603,6 +1603,7 @@ WebServers.xml
 \.\.env
 \\.env
 _build
+aab8
 accessTokens.json
 acme.json
 acme_challenges
@@ -1828,6 +1829,8 @@ jobs
 jobs_u
 joomla
 joomla.xml
+jquery-3.3.1.slim.min.js
+jquery-3.3.2.slim.min.js
 jsrelay
 jupyter
 jupyter_server_config.json
