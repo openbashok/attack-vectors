@@ -42,9 +42,9 @@ server
 dev
 www
 lib
+mcp
 v2
 .env.bak
-mcp
 secrets.yaml
 demo
 assets
@@ -227,6 +227,7 @@ server.js
 config.ini
 requirements.txt
 sandbox
+sse
 stage
 wp-config.php.backup
 .bedrock
@@ -246,7 +247,6 @@ php_errors.log
 pos
 readme.md
 s3
-sse
 twilio.env
 .env.live
 sftp.json
@@ -261,10 +261,10 @@ build
 panel
 .env.staging.local
 .env.template
+json
 login.html
 .%65%6e%76
 database
-json
 mysql
 shared
 wp-config.php.old
@@ -309,6 +309,7 @@ about
 hello.world
 openai
 test.hello
+version
 vue-heroes
 yii
 zend
@@ -323,7 +324,6 @@ login.jsp
 logon.html
 resources
 sftp-config.json
-version
 .env.swp
 app.php
 configuration.php

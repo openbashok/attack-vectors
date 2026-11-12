@@ -12,8 +12,8 @@ config.json
 .env.example
 .env.staging
 credentials
-.env.bak
 mcp
+.env.bak
 secrets.yaml
 test
 .env.dev
@@ -107,6 +107,7 @@ server.js
 config.ini
 logs
 requirements.txt
+sse
 web
 wp-config.php.backup
 .env.stage
@@ -126,7 +127,6 @@ log
 php_error.log
 php_errors.log
 readme.md
-sse
 staging
 temp
 tests
@@ -175,12 +175,12 @@ docker-compose.prod.yml
 login.jsp
 logon.html
 sftp-config.json
+version
 .env.swp
 app.php
 configuration.php
 settings.php
 swagger.json
-version
 about
 .git-credentials
 .htaccess

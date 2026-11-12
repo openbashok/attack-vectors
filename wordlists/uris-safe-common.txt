@@ -99,6 +99,7 @@ application.properties
 application.yml
 apps/.env
 local/.env
+mcp/
 new/.env
 settings.json
 system/.env
@@ -110,7 +111,7 @@ cms/.env
 debug/default/view_panel=config
 demo/.env
 main/.env
-mcp/
+mcp
 secrets.yaml
 secrets.yml
 test
@@ -136,7 +137,6 @@ config/.env.php
 info/
 laravel.log
 library/.env
-mcp
 package-lock.json
 phpinfo/
 secrets.env
@@ -192,6 +192,7 @@ logs/.env
 node/.env
 sandbox/.env
 server.js
+sse
 v3/.env
 .aws/.env
 .bedrock/.env
@@ -225,7 +226,6 @@ pos/.env
 readme.md
 requirements.txt
 service/.env
-sse
 stage/.env
 staging/
 temp/
@@ -238,8 +238,8 @@ user/.env
 wp-config.php.backup
 .env.stage
 .env.live
-.env.development.local
 api/mcp
+.env.development.local
 developmentserver/metadatauploader
 .env_sample
 geoserver/web/

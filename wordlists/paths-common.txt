@@ -108,6 +108,7 @@ test/.env
 .env.local.php
 app_dev.php/_profiler/phpinfo
 main/.env
+mcp/
 secrets.yml
 system/.env
 app_dev.php/_profiler/open
@@ -115,7 +116,7 @@ auth/.env
 bot/.env
 cms/.env
 demo/.env
-mcp/
+mcp
 test
 .config.yaml
 .env.example.php
@@ -135,7 +136,6 @@ config/.env.php
 info/
 laravel.log
 library/.env
-mcp
 package-lock.json
 phpinfo/
 secrets.env
@@ -194,6 +194,7 @@ logs/.env
 node/.env
 requirements.txt
 sandbox/.env
+sse
 wp-config.php.backup
 .aws/.env
 .bedrock/.env
@@ -225,7 +226,6 @@ platform/.env
 pos/.env
 readme.md
 service/.env
-sse
 stage/.env
 staging/
 temp/
@@ -236,8 +236,8 @@ tmp/
 twilio.env
 user/.env
 .env.live
-.env.development.local
 api/mcp
+.env.development.local
 developmentserver/metadatauploader
 .env_sample
 login
