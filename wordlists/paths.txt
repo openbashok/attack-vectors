@@ -615,6 +615,7 @@ config/mail.php
 core/Datavase/.env
 cp/.env
 credentials.py
+dana-na/auth/url_default/welcome.cgi
 db.py
 deployment.yaml
 deployment/.env
@@ -696,7 +697,6 @@ config/environment.rb
 config/filesystems.php
 config/openai.json
 custom/.env
-dana-na/auth/url_default/welcome.cgi
 dana-na/nc/nc_gina_ver.txt
 database.php.bak
 db.php
@@ -739,6 +739,7 @@ server/.env.production
 serverless.yaml
 serverless.yml
 ssl.key
+sslvpn_logon.shtml
 stats/.env
 studioserver/.git/config
 swagger-ui.html
@@ -949,6 +950,7 @@ live/.env
 localhost/.env
 locally/.env
 logging/.env
+logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 magento/.env
 market/.env.production
@@ -1010,7 +1012,6 @@ sonicui/7/sslvpn-portal/
 speed.cloudflare.com:443
 src/config.js
 src/gameprovider-service/.env
-sslvpn_logon.shtml
 staging/.env.local
 stripe/.env
 telescope
@@ -1343,7 +1344,6 @@ legacy/.env
 linux/.env
 local.settings.json
 login_up.php
-logon/LogonPoint/index.html
 logs/error.log
 mailman/.env
 main.js
@@ -1515,6 +1515,7 @@ vertex-ai-credentials.json
 vertex-ai.json
 vertex.json
 videos/.env
+vpn/index.html
 vpnsvc/connect.cgi
 vue-end/vue-til/.env
 vue/config.json
@@ -2485,7 +2486,6 @@ versa/login
 versions
 vm-docker-compose/.env
 vpn
-vpn/index.html
 vpn/pluginlist.xml
 vue/vuecli/.env
 web.config.bak
@@ -3088,10 +3088,13 @@ claude/.env
 claude/config.json
 claude/credentials.json
 claude/settings.json
+clients
 clients/.env
 cloud/Scraper.js
 codeigniter.zip
 cohere/.env
+com/EasyConnectInstaller.exe
+com/install.exe
 common/.env
 compose.yaml
 conf.php
@@ -3250,6 +3253,7 @@ events/.env
 export/backup.zip
 export/db.sql.gz
 exports/.env
+extender.html
 favicon-32x32.png
 favicon.ico/
 favicon.png
@@ -3320,6 +3324,7 @@ imports/.env
 includes/config.inc.php
 index.cfm
 index.jsp
+index.plx
 index.shtml
 indice.asp
 indice.jhtml
@@ -3559,6 +3564,8 @@ plugins/%2eenv
 pms/%252eenv
 pms/%2eenv
 poetry.lock
+por/login_auth.csp
+por/login_psw.csp
 portal/%252eenv
 portal/%2eenv
 postgres.zip
@@ -3583,6 +3590,7 @@ progs/homepage
 project/%2eenv
 projects.zip
 proxy/%2eenv
+prx/000/http/localhost/login
 pub/static/
 public/config.js
 public/js/config.js
@@ -3782,6 +3790,7 @@ user/%2eenv
 user/config/config.js
 user/controllers/index.js
 user/login
+userportal/webpages/myaccount/login.jsp
 users/%2eenv
 util/%2eenv
 util/.env
@@ -3814,6 +3823,7 @@ view/.env
 viewinfo.php
 vite.config.js
 voyage/.env
+vpntunnel
 vue.zip
 wanipcn.xml
 web.tar.gz

@@ -615,6 +615,7 @@ config/mail.php
 core/Datavase/.env
 cp/.env
 credentials.py
+dana-na/auth/url_default/welcome.cgi
 db.py
 deployment.yaml
 deployment/.env
@@ -696,7 +697,6 @@ config/environment.rb
 config/filesystems.php
 config/openai.json
 custom/.env
-dana-na/auth/url_default/welcome.cgi
 dana-na/nc/nc_gina_ver.txt
 database.php.bak
 db.php
@@ -739,6 +739,7 @@ server/.env.production
 serverless.yaml
 serverless.yml
 ssl.key
+sslvpn_logon.shtml
 stats/.env
 studioserver/.git/config
 swagger-ui.html
@@ -949,6 +950,7 @@ live/.env
 localhost/.env
 locally/.env
 logging/.env
+logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 magento/.env
 market/.env.production
@@ -996,5 +998,3 @@ s3cmd.ini
 sam-template.yaml
 sample.env
 samples/docker/deploymentscripts/.env
-scripts/fvt/.env
-sellers.json

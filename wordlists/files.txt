@@ -38,8 +38,8 @@ docker-compose.yml
 settings.py
 .env.development
 .gitlab-ci.yml
-credentials.json
 index.html
+credentials.json
 info.php
 wp-config.php
 database.yml
@@ -168,11 +168,11 @@ config.yml
 .env.sample
 health
 hello.world
+login.jsp
 test.hello
 .env~
 .htpasswd
 docker-compose.prod.yml
-login.jsp
 logon.html
 sftp-config.json
 version
@@ -256,6 +256,7 @@ local_settings.py
 run
 server-status
 settings
+welcome.cgi
 .env.aws
 .env.copy
 .env_old
@@ -273,7 +274,6 @@ docker-compose.override.yml
 icanhazip.com:443
 list
 microsoft.exchange.ediscovery.exporttool.application
-welcome.cgi
 .env-example
 .env-sample
 .env.back
@@ -436,6 +436,7 @@ serverless.yaml
 serverless.yml
 settings.local.json
 ssl.key
+sslvpn_logon.shtml
 swagger
 vars
 version.php
@@ -539,7 +540,6 @@ site.sql
 soap
 speed.cloudflare.com:443
 sslvpn-portal
-sslvpn_logon.shtml
 team-provider-info.json
 telescope
 template.yaml

@@ -602,6 +602,7 @@ config/mail.php
 core/Datavase/.env
 cp/.env
 credentials.py
+dana-na/auth/url_default/welcome.cgi
 db.py
 db.sql.gz
 deployment.yaml
@@ -686,7 +687,6 @@ config/db.php
 config/environment.rb
 config/filesystems.php
 custom/.env
-dana-na/auth/url_default/welcome.cgi
 dana-na/nc/nc_gina_ver.txt
 database.php.bak
 db.php
@@ -730,6 +730,7 @@ resources/.env
 runtime-env.js
 server/.env.production
 ssl.key
+sslvpn_logon.shtml
 studioserver/.git/config
 swagger/v1/swagger.json
 symfony/.env
@@ -930,6 +931,7 @@ license.txt
 localhost/.env
 locally/.env
 logging/.env
+logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 magento/.env
 market/.env.production
@@ -988,7 +990,6 @@ sonicui/7/sslvpn-portal/
 speed.cloudflare.com:443
 src/config.js
 src/gameprovider-service/.env
-sslvpn_logon.shtml
 staging/.env.local
 stats/.env
 stripe/.env
@@ -1323,7 +1324,6 @@ linux/.env
 live/.env
 local.settings.json
 login_up.php
-logon/LogonPoint/index.html
 mailman/.env
 main_user/.env
 manifest.json
@@ -1487,6 +1487,7 @@ vertex-ai-credentials.json
 vertex-ai.json
 vertex.json
 videos/.env
+vpn/index.html
 vpnsvc/connect.cgi
 vue-end/vue-til/.env
 vue/config.json
@@ -2474,7 +2475,6 @@ versa/login
 versions
 vm-docker-compose/.env
 vpn
-vpn/index.html
 vpn/pluginlist.xml
 vue/vuecli/.env
 web.config.bak
@@ -3286,10 +3286,13 @@ claude/credentials.json_v=18e62111dfd922f5
 claude/settings.json_v=18e62111d1a10919
 claude_desktop_config.json_v=18e6211cf71e7a23
 client/.env_v=18e6211f3ee44429
+clients
 clients/.env
 cloud/Scraper.js_v=18e6211cb068a428
 codeigniter.zip
 cohere/.env_v=18e62112499e944d
+com/EasyConnectInstaller.exe
+com/install.exe
 common/.env
 compose.yaml_v=18e6211f905e3d7d
 conf.php
@@ -3519,6 +3522,7 @@ events/.env
 export/backup.zip
 export/db.sql.gz
 exports/.env
+extender.html
 extlib/.env
 extlib/.env_v=oiZjn
 favicon-32x32.png
@@ -3612,6 +3616,7 @@ index.js
 index.js_v=18e62111c6268669
 index.jsp
 index.php_p=admin/dashboard
+index.plx_app=eup
 index.shtml
 indice.asp
 indice.jhtml
@@ -3903,6 +3908,8 @@ pma_v=18e6211cfae0e79c
 pms/%252eenv
 pms/%2eenv_v=pOeTb
 poetry.lock_v=18e6211e2692fdf8
+por/login_auth.csp
+por/login_psw.csp
 portal/%252eenv
 portal/%2eenv_v=jb2Rn
 portal/.env_v=18e621122ebe23ae
@@ -3932,6 +3939,7 @@ progs/homepage
 project/%2eenv_v=zNImN
 projects.zip
 proxy/%2eenv_v=hSu38
+prx/000/http/localhost/login
 pub/static/
 public/.env_v=18e621126abdd4d0
 public/config.js
@@ -4185,6 +4193,7 @@ user/controllers/index.js_v=18e6211c94327d8b
 user/login
 userfiles_path=../../../../proc/self/environ
 userfiles_path=../../../.env
+userportal/webpages/myaccount/login.jsp
 users/%2eenv_v=c3DuT
 users/.env_v=c3DuT
 util/%2eenv_v=1xzww
@@ -4224,6 +4233,7 @@ view/.env_v=JvO5U
 viewinfo.php
 vite.config.js_v=18e6211f8cd26cd0
 voyage/.env_v=18e62112512690cd
+vpntunnel
 vue.zip
 wanipcn.xml
 web.config_v=18e6211374522b0b

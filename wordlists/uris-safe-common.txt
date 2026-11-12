@@ -602,6 +602,7 @@ config/mail.php
 core/Datavase/.env
 cp/.env
 credentials.py
+dana-na/auth/url_default/welcome.cgi
 db.py
 db.sql.gz
 deployment.yaml
@@ -686,7 +687,6 @@ config/db.php
 config/environment.rb
 config/filesystems.php
 custom/.env
-dana-na/auth/url_default/welcome.cgi
 dana-na/nc/nc_gina_ver.txt
 database.php.bak
 db.php
@@ -730,6 +730,7 @@ resources/.env
 runtime-env.js
 server/.env.production
 ssl.key
+sslvpn_logon.shtml
 studioserver/.git/config
 swagger/v1/swagger.json
 symfony/.env
@@ -930,6 +931,7 @@ license.txt
 localhost/.env
 locally/.env
 logging/.env
+logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 magento/.env
 market/.env.production
@@ -988,7 +990,6 @@ sonicui/7/sslvpn-portal/
 speed.cloudflare.com:443
 src/config.js
 src/gameprovider-service/.env
-sslvpn_logon.shtml
 staging/.env.local
 stats/.env
 stripe/.env
@@ -1323,7 +1324,6 @@ linux/.env
 live/.env
 local.settings.json
 login_up.php
-logon/LogonPoint/index.html
 mailman/.env
 main_user/.env
 manifest.json
@@ -1487,6 +1487,7 @@ vertex-ai-credentials.json
 vertex-ai.json
 vertex.json
 videos/.env
+vpn/index.html
 vpnsvc/connect.cgi
 vue-end/vue-til/.env
 vue/config.json

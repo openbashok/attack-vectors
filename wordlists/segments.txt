@@ -34,8 +34,8 @@ public
 backend
 v1
 frontend
-core
 login
+core
 app_dev.php
 storage
 server
@@ -96,11 +96,11 @@ project
 .gitlab-ci.yml
 blog
 administrator
+index.html
 old
 credentials.json
 new
 site
-index.html
 info.php
 system
 wp-config.php
@@ -307,6 +307,7 @@ pub
 .env.sample
 about
 hello.world
+login.jsp
 openai
 test.hello
 version
@@ -320,7 +321,6 @@ V2
 docker-compose.prod.yml
 ec
 etc
-login.jsp
 logon.html
 resources
 sftp-config.json
@@ -355,6 +355,7 @@ sdk
 .config
 Dr0v
 __tests__
+dana-na
 default_settings
 evox
 id_ed25519
@@ -373,7 +374,6 @@ abc6
 abc8
 babel-plugin-dotenv
 conf
-dana-na
 dist
 index
 phpMyAdmin
@@ -456,6 +456,7 @@ master
 openai.json
 react
 secrets.py
+vpn
 wp-config.bak
 wp-includes
 www.zip
@@ -466,6 +467,7 @@ www.zip
 ClientApp
 Dockerfile
 GponForm
+LogonPoint
 __fixtures__
 _next
 admin-app
@@ -482,6 +484,7 @@ gcloud
 gcp-credentials.json
 live
 local_settings.py
+logon
 market
 metadata
 metrics
@@ -490,13 +493,12 @@ server-status
 template
 tools
 ubuntu
-vpn
+welcome.cgi
 wordpress
 .env.aws
 .env.copy
 .env_old
 Current
-LogonPoint
 _static
 aaa9
 aab9
@@ -518,7 +520,6 @@ icanhazip.com:443
 javascript
 kyc
 list
-logon
 mailer
 microsoft.exchange.ediscovery.exporttool.application
 nginx
@@ -529,7 +530,6 @@ phpmyadmin5
 projbackend
 redmine
 sitemaps
-welcome.cgi
 wp
 ....
 .env-example
@@ -587,6 +587,7 @@ script
 secrets.toml
 stag
 terraform
+webpages
 withMongo
 withPostgres
 wp-config.php.swp
@@ -623,7 +624,6 @@ swagger-ui.html
 test-become
 upload
 vertex.json
-webpages
 website
 wp-config.php.txt
 wp-config.txt
@@ -716,6 +716,7 @@ sqlmanager
 srv6_controller
 status
 ui
+url_default
 views
 webadmin
 webdb
@@ -785,6 +786,7 @@ kitchensink
 latest
 lcomernbootcamp
 local.py
+localhost
 monitoring
 myapp
 nc
@@ -804,6 +806,7 @@ serverless.yaml
 serverless.yml
 settings.local.json
 ssl.key
+sslvpn_logon.shtml
 stats
 studioserver
 symfony
@@ -811,7 +814,6 @@ templates
 test-network
 text
 themes
-url_default
 validate
 vars
 version.php
@@ -986,7 +988,6 @@ live_env
 liveliness
 lms
 local.xml
-localhost
 locally
 logging
 login.php
@@ -1037,7 +1038,6 @@ site.sql
 soap
 speed.cloudflare.com:443
 sslvpn-portal
-sslvpn_logon.shtml
 staging2
 stg
 support
@@ -1220,6 +1220,7 @@ hc
 helper.js
 host_vars
 htpasswd.txt
+http
 hubspot.config
 hubspot.json
 i.php
@@ -1676,11 +1677,13 @@ chatroom-spa
 check-version
 ci-cd
 client_secret.json
+clients
 club
 cluster
 cluster_credentials.json
 codenames-frontend
 collected_static
+com
 completions
 componentutils
 compose.yml
@@ -1799,7 +1802,6 @@ horde
 horizon
 host.php
 hotpot-app-frontend
-http
 httpboot
 httpdocs
 hubspot.yml
@@ -1933,6 +1935,7 @@ plugin_static
 pluginlist.xml
 pms
 png
+por
 portainer
 post-deployment
 post.js
