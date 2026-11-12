@@ -46,9 +46,9 @@ database.yml
 config.env
 terraform.tfstate
 .env.testing
-secrets.yml
 get
 ip.cypher.rest:443
+secrets.yml
 aws.yml
 env
 entries
@@ -546,6 +546,8 @@ telescope
 template.yaml
 terraform.tfvars.json
 tmindex.html
+trace
+vpn
 web_shell_cmd.gch
 wp-json
 wsman
@@ -703,7 +705,6 @@ storage.yml
 stripe-credentials.json
 sunrise
 test_smtp.py
-trace
 user
 v2
 vault.yml
@@ -1021,7 +1022,6 @@ updates
 userInfos
 userfiles
 values.yaml
-vpn
 wallet.dat
 wallets
 web.config.bak

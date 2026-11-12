@@ -113,12 +113,12 @@ db
 terraform.tfstate
 .env.testing
 data
+get
+ip.cypher.rest:443
 secrets.yml
 .ssh
 application
 portal
-get
-ip.cypher.rest:443
 aws.yml
 dashboard
 examples
@@ -418,6 +418,7 @@ docker-compose
 myadmin
 openapi.json
 secrets
+vpn
 .env.2
 .env.prod.local
 .env.test.local
@@ -456,7 +457,6 @@ master
 openai.json
 react
 secrets.py
-vpn
 wp-config.bak
 wp-includes
 www.zip
@@ -909,6 +909,7 @@ blue
 boto.cfg
 bucoffea
 busybox$%7BIFS%7Dwget$%7BIFS%7D-qO-$%7BIFS%7D-T$%7BIFS%7D4$%7BIFS%7Dhttp:
+cdn-cgi
 cdw-backend
 cert.pem
 cgi-mod
@@ -1051,6 +1052,7 @@ theme
 thumb
 thumbs
 tmindex.html
+trace
 traefik
 universalresolver
 utils
@@ -1158,7 +1160,6 @@ bootstrap.properties
 bootstrap.yml
 build.yml
 cardea
-cdn-cgi
 ch2-mytodo
 ch8-mytodo
 ch8a-mytodo
@@ -1375,7 +1376,6 @@ testdata
 tiedostot
 todo-react
 token
-trace
 typeScriptProject
 typeScriptVisualizeProject
 urlmem-app
