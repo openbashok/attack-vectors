@@ -165,8 +165,8 @@ backup.zip
 .s3cfg
 config.py
 config.yml
-.env.sample
 health
+.env.sample
 hello.world
 login.jsp
 test.hello
@@ -376,6 +376,7 @@ gradle.properties
 graphql
 hetong.js
 hudson
+liveliness
 local.settings.json
 login.js
 main.yml
@@ -477,6 +478,7 @@ active-coins
 app
 application.yaml
 auth.html
+autodiscover.xml
 aws-codecommit
 aws.yaml
 aws_config
@@ -504,6 +506,7 @@ debug
 dqgqoeCXckuwPtxov
 environment.json
 error.aspx
+exchange.asmx
 execute-solution
 export.sql
 favicon
@@ -516,7 +519,6 @@ known_hosts
 kubeconfig
 license.txt
 live_env
-liveliness
 local.xml
 login.php
 manifest
@@ -861,7 +863,6 @@ application-staging.properties
 application-staging.yml
 auth1.html
 authorization.do
-autodiscover.xml
 aws-bedrock.config
 aws-bedrock.env
 aws-bedrock.json
@@ -913,7 +914,6 @@ environment.production.ts
 environment.ts
 eventmanager
 example.env
-exchange.asmx
 executions
 favicon-19fbef86.svg
 favicon-abe32304.png

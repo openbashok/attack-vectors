@@ -137,11 +137,11 @@ debug.log
 docs
 uploads
 appsettings.json
+actuator
 htdocs
 site.zip
 %2eenv
 .claude
-actuator
 database.sql
 error.log
 local
@@ -275,6 +275,7 @@ database.php
 sitemap.xml
 .env.config
 .env.dev.local
+health
 id_rsa
 root
 containers
@@ -289,7 +290,6 @@ $(pwd)
 .env.preprod
 backup.zip
 bdd
-health
 packages
 wp-json
 .env.sandbox
@@ -395,6 +395,7 @@ logon.aspx
 self
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.docker
+autodiscover
 doc
 environ
 libraries
@@ -427,7 +428,6 @@ vpn
 127.0.0.1:8099
 Login
 auth.json
-autodiscover
 azure
 b
 boaform
@@ -687,6 +687,7 @@ hetong.js
 hudson
 lambda
 lang
+liveliness
 local.settings.json
 login.js
 main.yml
@@ -893,6 +894,7 @@ app_types
 application.yaml
 applinks
 auth.html
+autodiscover.xml
 aws-codecommit
 aws.yaml
 aws_config
@@ -953,6 +955,8 @@ env-config
 environment.json
 error.aspx
 errors
+ews
+exchange.asmx
 execute-solution
 export.sql
 favicon
@@ -987,7 +991,6 @@ libs
 license.txt
 liveObjects
 live_env
-liveliness
 lms
 local.xml
 locally
@@ -1641,7 +1644,6 @@ assembly
 asset_img
 auth1.html
 authorization.do
-autodiscover.xml
 aws-bedrock.config
 aws-bedrock.env
 aws-bedrock.json
@@ -1743,10 +1745,8 @@ envs
 envy
 epa
 eventmanager
-ews
 example.env
 example02-golang-package
-exchange.asmx
 executions
 express
 extlib
