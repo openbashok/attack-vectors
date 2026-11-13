@@ -98,9 +98,9 @@ mysql.sql
 app.log
 configuration.json
 google-services.json
+web
 server.key
 sse
-web
 wp-config.php.bak
 .env.save.1
 credentials.xml
@@ -182,9 +182,10 @@ configuration.php
 settings.php
 swagger.json
 about
+files
 .git-credentials
 .htaccess
-files
+pub
 update
 wp-config.php.save
 .boto
@@ -192,9 +193,9 @@ Dr0v
 config.inc.php
 login.htm
 mcp.json
-pub
 sdk
 admin
+downloads
 id_ed25519
 index.js
 login.cgi
@@ -202,7 +203,6 @@ login.cgi
 Jenkinsfile
 abc6
 abc8
-downloads
 index
 terraform.tfstate.backup
 .env.1
