@@ -2948,6 +2948,7 @@ Dockerfile?v=18e6211fab93e265
 DpOY
 GoogleService-Info.plist?v=18e6211dc7ba3ce9
 Jenkinsfile?v=18e6211db1861e73
+LAPI/V1.0/PTZ/CustomProtocal/Configuration?TaskID=1
 MagicInfo/config.js
 Main_Login.asp
 OA_HTML/AppsLocalLogin.jsp

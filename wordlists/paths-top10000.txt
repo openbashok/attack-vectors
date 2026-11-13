@@ -2824,6 +2824,7 @@ CXKv
 DcGn
 DpOY
 GoogleService-Info.plist
+LAPI/V1.0/PTZ/CustomProtocal/Configuration
 MagicInfo/config.js
 Main_Login.asp
 OA_HTML/AppsLocalLogin.jsp
