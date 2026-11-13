@@ -347,6 +347,7 @@ docker/.env
 login.html
 pub/
 wp-config.php.save
+.well-known/pki-validation/update
 Dr0v
 config/database.yml
 login.htm
@@ -354,13 +355,14 @@ manage/account/login
 sdk
 .env.sample
 .git/logs/HEAD
-.well-known/pki-validation/update
 HNAP1
 admin/index.html
 downloads/
 evox/about
 public_html/.env
 remote/login
+version
+ws
 .env.txt
 Jenkinsfile
 abc6
@@ -368,7 +370,6 @@ abc8
 deploy/.env
 sftp.json
 terraform.tfstate.backup
-version
 .docker/.env
 .docker/config.json
 .env.1
@@ -378,7 +379,6 @@ cgi-bin/login.cgi
 login.jsp
 owa/auth/logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
-ws
 .env.docker
 .git/index
 actuator/health
@@ -455,6 +455,7 @@ protected/.env
 server-status
 sites/all/libraries/mailchimp/.env
 terraform.tfvars
+v1
 .env.aws
 .env.copy
 .env_old
@@ -484,7 +485,6 @@ production/.env
 redmine/.env
 sitemaps/.env
 tools/.env
-v1
 .docker/laravel/app/.env
 .env-example
 .env-sample
@@ -521,8 +521,10 @@ instance/config.py
 lab/.env
 owa/auth/x.js
 psnlink/.env
+raw
 root/.aws/credentials
 root/.env
+socket.io/
 solr/admin/cores
 solr/admin/info/system
 sources/.env
@@ -642,7 +644,6 @@ master/.env
 portal/redlion
 private.key
 product/.env.staging
-raw
 react/.env
 releases/.env
 rest/.env
@@ -651,7 +652,6 @@ s3/.env.bak
 script/.env
 sites/.env
 sites/default/settings.php
-socket.io/
 stag/.env
 static/admin/javascript/hetong.js
 storage/.env.local
@@ -1216,6 +1216,7 @@ bootstrap.properties
 bootstrap.yml
 boxes/oracle-vagrant-boxes/OLCNE/.env
 cardea/backend/.env
+cgi-bin/welcome
 ch2-mytodo/.env
 ch8-mytodo/.env
 ch8a-mytodo/.env
@@ -1919,7 +1920,6 @@ cgi-bin/info.cgi
 cgi-bin/luci
 cgi-bin/param.cgi
 cgi-bin/printenv
-cgi-bin/welcome
 cgi-mod/header_logo.cgi
 cgi-mod/index.cgi
 ch6a-mytodo/.env

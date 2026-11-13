@@ -148,11 +148,11 @@ wp-config.php.old
 aws.json
 database.php
 sitemap.xml
+v1
 .env.config
 .env.dev.local
 id_rsa
 json
-v1
 wc.db
 *
 .env.secret
@@ -166,11 +166,11 @@ backup.zip
 config.py
 config.yml
 health
+version
 .env.sample
 hello.world
 login.jsp
 test.hello
-version
 .env~
 .htpasswd
 docker-compose.prod.yml
@@ -183,10 +183,10 @@ settings.php
 swagger.json
 about
 files
+update
 .git-credentials
 .htaccess
 pub
-update
 wp-config.php.save
 .boto
 Dr0v
@@ -199,6 +199,7 @@ downloads
 id_ed25519
 index.js
 login.cgi
+ws
 .env.txt
 Jenkinsfile
 abc6
@@ -212,7 +213,6 @@ authorized_keys
 db.php
 logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
-ws
 .env.docker
 environ
 master.key
@@ -303,9 +303,11 @@ id_ecdsa
 id_rsa.pub
 login.asp
 login.esp
+raw
 runtime-env.js
 s3.json
 secrets.toml
+socket.io
 uploads
 wp-admin
 wp-config.php.swp
@@ -381,11 +383,9 @@ local.settings.json
 login.js
 main.yml
 private.key
-raw
 redlion
 secrets.js
 smtp.env
-socket.io
 status
 webui
 wp-config.php.dist
@@ -716,6 +716,7 @@ versions
 vertex-ai-credentials.json
 vertex-ai.json
 webpack.config.js
+welcome
 wiki
 workflows
 wp-config.php-backup
@@ -1032,7 +1033,6 @@ wallets
 web.config.bak
 webconsole
 webhook_secret.env
-welcome
 winscp.ini
 wp_filemanager.php
 wrangler.toml
