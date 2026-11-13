@@ -213,11 +213,11 @@ developer
 google-services.json
 rest
 saas
+sse
 .docker
 bak
 content
 server.key
-sse
 wp-config.php.bak
 .env.save.1
 Application
@@ -684,6 +684,7 @@ gcp.json
 gradle.properties
 heads
 hetong.js
+hudson
 lambda
 lang
 local.settings.json
@@ -778,7 +779,6 @@ firebase-adminsdk.json
 google
 google-credentials.json
 helm
-hudson
 icons
 include
 infra

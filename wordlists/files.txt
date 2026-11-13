@@ -98,9 +98,9 @@ mysql.sql
 app.log
 configuration.json
 google-services.json
+sse
 web
 server.key
-sse
 wp-config.php.bak
 .env.save.1
 credentials.xml
@@ -375,6 +375,7 @@ gcp.json
 gradle.properties
 graphql
 hetong.js
+hudson
 local.settings.json
 login.js
 main.yml
@@ -424,7 +425,6 @@ environment.rb
 filesystems.php
 firebase-adminsdk.json
 google-credentials.json
-hudson
 local.py
 nc_gina_ver.txt
 owa

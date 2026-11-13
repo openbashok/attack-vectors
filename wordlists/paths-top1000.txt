@@ -87,6 +87,7 @@ config.env
 debug.log
 debug/default/view
 error.log
+mcp
 mcp/
 portal/.env
 shop/.env
@@ -99,7 +100,6 @@ application.yml
 apps/.env
 env
 local/.env
-mcp
 media/.env
 new/.env
 project/.env
@@ -165,6 +165,7 @@ env.json
 google-services.json
 saas/.env
 services/.env
+sse
 app/config/parameters.yml
 assets/config.json
 bedrock.env
@@ -172,7 +173,6 @@ content/.env
 data/.env
 login/.env
 server.key
-sse
 temp/.env
 tmp/.env
 wp-config.php.bak
@@ -630,6 +630,7 @@ fedex/.env
 front/.env
 frontend/.env.local
 graphql
+hudson
 id_dsa
 id_rsa.pub
 lambda/.env
@@ -716,7 +717,6 @@ firebase-adminsdk.json
 frontend/.git/config
 google-credentials.json
 health
-hudson
 inc/config.php
 include/config.php
 includes/config.php
