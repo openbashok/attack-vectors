@@ -612,6 +612,7 @@ application.properties.bak
 aws-ses.json
 bucket.env
 credentials.csv
+druid
 export
 gemini.json
 graphql
@@ -673,7 +674,6 @@ credentials.py
 db.py
 deployment
 django_project_path
-druid
 ecosystem.config.js
 engine
 env.env

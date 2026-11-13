@@ -553,6 +553,7 @@ config/application.yml
 credentials.csv
 database.php
 db.sql.gz
+druid/index.html
 enviroments/.env
 enviroments/.env.production
 functions/.env
@@ -624,7 +625,6 @@ deployment.yaml
 deployment/.env
 dev/.env.local
 django/.env
-druid/index.html
 ecosystem.config.js
 engine/.env
 env.txt

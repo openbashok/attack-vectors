@@ -549,6 +549,7 @@ config/settings.py
 credentials.csv
 credentials.yml
 database.php
+druid/index.html
 enviroments/.env
 enviroments/.env.production
 laravel/.env.example
@@ -612,7 +613,6 @@ deployment.yaml
 deployment/.env
 dev/.env.local
 django/.env
-druid/index.html
 ecosystem.config.js
 engine/.env
 fedex/.env
