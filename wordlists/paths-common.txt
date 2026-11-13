@@ -4,8 +4,8 @@ SDK/webLanguage
 index.php
 .git/config
 .env.production
-app/.env
 .env.bak
+app/.env
 robots.txt
 .env.local
 api/.env
@@ -44,8 +44,8 @@ core/.env
 info.php
 api/.git/config
 .svn/entries
-storage/.env
 security.txt
+storage/.env
 v1/.env
 www/.env
 settings/.env
@@ -78,6 +78,7 @@ docker-compose.yaml
 htdocs/.env
 site.zip
 staging/.env
+.well-known/security.txt
 application/.env
 info
 mcp
@@ -108,7 +109,6 @@ sendgrid.env
 settings.json
 test/.env
 .env.local.php
-.well-known/security.txt
 app_dev.php/_profiler/phpinfo
 main/.env
 secrets.yml

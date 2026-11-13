@@ -17,8 +17,8 @@ mcp
 secrets.yaml
 test
 robots.txt
-.env.dev
 security.txt
+.env.dev
 .env.save
 laravel.log
 .env.prod
@@ -30,10 +30,10 @@ login
 .env.local.php
 view
 .env.test
+.env.old
 HEAD
 settings.json
 .env.backup
-.env.old
 docker-compose.yml
 settings.py
 .env.development

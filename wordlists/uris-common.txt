@@ -3,8 +3,8 @@ favicon.ico
 SDK/webLanguage
 .git/config
 .env.production
-app/.env
 .env.bak
+app/.env
 robots.txt
 .env.local
 api/.env
@@ -42,9 +42,9 @@ server/.env
 core/.env
 api/.git/config
 info.php
+security.txt
 storage/.env
 .svn/entries
-security.txt
 settings/.env
 v1/.env
 www/.env
@@ -75,6 +75,7 @@ db.sql
 htdocs/.env
 staging/.env
 terraform.tfstate
+.well-known/security.txt
 docker-compose.yaml
 info
 mcp
@@ -97,7 +98,6 @@ sendgrid.env
 web.config
 .env.local.php
 .env.production.local
-.well-known/security.txt
 application.properties
 application.yml
 apps/.env
