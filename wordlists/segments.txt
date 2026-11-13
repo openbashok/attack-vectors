@@ -37,8 +37,8 @@ frontend
 login
 core
 app_dev.php
-storage
 mcp
+storage
 server
 dev
 .env.bak
@@ -623,7 +623,9 @@ mail.php
 main.js
 marketing
 node_modules
+properties
 refs
+session
 stripe
 swagger-ui.html
 test-become
@@ -800,7 +802,6 @@ persistence
 php_info.php
 pom.xml
 prisma
-properties
 repo
 reports
 route
@@ -808,7 +809,6 @@ s3_config.json
 sample.env
 serverless.yaml
 serverless.yml
-session
 settings.local.json
 ssl.key
 sslvpn_logon.shtml

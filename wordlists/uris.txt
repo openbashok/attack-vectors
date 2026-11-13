@@ -73,12 +73,12 @@ test.php
 .env.php
 db.sql
 htdocs/.env
+mcp
 staging/.env
 terraform.tfstate
 .well-known/security.txt
 docker-compose.yaml
 info
-mcp
 mcp/
 site.zip
 application/.env
@@ -671,6 +671,7 @@ actuator
 admin/
 administrator/
 api/
+api/session/properties
 api/src/.env
 api/v1/validate/code
 app.json
@@ -1147,7 +1148,6 @@ api/docs
 api/health
 api/login
 api/route
-api/session/properties
 api/settings
 api/v1/
 api/v1/auto_login

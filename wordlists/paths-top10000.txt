@@ -76,12 +76,12 @@ terraform.tfstate
 .env.php
 docker-compose.yaml
 htdocs/.env
+mcp
 site.zip
 staging/.env
 .well-known/security.txt
 application/.env
 info
-mcp
 mcp/
 package.json
 .env.dist
@@ -682,6 +682,7 @@ _profiler
 admin/
 administrator/
 api/
+api/session/properties
 api/shared/config/.env
 api/shared/config/config.env
 api/src/.env
@@ -1165,7 +1166,6 @@ api/docs
 api/health
 api/login
 api/route
-api/session/properties
 api/settings
 api/shared/.env
 api/shared/config.env

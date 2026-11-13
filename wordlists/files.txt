@@ -334,6 +334,7 @@ keys.json
 mail.php
 main
 main.js
+properties
 swagger-ui.html
 vertex.json
 wp-config.php.txt
@@ -433,7 +434,6 @@ nc_gina_ver.txt
 owa
 php_info.php
 pom.xml
-properties
 s3_config.json
 sample.env
 serverless.yaml

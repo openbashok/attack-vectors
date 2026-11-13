@@ -76,12 +76,12 @@ terraform.tfstate
 .env.php
 docker-compose.yaml
 htdocs/.env
+mcp
 site.zip
 staging/.env
 .well-known/security.txt
 application/.env
 info
-mcp
 mcp/
 package.json
 .env.dist
@@ -682,6 +682,7 @@ _profiler
 admin/
 administrator/
 api/
+api/session/properties
 api/shared/config/.env
 api/shared/config/config.env
 api/src/.env
@@ -997,4 +998,3 @@ s3.key
 s3.secret
 s3.yml
 s3/.aws/config
-s3/credentials
