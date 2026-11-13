@@ -61,8 +61,8 @@ staging
 tests
 auth
 cgi-bin
-debug
 config.php
+debug
 docker
 phpinfo.php
 .svn
@@ -304,13 +304,13 @@ workspace
 wp-admin
 config.py
 config.yml
+version
 .env.sample
 about
 hello.world
 login.jsp
 openai
 test.hello
-version
 vue-heroes
 yii
 zend
@@ -1016,6 +1016,7 @@ pfbe
 play-ground
 plugin-qiankun
 preview
+properties
 proxy
 rdx
 rdx_en.json.gz
@@ -1032,6 +1033,7 @@ sdl-first
 sellers.json
 serve-browserbench
 service-account-credentials.json
+session
 settings.ini
 setup
 setup.cgi
@@ -1335,7 +1337,6 @@ processor
 prod-env
 production.json
 program
-properties
 r
 rabbitmq
 registry
@@ -1354,7 +1355,6 @@ server.crt
 server_info.php
 service_account.json
 services.php
-session
 settings.js
 setup.md
 shopdb

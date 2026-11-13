@@ -269,9 +269,9 @@ admin/.git/config
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 database/.env
 server/.git/config
+admin/config.php
 config/database.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-admin/config.php
 config.php
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -368,6 +368,7 @@ deploy/.env
 downloads/
 sftp.json
 terraform.tfstate.backup
+version
 .docker/.env
 .docker/config.json
 .env.1
@@ -377,7 +378,6 @@ cgi-bin/login.cgi
 login.jsp
 owa/auth/logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
-version
 ws
 .env.docker
 .git/index

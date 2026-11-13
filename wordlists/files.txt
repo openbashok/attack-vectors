@@ -170,12 +170,12 @@ health
 hello.world
 login.jsp
 test.hello
+version
 .env~
 .htpasswd
 docker-compose.prod.yml
 logon.html
 sftp-config.json
-version
 .env.swp
 app.php
 configuration.php
@@ -527,6 +527,7 @@ mysql.php
 one.one.one.one:443
 phpmyadmin
 pma
+properties
 rdx_en.json.gz
 register
 s3.key
@@ -682,7 +683,6 @@ opencode.json
 passwd
 private.pem
 production.json
-properties
 proxy
 route
 rsc

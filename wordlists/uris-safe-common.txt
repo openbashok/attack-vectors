@@ -272,10 +272,10 @@ database/.env
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 server/.git/config
 .npmrc
+admin/config.php
 config/database.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
-admin/config.php
 config.php
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
@@ -372,6 +372,7 @@ abc6
 abc8
 downloads/
 sftp.json
+version
 .docker/.env
 .env.1
 .env_1
@@ -383,7 +384,6 @@ login.jsp
 owa/auth/logon.aspx
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 terraform.tfstate.backup
-version
 ws
 .docker/config.json
 .env.docker

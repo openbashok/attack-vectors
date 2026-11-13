@@ -272,10 +272,10 @@ database/.env
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 server/.git/config
 .npmrc
+admin/config.php
 config/database.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
-admin/config.php
 config.php
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
@@ -372,6 +372,7 @@ abc6
 abc8
 downloads/
 sftp.json
+version
 .docker/.env
 .env.1
 .env_1
@@ -383,7 +384,6 @@ login.jsp
 owa/auth/logon.aspx
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 terraform.tfstate.backup
-version
 ws
 .docker/config.json
 .env.docker
@@ -1791,6 +1791,7 @@ api/api-docs
 api/client/update_arch=amd64_commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17_os=windows
 api/config.dev.env
 api/docs/
+api/session/properties
 api/shared/.env
 api/shared/config.env
 api/sonicos/auth
@@ -3095,7 +3096,6 @@ api/opencode/config.js_v=18e62111a8ddaa38
 api/openrouter/config.js_v=18e6211188fe07bb
 api/org
 api/rsc
-api/session/properties
 api/shared/.env_v=18e62111871b4846
 api/shared/config.env_v=18e6211183b12856
 api/shared/config/.env_v=18e62111851a9e11
