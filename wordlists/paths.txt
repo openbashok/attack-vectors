@@ -404,6 +404,7 @@ vendor/.env
 .env.prod.local
 .env.test.local
 .netrc
+aab9
 actuator/configprops
 app/.env.production
 boaform/admin/formLogin
@@ -411,11 +412,12 @@ config.php.old
 config.php~
 current/.env
 openapi.json
+server-status
 wp-config.php~
 127.0.0.1:801
 GponForm/diag_Form
 HNAP1/
-aab9
+aaa9
 actuator/env
 backend/.env.local
 backup.tar.gz
@@ -424,7 +426,6 @@ config.yml
 cron/.env
 development/.env
 secrets.py
-server-status
 service-account.json
 wp-admin/.env
 wp-config.bak
@@ -435,7 +436,6 @@ www.zip
 .env.www
 .ssh/authorized_keys
 Dockerfile
-aaa9
 api
 api/.env.local
 api/metrics/run
@@ -661,6 +661,7 @@ var/www/html/.env
 wp-config.php.dist
 wp-config.php.gz
 www.tar.gz
+xmlrpc.php
 .claude.json
 .claude/settings.local.json
 .env.bak~
@@ -764,7 +765,6 @@ wp-json/wp/v2/users
 wp-load.php
 wp-settings.php
 xampp/.env
-xmlrpc.php
 $(pwd)/*.auto.tfvars
 $(pwd)/.terraform/terraform.tfstate
 $(pwd)/terraform.tfstate
@@ -3068,6 +3068,7 @@ billing/.env
 blank-jtganc
 blog/
 blog/%2eenv
+blog/wp-includes/wlwmanifest.xml
 build../.env
 build.tar.gz
 build.zip
@@ -3100,6 +3101,7 @@ claude/settings.json
 clients
 clients/.env
 cloud/Scraper.js
+cms/wp-includes/wlwmanifest.xml
 codeigniter.zip
 cohere/.env
 com/EasyConnectInstaller.exe
@@ -3475,6 +3477,7 @@ mysql.zip
 mytest/astech_robot.js
 n7y65ghab4c88s
 netlify.toml
+news/wp-includes/wlwmanifest.xml
 nextjs.zip
 ng/
 ni7O
@@ -3691,6 +3694,7 @@ settings.tar.gz
 settings.zip
 shared/config/config.js
 site-backup.zip
+site/wp-includes/wlwmanifest.xml
 site_2025.zip
 site_2026.zip
 sitecore/shell/sitecore.version.xml
@@ -3698,6 +3702,7 @@ sites/%252eenv
 sites/%2eenv
 sites/default/%2eenv
 sites/default/config.php
+sito/wp-includes/wlwmanifest.xml
 sms.py
 soap.cgi
 socket/.env
@@ -3776,6 +3781,7 @@ tenoaqxfjicxzm
 terraform.zip
 test.zip
 test/%2eenv
+test/wp-includes/wlwmanifest.xml
 tls/.env
 tmp/%2eenv
 tmp/backup.zip
@@ -3838,15 +3844,18 @@ web.tar.gz
 web/api/config.js
 web/config.js
 web/debug/default/view
+web/wp-includes/wlwmanifest.xml
 web_2024.zip
 webclient/
 webfig/
 webportal.cgi
+website/wp-includes/wlwmanifest.xml
 whm
 wjbf50r2m61k6p
 woocommerce.zip
 wordpress/%252eenv
 wordpress/%2eenv
+wordpress/wp-includes/wlwmanifest.xml
 worker%252ejs
 worker.js
 worker/%2eenv
@@ -3868,10 +3877,14 @@ wp-content/uploads/debug.log
 wp-content/w3tc-config/master-preview.php
 wp-content/w3tc-config/master.php
 wp-includes/js/wp-emoji-release.min.js
+wp-includes/wlwmanifest.xml
 wp-json/
 wp-json/gravitysmtp/v1/tests/mock-data
 wp-json/wp/v2/pages
 wp.tar.gz
+wp/wp-includes/wlwmanifest.xml
+wp1/wp-includes/wlwmanifest.xml
+wp2/wp-includes/wlwmanifest.xml
 wrua1grxfpg53v
 www%252etar%252egz
 www/%252eenv

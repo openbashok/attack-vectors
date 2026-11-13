@@ -67,11 +67,11 @@ docker
 phpinfo.php
 .svn
 config.js
+cms
 var
 view
 ..
 .env.local.php
-cms
 env
 sendgrid
 apps
@@ -92,16 +92,16 @@ prod
 settings.py
 .env.development
 .well-known
+blog
 client
 project
 .gitlab-ci.yml
-blog
 administrator
 index.html
 old
+site
 credentials.json
 new
-site
 system
 get
 info.php
@@ -305,6 +305,7 @@ workspace
 wp-admin
 config.py
 config.yml
+wp-includes
 .env.sample
 about
 hello.world
@@ -421,12 +422,14 @@ myadmin
 openapi.json
 secrets
 vpn
+wlwmanifest.xml
 .env.2
 .env.prod.local
 .env.test.local
 .netrc
 127.0.0.1:8099
 Login
+aab9
 auth.json
 azure
 b
@@ -442,6 +445,7 @@ id_dsa
 mailchimp
 plugins
 proc
+server-status
 sources
 vue
 webui
@@ -450,7 +454,7 @@ wp-config.php~
 .idea
 127.0.0.1:801
 GponForm
-aab9
+aaa9
 application-prod.yml
 cron
 diag_Form
@@ -460,9 +464,8 @@ master
 openai.json
 react
 secrets.py
-server-status
+wordpress
 wp-config.bak
-wp-includes
 www.zip
 ..;
 .env.project
@@ -473,7 +476,6 @@ Dockerfile
 LogonPoint
 __fixtures__
 _next
-aaa9
 admin-app
 all
 audio
@@ -497,7 +499,7 @@ template
 tools
 ubuntu
 welcome.cgi
-wordpress
+wp
 .env.aws
 .env.copy
 .env_old
@@ -530,7 +532,6 @@ phpmyadmin5
 projbackend
 redmine
 sitemaps
-wp
 x.js
 ....
 .env-example
@@ -592,6 +593,7 @@ socket.io
 stag
 terraform
 webpages
+website
 withMongo
 withPostgres
 wp-config.php.swp
@@ -626,7 +628,6 @@ swagger-ui.html
 test-become
 upload
 vertex.json
-website
 wp-config.php.txt
 wp-config.txt
 %252f
@@ -728,6 +729,7 @@ wp-config.php.gz
 www.tar.gz
 xampp
 xml
+xmlrpc.php
 .anthropic
 .claude.json
 .cursor
@@ -829,7 +831,6 @@ wp-config.old
 wp-config.php.zip
 wp-load.php
 wp-settings.php
-xmlrpc.php
 $%28uname$%7BIFS%7D-n%29%7C%7Ccurl$%7BIFS%7D-fsSL$%7BIFS%7D-m$%7BIFS%7D4$%7BIFS%7Dhttp:
 $%28uname$%7BIFS%7D-n%29%7C%7Cwget$%7BIFS%7D-qO-$%7BIFS%7D-T$%7BIFS%7D4$%7BIFS%7Dhttp:
 %00s3
