@@ -238,8 +238,8 @@ tmp/
 twilio.env
 user/.env
 .env.live
-.env.development.local
 geoserver/web/
+.env.development.local
 .env_sample
 login
 .env.staging.local
@@ -2008,6 +2008,7 @@ device.rsp
 django-blog/.env
 django_project_path/.env.example
 dniapi/userInfos
+dns-query
 docker-network-healthcheck/.env
 docker/.env-prod
 docker/.env.example
@@ -2018,6 +2019,7 @@ docker/postgres/.env
 docs
 docs/.env.example
 dodoswap-client/.env
+doh
 elasticemail/.env
 elmah.axd
 en/.env.example
@@ -2297,6 +2299,7 @@ register/.env
 remote
 remote/fgt_lang
 repository/.env
+resolve
 resources/docker/.env
 resources/docker/mysql/.env
 resources/docker/phpmyadmin/.env
@@ -3812,6 +3815,7 @@ v1/statement
 v1/system/status
 v1/system/version
 v2/keys/
+v2/users
 v3/api-docs
 v4/%252eenv
 v4/.env

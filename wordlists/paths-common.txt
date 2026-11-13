@@ -238,8 +238,8 @@ tmp/
 twilio.env
 user/.env
 .env.live
-.env.development.local
 geoserver/web/
+.env.development.local
 .env_sample
 login
 .env.staging.local

@@ -95,11 +95,11 @@ yarn.lock
 bedrock.env
 env-config.js
 mysql.sql
+web
 app.log
 configuration.json
 google-services.json
 sse
-web
 server.key
 wp-config.php.bak
 .env.save.1
@@ -275,6 +275,7 @@ icanhazip.com:443
 list
 microsoft.exchange.ediscovery.exporttool.application
 system
+users
 .env-example
 .env-sample
 .env.back
@@ -306,7 +307,6 @@ runtime-env.js
 s3.json
 secrets.toml
 uploads
-users
 wp-admin
 wp-config.php.swp
 x.js
@@ -905,6 +905,8 @@ dev.env
 dev.secret.exs
 development%252eyml
 device.rsp
+dns-query
+doh
 elmah.axd
 embeddings
 env.local.php
@@ -994,6 +996,7 @@ rclone.conf
 rdweb
 readme.txt
 remote
+resolve
 rm-logo_small.png
 routes
 runtime-config.js

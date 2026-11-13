@@ -181,6 +181,7 @@ twilio
 %00.env
 back
 bot
+geoserver
 v3
 .config.yaml
 .env.example.php
@@ -196,7 +197,6 @@ cache
 compose
 config.dev.php
 download
-geoserver
 library
 package-lock.json
 secrets.env
@@ -352,6 +352,7 @@ enviroments
 login.htm
 mcp.json
 sdk
+users
 ~
 .config
 __tests__
@@ -369,7 +370,6 @@ production
 public_html
 scripts
 solr
-users
 .env.txt
 Jenkinsfile
 RDWeb
@@ -1726,9 +1726,11 @@ did-method-rest
 did-rest
 django-blog
 dniapi
+dns-query
 docker-network-healthcheck
 documents
 dodoswap-client
+doh
 dotenv-files
 drupal-separate-services
 edv-rest
@@ -1980,6 +1982,7 @@ redis-commander
 rediscommander
 renderer
 repository
+resolve
 resourcesync
 restapi
 rm-logo_small.png

@@ -240,8 +240,8 @@ user/.env
 wp-config.php.backup
 .env.stage
 .env.live
-.env.development.local
 geoserver/web/
+.env.development.local
 .env_sample
 .env.staging.local
 .env.template
