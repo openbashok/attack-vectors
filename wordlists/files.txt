@@ -108,6 +108,7 @@ server.js
 .json
 config.ini
 logs
+metadatauploader
 requirements.txt
 wp-config.php.backup
 .env.stage
@@ -124,7 +125,6 @@ dev
 env.example
 infos
 log
-metadatauploader
 php_error.log
 php_errors.log
 readme.md

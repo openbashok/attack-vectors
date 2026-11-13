@@ -188,6 +188,7 @@ wp-config.php.bak
 api/mcp
 cache/.env
 config.ini
+developmentserver/metadatauploader
 frontend/web/debug/default/view
 logs/
 logs/.env
@@ -212,7 +213,6 @@ crossdomain.xml
 database.config
 demo/
 dev/
-developmentserver/metadatauploader
 env.example
 facturacion/.env
 index.php?file=../../../../../../../../root/.aws/credentials

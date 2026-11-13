@@ -189,6 +189,7 @@ v3/.env
 api/mcp
 cache/.env
 config.ini
+developmentserver/metadatauploader
 frontend/web/debug/default/view
 k8s/secrets.yaml
 logs/
@@ -215,7 +216,6 @@ crossdomain.xml
 database.config
 demo/
 dev/
-developmentserver/metadatauploader
 env.example
 facturacion/.env
 infos/

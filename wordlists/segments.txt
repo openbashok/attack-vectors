@@ -226,6 +226,8 @@ erp
 server.js
 .json
 config.ini
+developmentserver
+metadatauploader
 requirements.txt
 sandbox
 stage
@@ -239,11 +241,9 @@ configuration.yaml
 credentials.ini
 crossdomain.xml
 database.config
-developmentserver
 env.example
 facturacion
 infos
-metadatauploader
 php_error.log
 php_errors.log
 pos
