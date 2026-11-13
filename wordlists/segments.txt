@@ -9,8 +9,8 @@ Util
 vendor
 api
 index.php
-app
 favicon.ico
+app
 test
 admin
 SDK
