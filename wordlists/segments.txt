@@ -52,10 +52,10 @@ backup
 robots.txt
 info
 .env.dev
+security.txt
 .env.save
 default
 laravel.log
-security.txt
 staging
 .env.prod
 tests
@@ -96,9 +96,9 @@ project
 .gitlab-ci.yml
 blog
 administrator
+.well-known
 index.html
 old
-.well-known
 credentials.json
 new
 site
@@ -272,11 +272,11 @@ wp-config.php.old
 .env.uat
 aws.json
 database.php
+sitemap.xml
 .env.config
 .env.dev.local
 id_rsa
 root
-sitemap.xml
 containers
 owa
 wc.db

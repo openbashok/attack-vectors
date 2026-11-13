@@ -6,8 +6,8 @@ index.php
 .env.production
 app/.env
 .env.bak
-.env.local
 robots.txt
+.env.local
 api/.env
 .env.save
 .aws/credentials
@@ -108,11 +108,11 @@ sendgrid.env
 settings.json
 test/.env
 .env.local.php
+.well-known/security.txt
 app_dev.php/_profiler/phpinfo
 main/.env
 secrets.yml
 system/.env
-.well-known/security.txt
 app_dev.php/_profiler/open
 auth/.env
 bot/.env
@@ -248,9 +248,9 @@ phpinfo
 wp-config.php.old
 .env.default
 .env.uat
+sitemap.xml
 .env.config
 .env.dev.local
-sitemap.xml
 .svn/wc.db
 *
 .env.secret

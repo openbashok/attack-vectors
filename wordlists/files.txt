@@ -18,9 +18,9 @@ secrets.yaml
 test
 robots.txt
 .env.dev
+security.txt
 .env.save
 laravel.log
-security.txt
 .env.prod
 config.php
 info
@@ -147,11 +147,11 @@ wp-config.php.old
 .env.uat
 aws.json
 database.php
+sitemap.xml
 .env.config
 .env.dev.local
 id_rsa
 json
-sitemap.xml
 v1
 wc.db
 *

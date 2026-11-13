@@ -97,6 +97,7 @@ sendgrid.env
 web.config
 .env.local.php
 .env.production.local
+.well-known/security.txt
 application.properties
 application.yml
 apps/.env
@@ -106,7 +107,6 @@ settings.json
 system/.env
 test/.env
 ../.env
-.well-known/security.txt
 app_dev.php/_profiler/open_file=app/config/parameters.yml
 app_dev.php/_profiler/phpinfo
 cms/.env
@@ -248,11 +248,11 @@ geoserver/web/
 login
 phpinfo
 .env.default
+sitemap.xml
 wp-config.php.old
 .env.config
 .env.dev.local
 .env.uat
-sitemap.xml
 .svn/wc.db
 _
 app/.git/config
