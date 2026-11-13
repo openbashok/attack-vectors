@@ -375,13 +375,13 @@ terraform.tfstate.backup
 .env.1
 .s3cfg
 abc7
+actuator/health
 cgi-bin/login.cgi
 login.jsp
 owa/auth/logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .env.docker
 .git/index
-actuator/health
 conf/.env
 config.inc.php
 config/master.key
@@ -481,6 +481,7 @@ laravel/core/.env
 mailer/.env
 new/.env.local
 new/.env.staging
+owa/auth/x.js
 production/.env
 redmine/.env
 sitemaps/.env
@@ -519,7 +520,6 @@ exapi/.env
 global-protect/login.esp
 instance/config.py
 lab/.env
-owa/auth/x.js
 psnlink/.env
 raw
 root/.aws/credentials
@@ -1165,6 +1165,7 @@ api/docs
 api/health
 api/login
 api/route
+api/session/properties
 api/settings
 api/shared/.env
 api/shared/config.env
@@ -1819,7 +1820,6 @@ api/client/update
 api/config.dev.env
 api/config.js
 api/docs/
-api/session/properties
 api/sonicos/auth
 api/sonicos/is-sslvpn-enabled
 api/sonicos/tfa

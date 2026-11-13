@@ -58,9 +58,9 @@ default
 laravel.log
 staging
 .env.prod
+auth
 cgi-bin
 tests
-auth
 config.php
 debug
 docker
@@ -136,8 +136,8 @@ application.yml
 debug.log
 docs
 uploads
-appsettings.json
 actuator
+appsettings.json
 htdocs
 site.zip
 %2eenv
@@ -272,14 +272,14 @@ wp-config.php.old
 .env.uat
 aws.json
 database.php
+health
 sitemap.xml
 .env.config
 .env.dev.local
-health
 id_rsa
+owa
 root
 containers
-owa
 wc.db
 workflows
 .env.secret
@@ -531,6 +531,7 @@ projbackend
 redmine
 sitemaps
 wp
+x.js
 ....
 .env-example
 .env-sample
@@ -594,7 +595,6 @@ webpages
 withMongo
 withPostgres
 wp-config.php.swp
-x.js
 .env.qa
 .env.yaml
 .env.yml
@@ -798,6 +798,7 @@ persistence
 php_info.php
 pom.xml
 prisma
+properties
 repo
 reports
 route
@@ -805,6 +806,7 @@ s3_config.json
 sample.env
 serverless.yaml
 serverless.yml
+session
 settings.local.json
 ssl.key
 sslvpn_logon.shtml
@@ -1019,7 +1021,6 @@ pfbe
 play-ground
 plugin-qiankun
 preview
-properties
 proxy
 rdx
 rdx_en.json.gz
@@ -1036,7 +1037,6 @@ sdl-first
 sellers.json
 serve-browserbench
 service-account-credentials.json
-session
 settings.ini
 setup
 setup.cgi

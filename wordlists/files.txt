@@ -163,9 +163,9 @@ backup.zip
 .env.sandbox
 .npmrc
 .s3cfg
+health
 config.py
 config.yml
-health
 version
 .env.sample
 hello.world
@@ -276,6 +276,7 @@ list
 microsoft.exchange.ediscovery.exporttool.application
 system
 users
+x.js
 .env-example
 .env-sample
 .env.back
@@ -311,7 +312,6 @@ socket.io
 uploads
 wp-admin
 wp-config.php.swp
-x.js
 .env.qa
 .env.yaml
 .env.yml
@@ -431,6 +431,7 @@ nc_gina_ver.txt
 owa
 php_info.php
 pom.xml
+properties
 s3_config.json
 sample.env
 serverless.yaml
@@ -529,7 +530,6 @@ mysql.php
 one.one.one.one:443
 phpmyadmin
 pma
-properties
 rdx_en.json.gz
 register
 s3.key

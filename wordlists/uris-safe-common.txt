@@ -379,6 +379,7 @@ sftp.json
 .env_1
 Jenkinsfile
 abc7
+actuator/health
 cgi-bin/login.cgi
 deploy/.env
 login.jsp
@@ -388,7 +389,6 @@ terraform.tfstate.backup
 .docker/config.json
 .env.docker
 .s3cfg
-actuator/health
 config.inc.php
 settings.php
 .git/index
@@ -472,6 +472,7 @@ id_rsa
 lib/.env
 local_settings.py
 mail/.env
+owa/auth/x.js
 private/.env
 production/.env
 redmine/.env
@@ -517,7 +518,6 @@ laravel/core/.env
 mailer/.env
 new/.env.local
 new/.env.staging
-owa/auth/x.js
 psnlink/.env
 raw
 root/.aws/credentials
@@ -1147,6 +1147,7 @@ api/docs
 api/health
 api/login
 api/route
+api/session/properties
 api/settings
 api/v1/
 api/v1/auto_login
