@@ -80,6 +80,8 @@ site.zip
 staging/.env
 application/.env
 info
+mcp
+mcp/
 package.json
 .env.dist
 blog/.env
@@ -87,8 +89,6 @@ config.env
 debug.log
 debug/default/view
 error.log
-mcp
-mcp/
 portal/.env
 shop/.env
 web.config
@@ -155,6 +155,7 @@ docs/.env
 env-config.js
 home/.env
 mysql.sql
+sse
 store/.env
 administrator/.env
 api/v2/.env
@@ -165,7 +166,6 @@ env.json
 google-services.json
 saas/.env
 services/.env
-sse
 app/config/parameters.yml
 assets/config.json
 bedrock.env
@@ -186,6 +186,7 @@ server.js
 static/.env
 v3/.env
 .json
+api/mcp
 cache/.env
 config.ini
 frontend/web/debug/default/view
@@ -202,7 +203,6 @@ wp-config.php.backup
 .env.stage
 .env/.env
 Application/.env
-api/mcp
 api/test
 app.log
 beta/
@@ -1063,6 +1063,7 @@ $(pwd)/.env.production
 %3Cscript%3Ealert%281%29%3C/script%3E.html
 %c0
 %u002f/.env
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ../../../../etc/passwd
 .AWS_/credentials
 .amazonq/mcp.json

@@ -77,11 +77,11 @@ staging/.env
 terraform.tfstate
 docker-compose.yaml
 info
+mcp
+mcp/
 site.zip
 application/.env
 blog/.env
-mcp
-mcp/
 package.json
 shop/.env
 .env.dist
@@ -154,6 +154,7 @@ docs/.env
 env-config.js
 home/.env
 mysql.sql
+sse
 store/.env
 administrator/.env
 api/v2/.env
@@ -164,7 +165,6 @@ download/.env
 env.json
 saas/.env
 services/.env
-sse
 assets/config.json
 bedrock.env
 data/.env
@@ -185,6 +185,7 @@ static/.env
 tmp/.env
 wp-config.php.bak
 .json
+api/mcp
 cache/.env
 config.ini
 frontend/web/debug/default/view
@@ -199,7 +200,6 @@ v3/.env
 .claude/.env
 .env/.env
 Application/.env
-api/mcp
 api/test
 app.log
 beta/
@@ -1039,6 +1039,7 @@ xml
 %3Cscript%3Ealert%281%29%3C/script%3E.html
 %c0
 %u002f/.env
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ../../../../etc/passwd
 .DS_Store
 .amazonq/mcp.json
@@ -2659,7 +2660,6 @@ ztp/cgi-bin/handler
 %77%70-%63%6f%6e%74%65%6e%74/.%65%6e%76_v=W51l2
 %77%70/.%65%6e%76_v=R8Xkc
 .%63%69%72%63%6c%65%63%69/%63%6f%6e%66%69%67.%79%6d%6c_v=dlGSX
-..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2F.env_v=18e62112c9193882
 ..%2f..%2f..%2f..%2f..%2f..%2fproc/self/environ
 ..%2f.env

@@ -95,11 +95,11 @@ yarn.lock
 bedrock.env
 env-config.js
 mysql.sql
+sse
 web
 app.log
 configuration.json
 google-services.json
-sse
 server.key
 wp-config.php.bak
 .env.save.1
@@ -566,6 +566,7 @@ xml
 %2f.env.production
 %3Cinvalid%3Ehello.html
 %c0
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .bzr
 .env.defaults
 .env.local.bak

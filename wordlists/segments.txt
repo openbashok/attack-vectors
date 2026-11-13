@@ -38,9 +38,9 @@ login
 core
 app_dev.php
 storage
+mcp
 server
 dev
-mcp
 www
 lib
 .env.bak
@@ -207,13 +207,13 @@ js
 kubernetes
 mysql.sql
 platform
+sse
 app.log
 configuration.json
 developer
 google-services.json
 rest
 saas
-sse
 .docker
 bak
 content
@@ -1079,6 +1079,7 @@ www.google.com:443
 %3Cscript%3Ealert%281%29%3C
 %c0
 %u002f
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .AWS_
 .auth
 .azure
