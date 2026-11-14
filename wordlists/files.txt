@@ -207,6 +207,7 @@ admin
 downloads
 id_ed25519
 index.js
+logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 ws
 .env.2
@@ -214,7 +215,6 @@ ws
 abc6
 abc8
 id_dsa
-logon.aspx
 terraform.tfstate.backup
 wp-config.php~
 abc7
@@ -252,6 +252,7 @@ env.js
 env.php
 formLogin
 server-status
+welcome.cgi
 www.zip
 .env.yaml
 .env.yml
@@ -264,7 +265,6 @@ auth
 autodiscover.json
 diag_Form
 openai.json
-welcome.cgi
 .dockerenv
 .env.new
 .env.project
@@ -657,6 +657,7 @@ htpasswd.txt
 hubspot.config
 hubspot.json
 i.php
+index.cgi
 index.jsp
 index.min.js
 index.php.bak
@@ -956,7 +957,6 @@ horizon
 host.php
 hubspot.yml
 images
-index.cgi
 index.do
 index.php.old
 index.plx

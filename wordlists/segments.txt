@@ -59,9 +59,9 @@ staging
 default
 laravel.log
 config.php
+auth
 tests
 .env.prod
-auth
 phpinfo.php
 debug
 cgi-bin
@@ -273,11 +273,11 @@ sitemap.xml
 .%65%6e%76
 config.py
 mysql
+owa
 shared
 .env.uat
 aws.json
 health
-owa
 .env.config
 .env.dev.local
 root
@@ -355,6 +355,7 @@ users
 .env.1
 Dr0v
 authorized_keys
+dana-na
 login.htm
 pki-validation
 production
@@ -363,7 +364,6 @@ scripts
 sdk
 .boto
 anthropic
-dana-na
 deploy
 enviroments
 login.cgi
@@ -381,6 +381,7 @@ docker-compose
 evox
 id_ed25519
 index.js
+logon.aspx
 pma
 private
 solr
@@ -393,7 +394,6 @@ babel-plugin-dotenv
 dist
 id_dsa
 live
-logon.aspx
 phpMyAdmin
 swagger
 task
@@ -469,6 +469,7 @@ server-status
 sources
 vue
 webui
+welcome.cgi
 withMongo
 withPostgres
 www.zip
@@ -488,7 +489,6 @@ en
 logon
 openai.json
 react
-welcome.cgi
 wordpress
 ..;
 .dockerenv
@@ -624,6 +624,7 @@ secrets.toml
 socket.io
 stag
 terraform
+url_default
 website
 wp-config.php.swp
 .env.qa
@@ -659,7 +660,6 @@ stats
 stripe
 swagger-ui.html
 upload
-url_default
 vertex.json
 webclient
 wp-config.php.txt
@@ -785,6 +785,7 @@ bedrock.config
 bitbucket-pipelines.yml
 buckets
 cdn-cgi
+cgi-mod
 charts
 check.js
 config.toml
@@ -926,7 +927,6 @@ bucoffea
 busybox$%7BIFS%7Dwget$%7BIFS%7D-qO-$%7BIFS%7D-T$%7BIFS%7D4$%7BIFS%7Dhttp:
 cdw-backend
 cert.pem
-cgi-mod
 ch6-mytodo
 ch8b-mytodo
 challenge
@@ -1244,6 +1244,7 @@ hubspot.config
 hubspot.json
 i.php
 i18n
+index.cgi
 index.jsp
 index.min.js
 index.php.bak
@@ -1846,7 +1847,6 @@ iam
 identity
 ikiwiki
 import-underscore
-index.cgi
 index.do
 index.php.old
 index.plx

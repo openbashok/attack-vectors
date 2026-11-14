@@ -377,6 +377,7 @@ config.py
 config/master.key
 downloads/
 evox/about
+owa/auth/logon.aspx
 public_html/.env
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 wp-config.php.orig
@@ -389,7 +390,6 @@ abc6
 abc8
 cgi-bin/login.cgi
 login.jsp
-owa/auth/logon.aspx
 sftp.json
 .docker/config.json
 .env_1
@@ -545,6 +545,7 @@ backend/.git/config
 blogs/.env
 config.php.save
 cronlab/.env
+dana-na/auth/url_default/welcome.cgi
 docker/app/.env
 en/.env
 env.js
@@ -585,7 +586,6 @@ aws-ses.json
 backend/.env.production
 credentials.csv
 credentials.yml
-dana-na/auth/url_default/welcome.cgi
 database.php
 druid/index.html
 enviroments/.env
@@ -1208,6 +1208,7 @@ boxes/oracle-vagrant-boxes/OLCNE/.env
 cardea/backend/.env
 cert.pem
 cgi-bin/welcome
+cgi-mod/index.cgi
 ch2-mytodo/.env
 ch8-mytodo/.env
 ch8a-mytodo/.env

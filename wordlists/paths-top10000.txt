@@ -373,6 +373,7 @@ HNAP1
 config.py
 downloads/
 evox/about
+owa/auth/logon.aspx
 public_html/.env
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 ws
@@ -385,7 +386,6 @@ app/.env.production
 cgi-bin/login.cgi
 deploy/.env
 login.jsp
-owa/auth/logon.aspx
 sftp.json
 terraform.tfstate.backup
 wp-config.php~
@@ -553,6 +553,7 @@ blogs/.env
 config.php.save
 credentials.yml
 cronlab/.env
+dana-na/auth/url_default/welcome.cgi
 en/.env
 env.js
 exapi/.env
@@ -587,7 +588,6 @@ awstats/.env
 backend/.env.production
 config/.env.local
 credentials.csv
-dana-na/auth/url_default/welcome.cgi
 database.php
 db.sql.gz
 druid/index.html
@@ -1237,6 +1237,7 @@ bootstrap.yml
 boxes/oracle-vagrant-boxes/OLCNE/.env
 cardea/backend/.env
 cgi-bin/welcome
+cgi-mod/index.cgi
 ch2-mytodo/.env
 ch8-mytodo/.env
 ch8a-mytodo/.env
@@ -1964,7 +1965,6 @@ cgi-bin/luci
 cgi-bin/param.cgi
 cgi-bin/printenv
 cgi-mod/header_logo.cgi
-cgi-mod/index.cgi
 ch6a-mytodo/.env
 ch7-mytodo/.env
 ch7a-mytodo/.env
