@@ -151,9 +151,9 @@ config.py
 v1
 .env.uat
 aws.json
+json
 .env.config
 .env.dev.local
-json
 *
 .npmrc
 HNAP1

@@ -266,10 +266,10 @@ login.html
 build
 database
 id_rsa
-panel
 json
-packages
+panel
 sitemap.xml
+packages
 .%65%6e%76
 config.py
 mysql

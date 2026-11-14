@@ -247,8 +247,8 @@ geoserver/web/
 .env.default
 wp-config.php.old
 login
-.env_sample
 sitemap.xml
+.env_sample
 phpinfo
 .env.config
 .env.dev.local
@@ -3732,6 +3732,7 @@ infra/%2eenv?v=yJACU
 infra/.env?v=18e6211f7aa94bb0
 infrastructure.zip
 internal_forms_authentication
+ip-api.com:80
 jasperserver-pro/login.html
 jasperserver/login.html
 jasperserverTest/login.html
@@ -3745,6 +3746,7 @@ joomla.zip
 js/.env?v=18e62112771f0f12
 js/NewWindow_2_all.js
 js/main.js?v=18e6211124d895fa
+json/?fields=status,query,country,countryCode,isp,proxy,hosting
 json/login_session
 ju9t0fhp8tatgc
 jupyter_server_config.json?v=18e6211e730101e6

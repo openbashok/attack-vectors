@@ -247,8 +247,8 @@ geoserver/web/
 .env.default
 wp-config.php.old
 login
-.env_sample
 sitemap.xml
+.env_sample
 phpinfo
 .env.config
 .env.dev.local

@@ -246,8 +246,8 @@ login
 wp-config.php.old
 .env.default
 .env_sample
-phpinfo
 sitemap.xml
+phpinfo
 .env.uat
 .env.config
 .env.dev.local
@@ -3436,6 +3436,7 @@ infra.zip
 infra/%2eenv
 infrastructure.zip
 internal_forms_authentication
+ip-api.com:80
 jasperserver-pro/login.html
 jasperserver/login.html
 jasperserverTest/login.html
@@ -3448,6 +3449,7 @@ joomla.tar.gz
 joomla.zip
 js/NewWindow_2_all.js
 js/main.js
+json/
 json/login_session
 ju9t0fhp8tatgc
 jupyter_server_config.json

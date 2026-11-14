@@ -246,8 +246,8 @@ login
 wp-config.php.old
 .env.default
 .env_sample
-phpinfo
 sitemap.xml
+phpinfo
 .env.uat
 .env.config
 .env.dev.local
