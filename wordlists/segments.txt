@@ -115,10 +115,10 @@ db
 terraform.tfstate
 .env.testing
 data
+portal
 secrets.yml
 .ssh
 application
-portal
 aws.yml
 dashboard
 examples
@@ -624,6 +624,7 @@ main.js
 marketing
 node_modules
 properties
+redlion
 refs
 session
 stripe
@@ -707,7 +708,6 @@ phpMyAdmin2
 phpMyAdmin3
 phpmy-admin
 private.key
-redlion
 register
 releases
 routes
@@ -888,6 +888,7 @@ acme
 acme-challenge
 active-coins
 agc
+ai
 alpha
 amp_conf
 anaconda
@@ -1147,7 +1148,6 @@ admins
 ads.txt
 agent
 agora
-ai
 amplifyconfiguration.json
 angular
 apiconfig.json
@@ -1366,6 +1366,7 @@ setup.md
 shopdb
 showLogin.cc
 signin
+site-profile.json
 source
 sql-admin
 sqlweb
@@ -2020,7 +2021,6 @@ sidetree-mock
 sign_in
 simcore
 site-library
-site-profile.json
 siteMariage
 sitestatic
 smtp

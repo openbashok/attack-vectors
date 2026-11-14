@@ -335,6 +335,7 @@ mail.php
 main
 main.js
 properties
+redlion
 swagger-ui.html
 vertex.json
 wp-config.php.txt
@@ -387,7 +388,6 @@ local.settings.json
 login.js
 main.yml
 private.key
-redlion
 secrets.js
 smtp.env
 status
@@ -707,6 +707,7 @@ setup.md
 shell
 showLogin.cc
 signin
+site-profile.json
 storage.yml
 stripe-credentials.json
 sunrise
@@ -1014,7 +1015,6 @@ settings.gradle
 settings.xml
 settings.yml
 sign_in
-site-profile.json
 sql.php
 sslvpnLogin.html
 start.htm

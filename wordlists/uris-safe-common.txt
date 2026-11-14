@@ -554,6 +554,7 @@ enviroments/.env
 enviroments/.env.production
 laravel/.env.example
 manager/html
+portal/redlion
 proc/self/environ
 server/.env.local
 src/.env.local
@@ -630,7 +631,6 @@ master/.env
 new/.env.production
 nginx/.env
 node_modules/.env
-portal/redlion
 product/.env.staging
 react/.env
 releases/.env
@@ -1140,6 +1140,7 @@ administrator/web/index.php_lang=en
 adminpanel
 ads.txt
 agora/.env
+ai/site-profile.json
 amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
