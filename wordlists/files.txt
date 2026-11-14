@@ -142,10 +142,10 @@ wp-config.php.old
 .env.default
 database.php
 login.html
+sitemap.xml
 %252eenv
 .env_sample
 id_rsa
-sitemap.xml
 .%65%6e%76
 config.py
 v1
@@ -202,6 +202,7 @@ master.key
 mcp.json
 sdk
 wp-config.php.orig
+ws
 .travis.yml
 admin
 downloads
@@ -209,7 +210,6 @@ id_ed25519
 index.js
 logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
-ws
 .env.2
 .env.test.local
 abc6

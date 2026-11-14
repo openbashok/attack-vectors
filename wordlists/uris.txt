@@ -75,6 +75,7 @@ dashboard/.env
 database.sql
 env
 .env.php
+.well-known/security.txt
 db.sql
 mcp
 site.zip
@@ -82,7 +83,6 @@ staging/.env
 terraform.tfstate
 .env.dist
 .env.production.local
-.well-known/security.txt
 info
 mcp/
 secrets.yml
@@ -245,9 +245,9 @@ geoserver/web/
 .env.staging.local
 .env.template
 .env.default
+sitemap.xml
 wp-config.php.old
 login
-sitemap.xml
 .env_sample
 phpinfo
 .env.config
@@ -371,6 +371,7 @@ config.inc.php
 sdk
 settings.php
 version
+ws
 HNAP1
 conf/.env
 config.py
@@ -381,7 +382,6 @@ owa/auth/logon.aspx
 public_html/.env
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 wp-config.php.orig
-ws
 .env.2
 .env.test.local
 .git/logs/HEAD

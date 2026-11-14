@@ -81,10 +81,10 @@ terraform.tfstate
 .env.dist
 .env.php
 .env.production.local
+.well-known/security.txt
 mcp
 secrets.yml
 staging/.env
-.well-known/security.txt
 application/.env
 info
 mcp/
@@ -245,8 +245,8 @@ geoserver/web/
 login
 wp-config.php.old
 .env.default
-.env_sample
 sitemap.xml
+.env_sample
 phpinfo
 .env.uat
 .env.config
@@ -367,6 +367,7 @@ sdk
 settings.php
 version
 wp-config.php.orig
+ws
 .git/logs/HEAD
 .travis.yml
 HNAP1
@@ -376,7 +377,6 @@ evox/about
 owa/auth/logon.aspx
 public_html/.env
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
-ws
 .docker/config.json
 .env.2
 .env.test.local

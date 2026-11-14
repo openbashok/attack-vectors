@@ -50,10 +50,10 @@ demo
 docker
 backup
 .env.dev
-assets
 security.txt
-info
+assets
 robots.txt
+info
 .env.save
 staging
 default
@@ -92,9 +92,9 @@ html
 .env.development
 services
 .gitlab-ci.yml
+.well-known
 old
 prod
-.well-known
 database.yml
 index.html
 info.php
@@ -134,8 +134,8 @@ main
 .env:80
 bin
 htdocs
-test.php
 ws
+test.php
 debug.log
 docs
 uploads
@@ -260,6 +260,7 @@ wp-config.php.old
 .env.default
 database.php
 login.html
+sitemap.xml
 %252eenv
 .env_sample
 .github
@@ -268,7 +269,6 @@ database
 id_rsa
 json
 panel
-sitemap.xml
 packages
 .%65%6e%76
 config.py
