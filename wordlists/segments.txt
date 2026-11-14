@@ -13,8 +13,8 @@ favicon.ico
 app
 test
 .env.local
-admin
 SDK
+admin
 webLanguage
 .%2e
 .env.production
@@ -346,6 +346,7 @@ static..
 swagger.json
 .env.txt
 .git-credentials
+Dr0v
 Jenkinsfile
 assets..
 backups
@@ -354,7 +355,6 @@ media..
 users
 .circleci
 .env.1
-Dr0v
 authorized_keys
 login.htm
 pki-validation

@@ -341,6 +341,7 @@ docker-compose.prod.yml
 static../.git/config
 .env.sample
 .env.txt
+Dr0v
 assets../.git/config
 backup/.git/config
 cms/.git/config
@@ -360,7 +361,6 @@ project/.git/config
 .git-credentials
 .vscode/settings.json
 .well-known/pki-validation/update
-Dr0v
 Jenkinsfile
 login.htm
 manage/account/login

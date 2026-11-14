@@ -335,6 +335,7 @@ config/aws.yml
 static../.git/config
 .env.txt
 .git-credentials
+Dr0v
 Jenkinsfile
 assets../.git/config
 backup/.git/config
@@ -354,7 +355,6 @@ project/.git/config
 .git/index
 .vscode/settings.json
 .well-known/pki-validation/update
-Dr0v
 login.htm
 manage/account/login
 pub/
