@@ -42,10 +42,10 @@ database.yml
 index.html
 info.php
 wp-config.php
-secrets.yml
-credentials.json
 get
 ip.cypher.rest:443
+secrets.yml
+credentials.json
 config.env
 env
 terraform.tfstate
@@ -185,12 +185,12 @@ docker-compose.prod.yml
 sftp-config.json
 index
 swagger.json
+update
 .env.txt
 .git-credentials
 Jenkinsfile
 about
 files
-update
 .env.1
 Dr0v
 authorized_keys

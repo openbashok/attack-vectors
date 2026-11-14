@@ -32,9 +32,9 @@ src/.env
 .env.development
 wp-config.php
 admin/.env
-.git/HEAD
 get
 ip.cypher.rest:443
+.git/HEAD
 site/.env
 server/.env
 info.php
@@ -353,11 +353,11 @@ project/.git/config
 .env.1
 .git/index
 .vscode/settings.json
+.well-known/pki-validation/update
 Dr0v
 login.htm
 manage/account/login
 pub/
-.well-known/pki-validation/update
 admin/index.html
 conf/.env
 config.inc.php

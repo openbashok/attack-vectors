@@ -30,9 +30,9 @@ public/.env
 src/.env
 wp-config.php
 .env.development
-admin/.env
 get
 ip.cypher.rest:443
+admin/.env
 site/.env
 .git/HEAD
 server/.env
@@ -359,13 +359,13 @@ project/.git/config
 .env.1
 .git-credentials
 .vscode/settings.json
+.well-known/pki-validation/update
 Dr0v
 Jenkinsfile
 login.htm
 manage/account/login
 pub/
 .git/index
-.well-known/pki-validation/update
 admin/index.html
 config.inc.php
 sdk

@@ -91,8 +91,8 @@ temp
 html
 .env.development
 services
-.gitlab-ci.yml
 .well-known
+.gitlab-ci.yml
 prod
 .ssh
 database.yml
@@ -102,11 +102,11 @@ site
 blog
 project
 wp-config.php
+get
+ip.cypher.rest:443
 secrets.yml
 administrator
 credentials.json
-get
-ip.cypher.rest:443
 old
 new
 system
@@ -334,6 +334,7 @@ etc
 remote
 resources
 sftp-config.json
+update
 account
 index
 manage
@@ -341,7 +342,6 @@ php
 phpmyadmin
 static..
 swagger.json
-update
 .env.txt
 .git-credentials
 Jenkinsfile
@@ -355,6 +355,7 @@ media..
 Dr0v
 authorized_keys
 login.htm
+pki-validation
 sdk
 .boto
 anthropic
@@ -363,7 +364,6 @@ enviroments
 login.cgi
 master.key
 mcp.json
-pki-validation
 users
 wp-config.php.orig
 ~
