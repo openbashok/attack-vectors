@@ -5,8 +5,8 @@ SDK/webLanguage
 .env.production
 .env.bak
 app/.env
-robots.txt
 .env.local
+robots.txt
 .env.save
 api/.env
 .aws/credentials
@@ -30,9 +30,9 @@ public/.env
 src/.env
 wp-config.php
 .env.development
+admin/.env
 get
 ip.cypher.rest:443
-admin/.env
 site/.env
 .git/HEAD
 server/.env
@@ -69,25 +69,25 @@ backup/.env
 crm/.env
 dev/.env
 dump.sql
-.env.dist
 .env.json
-.env.production.local
-.well-known/security.txt
 backup.sql
 dashboard/.env
 database.sql
 env
-mcp
 .env.php
 db.sql
-mcp/
 site.zip
 staging/.env
 terraform.tfstate
+.env.dist
+.env.production.local
+.well-known/security.txt
 info
+mcp
 secrets.yml
 application/.env
 blog/.env
+mcp/
 package-lock.json
 package.json
 shop/.env
@@ -118,8 +118,6 @@ demo/.env
 main/.env
 secrets.yaml
 test
-wp-config.php.bak
-.aws/config
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -146,7 +144,6 @@ phpinfo/
 secrets.env
 sendgrid/.env
 sendgrid/.env.php
-sse
 test/.env.php
 twilio/.env.php
 uploads/.env
@@ -158,6 +155,8 @@ env-config.js
 home/.env
 mysql.sql
 store/.env
+wp-config.php.bak
+.aws/config
 administrator/.env
 api/v2/.env
 aws.yml
@@ -167,15 +166,14 @@ download/.env
 env.json
 saas/.env
 services/.env
+sse
 assets/config.json
 bedrock.env
 data/.env
-developmentserver/metadatauploader
 google-services.json
 login/.env
 temp/.env
 .env.save.1
-api/mcp
 app/config/parameters.yml
 bak/.env
 content/.env
@@ -187,10 +185,10 @@ server.js
 server.key
 static/.env
 tmp/.env
-.env.development.local
 .json
 cache/.env
 config.ini
+developmentserver/metadatauploader
 frontend/web/debug/default/view
 logs/
 logs/.env
@@ -202,6 +200,7 @@ v3/.env
 .claude/.env
 .env/.env
 Application/.env
+api/mcp
 api/test
 app.log
 beta/
@@ -216,7 +215,6 @@ demo/
 dev/
 env.example
 facturacion/.env
-geoserver/web/
 index.php?file=../../../../../../../../root/.aws/credentials
 infos/
 k8s/secrets.yaml
@@ -240,6 +238,8 @@ tmp/
 twilio.env
 user/.env
 wp-config.php.backup
+.env.development.local
+geoserver/web/
 .env.stage
 .env.live
 .env.staging.local
@@ -378,6 +378,7 @@ config/master.key
 downloads/
 evox/about
 public_html/.env
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 wp-config.php.orig
 ws
 .env.2
@@ -390,7 +391,6 @@ cgi-bin/login.cgi
 login.jsp
 owa/auth/logon.aspx
 sftp.json
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .docker/config.json
 abc7
 actuator/health
@@ -418,6 +418,7 @@ app/config/.env
 compose/.env
 dist/.env
 local_settings.py
+server/.env.local
 shared/.env
 var/www/.env
 wp-content/.env
@@ -447,6 +448,7 @@ GponForm/diag_Form?images/
 aaa9
 actuator/configprops
 actuator/env
+autodiscover/autodiscover.json?@zdi/Powershell
 backup.tar.gz
 backup.zip
 config.php.old
@@ -455,7 +457,6 @@ config/settings.py
 laravel/.env.example
 openapi.json
 server-status
-server/.env.local
 src/.env.local
 v1
 wp-admin/.env
@@ -468,7 +469,6 @@ www.zip
 api
 api/metrics/run
 audio/.env
-autodiscover/autodiscover.json?@zdi/Powershell
 cgi-bin/.env
 config.yaml
 config.yml
@@ -478,6 +478,7 @@ cron/.env
 development/.env
 doc/index.html
 ecosystem.config.js
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 panel/.env
 protected/.env
 service-account.json
@@ -508,7 +509,6 @@ django/settings.py
 docker/compose/.env
 docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env.txt
 files/.env
 frontend/.env.local
@@ -801,6 +801,7 @@ _layouts/15/error.aspx
 acme-challenge/.env
 acme/.env
 admin.php
+admin/.env.local
 admin/.env.staging
 alpha/.env
 amplify/team-provider-info.json
@@ -842,6 +843,8 @@ backup.tar
 backup.tgz
 base_dir/.env
 basic-network/.env
+beta/.env.local
+beta/.env.production
 bgoldd/.env
 bitbucket-pipelines.yml
 blankon/.env
@@ -869,6 +872,7 @@ configuration.php.bak
 connect.php
 connection.php
 console
+crm/.env.local
 crm/.env.production
 css/.env
 data.sql
@@ -876,6 +880,9 @@ database.zip
 db.tar.gz
 db.zip
 demo/.env.local
+demo/.env.production
+demo/.env.staging
+dev/.env.staging
 developerslv/.env
 directories/.env
 django_project_path/.env
@@ -929,6 +936,9 @@ laravel/core/.env.staging
 libraries/.env
 libs/.env
 license.txt
+live/.env.local
+live/.env.production
+live/.env.staging
 localhost/.env
 locally/.env
 logging/.env
@@ -936,6 +946,7 @@ logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 magento/.env
 market/.env.production
+market/.env.staging
 mcp.json
 middleware/.env
 misc/.env
@@ -943,6 +954,8 @@ mysql.php
 newsite/.env
 nginx-server/.env
 nuxt/.env
+old/.env.local
+old/.env.staging
 old/aws_config
 one.one.one.one:443
 openai.json
@@ -992,6 +1005,7 @@ speed.cloudflare.com:443
 src/config.js
 src/gameprovider-service/.env
 staging/.env.local
+staging/.env.staging
 stats/.env
 stripe/.env
 swagger-ui.html
@@ -1053,6 +1067,7 @@ $(pwd)/.env.production
 .config/gcloud/credentials.db
 .cursor/mcp.json
 .dockerignore
+.env.debug
 .env.defaults
 .env.gz
 .env.previous
@@ -1301,6 +1316,7 @@ gitlab-ci/.env
 global.asa
 google-ai.json
 google/service-account.json
+help/.env
 home/ec2-user/.aws/credentials
 home/ubuntu/.aws/credentials
 host_vars/
@@ -1426,6 +1442,7 @@ pma
 pma/index.php?lang=en
 pmahomme/index.php?lang=en
 prisma/.env
+profile/.env
 program/index.php?lang=en
 proxy
 react/config.json
