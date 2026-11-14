@@ -205,13 +205,13 @@ Jenkinsfile
 abc6
 abc8
 index
+logon.aspx
 terraform.tfstate.backup
 .env.1
 abc7
 api
 authorized_keys
 db.php
-logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
 .env.docker
@@ -1032,6 +1032,7 @@ values.yaml
 wallet.dat
 wallets
 web.config.bak
+webclient
 webconsole
 webhook_secret.env
 winscp.ini

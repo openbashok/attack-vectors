@@ -373,6 +373,7 @@ ws
 .git/logs/HEAD
 abc6
 abc8
+owa/auth/logon.aspx
 sftp.json
 .docker/.env
 .docker/config.json
@@ -384,7 +385,6 @@ actuator/health
 cgi-bin/login.cgi
 deploy/.env
 login.jsp
-owa/auth/logon.aspx
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 terraform.tfstate.backup
 .env.docker

@@ -373,6 +373,7 @@ ws
 .git/logs/HEAD
 abc6
 abc8
+owa/auth/logon.aspx
 sftp.json
 .docker/.env
 .docker/config.json
@@ -384,7 +385,6 @@ actuator/health
 cgi-bin/login.cgi
 deploy/.env
 login.jsp
-owa/auth/logon.aspx
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 terraform.tfstate.backup
 .env.docker
@@ -3758,6 +3758,7 @@ main.pl
 main.yml_v=18e6211172c377c2
 main/.env_v=18e621126126ff05
 manage.php
+management
 manager/.env
 marketplace/.env
 master.zip
@@ -4264,6 +4265,7 @@ web/config.js
 web/debug/default/view
 web/wp-includes/wlwmanifest.xml
 web_2024.zip
+webclient
 webclient/
 webfig/
 webpack.config.js_v=18e6211f8eca67f6

@@ -369,6 +369,7 @@ Jenkinsfile
 abc6
 abc8
 deploy/.env
+owa/auth/logon.aspx
 sftp.json
 terraform.tfstate.backup
 .docker/.env
@@ -378,7 +379,6 @@ abc7
 actuator/health
 cgi-bin/login.cgi
 login.jsp
-owa/auth/logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .env.docker
 .git/index
@@ -3444,6 +3444,7 @@ main.ipynb
 main.pl
 main.yml
 manage.php
+management
 manager/.env
 marketplace/.env
 master.zip
@@ -3847,6 +3848,7 @@ web/config.js
 web/debug/default/view
 web/wp-includes/wlwmanifest.xml
 web_2024.zip
+webclient
 webclient/
 webfig/
 webportal.cgi

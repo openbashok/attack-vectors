@@ -369,6 +369,7 @@ Jenkinsfile
 abc6
 abc8
 deploy/.env
+owa/auth/logon.aspx
 sftp.json
 terraform.tfstate.backup
 .docker/.env
@@ -378,7 +379,6 @@ abc7
 actuator/health
 cgi-bin/login.cgi
 login.jsp
-owa/auth/logon.aspx
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .env.docker
 .git/index

@@ -273,11 +273,11 @@ wp-config.php.old
 aws.json
 database.php
 health
+owa
 sitemap.xml
 .env.config
 .env.dev.local
 id_rsa
-owa
 root
 containers
 wc.db
@@ -380,6 +380,7 @@ babel-plugin-dotenv
 conf
 dist
 index
+logon.aspx
 phpMyAdmin
 swagger
 task
@@ -392,7 +393,6 @@ code
 db.php
 development
 includes
-logon.aspx
 self
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 terraform.tfvars
@@ -726,6 +726,7 @@ ui
 url_default
 views
 webadmin
+webclient
 webdb
 websql
 wp-config.php.dist
@@ -792,6 +793,7 @@ latest
 lcomernbootcamp
 local.py
 localhost
+management
 monitoring
 myapp
 nc
@@ -823,7 +825,6 @@ validate
 vars
 version.php
 versions
-webclient
 withMySQL
 withRedis
 wp-blog-header.php
@@ -1000,7 +1001,6 @@ locally
 logging
 login.php
 magento
-management
 manifest
 manifest.json
 middleware
