@@ -16,8 +16,8 @@ credentials
 mcp
 secrets.yaml
 test
-.env.dev
 security.txt
+.env.dev
 robots.txt
 .env.save
 laravel.log
@@ -26,8 +26,8 @@ config.php
 phpinfo.php
 config.js
 info
-settings.py
 login
+settings.py
 .env.local.php
 view
 .env.old
@@ -38,15 +38,15 @@ docker-compose.yml
 settings.json
 .env.development
 .gitlab-ci.yml
-database.yml
 index.html
+database.yml
 info.php
 wp-config.php
 config.env
-secrets.yml
-credentials.json
 get
 ip.cypher.rest:443
+secrets.yml
+credentials.json
 env
 terraform.tfstate
 .env.testing
@@ -152,9 +152,9 @@ v1
 .env.uat
 aws.json
 json
+*
 .env.config
 .env.dev.local
-*
 .npmrc
 HNAP1
 wc.db
@@ -167,12 +167,12 @@ config.yml
 .env~
 .env.sandbox
 .htpasswd
+login.jsp
 .env.swp
 .s3cfg
 app.php
 configuration.php
 health
-login.jsp
 settings.php
 version
 .htaccess
@@ -236,6 +236,7 @@ service-account.json
 .env_old
 docker-compose.override.yml
 openapi.json
+welcome.cgi
 wlwmanifest.xml
 .env.prod.local
 .netrc
@@ -252,7 +253,6 @@ env.js
 env.php
 formLogin
 server-status
-welcome.cgi
 www.zip
 .env.yaml
 .env.yml
@@ -357,6 +357,7 @@ main
 main.js
 properties
 redlion
+sslvpn_logon.shtml
 swagger-ui.html
 vertex.json
 wp-config.php.txt
@@ -404,7 +405,6 @@ main.yml
 private.key
 secrets.js
 smtp.env
-sslvpn_logon.shtml
 status
 webui
 wp-config.php.dist
@@ -593,6 +593,7 @@ AndroidManifest.xml
 CHANGELOG.md
 COMMIT_EDITMSG
 CVS
+EasyConnectInstaller.exe
 FileZilla.xml
 HostCheckerInstaller.osx
 INSTALL.md
@@ -625,6 +626,7 @@ bootstrap.yml
 build.yml
 client
 clientaccesspolicy.xml
+clients
 cline_mcp_settings.json
 cmd.exe
 conf.json
@@ -643,6 +645,7 @@ env.backup
 env.bak
 env.dev.js
 env.development.js
+extender.html
 favicon.png
 fly.toml
 fullchain.pem
@@ -663,12 +666,16 @@ index.jsp
 index.min.js
 index.php.bak
 index.php~
+index.plx
 infophp.php
 init.json
+install.exe
 inventory.ini
 key.pem
 logfile
 login.aspx
+login_auth.csp
+login_psw.csp
 login_up.php
 logout
 master
@@ -722,6 +729,7 @@ version.json
 versions
 vertex-ai-credentials.json
 vertex-ai.json
+vpntunnel
 webclient
 webpack.config.js
 welcome
@@ -837,7 +845,6 @@ zld_product_spec.js
 Accounts
 Auth
 CHANGELOG.txt
-EasyConnectInstaller.exe
 EndUserPortal.jsp
 Gemfile
 GetPhpInfo.php
@@ -897,7 +904,6 @@ bedrock-credentials.yml
 cgiChkMasterPwd.exe
 check-version
 client_secret.json
-clients
 cluster_credentials.json
 completions
 componentutils
@@ -935,7 +941,6 @@ environment.ts
 eventmanager
 example.env
 executions
-extender.html
 favicon-19fbef86.svg
 favicon-abe32304.png
 fetch
@@ -959,12 +964,10 @@ hubspot.yml
 images
 index.do
 index.php.old
-index.plx
 info%252ephp
 info.asp
 info.cgi
 info.xml
-install.exe
 ip.ifconfig.dpdns.org:443
 is-sslvpn-enabled
 jolokia
@@ -982,8 +985,6 @@ llms.txt
 local.properties
 localization.js
 login.action
-login_auth.csp
-login_psw.csp
 logo.gif
 logo.png
 luci
@@ -1049,7 +1050,6 @@ updates
 userInfos
 userfiles
 values.yaml
-vpntunnel
 wallet.dat
 wallets
 web.config.bak

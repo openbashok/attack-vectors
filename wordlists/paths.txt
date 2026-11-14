@@ -32,23 +32,23 @@ src/.env
 .env.development
 wp-config.php
 admin/.env
-.git/HEAD
 get
 ip.cypher.rest:443
+.git/HEAD
 site/.env
-server/.env
 info.php
+server/.env
 _profiler/phpinfo
 .env.testing
 prod/.env
 core/.env
 www/.env
+security.txt
 api/.git/config
 html/.env
 .svn/entries
 config.js
 secrets.json
-security.txt
 storage/.env
 v1/.env
 settings/.env
@@ -70,6 +70,7 @@ htdocs/.env
 .kube/config
 dev/.env
 dump.sql
+.well-known/security.txt
 backup.sql
 dashboard/.env
 database.sql
@@ -82,7 +83,6 @@ terraform.tfstate
 .env.dist
 .env.php
 .env.production.local
-.well-known/security.txt
 mcp/
 secrets.yml
 staging/.env
@@ -249,9 +249,9 @@ sitemap.xml
 .env_sample
 phpinfo
 .env.uat
+*
 .env.config
 .env.dev.local
-*
 .npmrc
 .svn/wc.db
 .env.secret
@@ -510,6 +510,7 @@ client/.env.local
 config.inc.php.bak
 config/environment.rb
 core/app/.env
+dana-na/auth/url_default/welcome.cgi
 django/settings.py
 docker/app/.env
 docker/compose/.env
@@ -553,7 +554,6 @@ blogs/.env
 config.php.save
 credentials.yml
 cronlab/.env
-dana-na/auth/url_default/welcome.cgi
 en/.env
 env.js
 exapi/.env
@@ -604,6 +604,7 @@ portal/redlion
 proc/self/environ
 s3/bucket.env
 scripts/.env
+sslvpn_logon.shtml
 user/.env.staging
 vendor/laravel/.env
 website/.env
@@ -663,6 +664,7 @@ lambda/.env
 laravel/.env.local
 laravel/.env.production
 laravel/.env.staging
+logon/LogonPoint/index.html
 manager/text/list
 master/.env
 private.key
@@ -675,7 +677,6 @@ s3/.env.bak
 script/.env
 sites/.env
 sites/default/settings.php
-sslvpn_logon.shtml
 stag/.env
 static/admin/javascript/hetong.js
 storage/.env.local
@@ -734,7 +735,6 @@ includes/config.php
 includes/db.php
 keys.json
 lib/config.php
-logon/LogonPoint/index.html
 mcp.json
 next/.env
 owa/
@@ -756,6 +756,7 @@ templates/.env
 upload/.env
 users/.env
 var/.env
+vpn/index.html
 web/.git/config
 wp-admin/
 wp-blog-header.php
@@ -1053,7 +1054,6 @@ var/task/amplify/backend/function/*/src/index.js
 vendor/.env.example
 vod_installer/.env
 vpn
-vpn/index.html
 vpn/js/rdx/core/lang/rdx_en.json.gz
 vue/.env
 web_shell_cmd.gch
@@ -1245,6 +1245,7 @@ ch8a-mytodo/.env
 claude.json
 client/src/.env
 clientaccesspolicy.xml
+clients
 cline_mcp_settings.json
 clld_dir/.env
 cloud/config.json
@@ -1253,6 +1254,8 @@ cmd/testdata/expected/dot_env/.env
 code/api/.env
 code/web/.env
 collab-connect-web-application/server/.env
+com/EasyConnectInstaller.exe
+com/install.exe
 conf.json
 config.php.orig
 config.php.swo
@@ -1327,6 +1330,7 @@ examples/vue-dashboard/backend/.env
 examples/web/.env
 examples/with-cookie-auth-fauna/.env
 ext-js/app/common/zld_product_spec.js
+extender.html
 fastlane/.env
 favicons/.env
 fhir-api/.env
@@ -1356,6 +1360,7 @@ hubspot.json
 i.php
 index.php.bak
 index.php~
+index.plx
 infophp.php
 integration/.env
 internal/.env
@@ -1467,11 +1472,14 @@ phpmyadmin6/index.php
 phpmyadmin_/index.php
 phppma/index.php
 pmahomme/index.php
+por/login_auth.csp
+por/login_psw.csp
 prisma/.env
 private.pem
 profile/.env
 program/index.php
 proxy
+prx/000/http/localhost/login
 react/config.json
 register
 release/.env
@@ -1538,6 +1546,7 @@ tests/todo-react/.env
 tiedostot/.env
 ui/.env
 urlmem-app/.env
+userportal/webpages/myaccount/login.jsp
 v1/models
 var/task/.env
 vertex-ai-credentials.json
@@ -1545,6 +1554,7 @@ vertex-ai.json
 vertex.json
 videos/.env
 vpnsvc/connect.cgi
+vpntunnel
 vue-end/vue-til/.env
 vue/config.json
 vue_CRM/.env
@@ -1976,7 +1986,6 @@ client
 client/.env.production
 client/mutual-fund-app/.env
 client_secret.json
-clients
 club/.env
 cluster/list.query
 cluster_credentials.json
@@ -1984,8 +1993,6 @@ cms/.env.prod
 cms/.env.production
 codenames-frontend/.env
 collected_static/.env
-com/EasyConnectInstaller.exe
-com/install.exe
 common/.env.bak
 compose.yml
 composer/auth.json
@@ -2114,7 +2121,6 @@ examples/with-firebase-authentication-serverless/.env
 examples/with-react-relay-network-modern/.env
 examples/with-relay-modern/.env
 examples/with-universal-configuration-build-time/.env
-extender.html
 extlib/.env
 favs/.env
 fe/.env
@@ -2178,7 +2184,6 @@ inc/.env
 index.do
 index.js
 index.php.old
-index.plx
 info.asp
 info/.env.dev
 install/.env
@@ -2324,8 +2329,6 @@ pipeline/.env
 playground/.env
 plugin_static/.env
 plugins/.env
-por/login_auth.csp
-por/login_psw.csp
 portal/
 portal/.env.local
 portal/.env.production
@@ -2353,7 +2356,6 @@ project/.env.local
 project/.env.production
 project/.env.staging
 project_root/.env
-prx/000/http/localhost/login
 pt2/countries/src/.env
 pt8/library-backend-gql/.env
 pub/.env.example
@@ -2569,7 +2571,6 @@ unsplash-downloader/.env
 upfiles/.env
 user
 userfiles
-userportal/webpages/myaccount/login.jsp
 users/config.env
 users/sign_in
 usr/.env
@@ -2590,7 +2591,6 @@ versa/login
 versions
 vm-docker-compose/.env
 vpn/pluginlist.xml
-vpntunnel
 vue/vuecli/.env
 web.config.bak
 web/.env.bak

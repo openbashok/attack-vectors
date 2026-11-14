@@ -32,23 +32,23 @@ src/.env
 .env.development
 wp-config.php
 admin/.env
-.git/HEAD
 get
 ip.cypher.rest:443
+.git/HEAD
 site/.env
-server/.env
 info.php
+server/.env
 _profiler/phpinfo
 .env.testing
 prod/.env
 core/.env
 www/.env
+security.txt
 api/.git/config
 html/.env
 .svn/entries
 config.js
 secrets.json
-security.txt
 storage/.env
 v1/.env
 settings/.env
@@ -70,6 +70,7 @@ htdocs/.env
 .kube/config
 dev/.env
 dump.sql
+.well-known/security.txt
 backup.sql
 dashboard/.env
 database.sql
@@ -82,7 +83,6 @@ terraform.tfstate
 .env.dist
 .env.php
 .env.production.local
-.well-known/security.txt
 mcp/
 secrets.yml
 staging/.env
@@ -249,9 +249,9 @@ sitemap.xml
 .env_sample
 phpinfo
 .env.uat
+*
 .env.config
 .env.dev.local
-*
 .npmrc
 .svn/wc.db
 .env.secret
@@ -510,6 +510,7 @@ client/.env.local
 config.inc.php.bak
 config/environment.rb
 core/app/.env
+dana-na/auth/url_default/welcome.cgi
 django/settings.py
 docker/app/.env
 docker/compose/.env
@@ -553,7 +554,6 @@ blogs/.env
 config.php.save
 credentials.yml
 cronlab/.env
-dana-na/auth/url_default/welcome.cgi
 en/.env
 env.js
 exapi/.env
@@ -604,6 +604,7 @@ portal/redlion
 proc/self/environ
 s3/bucket.env
 scripts/.env
+sslvpn_logon.shtml
 user/.env.staging
 vendor/laravel/.env
 website/.env
@@ -663,6 +664,7 @@ lambda/.env
 laravel/.env.local
 laravel/.env.production
 laravel/.env.staging
+logon/LogonPoint/index.html
 manager/text/list
 master/.env
 private.key
@@ -675,7 +677,6 @@ s3/.env.bak
 script/.env
 sites/.env
 sites/default/settings.php
-sslvpn_logon.shtml
 stag/.env
 static/admin/javascript/hetong.js
 storage/.env.local
@@ -734,7 +735,6 @@ includes/config.php
 includes/db.php
 keys.json
 lib/config.php
-logon/LogonPoint/index.html
 mcp.json
 next/.env
 owa/
@@ -756,6 +756,7 @@ templates/.env
 upload/.env
 users/.env
 var/.env
+vpn/index.html
 web/.git/config
 wp-admin/
 wp-blog-header.php
@@ -997,4 +998,3 @@ projbackend/.env
 pub/.env
 public/.env.local
 public/.env.production
-public/.env.staging

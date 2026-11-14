@@ -48,18 +48,18 @@ secrets.yaml
 lib
 demo
 docker
+security.txt
 backup
 .env.dev
-security.txt
-assets
 robots.txt
+assets
 info
 .env.save
 staging
 default
 laravel.log
-config.php
 auth
+config.php
 tests
 .env.prod
 phpinfo.php
@@ -90,13 +90,13 @@ docker-compose.yml
 settings.json
 html
 .env.development
+.well-known
 services
 .gitlab-ci.yml
-.well-known
+index.html
 old
 prod
 database.yml
-index.html
 info.php
 site
 .ssh
@@ -104,11 +104,11 @@ blog
 project
 wp-config.php
 config.env
+get
+ip.cypher.rest:443
 secrets.yml
 administrator
 credentials.json
-get
-ip.cypher.rest:443
 new
 system
 settings
@@ -301,6 +301,7 @@ wp-json
 .htpasswd
 configuration
 drupal
+login.jsp
 pub
 sites
 version
@@ -309,7 +310,6 @@ version
 LICENSE
 app.php
 configuration.php
-login.jsp
 settings.php
 workspace
 wp-admin
@@ -328,6 +328,7 @@ yii
 zend
 V2
 config.inc.php
+dana-na
 docker-compose.prod.yml
 downloads
 ec
@@ -337,7 +338,6 @@ resources
 sftp-config.json
 update
 account
-dana-na
 index
 manage
 php
@@ -410,6 +410,7 @@ manager
 secrets.py
 self
 terraform.tfvars
+vpn
 wp-config.bak
 .env.docker
 .env.tmp
@@ -422,7 +423,6 @@ mail
 qa
 run
 service-account.json
-vpn
 .env.copy
 .env_1
 .env_old
@@ -438,12 +438,14 @@ master
 myadmin
 openapi.json
 secrets
+welcome.cgi
 wlwmanifest.xml
 .env.prod.local
 .netrc
 127.0.0.1:8099
 Gemfile.lock
 Login
+LogonPoint
 aab9
 all
 auth.json
@@ -461,6 +463,7 @@ env.js
 env.php
 formLogin
 instance
+logon
 mailchimp
 market
 plugins
@@ -469,7 +472,6 @@ server-status
 sources
 vue
 webui
-welcome.cgi
 withMongo
 withPostgres
 www.zip
@@ -480,15 +482,14 @@ www.zip
 .idea
 127.0.0.1:801
 GponForm
-LogonPoint
 aaa9
 application-prod.yml
 autodiscover.json
 diag_Form
 en
-logon
 openai.json
 react
+webpages
 wordpress
 ..;
 .dockerenv
@@ -526,7 +527,6 @@ protected
 template
 tools
 ubuntu
-webpages
 wp
 .env.aws
 .env.bak~
@@ -567,6 +567,7 @@ projbackend
 redmine
 sitemaps
 test-become
+url_default
 withMySQL
 withRedis
 wp-config.old
@@ -624,7 +625,6 @@ secrets.toml
 socket.io
 stag
 terraform
-url_default
 website
 wp-config.php.swp
 .env.qa
@@ -648,6 +648,7 @@ graphql
 inc
 integration
 keys.json
+localhost
 mail.php
 main.js
 marketing
@@ -657,6 +658,7 @@ redlion
 refs
 route
 session
+sslvpn_logon.shtml
 stats
 stripe
 swagger-ui.html
@@ -702,6 +704,7 @@ bucket
 build.gradle
 ci.yml
 colors
+com
 common
 db.py
 deployment
@@ -722,7 +725,6 @@ lambda
 lang
 liveliness
 local.settings.json
-localhost
 login.js
 main.yml
 management
@@ -734,6 +736,7 @@ phpMyAdmin-5
 phpMyAdmin2
 phpMyAdmin3
 phpmy-admin
+por
 private.key
 register
 releases
@@ -748,7 +751,6 @@ sonicui
 sqladmin
 sqlmanager
 srv6_controller
-sslvpn_logon.shtml
 status
 stg
 text
@@ -803,6 +805,7 @@ firebase-adminsdk.json
 google
 google-credentials.json
 helm
+http
 icons
 include
 infra
@@ -936,8 +939,8 @@ classes
 claude
 claude_desktop_config.json
 client-app
+clients
 cmdb
-com
 components
 config.dev.json
 config.development.json
@@ -986,7 +989,6 @@ grems-frontend
 hasura
 higlass-website
 home.tar.gz
-http
 human.aspx
 icon
 image_data
@@ -1029,7 +1031,6 @@ owncloud
 pages
 pfbe
 play-ground
-por
 preview
 products
 proxy
@@ -1108,6 +1109,7 @@ www.google.com:443
 .pgpass
 .vercel
 .vs
+000
 09-production
 127.0.0.1
 127.0.0.1:23413
@@ -1123,6 +1125,7 @@ CHANGELOG.md
 COMMIT_EDITMSG
 CVS
 Chai
+EasyConnectInstaller.exe
 FileZilla.xml
 HUNIV_migration
 Hash
@@ -1180,7 +1183,6 @@ ch2-mytodo
 ch8-mytodo
 ch8a-mytodo
 clientaccesspolicy.xml
-clients
 cline_mcp_settings.json
 clld_dir
 cmd
@@ -1219,6 +1221,7 @@ env.dev.js
 env.development.js
 expected
 ext-js
+extender.html
 f
 fastlane
 favicon.png
@@ -1249,8 +1252,10 @@ index.jsp
 index.min.js
 index.php.bak
 index.php~
+index.plx
 infophp.php
 init.json
+install.exe
 internal
 inventory.ini
 items
@@ -1264,6 +1269,8 @@ legacy
 linux
 logfile
 login.aspx
+login_auth.csp
+login_psw.csp
 login_up.php
 logout
 mailman
@@ -1281,6 +1288,7 @@ modern
 msks
 my
 my_env
+myaccount
 mysql-admin
 mysqladmin
 n
@@ -1353,6 +1361,7 @@ prod-env
 production.json
 profile
 program
+prx
 r
 rabbitmq
 registry
@@ -1397,6 +1406,7 @@ token
 typeScriptProject
 typeScriptVisualizeProject
 urlmem-app
+userportal
 v11.0
 v4
 vault.yml
@@ -1405,6 +1415,7 @@ vertex-ai-credentials.json
 vertex-ai.json
 videos
 vpnsvc
+vpntunnel
 vue-dashboard
 vue-end
 vue-til
@@ -1549,7 +1560,6 @@ zld_product_spec.js
 .secret.env
 .tmp
 .trash
-000
 01-simple-model
 02-complex-example
 03-one-to-many-relationship
@@ -1588,7 +1598,6 @@ CodeGolf.Web
 Core
 Database
 Default
-EasyConnectInstaller.exe
 EndUserPortal.jsp
 Environment
 FE
@@ -1783,7 +1792,6 @@ example.env
 example02-golang-package
 executions
 express
-extender.html
 extlib
 favicon-19fbef86.svg
 favicon-abe32304.png
@@ -1849,12 +1857,10 @@ ikiwiki
 import-underscore
 index.do
 index.php.old
-index.plx
 info%252ephp
 info.asp
 info.cgi
 info.xml
-install.exe
 instanceWithDependentSteps
 ip.ifconfig.dpdns.org:443
 is-sslvpn-enabled
@@ -1890,8 +1896,6 @@ llms.txt
 local.properties
 localization.js
 login.action
-login_auth.csp
-login_psw.csp
 logo.gif
 logo.png
 luci
@@ -1920,7 +1924,6 @@ movies-main
 munki_repo
 music
 mutual-fund-app
-myaccount
 nest
 netlify
 news-app
@@ -1998,7 +2001,6 @@ production.key
 profiles
 project_root
 proxy.php
-prx
 pt2
 pt8
 public-api
@@ -2105,7 +2107,6 @@ url_2
 url_3
 userInfos
 userfiles
-userportal
 util
 v1.0
 v10.0
@@ -2122,7 +2123,6 @@ versa
 vicidial
 vip
 vm-docker-compose
-vpntunnel
 vuecli
 w
 w3tc-config
