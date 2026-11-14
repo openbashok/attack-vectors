@@ -81,12 +81,13 @@ terraform.tfstate
 .env.dist
 .env.php
 .env.production.local
+mcp
 secrets.yml
 staging/.env
 .well-known/security.txt
 application/.env
 info
-mcp
+mcp/
 package.json
 application.yml
 blog/.env
@@ -94,7 +95,6 @@ config.env
 debug.log
 debug/default/view
 error.log
-mcp/
 package-lock.json
 portal/.env
 shop/.env
@@ -156,6 +156,7 @@ docs/.env
 env-config.js
 home/.env
 mysql.sql
+sse
 store/.env
 administrator/.env
 api/v2/.env
@@ -166,7 +167,6 @@ env.json
 google-services.json
 saas/.env
 services/.env
-sse
 app/config/parameters.yml
 assets/config.json
 bedrock.env
@@ -186,6 +186,7 @@ images/.env
 static/.env
 v3/.env
 .json
+api/mcp
 cache/.env
 config.ini
 developmentserver/metadatauploader
@@ -202,7 +203,6 @@ wp-config.php.backup
 .claude/.env
 .env/.env
 Application/.env
-api/mcp
 api/test
 app.log
 beta/
@@ -587,6 +587,7 @@ awstats/.env
 backend/.env.production
 config/.env.local
 credentials.csv
+dana-na/auth/url_default/welcome.cgi
 database.php
 db.sql.gz
 druid/index.html
@@ -645,7 +646,6 @@ config/config.js
 config/mail.php
 core/Datavase/.env
 cp/.env
-dana-na/auth/url_default/welcome.cgi
 db.py
 deployment.yaml
 deployment/.env
@@ -675,6 +675,7 @@ s3/.env.bak
 script/.env
 sites/.env
 sites/default/settings.php
+sslvpn_logon.shtml
 stag/.env
 static/admin/javascript/hetong.js
 storage/.env.local
@@ -733,6 +734,7 @@ includes/config.php
 includes/db.php
 keys.json
 lib/config.php
+logon/LogonPoint/index.html
 mcp.json
 next/.env
 owa/
@@ -745,7 +747,6 @@ server/.env.production
 serverless.yaml
 serverless.yml
 ssl.key
-sslvpn_logon.shtml
 stats/.env
 studioserver/.git/config
 swagger-ui.html
@@ -965,7 +966,6 @@ live/.env.staging
 localhost/.env
 locally/.env
 logging/.env
-logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 magento/.env
 market/.env.production
@@ -1052,6 +1052,7 @@ var/task/amplify/backend/function/*/src/index.js
 vendor/.env.example
 vod_installer/.env
 vpn
+vpn/index.html
 vpn/js/rdx/core/lang/rdx_en.json.gz
 vue/.env
 web_shell_cmd.gch
@@ -1541,7 +1542,6 @@ vertex-ai-credentials.json
 vertex-ai.json
 vertex.json
 videos/.env
-vpn/index.html
 vpnsvc/connect.cgi
 vue-end/vue-til/.env
 vue/config.json
@@ -1975,6 +1975,7 @@ client
 client/.env.production
 client/mutual-fund-app/.env
 client_secret.json
+clients
 club/.env
 cluster/list.query
 cluster_credentials.json
@@ -1982,6 +1983,8 @@ cms/.env.prod
 cms/.env.production
 codenames-frontend/.env
 collected_static/.env
+com/EasyConnectInstaller.exe
+com/install.exe
 common/.env.bak
 compose.yml
 composer/auth.json
@@ -2111,6 +2114,7 @@ examples/with-firebase-authentication-serverless/.env
 examples/with-react-relay-network-modern/.env
 examples/with-relay-modern/.env
 examples/with-universal-configuration-build-time/.env
+extender.html
 extlib/.env
 favs/.env
 fe/.env
@@ -2174,6 +2178,7 @@ inc/.env
 index.do
 index.js
 index.php.old
+index.plx
 info.asp
 info/.env.dev
 install/.env
@@ -2319,6 +2324,8 @@ pipeline/.env
 playground/.env
 plugin_static/.env
 plugins/.env
+por/login_auth.csp
+por/login_psw.csp
 portal/
 portal/.env.local
 portal/.env.production
@@ -2346,6 +2353,7 @@ project/.env.local
 project/.env.production
 project/.env.staging
 project_root/.env
+prx/000/http/localhost/login
 pt2/countries/src/.env
 pt8/library-backend-gql/.env
 pub/.env.example
@@ -2561,6 +2569,7 @@ unsplash-downloader/.env
 upfiles/.env
 user
 userfiles
+userportal/webpages/myaccount/login.jsp
 users/config.env
 users/sign_in
 usr/.env
@@ -2581,6 +2590,7 @@ versa/login
 versions
 vm-docker-compose/.env
 vpn/pluginlist.xml
+vpntunnel
 vue/vuecli/.env
 web.config.bak
 web/.env.bak
@@ -3184,14 +3194,11 @@ claude/.env
 claude/config.json
 claude/credentials.json
 claude/settings.json
-clients
 clients/.env
 cloud/Scraper.js
 cms/wp-includes/wlwmanifest.xml
 codeigniter.zip
 cohere/.env
-com/EasyConnectInstaller.exe
-com/install.exe
 common/.env
 compose.yaml
 conf.php
@@ -3350,7 +3357,6 @@ events/.env
 export/backup.zip
 export/db.sql.gz
 exports/.env
-extender.html
 favicon-32x32.png
 favicon.ico/
 favicon.png
@@ -3420,7 +3426,6 @@ imports/.env
 includes/config.inc.php
 index.cfm
 index.jsp
-index.plx
 index.shtml
 indice.asp
 indice.jhtml
@@ -3660,8 +3665,6 @@ plugins/%2eenv
 pms/%252eenv
 pms/%2eenv
 poetry.lock
-por/login_auth.csp
-por/login_psw.csp
 portal/%252eenv
 portal/%2eenv
 postgres.zip
@@ -3685,7 +3688,6 @@ progs/homepage
 project/%2eenv
 projects.zip
 proxy/%2eenv
-prx/000/http/localhost/login
 pub/static/
 public/config.js
 public/js/config.js
@@ -3890,7 +3892,6 @@ user/%2eenv
 user/config/config.js
 user/controllers/index.js
 user/login
-userportal/webpages/myaccount/login.jsp
 users/%2eenv
 util/%2eenv
 util/.env
@@ -3924,7 +3925,6 @@ view/.env
 viewinfo.php
 vite.config.js
 voyage/.env
-vpntunnel
 vue.zip
 wanipcn.xml
 web.tar.gz

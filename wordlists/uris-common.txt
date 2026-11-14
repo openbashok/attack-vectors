@@ -76,6 +76,7 @@ database.sql
 env
 .env.php
 db.sql
+mcp
 site.zip
 staging/.env
 terraform.tfstate
@@ -83,11 +84,10 @@ terraform.tfstate
 .env.production.local
 .well-known/security.txt
 info
-mcp
+mcp/
 secrets.yml
 application/.env
 blog/.env
-mcp/
 package-lock.json
 package.json
 shop/.env
@@ -154,6 +154,7 @@ docs/.env
 env-config.js
 home/.env
 mysql.sql
+sse
 store/.env
 wp-config.php.bak
 .aws/config
@@ -166,7 +167,6 @@ download/.env
 env.json
 saas/.env
 services/.env
-sse
 assets/config.json
 bedrock.env
 data/.env
@@ -186,6 +186,7 @@ server.key
 static/.env
 tmp/.env
 .json
+api/mcp
 cache/.env
 config.ini
 developmentserver/metadatauploader
@@ -200,7 +201,6 @@ v3/.env
 .claude/.env
 .env/.env
 Application/.env
-api/mcp
 api/test
 app.log
 beta/
@@ -585,6 +585,7 @@ aws-ses.json
 backend/.env.production
 credentials.csv
 credentials.yml
+dana-na/auth/url_default/welcome.cgi
 database.php
 druid/index.html
 enviroments/.env
@@ -634,7 +635,6 @@ config/.env.local
 config/mail.php
 core/Datavase/.env
 cp/.env
-dana-na/auth/url_default/welcome.cgi
 db.py
 db.sql.gz
 deployment.yaml
@@ -669,6 +669,7 @@ script/.env
 scripts/.env
 sites/.env
 sites/default/settings.php
+sslvpn_logon.shtml
 stag/.env
 static/admin/javascript/hetong.js
 storage/.env.local
@@ -725,6 +726,7 @@ includes/config.php
 includes/db.php
 lambda/.env
 lib/config.php
+logon/LogonPoint/index.html
 next/.env
 owa/
 php_info.php
@@ -735,7 +737,6 @@ resources/.env
 runtime-env.js
 server/.env.production
 ssl.key
-sslvpn_logon.shtml
 studioserver/.git/config
 swagger/v1/swagger.json
 symfony/.env
@@ -942,7 +943,6 @@ live/.env.staging
 localhost/.env
 locally/.env
 logging/.env
-logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 magento/.env
 market/.env.production
@@ -1030,6 +1030,7 @@ var/task/amplify/backend/function/*/src/index.js
 vendor/.env.example
 vod_installer/.env
 vpn
+vpn/index.html
 vpn/js/rdx/core/lang/rdx_en.json.gz
 vue/.env
 web_shell_cmd.gch
@@ -1512,7 +1513,6 @@ vertex-ai-credentials.json
 vertex-ai.json
 vertex.json
 videos/.env
-vpn/index.html
 vpnsvc/connect.cgi
 vue-end/vue-til/.env
 vue/config.json

@@ -39,10 +39,10 @@ settings.json
 .env.development
 .gitlab-ci.yml
 database.yml
+index.html
 info.php
 wp-config.php
 config.env
-index.html
 secrets.yml
 credentials.json
 get
@@ -97,10 +97,10 @@ wp-config.php.bak
 bedrock.env
 env-config.js
 mysql.sql
+sse
 app.log
 configuration.json
 google-services.json
-sse
 server.js
 server.key
 .env.save.1
@@ -172,9 +172,9 @@ config.yml
 app.php
 configuration.php
 health
+login.jsp
 settings.php
 version
-login.jsp
 .htaccess
 hello.world
 logon.html
@@ -264,6 +264,7 @@ auth
 autodiscover.json
 diag_Form
 openai.json
+welcome.cgi
 .dockerenv
 .env.new
 .env.project
@@ -279,7 +280,6 @@ list
 microsoft.exchange.ediscovery.exporttool.application
 run
 settings
-welcome.cgi
 .env.aws
 .env.bak~
 .env.old~
@@ -404,6 +404,7 @@ main.yml
 private.key
 secrets.js
 smtp.env
+sslvpn_logon.shtml
 status
 webui
 wp-config.php.dist
@@ -442,7 +443,6 @@ serverless.yaml
 serverless.yml
 settings.local.json
 ssl.key
-sslvpn_logon.shtml
 swagger
 trace
 vars
@@ -835,6 +835,7 @@ zld_product_spec.js
 Accounts
 Auth
 CHANGELOG.txt
+EasyConnectInstaller.exe
 EndUserPortal.jsp
 Gemfile
 GetPhpInfo.php
@@ -894,6 +895,7 @@ bedrock-credentials.yml
 cgiChkMasterPwd.exe
 check-version
 client_secret.json
+clients
 cluster_credentials.json
 completions
 componentutils
@@ -932,6 +934,7 @@ environment.ts
 eventmanager
 example.env
 executions
+extender.html
 favicon-19fbef86.svg
 favicon-abe32304.png
 fetch
@@ -956,10 +959,12 @@ images
 index.cgi
 index.do
 index.php.old
+index.plx
 info%252ephp
 info.asp
 info.cgi
 info.xml
+install.exe
 ip.ifconfig.dpdns.org:443
 is-sslvpn-enabled
 jolokia
@@ -977,6 +982,8 @@ llms.txt
 local.properties
 localization.js
 login.action
+login_auth.csp
+login_psw.csp
 logo.gif
 logo.png
 luci
@@ -1042,6 +1049,7 @@ updates
 userInfos
 userfiles
 values.yaml
+vpntunnel
 wallet.dat
 wallets
 web.config.bak

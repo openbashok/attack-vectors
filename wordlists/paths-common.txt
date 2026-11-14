@@ -81,12 +81,13 @@ terraform.tfstate
 .env.dist
 .env.php
 .env.production.local
+mcp
 secrets.yml
 staging/.env
 .well-known/security.txt
 application/.env
 info
-mcp
+mcp/
 package.json
 application.yml
 blog/.env
@@ -94,7 +95,6 @@ config.env
 debug.log
 debug/default/view
 error.log
-mcp/
 package-lock.json
 portal/.env
 shop/.env
@@ -156,6 +156,7 @@ docs/.env
 env-config.js
 home/.env
 mysql.sql
+sse
 store/.env
 administrator/.env
 api/v2/.env
@@ -166,7 +167,6 @@ env.json
 google-services.json
 saas/.env
 services/.env
-sse
 app/config/parameters.yml
 assets/config.json
 bedrock.env
@@ -186,6 +186,7 @@ images/.env
 static/.env
 v3/.env
 .json
+api/mcp
 cache/.env
 config.ini
 developmentserver/metadatauploader
@@ -202,7 +203,6 @@ wp-config.php.backup
 .claude/.env
 .env/.env
 Application/.env
-api/mcp
 api/test
 app.log
 beta/
@@ -587,6 +587,7 @@ awstats/.env
 backend/.env.production
 config/.env.local
 credentials.csv
+dana-na/auth/url_default/welcome.cgi
 database.php
 db.sql.gz
 druid/index.html
@@ -645,7 +646,6 @@ config/config.js
 config/mail.php
 core/Datavase/.env
 cp/.env
-dana-na/auth/url_default/welcome.cgi
 db.py
 deployment.yaml
 deployment/.env
@@ -675,6 +675,7 @@ s3/.env.bak
 script/.env
 sites/.env
 sites/default/settings.php
+sslvpn_logon.shtml
 stag/.env
 static/admin/javascript/hetong.js
 storage/.env.local
@@ -733,6 +734,7 @@ includes/config.php
 includes/db.php
 keys.json
 lib/config.php
+logon/LogonPoint/index.html
 mcp.json
 next/.env
 owa/
@@ -745,7 +747,6 @@ server/.env.production
 serverless.yaml
 serverless.yml
 ssl.key
-sslvpn_logon.shtml
 stats/.env
 studioserver/.git/config
 swagger-ui.html
@@ -965,7 +966,6 @@ live/.env.staging
 localhost/.env
 locally/.env
 logging/.env
-logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 magento/.env
 market/.env.production
@@ -1052,6 +1052,7 @@ var/task/amplify/backend/function/*/src/index.js
 vendor/.env.example
 vod_installer/.env
 vpn
+vpn/index.html
 vpn/js/rdx/core/lang/rdx_en.json.gz
 vue/.env
 web_shell_cmd.gch
@@ -1541,7 +1542,6 @@ vertex-ai-credentials.json
 vertex-ai.json
 vertex.json
 videos/.env
-vpn/index.html
 vpnsvc/connect.cgi
 vue-end/vue-til/.env
 vue/config.json

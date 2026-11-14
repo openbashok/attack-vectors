@@ -39,8 +39,8 @@ server
 login
 app_dev.php
 storage
-core
 mcp
+core
 dev
 www
 v2
@@ -61,8 +61,8 @@ laravel.log
 config.php
 tests
 .env.prod
-phpinfo.php
 auth
+phpinfo.php
 debug
 cgi-bin
 config.js
@@ -96,6 +96,7 @@ old
 prod
 .well-known
 database.yml
+index.html
 info.php
 site
 .ssh
@@ -103,7 +104,6 @@ blog
 project
 wp-config.php
 config.env
-index.html
 secrets.yml
 administrator
 credentials.json
@@ -208,12 +208,12 @@ env-config.js
 kubernetes
 mysql.sql
 platform
+sse
 app.log
 configuration.json
 developer
 google-services.json
 saas
-sse
 bak
 content
 js
@@ -309,10 +309,10 @@ version
 LICENSE
 app.php
 configuration.php
+login.jsp
 settings.php
 workspace
 wp-admin
-login.jsp
 remote
 wp-includes
 +CSCOE+
@@ -363,6 +363,7 @@ scripts
 sdk
 .boto
 anthropic
+dana-na
 deploy
 enviroments
 login.cgi
@@ -374,7 +375,6 @@ wp-config.php.orig
 .travis.yml
 RDWeb
 __tests__
-dana-na
 default_settings
 development
 docker-compose
@@ -422,6 +422,7 @@ manager
 qa
 run
 service-account.json
+vpn
 .env.copy
 .env_1
 .env_old
@@ -437,7 +438,6 @@ master
 myadmin
 openapi.json
 secrets
-vpn
 wlwmanifest.xml
 .env.prod.local
 .netrc
@@ -479,13 +479,16 @@ www.zip
 .idea
 127.0.0.1:801
 GponForm
+LogonPoint
 aaa9
 application-prod.yml
 autodiscover.json
 diag_Form
 en
+logon
 openai.json
 react
+welcome.cgi
 wordpress
 ..;
 .dockerenv
@@ -497,7 +500,6 @@ wordpress
 ClientApp
 Current
 Dockerfile
-LogonPoint
 __fixtures__
 _next
 admin-app
@@ -516,7 +518,6 @@ front
 gcloud
 gcp-credentials.json
 list
-logon
 metadata
 metrics
 microsoft.exchange.ediscovery.exporttool.application
@@ -525,7 +526,7 @@ protected
 template
 tools
 ubuntu
-welcome.cgi
+webpages
 wp
 .env.aws
 .env.bak~
@@ -566,7 +567,6 @@ projbackend
 redmine
 sitemaps
 test-become
-webpages
 withMySQL
 withRedis
 wp-config.old
@@ -659,6 +659,7 @@ stats
 stripe
 swagger-ui.html
 upload
+url_default
 vertex.json
 webclient
 wp-config.php.txt
@@ -721,6 +722,7 @@ lambda
 lang
 liveliness
 local.settings.json
+localhost
 login.js
 main.yml
 management
@@ -746,11 +748,11 @@ sonicui
 sqladmin
 sqlmanager
 srv6_controller
+sslvpn_logon.shtml
 status
 stg
 text
 ui
-url_default
 views
 webadmin
 webdb
@@ -806,7 +808,6 @@ infra
 kitchensink
 latest
 lcomernbootcamp
-localhost
 monitoring
 nc
 nc_gina_ver.txt
@@ -824,7 +825,6 @@ serverless.yaml
 serverless.yml
 settings.local.json
 ssl.key
-sslvpn_logon.shtml
 studioserver
 symfony
 templates
@@ -937,6 +937,7 @@ claude
 claude_desktop_config.json
 client-app
 cmdb
+com
 components
 config.dev.json
 config.development.json
@@ -985,6 +986,7 @@ grems-frontend
 hasura
 higlass-website
 home.tar.gz
+http
 human.aspx
 icon
 image_data
@@ -1027,6 +1029,7 @@ owncloud
 pages
 pfbe
 play-ground
+por
 preview
 products
 proxy
@@ -1177,6 +1180,7 @@ ch2-mytodo
 ch8-mytodo
 ch8a-mytodo
 clientaccesspolicy.xml
+clients
 cline_mcp_settings.json
 clld_dir
 cmd
@@ -1236,7 +1240,6 @@ help
 helper.js
 host_vars
 htpasswd.txt
-http
 hubspot.config
 hubspot.json
 i.php
@@ -1545,6 +1548,7 @@ zld_product_spec.js
 .secret.env
 .tmp
 .trash
+000
 01-simple-model
 02-complex-example
 03-one-to-many-relationship
@@ -1583,6 +1587,7 @@ CodeGolf.Web
 Core
 Database
 Default
+EasyConnectInstaller.exe
 EndUserPortal.jsp
 Environment
 FE
@@ -1706,13 +1711,11 @@ chatroom-spa
 check-version
 ci-cd
 client_secret.json
-clients
 club
 cluster
 cluster_credentials.json
 codenames-frontend
 collected_static
-com
 completions
 componentutils
 compose.yml
@@ -1779,6 +1782,7 @@ example.env
 example02-golang-package
 executions
 express
+extender.html
 extlib
 favicon-19fbef86.svg
 favicon-abe32304.png
@@ -1845,10 +1849,12 @@ import-underscore
 index.cgi
 index.do
 index.php.old
+index.plx
 info%252ephp
 info.asp
 info.cgi
 info.xml
+install.exe
 instanceWithDependentSteps
 ip.ifconfig.dpdns.org:443
 is-sslvpn-enabled
@@ -1884,6 +1890,8 @@ llms.txt
 local.properties
 localization.js
 login.action
+login_auth.csp
+login_psw.csp
 logo.gif
 logo.png
 luci
@@ -1912,6 +1920,7 @@ movies-main
 munki_repo
 music
 mutual-fund-app
+myaccount
 nest
 netlify
 news-app
@@ -1970,7 +1979,6 @@ plugin_static
 pluginlist.xml
 pms
 png
-por
 portainer
 post-deployment
 post.js
@@ -1990,6 +1998,7 @@ production.key
 profiles
 project_root
 proxy.php
+prx
 pt2
 pt8
 public-api
@@ -2096,6 +2105,7 @@ url_2
 url_3
 userInfos
 userfiles
+userportal
 util
 v1.0
 v10.0
@@ -2112,6 +2122,7 @@ versa
 vicidial
 vip
 vm-docker-compose
+vpntunnel
 vuecli
 w
 w3tc-config
