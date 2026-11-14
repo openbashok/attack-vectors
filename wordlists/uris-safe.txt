@@ -880,6 +880,7 @@ console
 crm/.env.local
 crm/.env.production
 css/.env
+dana-na
 data.sql
 database.zip
 db.tar.gz
@@ -2019,7 +2020,6 @@ cron/.env.production
 cslu/v1/core/conf
 customer/.env
 d/.env
-dana-na
 dana-na/auth/url_2/welcome.cgi
 dana-na/auth/url_3/welcome.cgi
 dashboard/

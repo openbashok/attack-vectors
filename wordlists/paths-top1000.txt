@@ -896,6 +896,7 @@ console
 crm/.env.local
 crm/.env.production
 css/.env
+dana-na
 dashboard/phpinfo.php
 data.sql
 database.zip
@@ -997,4 +998,3 @@ pub/.env
 public/.env.local
 public/.env.production
 public/.env.staging
-qa/.env
