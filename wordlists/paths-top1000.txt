@@ -244,8 +244,8 @@ geoserver/web/
 .env.template
 wp-config.php.old
 .env.default
-.env_sample
 login
+.env_sample
 phpinfo
 sitemap.xml
 .env.uat
@@ -280,9 +280,11 @@ server/.git/config
 .ssh/id_rsa
 admin/config.php
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
++CSCOE+/logon.html
 .htaccess
 docker/.env
 hello.world
+index.html
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 public/.git/config
@@ -294,7 +296,6 @@ vendor/phpunit/src/Util/PHP/eval-stdin.php
 wp-config.php.save
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-+CSCOE+/logon.html
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -308,7 +309,6 @@ config/database.yml
 crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 docker-compose.prod.yml
-index.html
 lib/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -345,6 +345,7 @@ data/.git/config
 dev/.git/config
 files/
 files/.git/config
+login.html
 media../.git/config
 media/.git/config
 project/.git/config
@@ -353,14 +354,15 @@ project/.git/config
 .git/index
 .vscode/settings.json
 Dr0v
-login.html
+login.htm
+manage/account/login
 pub/
 .well-known/pki-validation/update
+admin/index.html
 conf/.env
 config.inc.php
 config/master.key
-login.htm
-manage/account/login
+remote/login
 sdk
 settings.php
 version
@@ -368,12 +370,10 @@ wp-config.php.orig
 .git/logs/HEAD
 .travis.yml
 HNAP1
-admin/index.html
 config.py
 downloads/
 evox/about
 public_html/.env
-remote/login
 ws
 .docker/config.json
 .env.2
@@ -381,7 +381,9 @@ ws
 abc6
 abc8
 app/.env.production
+cgi-bin/login.cgi
 deploy/.env
+login.jsp
 owa/auth/logon.aspx
 sftp.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
@@ -391,8 +393,6 @@ wp-config.php~
 abc7
 actuator/health
 backend/.env.local
-cgi-bin/login.cgi
-login.jsp
 secrets.py
 wp-config.bak
 .circleci/config.yml
@@ -475,6 +475,7 @@ audio/.env
 autodiscover/autodiscover.json
 cgi-bin/.env
 credentials.py
+doc/index.html
 ecosystem.config.js
 env.txt
 env/.env
@@ -500,6 +501,7 @@ sites/all/libraries/mailchimp/.env
 .ssh/config
 .vscode/.env
 _static/.env
+admin/login.asp
 api.ipinfo.io:443
 app.json
 application-prod.yml
@@ -508,7 +510,6 @@ config.inc.php.bak
 config/environment.rb
 core/app/.env
 django/settings.py
-doc/index.html
 docker/app/.env
 docker/compose/.env
 docker/compose/withMySQL/.env
@@ -542,7 +543,6 @@ wp-config.old
 .yarnrc.yml
 actuator/heapdump
 admin-app/.env
-admin/login.asp
 adminer.php
 ansible.cfg
 api/.env.production
@@ -566,6 +566,8 @@ socket.io/
 solr/admin/cores
 solr/admin/info/system
 sources/.env
+web/
+webpages/login.html
 wp-config.php.swp
 wp-content/uploads/
 .env.qa
@@ -602,8 +604,6 @@ s3/bucket.env
 scripts/.env
 user/.env.staging
 vendor/laravel/.env
-web/
-webpages/login.html
 website/.env
 wp-config.php.txt
 wp-config.txt
@@ -704,6 +704,7 @@ auth.json
 authorized_keys
 backup.tar
 bitbucket-pipelines.yml
+cdn-cgi/trace
 cloud/.env
 config/aws.php
 config/db.php
@@ -862,7 +863,6 @@ blob/.env
 blue/.env
 boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
-cdn-cgi/trace
 cdw-backend/.env
 cert.pem
 ch6-mytodo/.env
