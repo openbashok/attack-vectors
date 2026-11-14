@@ -76,13 +76,13 @@ backup.sql
 dashboard/.env
 database.sql
 .env.json
+.well-known/security.txt
 db.sql
 env
 mcp
 site.zip
 terraform.tfstate
 .env.php
-.well-known/security.txt
 mcp/
 secrets.yml
 staging/.env
@@ -172,6 +172,7 @@ assets/config.json
 bedrock.env
 content/.env
 data/.env
+developmentserver/metadatauploader
 login/.env
 server.js
 server.key
@@ -182,7 +183,6 @@ api/mcp
 bak/.env
 credentials.xml
 developer/.env
-developmentserver/metadatauploader
 erp/.env
 images/.env
 static/.env
@@ -219,6 +219,7 @@ demo/
 dev/
 env.example
 facturacion/.env
+geoserver/web/
 infos/
 kubernetes/secrets.yaml
 log/
@@ -238,7 +239,6 @@ tests/
 tmp/
 twilio.env
 user/.env
-geoserver/web/
 .env.live
 .env.staging.local
 .env.template
@@ -663,6 +663,7 @@ lambda/.env
 laravel/.env.local
 laravel/.env.production
 laravel/.env.staging
+manager/text/list
 master/.env
 private.key
 product/.env.staging
@@ -732,7 +733,6 @@ includes/config.php
 includes/db.php
 keys.json
 lib/config.php
-manager/text/list
 mcp.json
 next/.env
 owa/

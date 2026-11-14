@@ -5,8 +5,8 @@ SDK/webLanguage
 .env.production
 .env.bak
 app/.env
-.env.local
 robots.txt
+.env.local
 .env.save
 api/.env
 .aws/credentials
@@ -72,13 +72,13 @@ dump.sql
 .env.dist
 .env.json
 .env.production.local
+.well-known/security.txt
 backup.sql
 dashboard/.env
 database.sql
 env
 mcp
 .env.php
-.well-known/security.txt
 db.sql
 mcp/
 site.zip
@@ -170,6 +170,7 @@ services/.env
 assets/config.json
 bedrock.env
 data/.env
+developmentserver/metadatauploader
 google-services.json
 login/.env
 temp/.env
@@ -180,7 +181,6 @@ bak/.env
 content/.env
 credentials.xml
 developer/.env
-developmentserver/metadatauploader
 erp/.env
 images/.env
 server.js
@@ -216,6 +216,7 @@ demo/
 dev/
 env.example
 facturacion/.env
+geoserver/web/
 index.php?file=../../../../../../../../root/.aws/credentials
 infos/
 k8s/secrets.yaml
@@ -240,7 +241,6 @@ twilio.env
 user/.env
 wp-config.php.backup
 .env.stage
-geoserver/web/
 .env.live
 .env.staging.local
 .env.template
@@ -248,8 +248,8 @@ geoserver/web/
 wp-config.php.old
 .env_sample
 login
-phpinfo
 sitemap.xml
+phpinfo
 .env.config
 .env.dev.local
 .env.uat
@@ -652,6 +652,7 @@ js/.env
 laravel/.env.local
 laravel/.env.production
 laravel/.env.staging
+manager/text/list
 master/.env
 new/.env.production
 nginx/.env
@@ -724,7 +725,6 @@ includes/config.php
 includes/db.php
 lambda/.env
 lib/config.php
-manager/text/list
 next/.env
 owa/
 php_info.php

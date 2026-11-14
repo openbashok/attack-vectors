@@ -92,9 +92,9 @@ html
 .env.development
 services
 .gitlab-ci.yml
+.well-known
 prod
 .ssh
-.well-known
 database.yml
 index.html
 info.php
@@ -175,12 +175,12 @@ package-lock.json
 service
 web.config
 yarn.lock
+geoserver
 parameters.yml
 .docker
 API
 apis
 env.json
-geoserver
 k8s
 twilio
 wp-config.php.bak
@@ -218,14 +218,14 @@ rest
 saas
 bak
 content
+developmentserver
+metadatauploader
 server.js
 server.key
 .env.save.1
 Application
 credentials.xml
-developmentserver
 erp
-metadatauploader
 .env.development.local
 .json
 config.ini
@@ -267,12 +267,12 @@ build
 id_rsa
 panel
 json
+sitemap.xml
 .%65%6e%76
 config.py
 database
 mysql
 shared
-sitemap.xml
 .env.uat
 aws.json
 health
@@ -417,6 +417,7 @@ environ
 libraries
 local_settings.py
 mail
+manager
 qa
 run
 service-account.json
@@ -429,7 +430,6 @@ bedrock
 console
 current
 docker-compose.override.yml
-manager
 myadmin
 openapi.json
 secrets
@@ -509,6 +509,7 @@ environment
 front
 gcloud
 gcp-credentials.json
+list
 live
 logon
 market
@@ -549,7 +550,6 @@ exporttool
 icanhazip.com:443
 javascript
 kyc
-list
 local.py
 login.asp
 mailer
@@ -738,6 +738,7 @@ sqladmin
 sqlmanager
 srv6_controller
 status
+text
 ui
 url_default
 views
@@ -823,7 +824,6 @@ studioserver
 symfony
 templates
 test-network
-text
 themes
 trace
 validate

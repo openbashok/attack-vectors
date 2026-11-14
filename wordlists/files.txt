@@ -80,9 +80,9 @@ web.config
 yarn.lock
 parameters.yml
 env.json
+web
 wp-config.php.bak
 %00.env
-web
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -101,11 +101,11 @@ mysql.sql
 app.log
 configuration.json
 google-services.json
+metadatauploader
 server.js
 server.key
 .env.save.1
 credentials.xml
-metadatauploader
 .env.development.local
 .json
 config.ini
@@ -145,9 +145,9 @@ login.html
 %252eenv
 .env_sample
 id_rsa
+sitemap.xml
 .%65%6e%76
 config.py
-sitemap.xml
 v1
 .env.uat
 aws.json
@@ -275,6 +275,7 @@ credentials.py
 ecosystem.config.js
 env.txt
 gcp-credentials.json
+list
 run
 settings
 welcome.cgi
@@ -298,7 +299,6 @@ deploy.yml
 deployment.yaml
 environment.rb
 icanhazip.com:443
-list
 local.py
 login.asp
 microsoft.exchange.ediscovery.exporttool.application
