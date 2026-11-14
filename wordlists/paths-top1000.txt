@@ -76,18 +76,18 @@ database.sql
 .env.json
 db.sql
 env
+mcp
 site.zip
 terraform.tfstate
 .env.dist
 .env.php
 .env.production.local
 .well-known/security.txt
-mcp
+mcp/
 secrets.yml
 staging/.env
 application/.env
 info
-mcp/
 package.json
 application.yml
 blog/.env
@@ -144,6 +144,7 @@ phpinfo/
 secrets.env
 sendgrid/.env
 sendgrid/.env.php
+sse
 test/.env.php
 twilio/.env.php
 uploads/.env
@@ -156,7 +157,6 @@ docs/.env
 env-config.js
 home/.env
 mysql.sql
-sse
 store/.env
 administrator/.env
 api/v2/.env
@@ -178,6 +178,7 @@ server.key
 temp/.env
 tmp/.env
 .env.save.1
+api/mcp
 bak/.env
 credentials.xml
 developer/.env
@@ -186,7 +187,6 @@ images/.env
 static/.env
 v3/.env
 .json
-api/mcp
 cache/.env
 config.ini
 developmentserver/metadatauploader

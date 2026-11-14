@@ -37,9 +37,9 @@ v1
 .env.bak
 server
 login
+mcp
 app_dev.php
 storage
-mcp
 core
 dev
 www
@@ -201,6 +201,7 @@ config.dev.php
 download
 library
 secrets.env
+sse
 wp-config.php.bak
 %00.env
 bedrock.env
@@ -208,7 +209,6 @@ env-config.js
 kubernetes
 mysql.sql
 platform
-sse
 app.log
 configuration.json
 developer

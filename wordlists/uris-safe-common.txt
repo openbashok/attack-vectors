@@ -74,17 +74,17 @@ backup.sql
 dashboard/.env
 database.sql
 env
+mcp
 .env.php
 .well-known/security.txt
 db.sql
-mcp
+mcp/
 site.zip
 staging/.env
 terraform.tfstate
 .env.dist
 .env.production.local
 info
-mcp/
 secrets.yml
 application/.env
 blog/.env
@@ -144,6 +144,7 @@ phpinfo/
 secrets.env
 sendgrid/.env
 sendgrid/.env.php
+sse
 test/.env.php
 twilio/.env.php
 uploads/.env
@@ -154,7 +155,6 @@ docs/.env
 env-config.js
 home/.env
 mysql.sql
-sse
 store/.env
 wp-config.php.bak
 .aws/config
@@ -174,6 +174,7 @@ google-services.json
 login/.env
 temp/.env
 .env.save.1
+api/mcp
 app/config/parameters.yml
 bak/.env
 content/.env
@@ -186,7 +187,6 @@ server.key
 static/.env
 tmp/.env
 .json
-api/mcp
 cache/.env
 config.ini
 developmentserver/metadatauploader

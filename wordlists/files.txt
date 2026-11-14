@@ -91,13 +91,13 @@ env.json
 aws.env
 config.dev.php
 secrets.env
+sse
 web
 wp-config.php.bak
 %00.env
 bedrock.env
 env-config.js
 mysql.sql
-sse
 app.log
 configuration.json
 google-services.json
