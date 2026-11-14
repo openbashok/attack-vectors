@@ -223,11 +223,11 @@ server.key
 .env.save.1
 Application
 credentials.xml
+developmentserver
 erp
+metadatauploader
 .json
 config.ini
-developmentserver
-metadatauploader
 requirements.txt
 sandbox
 stage

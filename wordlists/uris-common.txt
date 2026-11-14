@@ -180,6 +180,7 @@ bak/.env
 content/.env
 credentials.xml
 developer/.env
+developmentserver/metadatauploader
 erp/.env
 images/.env
 server.js
@@ -189,7 +190,6 @@ tmp/.env
 .json
 cache/.env
 config.ini
-developmentserver/metadatauploader
 frontend/web/debug/default/view
 logs/
 logs/.env
