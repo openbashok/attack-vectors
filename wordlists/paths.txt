@@ -242,9 +242,9 @@ user/.env
 .env.live
 .env.staging.local
 .env.template
+login
 wp-config.php.old
 .env.default
-login
 .env_sample
 phpinfo
 sitemap.xml
@@ -3626,6 +3626,7 @@ readme.txt
 recordings/
 redis/.env
 register/
+remoteControlAction.do
 render.yaml
 replicate/.env
 reports/.env

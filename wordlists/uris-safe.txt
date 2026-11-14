@@ -246,8 +246,8 @@ wp-config.php.backup
 .env.template
 .env.default
 wp-config.php.old
-.env_sample
 login
+.env_sample
 sitemap.xml
 phpinfo
 .env.config
@@ -3978,6 +3978,7 @@ readme.txt
 recordings/
 redis/.env
 register/
+remoteControlAction.do
 render.yaml_v=18e6211e463ba6d7
 replicate/.env_v=18e621124e0e6a60
 reports/.env

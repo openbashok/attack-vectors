@@ -25,9 +25,9 @@ laravel.log
 .env.prod
 phpinfo.php
 config.js
+login
 settings.py
 info
-login
 .env.local.php
 view
 .env.old
