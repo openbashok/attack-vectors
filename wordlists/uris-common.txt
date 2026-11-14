@@ -557,6 +557,7 @@ kyc/.env
 lab/.env
 laravel/core/.env
 mailer/.env
+manager/html
 new/.env.local
 new/.env.staging
 psnlink/.env
@@ -574,6 +575,7 @@ wp-content/uploads/
 .gitignore
 .pypirc
 .remote-sync.json
+ReportServer
 __tests__/test-become/.env
 actuator/heapdump
 admin/.env.production
@@ -590,7 +592,6 @@ database.php
 druid/index.html
 enviroments/.env
 enviroments/.env.production
-manager/html
 portal/redlion
 proc/self/environ
 user/.env.staging
@@ -610,7 +611,6 @@ wp-config.php.swp
 .gitlab-ci/.env
 .npmrc._default
 .ssh/id_ecdsa
-ReportServer
 admin
 admin/assets/js/views/login.js
 adminer.sql

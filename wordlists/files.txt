@@ -325,6 +325,7 @@ config.php.save
 config.production.json
 cores
 heapdump
+html
 id_ecdsa
 id_rsa.pub
 login.esp
@@ -341,6 +342,7 @@ wp-config.php.swp
 .gitignore
 .remote-sync.json
 Login
+ReportServer
 _profiler
 application-prod.properties
 application.properties.bak
@@ -349,7 +351,6 @@ bucket.env
 credentials.csv
 docs
 gemini.json
-html
 keys.json
 mail.php
 main
@@ -371,7 +372,6 @@ wp-config.txt
 .envs
 .ftpconfig
 .npmrc._default
-ReportServer
 actuator
 adminer.sql
 airflow.cfg

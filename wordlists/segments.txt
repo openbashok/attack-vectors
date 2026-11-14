@@ -406,6 +406,7 @@ db.php
 django
 doc
 includes
+manager
 secrets.py
 self
 terraform.tfvars
@@ -418,7 +419,6 @@ environ
 libraries
 local_settings.py
 mail
-manager
 qa
 run
 service-account.json
@@ -634,6 +634,7 @@ wp-config.php.swp
 07-accessing-data
 1
 Public
+ReportServer
 ansible
 application-prod.properties
 application.properties.bak
@@ -685,7 +686,6 @@ ContainerRegistry
 Datavase
 Final_Project
 PMA
-ReportServer
 _ignition
 adminer
 adminer.sql

@@ -559,6 +559,7 @@ env.js
 exapi/.env
 global-protect/login.esp
 lab/.env
+manager/html
 psnlink/.env
 raw
 root/.aws/credentials
@@ -574,6 +575,7 @@ wp-content/uploads/
 .env.qa
 .gitignore
 .remote-sync.json
+ReportServer
 __tests__/test-become/.env
 admin/.env.production
 api/config.env
@@ -595,7 +597,6 @@ enviroments/.env
 enviroments/.env.production
 functions/.env
 js/.env
-manager/html
 new/.env.production
 nginx/.env
 node_modules/.env
@@ -624,7 +625,6 @@ wp-content/debug.log
 .gitlab-ci/.env
 .npmrc._default
 .ssh/id_ecdsa
-ReportServer
 actuator
 admin
 admin/assets/js/views/login.js
