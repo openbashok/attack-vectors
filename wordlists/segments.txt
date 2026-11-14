@@ -13,9 +13,9 @@ favicon.ico
 app
 test
 admin
-.env.local
 SDK
 webLanguage
+.env.local
 .%2e
 .env.production
 .aws

@@ -3,8 +3,8 @@ eval-stdin.php
 config
 index.php
 favicon.ico
-.env.local
 webLanguage
+.env.local
 .env.production
 phpinfo
 .env.php
