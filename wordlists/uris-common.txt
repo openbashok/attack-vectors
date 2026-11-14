@@ -424,6 +424,7 @@ wp-content/.env
 .env.prod.local
 .ssh/id_ed25519
 Gemfile.lock
+HNAP1/
 aab9
 backups/.env
 composer.json
@@ -443,7 +444,6 @@ vendor/.env
 .netrc
 127.0.0.1:801
 GponForm/diag_Form?images/
-HNAP1/
 aaa9
 actuator/configprops
 actuator/env

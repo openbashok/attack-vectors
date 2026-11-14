@@ -156,9 +156,9 @@ aws.json
 json
 *
 .npmrc
+HNAP1
 wc.db
 .env.secret
-HNAP1
 backup.zip
 config.yml
 .env.ci

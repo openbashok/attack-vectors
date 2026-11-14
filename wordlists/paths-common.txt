@@ -422,6 +422,7 @@ vendor/.env
 .env.prod.local
 .netrc
 Gemfile.lock
+HNAP1/
 aab9
 actuator/configprops
 actuator/env
@@ -446,7 +447,6 @@ www.zip
 .env_backup
 127.0.0.1:801
 GponForm/diag_Form
-HNAP1/
 aaa9
 config.yaml
 config.yml

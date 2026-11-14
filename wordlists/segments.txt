@@ -281,11 +281,11 @@ owa
 .env.dev.local
 root
 .npmrc
+HNAP1
 containers
 wc.db
 workflows
 .env.secret
-HNAP1
 backup.zip
 config.yml
 testing
