@@ -31,8 +31,8 @@ login
 .env.local.php
 view
 .env.old
-.env.test
 HEAD
+.env.test
 .env.backup
 docker-compose.yml
 settings.json
