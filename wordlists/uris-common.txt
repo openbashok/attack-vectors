@@ -78,12 +78,12 @@ database.sql
 env
 mcp
 .env.php
+.well-known/security.txt
 db.sql
 mcp/
 site.zip
 staging/.env
 terraform.tfstate
-.well-known/security.txt
 info
 secrets.yml
 application/.env
@@ -240,8 +240,8 @@ twilio.env
 user/.env
 wp-config.php.backup
 .env.stage
-.env.live
 geoserver/web/
+.env.live
 .env.staging.local
 .env.template
 .env.default
@@ -362,6 +362,7 @@ Dr0v
 Jenkinsfile
 login.html
 pub/
+.git/index
 .well-known/pki-validation/update
 config.inc.php
 login.htm
@@ -369,7 +370,6 @@ manage/account/login
 sdk
 settings.php
 version
-.git/index
 HNAP1
 admin/index.html
 conf/.env
@@ -388,6 +388,7 @@ abc6
 abc8
 owa/auth/logon.aspx
 sftp.json
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .docker/config.json
 abc7
 actuator/health
@@ -397,7 +398,6 @@ cgi-bin/login.cgi
 deploy/.env
 login.jsp
 secrets.py
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 terraform.tfstate.backup
 wp-config.php~
 .env.docker
