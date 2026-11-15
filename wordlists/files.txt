@@ -80,6 +80,7 @@ web.config
 yarn.lock
 parameters.yml
 env.json
+web
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -92,7 +93,6 @@ aws.env
 config.dev.php
 secrets.env
 sse
-web
 wp-config.php.bak
 %00.env
 bedrock.env
