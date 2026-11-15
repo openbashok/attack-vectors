@@ -15,14 +15,14 @@ config/.env
 laravel/.env
 .env.dev
 .env.prod
-config.json
 backend/.env
+config.json
 .env.test
 .env.backup
 .env.old
 .env.example
-docker-compose.yml
 phpinfo.php
+docker-compose.yml
 .env.staging
 frontend/.env
 web/.env
@@ -54,10 +54,10 @@ storage/logs/laravel.log
 v1/.env
 settings/.env
 v2/.env
+test.php
 client/.env
 old/.env
 settings.py
-test.php
 .env.orig
 .well-known/security.txt
 appsettings.json
@@ -110,11 +110,11 @@ secrets.yaml
 sendgrid.env
 test/.env
 ../.env
+.env.local.php
 cms/.env
 main/.env
 settings.json
 .aws/config
-.env.local.php
 app_dev.php/_profiler/phpinfo
 auth/.env
 sse
@@ -334,6 +334,7 @@ workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+Dr0v
 Jenkinsfile
 backup/.git/config
 remote/login
@@ -342,7 +343,6 @@ static../.git/config
 .env.txt
 .vscode/settings.json
 .well-known/pki-validation/update
-Dr0v
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -392,6 +392,7 @@ backend/.env.local
 sftp.json
 terraform.tfstate.backup
 wp-config.bak
+wp-content/.env
 .circleci/config.yml
 .env.docker
 .s3cfg
@@ -402,7 +403,6 @@ app/.env.local
 local_settings.py
 secrets.py
 shared/.env
-wp-content/.env
 .env.copy
 .env.tmp
 .ssh/authorized_keys
@@ -994,6 +994,7 @@ home.tar.gz
 home/*/.aws/credentials
 horizon
 html/.git/config
+i.php
 icon/.env
 icons/.env
 image_data/.env
@@ -1388,6 +1389,7 @@ delivery/.env
 demo-app/.env
 deploy.json
 deployment-config.json
+device.rsp
 devops/.env
 dist/config.json
 docker-compose/platform/.env
@@ -1438,7 +1440,6 @@ htdocs/.git/config
 htpasswd.txt
 hubspot.config
 hubspot.json
-i.php
 iam/login
 id_ecdsa
 index.do
