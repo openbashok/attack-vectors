@@ -17,12 +17,12 @@ mcp
 secrets.yaml
 test
 login
-security.txt
 robots.txt
+security.txt
+config.php
 .env.dev
 .env.save
 laravel.log
-config.php
 phpinfo.php
 .env.prod
 config.js
@@ -471,6 +471,7 @@ sample.env
 serverless.yaml
 serverless.yml
 settings.local.json
+setup.cgi
 ssl.key
 terraform.tfvars.json
 trace
@@ -551,11 +552,13 @@ gemini.env
 health-check
 home.tar.gz
 horizon
+images
 index.htm
 index.js.map
 index.jsp
 install.php
 known_hosts
+lang
 license.txt
 live_env
 login.aspx
@@ -578,7 +581,6 @@ sendgrid.json
 service-account-credentials.json
 services.php
 settings.ini
-setup.cgi
 setup.php
 showLogin.cc
 sign_in
@@ -1004,7 +1006,6 @@ hibernate.cfg.xml
 home
 host.php
 hubspot.yml
-images
 index.php.old
 info%252ephp
 info.asp
@@ -1021,7 +1022,6 @@ jupyter_server_config.json
 key.json
 key.txt
 kylin
-lang
 latest
 lib
 list.query

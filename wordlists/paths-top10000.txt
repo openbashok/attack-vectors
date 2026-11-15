@@ -258,6 +258,7 @@ phpinfo
 build/.env
 .env.ci
 .env~
+admin/config.php
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
@@ -280,7 +281,6 @@ admin/.git/config
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 server/.git/config
 .htaccess
-admin/config.php
 docker/.env
 index.html
 public/.git/config
@@ -786,6 +786,7 @@ runtime-env.js
 server/.env.production
 serverless.yaml
 serverless.yml
+setup.cgi
 ssl.key
 stats/.env
 studioserver/.git/config
@@ -860,6 +861,8 @@ admin.php
 admin/.env.local
 admin/.env.staging
 admin/login
+admin/modules/framework/amp_conf/htdocs/admin/config.php
+admin/modules/framework/amp_conf/var/www/html/admin/config.php
 alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
@@ -994,6 +997,7 @@ html/.git/config
 icon/.env
 icons/.env
 image_data/.env
+images/
 img/.env
 includes/.env
 index.htm
@@ -1017,6 +1021,7 @@ logging/.env
 market/.env.production
 market/.env.staging
 misc/.env
+modules/faxnew/lang/
 mysql.php
 newsite/.env
 nginx-server/.env
@@ -1070,7 +1075,6 @@ server/.env.staging
 server/config/.env
 services/traefik/.env
 settings.ini
-setup.cgi
 setup.php
 setup/.env
 showLogin.cc
@@ -1895,8 +1899,6 @@ admin-panel/.env
 admin/.env.bak
 admin/.env.old
 admin/config
-admin/modules/framework/amp_conf/htdocs/admin/config.php
-admin/modules/framework/amp_conf/var/www/html/admin/config.php
 admin/reports/status
 admin/reports/updates
 adminapp/.env
@@ -2250,7 +2252,6 @@ http/.env
 httpboot/.env
 httpdocs/.env
 ikiwiki/.env
-images/
 images/logo.gif
 images/logo.png
 images/transparentpix.gif
@@ -2327,7 +2328,6 @@ minified/.env
 mock/.env
 models/.env
 modules/.env
-modules/faxnew/lang/
 monerod/.env
 mongodb/config/dev/.env
 monitoring/compose/.env

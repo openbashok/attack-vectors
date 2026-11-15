@@ -4,8 +4,8 @@ SDK/webLanguage
 .git/config
 .env.production
 .env.bak
-app/.env
 robots.txt
+app/.env
 .env.local
 api/.env
 .env.save
@@ -260,6 +260,7 @@ build/.env
 .env.ci
 .env.secret
 .env~
+admin/config.php
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
@@ -283,7 +284,6 @@ server/.git/config
 .env.swp
 .htaccess
 .ssh/id_rsa
-admin/config.php
 public/.git/config
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 .vscode/sftp.json
@@ -676,6 +676,7 @@ hudson
 id_dsa
 inc/config.php
 includes/config.php
+index.php
 laravel/.env.local
 laravel/.env.production
 laravel/.env.staging
@@ -843,6 +844,8 @@ admin.php
 admin/.env.local
 admin/.env.staging
 admin/login
+admin/modules/framework/amp_conf/htdocs/admin/config.php
+admin/modules/framework/amp_conf/var/www/html/admin/config.php
 alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
@@ -970,10 +973,10 @@ icon/.env
 icons/.env
 id_ed25519
 image_data/.env
+images/
 img/.env
 includes/.env
 index.htm
-index.php
 infra/.env
 install.php
 internal/.env
@@ -996,6 +999,7 @@ market/.env.production
 market/.env.staging
 mcp.json
 misc/.env
+modules/faxnew/lang/
 mysql.php
 newsite/.env
 nginx-server/.env
