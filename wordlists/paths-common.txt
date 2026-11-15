@@ -1075,6 +1075,7 @@ web_shell_cmd.gch
 webroot/.env
 webui
 webui/.env
+wiki
 www.cloudflare.com:443
 www.google.com:443
 xml
@@ -1623,7 +1624,6 @@ webclient/Login.xhtml
 webconsole
 webpack.config.js
 webui/
-wiki
 workers/.env
 workspace/.env
 wp-admin

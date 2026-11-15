@@ -146,10 +146,10 @@ database.php
 %252eenv
 .env_sample
 id_rsa
+*
 .%65%6e%76
 config.py
 v1
-*
 .env.uat
 HNAP1
 aws.json
@@ -567,6 +567,7 @@ vpn
 vpntunnel
 web_shell_cmd.gch
 welcome
+wiki
 wp-json
 www.cloudflare.com:443
 www.google.com:443
@@ -766,7 +767,6 @@ vertex-ai.json
 webclient
 webconsole
 webpack.config.js
-wiki
 workflows
 wp-config.php-backup
 wp-login.php

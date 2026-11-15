@@ -249,8 +249,8 @@ login
 .env.default
 wp-config.php.old
 .env_sample
-phpinfo
 _
+phpinfo
 .env.config
 .env.dev.local
 .env.uat
@@ -1058,6 +1058,7 @@ web_shell_cmd.gch
 webroot/.env
 webui
 webui/.env
+wiki
 www.cloudflare.com:443
 www.google.com:443
 xampp/.env
@@ -1592,7 +1593,6 @@ webapps/login
 webclient/Login.xhtml
 webconsole
 webui/
-wiki
 workspace/.env
 wp-admin
 wp-admin/css/colors/modern/

@@ -248,8 +248,8 @@ php_errors.log
 pos
 readme.md
 twilio.env
-.env.development.local
 *
+.env.development.local
 .env.stage
 login.html
 s3
@@ -1096,6 +1096,7 @@ wallets
 web_shell_cmd.gch
 webroot
 welcome
+wiki
 windows
 www.cloudflare.com:443
 www.google.com:443
@@ -1473,7 +1474,6 @@ webapps
 webconsole
 webdav
 webpack.config.js
-wiki
 with-cookie-auth-fauna
 worker
 workers
