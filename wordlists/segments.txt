@@ -436,9 +436,11 @@ service-account.json
 .terraform
 batch
 bedrock
+boaform
 cron
 current
 docker-compose.override.yml
+formLogin
 kyc
 myadmin
 openapi.json
@@ -457,7 +459,6 @@ all
 auth.json
 azure
 b
-boaform
 composer.json
 composer.lock
 config.php.old
@@ -467,7 +468,6 @@ credentials.yml.enc
 diag_Form
 env.js
 env.php
-formLogin
 instance
 mailchimp
 market
@@ -512,6 +512,7 @@ Dockerfile
 __fixtures__
 _next
 admin-app
+api.ipinfo.io:443
 audio
 begin
 bootstrap
@@ -525,6 +526,7 @@ front
 gcloud
 gcp-credentials.json
 global-protect
+icanhazip.com:443
 list
 metadata
 metrics
@@ -543,7 +545,6 @@ wp
 7
 _static
 api-docs
-api.ipinfo.io:443
 app.json
 application_default_credentials.json
 awstats
@@ -556,7 +557,6 @@ deploy.yml
 deployment.yaml
 develop
 environment.rb
-icanhazip.com:443
 javascript
 local.py
 login.asp
@@ -983,6 +983,7 @@ deploymentscripts
 dev-env
 developerslv
 directories
+dns-query
 docker-node-mongo-redis
 dockers
 dqgqoeCXckuwPtxov
@@ -1793,7 +1794,6 @@ did-method-rest
 did-rest
 django-blog
 dniapi
-dns-query
 docker-network-healthcheck
 docker.env
 documentation

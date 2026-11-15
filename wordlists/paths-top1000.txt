@@ -416,6 +416,7 @@ vendor/.env
 HNAP1/
 app/config/.env
 backups/.env
+boaform/admin/formLogin
 compose/.env
 docker-compose.override.yml
 server/.env.local
@@ -430,7 +431,6 @@ actuator/configprops
 actuator/env
 backup.tar.gz
 backup.zip
-boaform/admin/formLogin
 composer.json
 composer.lock
 config.php.old
@@ -476,6 +476,7 @@ wp-admin/.env
 .yarnrc
 Dockerfile
 api
+api.ipinfo.io:443
 api/metrics/run
 app/settings.py
 audio/.env
@@ -486,6 +487,7 @@ ecosystem.config.js
 env.txt
 files/.env
 frontend/.env.local
+icanhazip.com:443
 id_rsa
 mail/.env
 panel/.env
@@ -507,7 +509,6 @@ tools/.env
 .vscode/.env
 _static/.env
 admin/login.asp
-api.ipinfo.io:443
 app.json
 application-prod.yml
 client/.env.local
@@ -521,7 +522,6 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 gcp-credentials.json
 global-protect/login.esp
-icanhazip.com:443
 kyc/.env
 laravel/core/.env
 local.py
@@ -924,6 +924,7 @@ dev/.env.staging
 developerslv/.env
 directories/.env
 django_project_path/.env
+dns-query
 docker-node-mongo-redis/.env
 dqgqoeCXckuwPtxov
 drupal/.env
@@ -997,4 +998,3 @@ one.one.one.one:443
 openai.json
 openai/.env
 opt/.env
-parameters.yml

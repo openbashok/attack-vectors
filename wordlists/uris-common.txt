@@ -471,6 +471,7 @@ www.zip
 .env.www
 .yarnrc
 api
+api.ipinfo.io:443
 api/metrics/run
 audio/.env
 cgi-bin/.env
@@ -482,6 +483,7 @@ cron/.env
 doc/index.html
 ecosystem.config.js
 files/.env
+icanhazip.com:443
 lib/.env
 panel/.env
 private/.env
@@ -503,7 +505,6 @@ terraform.tfvars
 Dockerfile
 _static/.env
 admin/login.asp
-api.ipinfo.io:443
 app.json
 app/settings.py
 client/.env.local
@@ -518,7 +519,6 @@ env.txt
 env/.env
 frontend/.env.local
 global-protect/login.esp
-icanhazip.com:443
 id_rsa
 local.py
 mail/.env
@@ -864,6 +864,7 @@ bitbucket-pipelines.yml
 blankon/.env
 blob/.env
 blue/.env
+boaform/admin/formLogin?username=admin&psd=admin
 boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
 cdw-backend/.env
@@ -1242,7 +1243,6 @@ bedrock.json
 bedrock.yml
 bitcoind/.env
 blog/wp-json/batch/v1
-boaform/admin/formLogin?username=admin&psd=admin
 boxes/oracle-vagrant-boxes/OLCNE/.env
 cardea/backend/.env
 cert.pem
