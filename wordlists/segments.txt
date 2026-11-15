@@ -33,8 +33,8 @@ logs
 %%32%65%%32%65
 backend
 frontend
-v1
 login
+v1
 .env.bak
 server
 mcp
@@ -90,9 +90,9 @@ docker-compose.yml
 settings.json
 html
 .well-known
+index.html
 .env.development
 services
-index.html
 .gitlab-ci.yml
 old
 prod
@@ -113,10 +113,10 @@ credentials.json
 new
 settings
 media
+portal
 terraform.tfstate
 .env.testing
 data
-portal
 secrets.json
 application
 compose
@@ -147,11 +147,11 @@ local
 site.zip
 actuator
 docker-compose.yaml
+user
 .claude
 database.sql
 error.log
 shop
-user
 .kube
 application.properties
 dump.sql
@@ -261,6 +261,7 @@ sitemap.xml
 wp-config.php.old
 .env.default
 database.php
+owa
 %252eenv
 .env_sample
 .github
@@ -268,7 +269,6 @@ build
 database
 id_rsa
 json
-owa
 panel
 packages
 .%65%6e%76
@@ -281,6 +281,7 @@ health
 .env.config
 .env.dev.local
 HNAP1
+login.jsp
 root
 .npmrc
 containers
@@ -290,7 +291,7 @@ workflows
 .env.secret
 backup.zip
 config.yml
-login.jsp
+remote
 testing
 $(pwd)
 .env.ci
@@ -311,7 +312,6 @@ sites
 LICENSE
 app.php
 configuration.php
-remote
 settings.php
 workspace
 wp-admin
@@ -322,6 +322,7 @@ wp-includes
 about
 hello.world
 openai
+php
 test.hello
 vue-heroes
 wp-config.php.save
@@ -340,10 +341,10 @@ update
 account
 index
 manage
-php
 phpmyadmin
 static..
 swagger.json
+users
 .env.txt
 .git-credentials
 Dr0v
@@ -353,12 +354,12 @@ backups
 conf
 media..
 sdk
-users
 .circleci
 .env.1
 RDWeb
 authorized_keys
 login.htm
+logon.aspx
 pki-validation
 production
 public_html
@@ -368,10 +369,10 @@ anthropic
 deploy
 enviroments
 login.cgi
-logon.aspx
 master.key
 mcp.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
+vpn
 wp-config.php.orig
 ~
 .config
@@ -386,10 +387,10 @@ index.js
 pma
 private
 solr
-vpn
 welcome.cgi
 .env.2
 .env.test.local
+Login
 LogonPoint
 abc6
 abc8
@@ -417,7 +418,6 @@ terraform.tfvars
 wp-config.bak
 .env.docker
 .env.tmp
-Login
 backup.tar.gz
 config.yaml
 console
@@ -442,12 +442,14 @@ kyc
 myadmin
 openapi.json
 secrets
+webui
 wlwmanifest.xml
 .env.prod.local
 .idea
 .netrc
 127.0.0.1:8099
 Gemfile.lock
+GponForm
 aab9
 all
 auth.json
@@ -461,6 +463,7 @@ config.php~
 configprops
 credentials.yml.enc
 css
+diag_Form
 env.js
 env.php
 formLogin
@@ -472,7 +475,6 @@ proc
 server-status
 sources
 vue
-webui
 withMongo
 withPostgres
 www.zip
@@ -482,11 +484,9 @@ www.zip
 .envrc
 127.0.0.1:801
 Current
-GponForm
 aaa9
 application-prod.yml
 autodiscover.json
-diag_Form
 ecp
 en
 exporttool
@@ -539,6 +539,7 @@ wp
 .env.toml
 .env_dev
 .env_prod
+7
 _static
 api-docs
 api.ipinfo.io:443
@@ -569,7 +570,9 @@ phpmyadmin5
 projbackend
 redmine
 sitemaps
+sonicui
 test-become
+webclient
 withMySQL
 withRedis
 wp-config.old
@@ -623,6 +626,7 @@ runtime-env.js
 s3.json
 script
 secrets.toml
+secure
 socket.io
 sonicos
 stag
@@ -635,7 +639,6 @@ wp-config.php.swp
 .gitignore
 07-accessing-data
 1
-7
 Public
 ReportServer
 ansible
@@ -663,16 +666,13 @@ properties
 redlion
 refs
 route
-secure
 session
-sonicui
 sslvpn_logon.shtml
 stats
 stripe
 swagger-ui.html
 upload
 vertex.json
-webclient
 wp-config.php.txt
 wp-config.txt
 %252f
@@ -692,6 +692,7 @@ wp-config.txt
 .openai
 15
 ContainerRegistry
+Dashboard.jspa
 Datavase
 Final_Project
 PMA
@@ -740,6 +741,7 @@ local.settings.json
 login.js
 main.yml
 management
+mifs
 mysqlmanager
 php-myadmin
 phpMyAdmin-3
@@ -760,6 +762,7 @@ smtp.env
 sqladmin
 sqlmanager
 srv6_controller
+sslvpn-portal
 status
 stg
 text
@@ -771,6 +774,7 @@ webdb
 websql
 wp-config.php.dist
 wp-config.php.gz
+wsman
 www.tar.gz
 xampp
 xml
@@ -783,7 +787,6 @@ xmlrpc.php
 .gitmodules
 .mcp.json
 08-routing
-Dashboard.jspa
 Exercise.Frontend
 Kubernetes
 WEB-INF
@@ -827,6 +830,7 @@ install
 kitchensink
 latest
 lcomernbootcamp
+login.php
 monitoring
 next
 opt
@@ -844,7 +848,6 @@ serverless.yaml
 serverless.yml
 settings.local.json
 ssl.key
-sslvpn-portal
 studioserver
 symfony
 templates
@@ -860,7 +863,6 @@ wp-blog-header.php
 wp-config.php.zip
 wp-load.php
 wp-settings.php
-wsman
 $%28uname$%7BIFS%7D-n%29%7C%7Ccurl$%7BIFS%7D-fsSL$%7BIFS%7D-m$%7BIFS%7D4$%7BIFS%7Dhttp:
 $%28uname$%7BIFS%7D-n%29%7C%7Cwget$%7BIFS%7D-qO-$%7BIFS%7D-T$%7BIFS%7D4$%7BIFS%7Dhttp:
 %00s3
@@ -1022,12 +1024,10 @@ local.xml
 locally
 logging
 login.aspx
-login.php
 magento
 manifest
 manifest.json
 middleware
-mifs
 minimax
 misc
 models
@@ -1064,9 +1064,11 @@ setup
 setup.cgi
 setup.php
 shell
+showLogin.cc
 site.sql
 soap
 speed.cloudflare.com:443
+sslvpn
 staging2
 support
 swagger-ui
@@ -1114,6 +1116,7 @@ www.google.com:443
 .env.tar.gz
 .firebaserc
 .ghc.environment
+.js.map
 .my.cnf
 .next
 .pgpass
@@ -1149,6 +1152,7 @@ INSTALL.md
 InstantCV
 Login.aspx
 Login.jsp
+Login.xhtml
 MyAdmin
 OLCNE
 Orion
@@ -1253,6 +1257,7 @@ f
 fastlane
 favicon.png
 favicons
+fgt_lang
 fhir-api
 firebase
 fly.toml
@@ -1309,6 +1314,7 @@ mcp.yaml
 mcp.yml
 mcp_config.json
 me
+mftp
 micro-app-react
 minio
 mobile
@@ -1396,6 +1402,7 @@ program
 prx
 r
 rabbitmq
+rdweb
 registry
 release
 results
@@ -1416,14 +1423,13 @@ services.php
 settings.js
 setup.md
 shopdb
-showLogin.cc
+sign_in
 signin
 site-profile.json
 source
 sql-admin
 sqlweb
 srv
-sslvpn
 sslvpnLogin.html
 stackato-pkg
 start.htm
@@ -1458,6 +1464,8 @@ vue-end
 vue-til
 vue_CRM
 web-dist
+webapps
+webconsole
 webdav
 webpack.config.js
 webroot
@@ -1471,6 +1479,7 @@ wp-pma-mod
 wwwroot
 xx-final
 zld_product_spec.js
+ztp_gate.php
 %00.aws
 %00backup.tar.gz
 %00config
@@ -1584,7 +1593,6 @@ zld_product_spec.js
 .gitattributes
 .gradle
 .history
-.js.map
 .live.env
 .nuxtrc
 .out
@@ -1642,7 +1650,6 @@ Info.plist
 Integration
 Library
 LocalSettings.php
-Login.xhtml
 ManageUserRoles
 Modix
 MyRentals.Web
@@ -1816,7 +1823,6 @@ favs
 faxnew
 fe
 fetch
-fgt_lang
 fiber-debugger
 fidry
 filename
@@ -1918,7 +1924,6 @@ mariadb-test
 memcached
 mentorg-lava-docker
 messages
-mftp
 micro-app-react-communication
 microsoft
 microsoft-graph
@@ -2022,7 +2027,6 @@ rabbitmq-cluster
 rails-api
 rasax
 rclone.conf
-rdweb
 react-app
 react-dashboard
 react-scripts
@@ -2064,7 +2068,6 @@ settings.yml
 shibboleth
 shopware
 sidetree-mock
-sign_in
 simcore
 site-library
 siteMariage
@@ -2134,8 +2137,6 @@ w
 w3tc-config
 wallet.dat
 web.config.bak
-webapps
-webconsole
 webhook_secret.env
 webjars
 webroot_path
@@ -2159,5 +2160,4 @@ www-data
 zabbix
 zmusic-frontend
 ztp
-ztp_gate.php
 zxtm

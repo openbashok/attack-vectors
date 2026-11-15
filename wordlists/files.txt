@@ -22,9 +22,9 @@ robots.txt
 .env.save
 laravel.log
 config.php
+login
 .env.prod
 phpinfo.php
-login
 config.js
 info
 settings.py
@@ -36,8 +36,8 @@ HEAD
 .env.backup
 docker-compose.yml
 settings.json
-.env.development
 index.html
+.env.development
 .gitlab-ci.yml
 database.yml
 info.php
@@ -156,12 +156,12 @@ json
 .env.config
 .env.dev.local
 HNAP1
+login.jsp
 .npmrc
 wc.db
 .env.secret
 backup.zip
 config.yml
-login.jsp
 .env.ci
 .env.preprod
 .env.sample
@@ -196,11 +196,11 @@ files
 .env.1
 authorized_keys
 login.htm
+logon.aspx
 pub
 sdk
 .boto
 login.cgi
-logon.aspx
 master.key
 mcp.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
@@ -250,6 +250,7 @@ config.php.old
 config.php~
 configprops
 credentials.yml.enc
+diag_Form
 env.js
 env.php
 formLogin
@@ -263,7 +264,6 @@ www.zip
 aaa9
 application-prod.yml
 autodiscover.json
-diag_Form
 microsoft.exchange.ediscovery.exporttool.application
 openai.json
 .dockerenv
@@ -289,6 +289,7 @@ settings
 .env.toml
 .env_dev
 .env_prod
+Login
 api-docs
 api.ipinfo.io:443
 app.json
@@ -315,7 +316,6 @@ x.js
 .pypirc
 .remote-sync.json
 .yarnrc.yml
-Login
 adminer.php
 administrator
 amplify.yaml
@@ -363,6 +363,7 @@ redlion
 sslvpn_logon.shtml
 swagger-ui.html
 vertex.json
+webui
 wp-config.php.txt
 wp-config.txt
 .dockercfg
@@ -375,6 +376,7 @@ wp-config.txt
 .env1
 .envs
 .npmrc._default
+Dashboard.jspa
 actuator
 adminer.sql
 airflow.cfg
@@ -408,18 +410,18 @@ main.yml
 private.key
 secrets.js
 smtp.env
+sslvpn-portal
 status
 tmindex.html
-webui
 wp-config.php.dist
 wp-config.php.gz
+wsman
 www.tar.gz
 xmlrpc.php
 .claude.json
 .env.bkp
 .gitmodules
 .mcp.json
-Dashboard.jspa
 admin.php
 astguiclient.php
 aws.php
@@ -441,6 +443,7 @@ firebase-adminsdk.json
 google-credentials.json
 human.aspx
 index.cgi
+login.php
 owa
 php_info.php
 pom.xml
@@ -451,7 +454,6 @@ serverless.yaml
 serverless.yml
 settings.local.json
 ssl.key
-sslvpn-portal
 swagger
 trace
 vars
@@ -462,7 +464,6 @@ wp-content
 wp-includes
 wp-load.php
 wp-settings.php
-wsman
 %2F.env
 *.auto.tfvars
 .DS_Store
@@ -534,7 +535,6 @@ license.txt
 live_env
 local.xml
 login.aspx
-login.php
 manifest
 manifest.json
 metadata
@@ -554,6 +554,7 @@ service-account-credentials.json
 settings.ini
 setup.cgi
 setup.php
+showLogin.cc
 site.sql
 soap
 speed.cloudflare.com:443
@@ -589,6 +590,7 @@ xml
 .ghc.environment
 .hg
 .idea
+.js.map
 .my.cnf
 .pgpass
 .svn
@@ -608,6 +610,7 @@ Guest.aspx
 INSTALL.md
 Login.aspx
 Login.jsp
+Login.xhtml
 Pipfile
 Pipfile.lock
 RASHTML5Gateway
@@ -667,6 +670,7 @@ env.dev.js
 env.development.js
 extender.html
 favicon.png
+fgt_lang
 fly.toml
 ftp-sync.json
 fullchain.pem
@@ -703,6 +707,7 @@ mcp.yaml
 mcp.yml
 mcp_config.json
 me
+mftp
 models
 modern
 mysql
@@ -723,6 +728,8 @@ prelogin.esp
 private.pem
 production.json
 proxy
+rdweb
+remote
 route
 rsc
 script%3E.html
@@ -738,7 +745,7 @@ services.php
 settings.js
 setup.md
 shell
-showLogin.cc
+sign_in
 signin
 site-profile.json
 sslvpnLogin.html
@@ -756,6 +763,7 @@ versions
 vertex-ai-credentials.json
 vertex-ai.json
 webclient
+webconsole
 webpack.config.js
 wiki
 workflows
@@ -859,7 +867,6 @@ zld_product_spec.js
 .envy
 .env~1
 .gitattributes
-.js.map
 .live.env
 .nuxtrc
 .pnpmfile.cjs
@@ -876,7 +883,6 @@ IPCamDesc.xml
 Info.plist
 LICENSE
 LocalSettings.php
-Login.xhtml
 Pages
 Pulumi.yaml
 Remote
@@ -955,7 +961,6 @@ executions
 favicon-19fbef86.svg
 favicon-abe32304.png
 fetch
-fgt_lang
 forgot-password
 gcp-key.json
 gemini.yml
@@ -998,7 +1003,6 @@ logo.png
 luci
 magento_version
 management
-mftp
 next.config.js
 nsepa_setup.exe
 nuxt.config.ts
@@ -1024,9 +1028,7 @@ production.env
 production.key
 proxy.php
 rclone.conf
-rdweb
 readme.txt
-remote
 resolve
 rm-logo_small.png
 routes
@@ -1042,7 +1044,6 @@ service-account-key.json
 settings.gradle
 settings.xml
 settings.yml
-sign_in
 sql.php
 statement
 stripe.env
@@ -1058,7 +1059,6 @@ values.yaml
 wallet.dat
 wallets
 web.config.bak
-webconsole
 webhook_secret.env
 winscp.ini
 wp_filemanager.php
