@@ -70,16 +70,16 @@ dev/.env
 backup/.env
 crm/.env
 dump.sql
+mcp
 .env.json
 backup.sql
 dashboard/.env
 database.sql
 env
-mcp
+mcp/
 staging/.env
 .env.php
 db.sql
-mcp/
 site.zip
 terraform.tfstate
 .env.dist
@@ -118,6 +118,7 @@ debug/default/view?panel=config
 demo/.env
 main/.env
 secrets.yaml
+sse
 test
 uploads/.env
 .config.yaml
@@ -147,7 +148,6 @@ phpinfo/
 secrets.env
 sendgrid/.env
 sendgrid/.env.php
-sse
 store/.env
 test/.env.php
 twilio/.env.php
@@ -169,6 +169,7 @@ download/.env
 env.json
 saas/.env
 temp/.env
+api/mcp
 assets/config.json
 bedrock.env
 developmentserver/metadatauploader
@@ -178,7 +179,6 @@ login/.env
 static/.env
 tmp/.env
 .env.save.1
-api/mcp
 app/config/parameters.yml
 bak/.env
 cache/.env
@@ -242,10 +242,10 @@ wp-config.php.backup
 .env.development.local
 .env.stage
 .env.live
+login
 sitemap.xml
 .env.staging.local
 .env.template
-login
 .env.default
 wp-config.php.old
 .env_sample
@@ -439,6 +439,7 @@ docker-compose.override.yml
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 instance/config.py
+openapi.json
 swagger.json
 .env.yaml
 .env.yml
@@ -459,7 +460,6 @@ development/.env
 doc/index.html
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 laravel/.env.example
-openapi.json
 protected/.env
 server-status
 src/.env.local
@@ -544,6 +544,7 @@ wp-config.old
 .ssh/config
 .vscode/.env
 .yarnrc.yml
+admin
 admin-app/.env
 ansible.cfg
 api/v1/.env
@@ -580,7 +581,7 @@ wp-content/uploads/
 ReportServer
 __tests__/test-become/.env
 actuator/heapdump
-admin
+admin/
 admin/.env.production
 adminer.php
 api/.env.production
@@ -619,7 +620,6 @@ wp-config.php.swp
 .npmrc._default
 .ssh/id_ecdsa
 _layouts/15/error.aspx
-admin/
 admin/assets/js/views/login.js
 adminer.sql
 airflow.cfg
@@ -686,6 +686,7 @@ templates/.env
 var/www/html/.env
 vpn/index.html
 website/.env
+wp-admin/
 wp-config.php.txt
 wp-config.txt
 wp-content/debug.log
@@ -753,12 +754,12 @@ ssl.key
 studioserver/.git/config
 swagger/v1/swagger.json
 symfony/.env
+telescope
 template/.env
 users/.env
 vpn/js/rdx/core/lang/rdx_en.json.gz
 web/.git/config
 wordpress/.env
-wp-admin/
 wp-blog-header.php
 wp-config.php.dist
 wp-config.php.gz
@@ -813,11 +814,13 @@ ClientApp/.env
 FIRST_CONFIG/.env
 Passportjs/.env
 _ignition/execute-solution
+_profiler
 acme-challenge/.env
 acme/.env
 admin.php
 admin/.env.local
 admin/.env.staging
+admin/login
 alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
@@ -825,6 +828,7 @@ ansible/.env
 api/.env.example
 api/.env.staging
 api/active-coins
+api/docs
 api/shared/config/.env
 api/shared/config/config.env
 app
@@ -837,6 +841,7 @@ app/frontend/.env
 app/terraform.tfstate
 app1-static/.env
 app2-static/.env
+app_dev.php
 app_nginx_static_path/.env
 assets/config.production.json
 autodiscover/autodiscover.xml
@@ -989,6 +994,7 @@ qa/.env
 qa/.env.local
 qa/.env.staging
 rails/.env
+register
 release/.env
 repos/.env
 robots/.env
@@ -1028,7 +1034,6 @@ staging/.env.staging
 stats/.env
 stripe/.env
 swagger-ui.html
-telescope
 template.yaml
 terraform/.env
 terraform/terraform.tfvars.json
@@ -1040,6 +1045,7 @@ tests/drupal-test/.env
 theme/.env
 ubuntu/.env
 upload/.env
+users/sign_in
 v2/_catalog
 var/.env
 var/task/amplify.yaml
@@ -1162,13 +1168,11 @@ _next/server
 _phpMyAdmin/index.php?lang=en
 _phpmyadmin/index.php?lang=en
 _phpmyadmin_/index.php?lang=en
-_profiler
 access.log
 account/.env
 actuator/logfile
 admin/db/index.php?lang=en
 admin/index.php?lang=en
-admin/login
 admin/phpMyAdmin/index.php?lang=en
 admin/phpmyadmin/index.php?lang=en
 admin/pma/index.php?lang=en
@@ -1193,7 +1197,6 @@ angular/config.json
 ansible/vault.yml
 api-docs
 api/config.json
-api/docs
 api/health
 api/login
 api/route
@@ -1215,7 +1218,6 @@ app/.aws/credentials
 app/config/dev/.env
 app/credentials.json
 app/etc/local.xml
-app_dev.php
 appliance
 application.yaml
 application_default_credentials.json
@@ -1332,6 +1334,7 @@ docker-elk/.env
 docker/db/.env
 docker/examples/compose/.env
 docker/webdav/.env
+docs
 docs/setup.md
 dotfiles/.env
 downloads/.env
@@ -1367,6 +1370,7 @@ google/service-account.json
 help/.env
 home/ec2-user/.aws/credentials
 home/ubuntu/.aws/credentials
+horizon
 host_vars/
 htdocs/.git/config
 html/.git/config
@@ -1511,9 +1515,9 @@ profile/.env
 program/index.php?lang=en
 proxy
 prx/000/http/localhost/login
+rails/info/properties
 rdweb
 react/config.json
-register
 remote
 remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 resources/docker/rabbitmq/.env
@@ -1567,6 +1571,7 @@ static/js/config.js
 staticfiles/.env
 stripe-credentials.json
 stylesheets/.env
+swagger
 test-network/.env
 test/bdd/fixtures/openapi-demo/.env
 test_smtp.py
@@ -1575,7 +1580,6 @@ tests/todo-react/.env
 tiedostot/.env
 urlmem-app/.env
 userportal/webpages/myaccount/login.jsp
-users/sign_in
 v1/models
 var/task/.env
 vertex-ai-credentials.json
@@ -1603,5 +1607,6 @@ wp-content/themes/gaukingo/
 wp-json
 wp-json/Batch/v1
 wp-json/batch/v1/
+wp-login.php
 wp/.env
 xx-final/vue-heroes/.env

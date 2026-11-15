@@ -70,16 +70,16 @@ dev/.env
 backup/.env
 crm/.env
 dump.sql
+mcp
 .env.json
 backup.sql
 dashboard/.env
 database.sql
 env
-mcp
+mcp/
 staging/.env
 .env.php
 db.sql
-mcp/
 site.zip
 terraform.tfstate
 .env.dist
@@ -118,6 +118,7 @@ debug/default/view_panel=config
 demo/.env
 main/.env
 secrets.yaml
+sse
 test
 uploads/.env
 .config.yaml
@@ -147,7 +148,6 @@ phpinfo/
 secrets.env
 sendgrid/.env
 sendgrid/.env.php
-sse
 store/.env
 test/.env.php
 twilio/.env.php
@@ -169,6 +169,7 @@ download/.env
 env.json
 saas/.env
 temp/.env
+api/mcp
 assets/config.json
 bedrock.env
 developmentserver/metadatauploader
@@ -178,7 +179,6 @@ login/.env
 static/.env
 tmp/.env
 .env.save.1
-api/mcp
 app/config/parameters.yml
 bak/.env
 cache/.env
@@ -242,10 +242,10 @@ wp-config.php.backup
 .env.development.local
 .env.stage
 .env.live
+login
 sitemap.xml
 .env.staging.local
 .env.template
-login
 .env.default
 wp-config.php.old
 .env_sample
@@ -439,6 +439,7 @@ docker-compose.override.yml
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 instance/config.py
+openapi.json
 swagger.json
 .env.yaml
 .env.yml
@@ -459,7 +460,6 @@ development/.env
 doc/index.html
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 laravel/.env.example
-openapi.json
 protected/.env
 server-status
 src/.env.local
@@ -544,6 +544,7 @@ wp-config.old
 .ssh/config
 .vscode/.env
 .yarnrc.yml
+admin
 admin-app/.env
 ansible.cfg
 api/v1/.env
@@ -580,7 +581,7 @@ wp-content/uploads/
 ReportServer
 __tests__/test-become/.env
 actuator/heapdump
-admin
+admin/
 admin/.env.production
 adminer.php
 api/.env.production
@@ -619,7 +620,6 @@ wp-config.php.swp
 .npmrc._default
 .ssh/id_ecdsa
 _layouts/15/error.aspx
-admin/
 admin/assets/js/views/login.js
 adminer.sql
 airflow.cfg
@@ -686,6 +686,7 @@ templates/.env
 var/www/html/.env
 vpn/index.html
 website/.env
+wp-admin/
 wp-config.php.txt
 wp-config.txt
 wp-content/debug.log
@@ -753,12 +754,12 @@ ssl.key
 studioserver/.git/config
 swagger/v1/swagger.json
 symfony/.env
+telescope
 template/.env
 users/.env
 vpn/js/rdx/core/lang/rdx_en.json.gz
 web/.git/config
 wordpress/.env
-wp-admin/
 wp-blog-header.php
 wp-config.php.dist
 wp-config.php.gz
@@ -815,6 +816,7 @@ __pwd_/_.auto.tfvars
 __pwd_/terraform.tfstate
 __pwd_/terraform.tfvars
 _ignition/execute-solution
+_profiler
 _s=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E
 _s=UNION+SELECT+ALL+FROM+information_schema+AND+%27+or+SLEEP%285%29+or+%27
 acme-challenge/.env
@@ -822,6 +824,7 @@ acme/.env
 admin.php
 admin/.env.local
 admin/.env.staging
+admin/login
 alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
@@ -829,6 +832,7 @@ ansible/.env
 api/.env.example
 api/.env.staging
 api/active-coins
+api/docs
 api/shared/config/.env
 api/shared/config/config.env
 app
@@ -841,6 +845,7 @@ app/frontend/.env
 app/terraform.tfstate
 app1-static/.env
 app2-static/.env
+app_dev.php
 app_nginx_static_path/.env
 assets/config.production.json
 autodiscover/autodiscover.xml
@@ -993,6 +998,7 @@ qa/.env
 qa/.env.local
 qa/.env.staging
 rails/.env
+register
 release/.env
 repos/.env
 robots/.env
@@ -1032,7 +1038,6 @@ staging/.env.staging
 stats/.env
 stripe/.env
 swagger-ui.html
-telescope
 template.yaml
 terraform/.env
 terraform/terraform.tfvars.json
@@ -1044,6 +1049,7 @@ tests/drupal-test/.env
 theme/.env
 ubuntu/.env
 upload/.env
+users/sign_in
 v2/_catalog
 var/.env
 var/task/amplify.yaml
@@ -1159,7 +1165,6 @@ _nx=@@
 _phpMyAdmin/index.php_lang=en
 _phpmyadmin/index.php_lang=en
 _phpmyadmin_/index.php_lang=en
-_profiler
 _rest_route=%2Fbatch%2Fv1
 _rest_route=/batch%2Fv1
 _script_alert_1__/script_.html
@@ -1168,7 +1173,6 @@ account/.env
 actuator/logfile
 admin/db/index.php_lang=en
 admin/index.php_lang=en
-admin/login
 admin/phpMyAdmin/index.php_lang=en
 admin/phpmyadmin/index.php_lang=en
 admin/pma/index.php_lang=en
@@ -1193,7 +1197,6 @@ angular/config.json
 ansible/vault.yml
 api-docs
 api/config.json
-api/docs
 api/health
 api/login
 api/route
@@ -1215,7 +1218,6 @@ app/.aws/credentials
 app/config/dev/.env
 app/credentials.json
 app/etc/local.xml
-app_dev.php
 appliance
 application.yaml
 application_default_credentials.json
@@ -1332,6 +1334,7 @@ docker-elk/.env
 docker/db/.env
 docker/examples/compose/.env
 docker/webdav/.env
+docs
 docs/setup.md
 dotfiles/.env
 downloads/.env
@@ -1367,6 +1370,7 @@ google/service-account.json
 help/.env
 home/ec2-user/.aws/credentials
 home/ubuntu/.aws/credentials
+horizon
 host_vars/
 htdocs/.git/config
 html/.git/config
@@ -1511,9 +1515,9 @@ profile/.env
 program/index.php_lang=en
 proxy
 prx/000/http/localhost/login
+rails/info/properties
 rdweb
 react/config.json
-register
 remote
 remote/fgt_lang_lang=/../../../..//////////dev/cmdb/sslvpn_websession
 resources/docker/rabbitmq/.env
@@ -1567,6 +1571,7 @@ static/js/config.js
 staticfiles/.env
 stripe-credentials.json
 stylesheets/.env
+swagger
 test-network/.env
 test/bdd/fixtures/openapi-demo/.env
 test_smtp.py
@@ -1575,7 +1580,6 @@ tests/todo-react/.env
 tiedostot/.env
 urlmem-app/.env
 userportal/webpages/myaccount/login.jsp
-users/sign_in
 v1/models
 var/task/.env
 vertex-ai-credentials.json
@@ -1603,6 +1607,7 @@ wp-content/themes/gaukingo/
 wp-json
 wp-json/Batch/v1
 wp-json/batch/v1/
+wp-login.php
 wp/.env
 xx-final/vue-heroes/.env
 %00backup.tar.gz
@@ -1889,6 +1894,7 @@ api/.env:80/shared/.env
 api/.env:80/sources/.env
 api/.env:80/system/.env
 api/api-docs
+api/auth/session
 api/client/update_arch=amd64_commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17_os=windows
 api/config.dev.env
 api/docs/
@@ -2067,6 +2073,7 @@ cron/.env.production
 cslu/v1/core/conf
 customer/.env
 d/.env
+dashboard
 dashboard/
 dashboard/favicon.ico
 data/.env.example
@@ -2101,7 +2108,6 @@ docker/config.json
 docker/database/.env
 docker/dev/.env
 docker/postgres/.env
-docs
 docs/.env.example
 dodoswap-client/.env
 elasticemail/.env
@@ -2187,8 +2193,8 @@ group_vars/
 helpdesk/WebObjects/Helpdesk.woa
 hgs-static/.env
 hibernate.cfg.xml
+home
 horde/.env
-horizon
 hotpot-app-frontend/.env
 http/.env
 httpboot/.env
@@ -2384,7 +2390,6 @@ qv-frontend/.env
 r-seenet/index.php
 rabbitmq-cluster/.env
 rails-api/react-app/.env
-rails/info/properties
 rasax/.env
 react_todo/.env
 register/.env
@@ -2516,7 +2521,6 @@ styles/.env
 support/.env
 svelte/.env
 svs-path-check-nonexistent
-swagger
 swagger-ui/index.html
 swagger/
 swagger/index.html
@@ -2578,6 +2582,7 @@ unixtime/.env
 unsplash-downloader/.env
 upfiles/.env
 user
+user/login
 users/config.env
 usr/.env
 v1/.env.example
@@ -2616,7 +2621,7 @@ wordpress/.git/config
 wordpress/wp-json/batch/v1
 workers/.env
 wp-content/plugins/hellopress/wp_filemanager.php
-wp-login.php
+wp-json/
 wp-login/.env
 wrangler.toml
 www-data/.env
@@ -3114,11 +3119,14 @@ _rest_route=/batch/v1
 _rsc
 _site.zip
 _watcher/_query/watches
+_wdt
 a
 a/../.aws/credentials_v=18e621127d2fe340
 a/../.env_v=18e621121a389e0f
 a/../.git/config_v=18e62112c0f71e6e
 accounting/control/main
+accounts/login/
+actions/users/login
 actions/users/session-info
 actuator/configprops_v=18e62110fa1fb697
 actuator/env_v=18e62110ce4bac35
@@ -3129,10 +3137,12 @@ admin.html
 admin.jhtml
 admin/%252eenv
 admin/.env_v=18e62111a4e619d9
+admin/auth/login
 admin/config_v=18e62111261de63a
 admin/controllers/merchant.js_v=18e6211c8eb8a4d6
 admin/controllers/partner.js_v=18e6211c8fdb2261
 admin/debug
+admin/login/
 admin/panel/.env
 admin/server_info.php_v=18e62111d3dc838a
 adminer%252ephp
@@ -3182,7 +3192,9 @@ api/anthropic/.env_v=18e621112cb29f8a
 api/anthropic/config.js_v=18e621112d60c4d3
 api/auth
 api/auth/callback
-api/auth/session
+api/auth/csrf
+api/auth/local
+api/auth/signin
 api/aws/s3.ts
 api/azure-openai/config.js_v=18e62111feed0b23
 api/bedrock/config.js_v=18e621104964e5e2
@@ -3216,6 +3228,7 @@ api/swagger.json_v=18e6211cb92db843
 api/user
 api/v1/health
 api/v1/login
+api/v1/openapi.json
 api/v1/phpinfo.php
 api/v1/provisioning/contact-points
 api/v1/secrets
@@ -3305,6 +3318,8 @@ assets/other/service-account-credentials.json
 astro.config.mjs_v=18e6211ff88b346e
 attachments.zip
 auth/.env_v=Xq4xJ
+auth/login
+auth/signin
 auth/v1/health
 aws-bedrock/.env_v=18e6211057fe0396
 aws-codecommit/
@@ -3324,6 +3339,7 @@ backend/.env_v=18e62111ad408f36
 backend/config/default.yml_v=18e621117906b8ca
 backend/config/development.yml_v=18e62111064fe181
 backend/config/settings.yml_v=18e6211107b05315
+backend/login
 backend/mail.php
 backend/phpinfo.php
 backup%252egz
@@ -3545,10 +3561,11 @@ cron/.env_v=18e621124fe7eb4d
 css/elfinder.min.css
 css/images/PTZOptics_powerby.png
 ctrlt/DeviceUpgrade_1
+customer/account/create/
+customer/account/login/
 cve202615748/
 daemon/%2eenv_v=cmVKy
 daemon/.env
-dashboard
 dashboard/.env_v=18e6211f0a84be18
 dashboard/phpinfo.php_v=18e621123f1f8576
 data.tar.gz
@@ -3657,6 +3674,7 @@ favicon.png
 feature/.env
 feed/.env
 feedback/
+filament/login
 files.tar.gz
 files.zip
 files/backup.zip
@@ -3687,6 +3705,9 @@ gemini/.env_v=18e621119232eb8e
 geoserver/rest/about/version.json
 geoserver/rest/about/version.json_v=18e6211cd4369a4b
 geoserver/wfs_service=WFS_request=GetCapabilities
+ghost/
+ghost/api/admin/
+ghost/signin
 gitlab/.env
 global-protect/prelogin.esp_tmp=tmp_clientVer=4100_clientos=Windows
 global/.env
@@ -3706,7 +3727,6 @@ helper.js_v=18e62110d8cb5194
 helper/EmailHelper.js_v=18e6211cb12e7c74
 helpers/.env
 helpers/utility.js_v=18e6211cb3ae923a
-home
 home.php
 home/deploy/.env
 home/ubuntu/.env
@@ -3742,6 +3762,9 @@ index.html_v=18e62110c6af0149
 index.js
 index.js_v=18e62111c6268669
 index.jsp
+index.php/admin
+index.php/admin/login
+index.php/login
 index.php_p=admin/dashboard
 index.shtml
 indice.asp
@@ -3832,6 +3855,7 @@ librechat.yaml
 litellm/config.yaml_v=18e621123b937890
 litellm_config.yaml
 live/.env_v=flima
+livewire/update
 ljge88dw9ua8ft
 llm-config.json
 llm.json
@@ -3938,6 +3962,7 @@ notebooks/openai.ipynb_v=18e621112e42c6df
 notification/%252eenv
 notification/.env
 notifications/.env
+nova/login
 ntrone0lo3crf3
 ntxohlrylfokkz
 nuxt.config.js_v=18e6211ff08ffa9b
@@ -4004,12 +4029,14 @@ package/.env
 packages/config/.env
 page/.env
 pandora_console/
+panel/login
 panel/status
 parameters%2eyml_v=AVLes
 params.yaml_v=18e6211f9faa9794
 partner/.env
 partner/config/config.js_v=18e6211c8e97450a
 partymgr/control/main
+password/reset
 payments/%2eenv_v=eyny6
 perplexity/.env_v=18e6211242b800ea
 photo/webapi/query.php_api=SYNO.API.Info_method=query_version=1
@@ -4082,6 +4109,7 @@ queues/.env
 quote/
 r09pfxa2iztjq3
 rails.zip
+rails/info/routes
 railway.json_v=18e6211e43f3c946
 rb0wve4pioi4if
 rclone.conf_v=18e6211dee17b2e6
@@ -4089,6 +4117,7 @@ react.zip
 readme.txt
 recordings/
 redis/.env
+redoc
 register/
 remoteControlAction.do
 render.yaml_v=18e6211e463ba6d7
@@ -4118,6 +4147,7 @@ s3/bucket
 s3/bucket.env_v=scLwO
 s3/buckets
 s4z1do2aazin0k
+sanctum/csrf-cookie
 sapi/debug/default/view
 scheduler/.env
 scripts.zip
@@ -4291,7 +4321,9 @@ support/
 support/%2eenv_v=HKkXb
 svelte.config.js_v=18e6211f886d62cf
 svpn/index.cgi
+swagger-ui
 swagger-ui.html_v=18e6211c968d7aa1
+swagger-ui/
 swagger.js_v=18e621111eec6719
 swagger.json.bak_v=18e6211cbe154baf
 swagger.json_v=18e6211119f3c6f5
@@ -4348,11 +4380,13 @@ uploads/backup.zip
 user/%2eenv_v=g13dF
 user/config/config.js_v=18e6211cb0b568e3
 user/controllers/index.js_v=18e6211c94327d8b
-user/login
 userfiles_path=../../../../proc/self/environ
 userfiles_path=../../../.env
 users/%2eenv_v=c3DuT
 users/.env_v=c3DuT
+users/login
+users/sign_up
+users/signin
 util/%2eenv_v=1xzww
 util/.env_v=1xzww
 utils/%2eenv_v=8AHVo
@@ -4427,6 +4461,7 @@ workflow/%2eenv_v=s6Jih
 workflow/.env_v=s6Jih
 workplace/home.action
 wp-admin.zip
+wp-admin/admin-ajax.php
 wp-config.bak_v=18e6211304a989f8
 wp-config.php.1_v=18e621133432b5bf
 wp-config.php.backup_v=18e621130b108cd2
@@ -4456,7 +4491,6 @@ wp-content/w3tc-config/master-preview.php
 wp-content/w3tc-config/master.php
 wp-includes/js/wp-emoji-release.min.js
 wp-includes/wlwmanifest.xml
-wp-json/
 wp-json/gravitysmtp/v1/tests/mock-data_page=gravitysmtp-settings
 wp-json/wp/v2/pages
 wp-login.php_test=../../etc/passwd

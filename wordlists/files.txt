@@ -3,8 +3,8 @@ eval-stdin.php
 config
 index.php
 favicon.ico
-.env.local
 webLanguage
+.env.local
 .env.production
 phpinfo
 .env.php
@@ -16,12 +16,12 @@ credentials
 mcp
 secrets.yaml
 test
+login
 security.txt
 robots.txt
 .env.dev
 .env.save
 laravel.log
-login
 config.php
 .env.prod
 phpinfo.php
@@ -81,6 +81,7 @@ yarn.lock
 parameters.yml
 web
 env.json
+sse
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -92,7 +93,6 @@ env.json
 aws.env
 config.dev.php
 secrets.env
-sse
 wp-config.php.bak
 %00.env
 bedrock.env
@@ -168,6 +168,7 @@ config.yml
 .env~
 .env.sandbox
 .htpasswd
+admin
 version
 .env.swp
 .s3cfg
@@ -179,12 +180,11 @@ settings.php
 .htaccess
 hello.world
 test.hello
+update
 wp-config.php.save
-admin
 config.inc.php
 docker-compose.prod.yml
 sftp-config.json
-update
 about
 index
 swagger.json
@@ -222,6 +222,7 @@ RDWeb
 abc7
 api
 db.php
+openapi.json
 secrets.py
 terraform.tfvars
 wp-config.bak
@@ -238,7 +239,6 @@ service-account.json
 auth
 docker-compose.override.yml
 formLogin
-openapi.json
 wlwmanifest.xml
 .env.prod.local
 .netrc
@@ -301,11 +301,13 @@ credentials.yml
 db.sql.gz
 deploy.yml
 deployment.yaml
+docs
 environment.rb
 local.py
 login.esp
 system
 users
+wp-admin
 wp-config.old
 x.js
 .env-example
@@ -316,6 +318,7 @@ x.js
 .pypirc
 .remote-sync.json
 .yarnrc.yml
+_profiler
 adminer.php
 administrator
 amplify.yaml
@@ -331,35 +334,33 @@ heapdump
 html
 id_ecdsa
 id_rsa.pub
+properties
 raw
 runtime-env.js
 s3.json
 secrets.toml
 socket.io
 uploads
-wp-admin
 wp-config.php.swp
 .env.qa
 .env_example
 .ftpconfig
 .gitignore
 ReportServer
-_profiler
 application-prod.properties
 application.properties.bak
 aws-ses.json
 bucket.env
 console
 credentials.csv
-docs
 gemini.json
 keys.json
 mail.php
 main
 main.js
 nc_gina_ver.txt
-properties
 redlion
+signin
 sslvpn_logon.shtml
 swagger-ui.html
 vertex.json
@@ -412,6 +413,7 @@ secrets.js
 smtp.env
 sslvpn-portal
 status
+swagger
 tmindex.html
 wp-config.php.dist
 wp-config.php.gz
@@ -448,13 +450,14 @@ owa
 php_info.php
 pom.xml
 rdx_en.json.gz
+register
 s3_config.json
 sample.env
 serverless.yaml
 serverless.yml
 settings.local.json
 ssl.key
-swagger
+telescope
 trace
 vars
 version.php
@@ -462,6 +465,7 @@ wp-blog-header.php
 wp-config.php.zip
 wp-content
 wp-includes
+wp-json
 wp-load.php
 wp-settings.php
 %2F.env
@@ -490,6 +494,7 @@ _catalog
 access.log
 active-coins
 app
+app_dev.php
 application.yaml
 autodiscover.xml
 aws-codecommit
@@ -513,6 +518,7 @@ connect.php
 connection.php
 credentials.db
 credentials.tfrc.json
+dashboard
 data.sql
 database.zip
 db.tar.gz
@@ -544,7 +550,6 @@ mysql.php
 one.one.one.one:443
 phpmyadmin
 pma
-register
 s3.key
 s3.secret
 s3.yml
@@ -556,11 +561,11 @@ settings.ini
 setup.cgi
 setup.php
 showLogin.cc
+sign_in
 site.sql
 soap
 speed.cloudflare.com:443
 team-provider-info.json
-telescope
 template.yaml
 terraform.tfvars.json
 vpn
@@ -568,7 +573,7 @@ vpntunnel
 web_shell_cmd.gch
 welcome
 wiki
-wp-json
+wp-login.php
 www.cloudflare.com:443
 www.google.com:443
 xml
@@ -632,7 +637,6 @@ apikey.txt
 app-ads.txt
 app.config.json
 app.min.js
-app_dev.php
 appliance
 application-dev.yml
 appsettings.Development.json
@@ -659,7 +663,6 @@ configurations.do
 connect.cgi
 connectionstrings.config
 custom.html
-dashboard
 data
 deploy.json
 deployment-config.json
@@ -683,6 +686,7 @@ gemini.env
 global.asa
 google-ai.json
 helper.js
+horizon
 host_vars
 htpasswd.txt
 hubspot.config
@@ -733,6 +737,7 @@ proxy
 rdweb
 remote
 route
+routes
 rsc
 script%3E.html
 script>.html
@@ -747,8 +752,6 @@ services.php
 settings.js
 setup.md
 shell
-sign_in
-signin
 site-profile.json
 sslvpnLogin.html
 start.htm
@@ -769,7 +772,6 @@ webconsole
 webpack.config.js
 workflows
 wp-config.php-backup
-wp-login.php
 zld_product_spec.js
 %00backup.tar.gz
 %00status.php
@@ -973,7 +975,7 @@ handler
 header_logo.cgi
 health-check
 hibernate.cfg.xml
-horizon
+home
 host.php
 hubspot.yml
 images
@@ -1032,7 +1034,6 @@ readme.txt
 refs
 resolve
 rm-logo_small.png
-routes
 runtime-config.js
 s3.js
 secret.env
@@ -1042,6 +1043,7 @@ sendgrid_keys.env
 sendinblue.env
 server_info
 service-account-key.json
+session
 settings.gradle
 settings.xml
 settings.yml
@@ -1049,6 +1051,7 @@ sql.php
 statement
 stripe.env
 svs-path-check-nonexistent
+swagger-ui
 system:ping
 tile.vf
 token
