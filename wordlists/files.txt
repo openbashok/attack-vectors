@@ -105,10 +105,10 @@ server.js
 server.key
 .env.save.1
 credentials.xml
+metadatauploader
 .json
 config.ini
 logs
-metadatauploader
 requirements.txt
 wp-config.php.backup
 beta
@@ -155,8 +155,8 @@ json
 *
 .env.config
 .env.dev.local
-.npmrc
 HNAP1
+.npmrc
 wc.db
 .env.secret
 backup.zip
@@ -197,6 +197,7 @@ authorized_keys
 login.htm
 pub
 .boto
+admin
 login.cgi
 master.key
 mcp.json
@@ -204,7 +205,6 @@ sdk
 wp-config.php.orig
 ws
 .travis.yml
-admin
 downloads
 id_ed25519
 index.js

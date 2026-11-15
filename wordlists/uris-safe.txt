@@ -180,6 +180,7 @@ bak/.env
 content/.env
 credentials.xml
 developer/.env
+developmentserver/metadatauploader
 erp/.env
 images/.env
 server.js
@@ -189,7 +190,6 @@ tmp/.env
 .json
 cache/.env
 config.ini
-developmentserver/metadatauploader
 frontend/web/debug/default/view
 logs/
 logs/.env
@@ -412,6 +412,7 @@ wp-config.bak
 .env.copy
 .env_old
 .ssh/authorized_keys
+HNAP1/
 api/.env.local
 app/.env.local
 app/config/.env
@@ -425,7 +426,6 @@ wp-content/.env
 .env.prod.local
 .ssh/id_ed25519
 Gemfile.lock
-HNAP1/
 aab9
 backups/.env
 composer.json
@@ -613,6 +613,7 @@ wp-config.php.swp
 .npmrc._default
 .ssh/id_ecdsa
 admin
+admin/
 admin/assets/js/views/login.js
 adminer.sql
 airflow.cfg
@@ -687,7 +688,6 @@ wp-content/debug.log
 .gitmodules
 Public/home/js/check.js
 actuator
-admin/
 administrator/
 api/
 api/session/properties
@@ -4430,4 +4430,5 @@ xmlrpc.php_rsd
 xpvhykubaiexsm
 yii.zip
 yoenrmvpo5lqyq
+zabbix/
 zabbix/favicon.ico

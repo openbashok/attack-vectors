@@ -182,6 +182,7 @@ api/mcp
 bak/.env
 credentials.xml
 developer/.env
+developmentserver/metadatauploader
 erp/.env
 images/.env
 static/.env
@@ -189,7 +190,6 @@ v3/.env
 .json
 cache/.env
 config.ini
-developmentserver/metadatauploader
 frontend/web/debug/default/view
 k8s/secrets.yaml
 logs/
@@ -410,6 +410,7 @@ wp-content/.env
 .env_1
 .env_old
 .ssh/id_ed25519
+HNAP1/
 app/config/.env
 backups/.env
 compose/.env
@@ -423,7 +424,6 @@ vendor/.env
 .env.prod.local
 .netrc
 Gemfile.lock
-HNAP1/
 aab9
 actuator/configprops
 actuator/env
@@ -628,6 +628,7 @@ wp-content/debug.log
 .ssh/id_ecdsa
 actuator
 admin
+admin/
 admin/assets/js/views/login.js
 adminer.sql
 airflow.cfg
@@ -695,7 +696,6 @@ xmlrpc.php
 .mcp.json
 Public/home/js/check.js
 _profiler
-admin/
 administrator/
 api/
 api/session/properties
@@ -3988,5 +3988,6 @@ xmldata
 xpvhykubaiexsm
 yii.zip
 yoenrmvpo5lqyq
+zabbix/
 zabbix/favicon.ico
 ~site.zip

@@ -222,12 +222,12 @@ server.key
 .env.save.1
 Application
 credentials.xml
+developmentserver
 erp
+metadatauploader
 rest
 .json
 config.ini
-developmentserver
-metadatauploader
 requirements.txt
 sandbox
 stage
@@ -280,9 +280,9 @@ aws.json
 health
 .env.config
 .env.dev.local
+HNAP1
 root
 .npmrc
-HNAP1
 containers
 wc.db
 workflows
@@ -2150,6 +2150,7 @@ wp-login
 wp_filemanager.php
 wrangler.toml
 www-data
+zabbix
 zmusic-frontend
 ztp
 ztp_gate.php
