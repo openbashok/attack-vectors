@@ -61,9 +61,9 @@ staging
 laravel.log
 config.php
 env
+phpinfo.php
 tests
 debug
-phpinfo.php
 .env.prod
 .svn
 cgi-bin
@@ -234,6 +234,7 @@ config.ini
 crossdomain.xml
 sandbox
 stage
+*
 .bedrock
 .env.development.local
 claude.env
@@ -249,7 +250,6 @@ php_errors.log
 pos
 readme.md
 twilio.env
-*
 .env.stage
 login.html
 s3
@@ -292,13 +292,13 @@ backup.zip
 containers
 dana-na
 remote
+version
 .env.ci
 .env.sample
 .env~
 configuration.php
 sites
 testing
-version
 wp-json
 $(pwd)
 .env.preprod

@@ -249,8 +249,8 @@ login
 wp-config.php.old
 .env.default
 .env_sample
-phpinfo
 *
+phpinfo
 .env.config
 .env.dev.local
 .env.uat
@@ -365,11 +365,11 @@ media/.git/config
 owa/auth/logon.aspx
 project/.git/config
 sdk
+version
 .docker/.env
 admin/index.html
 pub/
 settings.php
-version
 .git/index
 HNAP1
 conf/.env

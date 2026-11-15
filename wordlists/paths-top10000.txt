@@ -358,6 +358,7 @@ media/.git/config
 owa/auth/logon.aspx
 project/.git/config
 sdk
+version
 .docker/.env
 .git/index
 admin/index.html
@@ -365,7 +366,6 @@ conf/.env
 config/master.key
 pub/
 settings.php
-version
 wp-config.php.orig
 .travis.yml
 HNAP1

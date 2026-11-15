@@ -146,9 +146,9 @@ id_rsa
 .env_sample
 database.php
 %252eenv
+*
 aws.json
 config.py
-*
 .%65%6e%76
 v1
 .env.uat
@@ -166,11 +166,11 @@ backup.zip
 .env.sample
 .env~
 configuration.php
+version
 .env.preprod
 .htpasswd
 health
 settings.php
-version
 .env.sandbox
 admin
 app.php
