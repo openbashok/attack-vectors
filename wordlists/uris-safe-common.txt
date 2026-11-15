@@ -171,6 +171,7 @@ saas/.env
 temp/.env
 assets/config.json
 bedrock.env
+developmentserver/metadatauploader
 google-services.json
 images/.env
 login/.env
@@ -184,7 +185,6 @@ cache/.env
 content/.env
 credentials.xml
 developer/.env
-developmentserver/metadatauploader
 erp/.env
 logs/.env
 server.js
@@ -342,6 +342,7 @@ docker-compose.prod.yml
 static../.git/config
 .env.sample
 .env.txt
+.well-known/pki-validation/update
 Dr0v
 assets../.git/config
 backup/.git/config
@@ -357,16 +358,15 @@ login.htm
 manage/account/login
 media../.git/config
 media/.git/config
+owa/auth/logon.aspx
 project/.git/config
 sdk
 .docker/.env
 .env.1
 .git-credentials
 .vscode/settings.json
-.well-known/pki-validation/update
 Jenkinsfile
 admin/index.html
-owa/auth/logon.aspx
 pub/
 version
 .git/index
