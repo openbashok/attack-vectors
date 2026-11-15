@@ -166,6 +166,7 @@ services/.env
 administrator/.env
 app/config/parameters.yml
 beta/.env
+developmentserver/metadatauploader
 download/.env
 env.json
 saas/.env
@@ -177,7 +178,6 @@ assets/config.json
 bedrock.env
 content/.env
 credentials.xml
-developmentserver/metadatauploader
 images/.env
 login/.env
 requirements.txt

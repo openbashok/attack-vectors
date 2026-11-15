@@ -101,9 +101,9 @@ configuration.json
 env-config.js
 google-services.json
 app.log
+metadatauploader
 server.key
 credentials.xml
-metadatauploader
 requirements.txt
 server.js
 .env.save.1

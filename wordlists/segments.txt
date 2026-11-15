@@ -214,13 +214,13 @@ google-services.json
 platform
 app.log
 developer
+developmentserver
+metadatauploader
 saas
 server.key
 bak
 content
 credentials.xml
-developmentserver
-metadatauploader
 requirements.txt
 rest
 server.js

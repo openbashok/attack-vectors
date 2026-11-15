@@ -165,6 +165,7 @@ env-config.js
 services/.env
 administrator/.env
 beta/.env
+developmentserver/metadatauploader
 download/.env
 env.json
 google-services.json
@@ -175,7 +176,6 @@ app/config/parameters.yml
 assets/config.json
 bedrock.env
 credentials.xml
-developmentserver/metadatauploader
 images/.env
 login/.env
 server.key
