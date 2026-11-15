@@ -73,17 +73,17 @@ backup/.env
 dump.sql
 backup.sql
 database.sql
+mcp
 .env.json
 dashboard/.env
 db.sql
 env
-mcp
+mcp/
 terraform.tfstate
 .env.dist
 .env.php
 .env.production.local
 application/.env
-mcp/
 secrets.yml
 site.zip
 staging/.env
@@ -117,12 +117,12 @@ settings.json
 .env.local.php
 app_dev.php/_profiler/phpinfo
 auth/.env
+sse
 system/.env
 app_dev.php/_profiler/open
 bot/.env
 demo/.env
 secrets.env
-sse
 store/.env
 test
 uploads/.env
@@ -164,6 +164,7 @@ env-config.js
 google-services.json
 services/.env
 administrator/.env
+api/mcp
 app/config/parameters.yml
 beta/.env
 developmentserver/metadatauploader
@@ -173,7 +174,6 @@ saas/.env
 server.key
 temp/.env
 tmp/.env
-api/mcp
 assets/config.json
 bedrock.env
 content/.env
@@ -617,6 +617,7 @@ enviroments/.env.production
 graphql
 id_dsa
 logon/LogonPoint/index.html
+manager/text/list
 node_modules/.env
 portal/redlion
 private.key
@@ -688,7 +689,6 @@ laravel/.env.local
 laravel/.env.production
 laravel/.env.staging
 logon/LogonPoint/tmindex.html
-manager/text/list
 master/.env
 product/.env.staging
 react/.env

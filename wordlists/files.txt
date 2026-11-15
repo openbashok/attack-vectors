@@ -12,8 +12,8 @@ config.json
 .env.example
 .env.staging
 credentials
-.env.bak
 mcp
+.env.bak
 secrets.yaml
 test
 login
@@ -81,9 +81,9 @@ web.config
 open
 web
 env.json
+sse
 mysql.sql
 secrets.env
-sse
 wp-config.php.bak
 .config.yaml
 .env.example.php
@@ -267,6 +267,7 @@ aaa9
 application-prod.yml
 autodiscover.json
 credentials.yml
+list
 microsoft.exchange.ediscovery.exporttool.application
 openai.json
 settings
@@ -286,7 +287,6 @@ ecosystem.config.js
 env.txt
 gcp-credentials.json
 icanhazip.com:443
-list
 login.asp
 run
 wp-config.old
