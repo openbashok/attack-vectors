@@ -217,6 +217,7 @@ welcome.cgi
 wp-config.php~
 abc6
 abc8
+api
 auth.json
 openapi.json
 terraform.tfstate.backup
@@ -225,7 +226,6 @@ wp-config.bak
 .env.docker
 RDWeb
 abc7
-api
 config.yaml
 db.php
 local_settings.py

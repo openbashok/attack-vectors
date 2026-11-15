@@ -29,8 +29,8 @@ laravel
 .env.staging
 credentials
 public
-logs
 login
+logs
 %%32%65%%32%65
 backend
 v1
@@ -87,10 +87,10 @@ log
 .env.backup
 client
 temp
+.well-known
 docker-compose.yml
 settings.json
 static
-.well-known
 index.html
 old
 prod

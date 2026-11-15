@@ -59,13 +59,13 @@ old/.env
 settings.py
 test.php
 .env.orig
+.well-known/security.txt
 appsettings.json
 config.php.bak
 credentials.json
 database.yml
 docker-compose.yaml
 htdocs/.env
-.well-known/security.txt
 crm/.env
 dev/.env
 .kube/config
@@ -648,6 +648,7 @@ _layouts/15/error.aspx
 admin/assets/js/views/login.js
 adminer.sql
 airflow.cfg
+api/
 api/config.php
 api/shared/config/.env
 api/shared/config/config.env
@@ -727,7 +728,6 @@ Pipfile.lock
 Public/home/js/check.js
 administrator/
 api-docs
-api/
 api/.env.staging
 api/session/properties
 api/src/.env
