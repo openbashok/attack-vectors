@@ -4,8 +4,8 @@ SDK/webLanguage
 .git/config
 .env.production
 .env.bak
-app/.env
 robots.txt
+app/.env
 .env.local
 api/.env
 .env.save
@@ -598,6 +598,7 @@ aws-ses.json
 aws.json
 aws/credentials
 awstats/.env
+cgi-bin/authLogin.cgi
 config/mail.php
 credentials.csv
 dana-na/nc/nc_gina_ver.txt
@@ -607,6 +608,7 @@ enviroments/.env
 enviroments/.env.production
 functions/.env
 graphql
+hudson
 js/.env
 logon/LogonPoint/index.html
 manager/text/list
@@ -655,7 +657,6 @@ aws/s3/env.env
 aws/ses/smtp.env
 bootstrap/.env
 build.gradle
-cgi-bin/authLogin.cgi
 config
 config/.env.local
 core/Datavase/.env
@@ -672,7 +673,6 @@ firebase-adminsdk.json
 front/.env
 health
 health/liveliness
-hudson
 id_dsa
 inc/config.php
 includes/config.php

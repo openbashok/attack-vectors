@@ -356,6 +356,7 @@ wp-config.txt
 ReportServer
 actuator
 application.properties.bak
+authLogin.cgi
 aws-ses.json
 bucket.env
 ci.yml
@@ -363,6 +364,7 @@ console
 credentials.csv
 gemini.json
 graphql
+hudson
 keys.json
 main
 main.js
@@ -392,7 +394,6 @@ api_key.txt
 app.js
 appsettings.production.json
 auth.html
-authLogin.cgi
 aws.env.json
 azure-openai.json
 azure.yaml
@@ -412,7 +413,6 @@ firebase-adminsdk.json
 gcp.json
 gradle.properties
 hetong.js
-hudson
 liveliness
 local.settings.json
 login.js

@@ -605,6 +605,7 @@ application.properties.bak
 aws-ses.json
 aws.json
 aws/.env
+cgi-bin/authLogin.cgi
 config/.env.local
 config/mail.php
 credentials.csv
@@ -615,6 +616,7 @@ druid/index.html
 enviroments/.env
 enviroments/.env.production
 graphql
+hudson
 id_dsa
 logon/LogonPoint/index.html
 manager/text/list
@@ -662,7 +664,6 @@ aws/ses/smtp.env
 bitbucket-pipelines.yml
 bootstrap/.env
 build.gradle
-cgi-bin/authLogin.cgi
 ci/.env
 config
 config/.env.production
@@ -680,7 +681,6 @@ firebase-adminsdk.json
 front/.env
 health
 health/liveliness
-hudson
 id_rsa.pub
 inc/config.php
 includes/config.php

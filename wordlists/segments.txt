@@ -48,8 +48,8 @@ lib
 secrets.yaml
 auth
 demo
-assets
 robots.txt
+assets
 security.txt
 backup
 docker
@@ -65,8 +65,8 @@ env
 debug
 tests
 .env.prod
-.svn
 cgi-bin
+.svn
 config.js
 settings.py
 HEAD
@@ -662,6 +662,7 @@ wp-config.txt
 Public
 ReportServer
 application.properties.bak
+authLogin.cgi
 aws-ses.json
 bucket.env
 ci.yml
@@ -670,6 +671,7 @@ credentials.csv
 druid
 export
 gemini.json
+hudson
 integration
 keys.json
 localhost
@@ -721,7 +723,6 @@ api_key.txt
 app.js
 appsettings.production.json
 auth.html
-authLogin.cgi
 aws.env.json
 azure-openai.json
 azure.yaml
@@ -753,7 +754,6 @@ gradle.properties
 heads
 helm
 hetong.js
-hudson
 include
 infra
 install
