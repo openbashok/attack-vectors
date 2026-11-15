@@ -63,8 +63,8 @@ config.php
 env
 tests
 debug
-.env.prod
 phpinfo.php
+.env.prod
 .svn
 cgi-bin
 config.js
@@ -261,9 +261,9 @@ shared
 sitemap.xml
 .env.live
 build
+owa
 wp-config.php.old
 id_rsa
-owa
 packages
 .env.default
 .env_sample
@@ -548,6 +548,7 @@ rails
 template
 ubuntu
 wp-config.old
+x.js
 .env.bak~
 .env.old~
 .env.prev
@@ -600,7 +601,6 @@ website
 withMySQL
 withRedis
 wp-config.php.swp
-x.js
 ....
 .env-example
 .env-sample

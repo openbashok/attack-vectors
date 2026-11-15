@@ -23,8 +23,8 @@ robots.txt
 .env.save
 laravel.log
 config.php
-.env.prod
 phpinfo.php
+.env.prod
 config.js
 settings.py
 info
@@ -290,6 +290,7 @@ list
 login.asp
 run
 wp-config.old
+x.js
 .env.bak~
 .env.old~
 .env.prev
@@ -322,7 +323,6 @@ uploads
 users
 wp-admin
 wp-config.php.swp
-x.js
 .env-example
 .env-sample
 .env.back

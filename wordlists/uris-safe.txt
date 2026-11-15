@@ -493,6 +493,7 @@ icanhazip.com:443
 id_rsa
 lib/.env
 mail/.env
+owa/auth/x.js
 panel/.env
 private/.env
 production/.env
@@ -538,7 +539,6 @@ mailer/.env
 myapp/settings.py
 new/.env.local
 new/.env.staging
-owa/auth/x.js
 php/.env
 redmine/.env
 sitemaps/.env

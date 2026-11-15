@@ -502,6 +502,7 @@ laravel/core/.env
 mailer/.env
 new/.env.local
 new/.env.staging
+owa/auth/x.js
 panel/.env
 production/.env
 sites/all/libraries/mailchimp/.env
@@ -540,7 +541,6 @@ gcp-credentials.json
 global-protect/login.esp
 local.py
 myapp/settings.py
-owa/auth/x.js
 php/.env
 redmine/.env
 sitemaps/.env
