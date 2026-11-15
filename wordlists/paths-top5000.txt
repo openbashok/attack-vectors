@@ -15,8 +15,8 @@ config/.env
 laravel/.env
 .env.dev
 .env.prod
-backend/.env
 config.json
+backend/.env
 .env.test
 .env.backup
 .env.old
@@ -3853,6 +3853,7 @@ stability/.env
 stage/%252eenv
 stager64
 staging.zip
+stalker_portal/server/tools/auth_simple.php
 static.tar.gz
 static.zip
 static/%2eenv

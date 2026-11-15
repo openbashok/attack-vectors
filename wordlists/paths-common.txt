@@ -15,8 +15,8 @@ config/.env
 laravel/.env
 .env.dev
 .env.prod
-backend/.env
 config.json
+backend/.env
 .env.test
 .env.backup
 .env.old

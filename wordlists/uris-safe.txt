@@ -14,8 +14,8 @@ config/.env
 laravel/.env
 .env.dev
 .env.prod
-backend/.env
 config.json
+backend/.env
 .env.test
 .env.backup
 .env.old
@@ -242,9 +242,9 @@ wp-config.php.backup
 geoserver/web/
 .env.stage
 .env.live
+sitemap.xml
 .env.staging.local
 .env.template
-sitemap.xml
 .env.default
 login
 wp-config.php.old
@@ -4243,6 +4243,7 @@ stability/.env_v=18e62112545d867f
 stage/%252eenv
 stager64
 staging.zip
+stalker_portal/server/tools/auth_simple.php
 static.tar.gz
 static.zip
 static/%2eenv_v=osutH

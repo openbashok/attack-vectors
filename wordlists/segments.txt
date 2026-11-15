@@ -50,8 +50,8 @@ demo
 assets
 security.txt
 docker
-backup
 robots.txt
+backup
 auth
 .env.dev
 info
@@ -474,6 +474,7 @@ market
 proc
 server-status
 sources
+tools
 vue
 withMongo
 withPostgres
@@ -497,7 +498,6 @@ picture
 product
 protected
 react
-tools
 url_default
 webpages
 ..;
