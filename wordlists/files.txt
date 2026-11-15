@@ -17,8 +17,8 @@ mcp
 secrets.yaml
 test
 security.txt
-.env.dev
 robots.txt
+.env.dev
 .env.save
 laravel.log
 config.php
@@ -138,11 +138,11 @@ twilio.env
 .env.staging.local
 .env.template
 sftp.json
+sitemap.xml
 wp-config.php.old
 .env.default
 database.php
 login.html
-sitemap.xml
 %252eenv
 .env_sample
 id_rsa
@@ -202,6 +202,7 @@ login.cgi
 master.key
 mcp.json
 sdk
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php.orig
 ws
 .travis.yml
@@ -209,7 +210,6 @@ downloads
 id_ed25519
 index.js
 logon.aspx
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.2
 .env.test.local
 abc6

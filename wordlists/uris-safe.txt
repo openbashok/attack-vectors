@@ -64,8 +64,8 @@ appsettings.json
 credentials.json
 docker-compose.yaml
 htdocs/.env
-.kube/config
 .well-known/security.txt
+.kube/config
 backup/.env
 crm/.env
 dev/.env
@@ -244,8 +244,8 @@ geoserver/web/
 .env.live
 .env.staging.local
 .env.template
-.env.default
 sitemap.xml
+.env.default
 wp-config.php.old
 login
 .env_sample
@@ -370,6 +370,7 @@ admin/index.html
 config.inc.php
 sdk
 settings.php
+sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 version
 ws
 HNAP1
@@ -380,7 +381,6 @@ downloads/
 evox/about
 owa/auth/logon.aspx
 public_html/.env
-sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 wp-config.php.orig
 .env.2
 .env.test.local

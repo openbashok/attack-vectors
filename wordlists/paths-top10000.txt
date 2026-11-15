@@ -6,8 +6,8 @@ index.php
 .env.production
 .env.bak
 app/.env
-.env.local
 robots.txt
+.env.local
 .env.save
 api/.env
 .aws/credentials
@@ -68,9 +68,9 @@ backup/.env
 crm/.env
 htdocs/.env
 .kube/config
+.well-known/security.txt
 dev/.env
 dump.sql
-.well-known/security.txt
 backup.sql
 dashboard/.env
 database.sql
@@ -243,9 +243,9 @@ geoserver/web/
 .env.staging.local
 .env.template
 login
+sitemap.xml
 wp-config.php.old
 .env.default
-sitemap.xml
 .env_sample
 phpinfo
 .env.uat
@@ -365,6 +365,7 @@ config/master.key
 remote/login
 sdk
 settings.php
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 version
 wp-config.php.orig
 ws
@@ -376,7 +377,6 @@ downloads/
 evox/about
 owa/auth/logon.aspx
 public_html/.env
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .docker/config.json
 .env.2
 .env.test.local
