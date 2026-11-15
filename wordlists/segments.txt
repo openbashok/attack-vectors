@@ -47,8 +47,8 @@ www
 lib
 secrets.yaml
 demo
-assets
 security.txt
+assets
 docker
 robots.txt
 backup

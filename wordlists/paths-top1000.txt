@@ -65,11 +65,11 @@ appsettings.json
 credentials.json
 docker-compose.yaml
 htdocs/.env
+.well-known/security.txt
 backup/.env
 crm/.env
 dev/.env
 .kube/config
-.well-known/security.txt
 dump.sql
 backup.sql
 dashboard/.env

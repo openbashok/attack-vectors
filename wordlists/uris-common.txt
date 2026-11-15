@@ -61,10 +61,10 @@ settings.py
 config.php.bak
 htdocs/.env
 test.php
+.well-known/security.txt
 appsettings.json
 credentials.json
 docker-compose.yaml
-.well-known/security.txt
 dev/.env
 .kube/config
 backup/.env
