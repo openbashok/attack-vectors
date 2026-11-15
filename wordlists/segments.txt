@@ -106,10 +106,10 @@ config.env
 database.yml
 project
 blog
-credentials.json
-new
 get
 ip.cypher.rest:443
+credentials.json
+new
 administrator
 system
 settings

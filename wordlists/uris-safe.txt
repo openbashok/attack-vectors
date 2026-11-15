@@ -28,11 +28,11 @@ web/.env
 public/.env
 .gitlab-ci.yml
 src/.env
+get
+ip.cypher.rest:443
 wp-config.php
 .env.development
 admin/.env
-get
-ip.cypher.rest:443
 site/.env
 .git/HEAD
 info.php

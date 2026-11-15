@@ -44,10 +44,10 @@ info.php
 wp-config.php
 config.env
 database.yml
-credentials.json
-env
 get
 ip.cypher.rest:443
+credentials.json
+env
 terraform.tfstate
 .env.testing
 secrets.json

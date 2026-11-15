@@ -31,10 +31,10 @@ public/.env
 src/.env
 .env.development
 admin/.env
-wp-config.php
-.git/HEAD
 get
 ip.cypher.rest:443
+wp-config.php
+.git/HEAD
 site/.env
 info.php
 server/.env
