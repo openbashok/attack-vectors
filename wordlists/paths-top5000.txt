@@ -160,6 +160,7 @@ var/.env.local.php
 back/.env
 configuration.json
 data/.env
+developmentserver/metadatauploader
 env-config.js
 google-services.json
 services/.env
@@ -167,7 +168,6 @@ administrator/.env
 api/mcp
 app/config/parameters.yml
 beta/.env
-developmentserver/metadatauploader
 download/.env
 env.json
 saas/.env

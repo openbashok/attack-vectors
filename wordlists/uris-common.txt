@@ -161,12 +161,12 @@ aws.yml
 back/.env
 configuration.json
 data/.env
+developmentserver/metadatauploader
 env-config.js
 services/.env
 administrator/.env
 api/mcp
 beta/.env
-developmentserver/metadatauploader
 download/.env
 env.json
 google-services.json

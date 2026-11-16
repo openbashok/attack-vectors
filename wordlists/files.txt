@@ -100,8 +100,8 @@ bedrock.env
 configuration.json
 env-config.js
 google-services.json
-app.log
 metadatauploader
+app.log
 server.key
 credentials.xml
 requirements.txt

@@ -209,13 +209,13 @@ library
 %00.env
 bedrock.env
 configuration.json
+developmentserver
 env-config.js
 google-services.json
+metadatauploader
 platform
 app.log
 developer
-developmentserver
-metadatauploader
 saas
 server.key
 bak
