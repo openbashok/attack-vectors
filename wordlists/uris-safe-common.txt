@@ -305,6 +305,7 @@ vendor/phpunit/src/Util/PHP/eval-stdin.php
 wp-config.php.save
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+Dr0v
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -342,7 +343,6 @@ www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 .git-credentials
 .well-known/pki-validation/update
-Dr0v
 backup/.git/config
 config/aws.yml
 owa/auth/logon.aspx

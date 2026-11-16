@@ -15,8 +15,8 @@ credentials
 mcp
 .env.bak
 login
-secrets.yaml
 robots.txt
+secrets.yaml
 test
 security.txt
 .env.dev
@@ -186,8 +186,8 @@ sftp-config.json
 swagger.json
 test.hello
 .git-credentials
-config.inc.php
 Dr0v
+config.inc.php
 Jenkinsfile
 about
 index

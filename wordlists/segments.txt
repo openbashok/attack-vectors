@@ -46,8 +46,8 @@ dev
 www
 auth
 lib
-secrets.yaml
 robots.txt
+secrets.yaml
 demo
 assets
 security.txt
@@ -337,6 +337,7 @@ vue-heroes
 yii
 zend
 .git-credentials
+Dr0v
 V2
 config.inc.php
 downloads
@@ -344,7 +345,6 @@ ec
 environments
 manage
 phpmyadmin
-Dr0v
 Jenkinsfile
 backups
 conf
