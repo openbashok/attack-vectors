@@ -4,15 +4,15 @@ SDK/webLanguage
 .git/config
 .env.production
 .env.bak
-robots.txt
 app/.env
+robots.txt
 .env.local
 api/.env
 .env.save
 config/.env
 laravel/.env
-.aws/credentials
 .env.dev
+.aws/credentials
 .env.prod
 backend/.env
 config.json
@@ -33,9 +33,9 @@ get
 ip.cypher.rest:443
 wp-config.php
 admin/.env
+info.php
 site/.env
 .git/HEAD
-info.php
 server/.env
 .env.testing
 _profiler/phpinfo
@@ -56,11 +56,11 @@ v2/.env
 old/.env
 client/.env
 settings.py
+test.php
 .env.orig
 .well-known/security.txt
 database.yml
 htdocs/.env
-test.php
 appsettings.json
 config.php.bak
 credentials.json
@@ -91,6 +91,7 @@ site.zip
 yarn.lock
 info
 package.json
+.env.local.php
 application.yml
 blog/.env
 config.env
@@ -101,7 +102,6 @@ portal/.env
 project/.env
 sendgrid.env
 web.config
-.env.local.php
 application.properties
 apps/.env
 cms/.env
@@ -248,8 +248,8 @@ sitemap.xml
 .env.template
 wp-config.php.old
 .env.default
-.env_sample
 phpinfo
+.env_sample
 *
 .env.config
 .env.dev.local
@@ -384,6 +384,7 @@ ws
 .env.2
 .env.test.local
 .travis.yml
+actuator/health
 cgi-bin/login.cgi
 config.py
 downloads/
@@ -391,12 +392,12 @@ downloads/
 .git/logs/HEAD
 abc6
 abc8
-actuator/health
 app/.env.production
 backend/.env.local
 deploy/.env
 sftp.json
 wp-config.php~
+wp-content/.env
 .env.docker
 RDWeb
 abc7
@@ -405,7 +406,6 @@ secrets.py
 shared/.env
 terraform.tfstate.backup
 wp-config.bak
-wp-content/.env
 .circleci/config.yml
 .env.copy
 .env.tmp
@@ -751,6 +751,7 @@ env.production.js
 export/.env
 frontend/.git/config
 google-credentials.json
+i.php
 id_rsa.pub
 include/config.php
 includes/db.php
@@ -969,7 +970,6 @@ home.tar.gz
 home/*/.aws/credentials
 horizon
 html/.git/config
-i.php
 icon/.env
 icons/.env
 id_ed25519
@@ -1875,6 +1875,7 @@ actuator/favicon.ico
 admin-panel/.env
 admin/.env.bak
 admin/.env.old
+admin/phpinfo.php
 admin/reports/status
 admin/reports/updates
 adminapp/.env
@@ -2108,6 +2109,7 @@ database/.env.example
 dataset2/.env
 db_backup.sql
 debug/default/view
+debug/phpinfo.php
 default/.env.dist
 demo/.env.example
 dependencies/.env
@@ -2370,9 +2372,11 @@ patchwork/.env
 path/.env
 pbxcore/api/v3/system:ping
 phoenix/favicon.ico
+php.php
 php/ViewUserInfo.php
 php/info%252ephp
 php/model/sql.php
+pi.php
 pictures/.env
 pinfo.php
 pipeline/.env
@@ -3267,7 +3271,6 @@ admin/crm/.env
 admin/debug
 admin/login/
 admin/panel/.env
-admin/phpinfo.php
 admin/server_info.php?v=18e62111d3dc838a
 adminer%252ephp
 adminer.php?v=18e6211cf416bb7b
@@ -3739,7 +3742,6 @@ debug.php
 debug/default/view.html
 debug/default/view?panel=config/frontend_dev.php
 debug/default/view?v=18e62110c11472ea
-debug/phpinfo.php
 debug/pprof/
 deepseek/.env?v=18e621127c473945
 default.asp
@@ -4234,7 +4236,6 @@ photo/webapi/query.php?api=SYNO.API.Info&method=query&version=1
 php%252ephp
 php-info.php
 php-info.php?v=GZHRZ
-php.php
 php.php?v=BddwN
 php/info.php?v=nJSUj
 php/phpinfo.php
@@ -4247,7 +4248,6 @@ phpinfo?v=18e621121066ad98
 phpmyadmin/
 phpmyadmin?v=18e6211cfb5288ed
 phpversion.php
-pi.php
 pipeline.zip
 platform/%2eenv?v=xgirq
 plugin/webs_model_cfg.js

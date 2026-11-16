@@ -35,8 +35,8 @@ get
 ip.cypher.rest:443
 wp-config.php
 .git/HEAD
-site/.env
 info.php
+site/.env
 server/.env
 _profiler/phpinfo
 .env.testing
@@ -53,8 +53,8 @@ config.js
 storage/logs/laravel.log
 v1/.env
 settings/.env
-v2/.env
 test.php
+v2/.env
 client/.env
 old/.env
 settings.py
@@ -99,6 +99,7 @@ info
 local/.env
 portal/.env
 web.config
+.env.local.php
 application.properties
 apps/.env
 blog/.env
@@ -110,7 +111,6 @@ secrets.yaml
 sendgrid.env
 test/.env
 ../.env
-.env.local.php
 cms/.env
 main/.env
 settings.json
@@ -245,9 +245,9 @@ login
 sitemap.xml
 .env.live
 wp-config.php.old
+phpinfo
 .env.default
 .env_sample
-phpinfo
 *
 .env.uat
 .npmrc
@@ -379,20 +379,20 @@ ws
 .env.2
 .env.test.local
 .git/logs/HEAD
+actuator/health
 app/.env.production
 cgi-bin/login.cgi
 config.py
 deploy/.env
 downloads/
 wp-config.php~
+wp-content/.env
 abc6
 abc8
-actuator/health
 backend/.env.local
 sftp.json
 terraform.tfstate.backup
 wp-config.bak
-wp-content/.env
 .circleci/config.yml
 .env.docker
 .s3cfg
@@ -762,6 +762,7 @@ export/.env
 frontend/.git/config
 google-credentials.json
 human.aspx
+i.php
 id_ed25519
 include/config.php
 includes/db.php
@@ -994,7 +995,6 @@ home.tar.gz
 home/*/.aws/credentials
 horizon
 html/.git/config
-i.php
 icon/.env
 icons/.env
 image_data/.env

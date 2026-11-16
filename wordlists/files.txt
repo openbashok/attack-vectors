@@ -55,8 +55,8 @@ aws.yml
 application.yml
 entries
 .env.dist
-debug.log
 test.php
+debug.log
 .env.orig
 appsettings.json
 config.php.bak
@@ -166,10 +166,10 @@ backup.zip
 .env.sample
 .env~
 configuration.php
+health
 version
 .env.preprod
 .htpasswd
-health
 settings.php
 .env.sandbox
 admin
@@ -456,6 +456,7 @@ dump.sql.gz
 filesystems.php
 google-credentials.json
 human.aspx
+i.php
 index.cgi
 kubeconfig
 local.xml
@@ -552,7 +553,6 @@ gemini.env
 health-check
 home.tar.gz
 horizon
-i.php
 images
 index.htm
 index.js.map
@@ -570,6 +570,7 @@ myadmin
 mysql.php
 one.one.one.one:443
 openapi.yaml
+php.php
 pma
 production.json
 s3.key
@@ -753,7 +754,6 @@ openai.yml
 opencode.json
 parameters.php
 passwd
-php.php
 pluginlist.xml
 prelogin.esp
 private.pem
@@ -1048,6 +1048,7 @@ packed-refs
 param.cgi
 persistence.xml
 php-info.php
+pi.php
 pinfo.php
 pnpm-lock.yaml
 pods
