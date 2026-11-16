@@ -47,8 +47,8 @@ www
 lib
 secrets.yaml
 auth
-demo
 robots.txt
+demo
 assets
 security.txt
 backup
@@ -228,13 +228,13 @@ server.js
 Application
 erp
 wp-config.php.backup
+*
 .json
 client_secrets.json
 config.ini
 crossdomain.xml
 sandbox
 stage
-*
 .bedrock
 .env.development.local
 claude.env

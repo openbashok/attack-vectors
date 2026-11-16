@@ -4,8 +4,8 @@ SDK/webLanguage
 .git/config
 .env.production
 .env.bak
-app/.env
 robots.txt
+app/.env
 .env.local
 api/.env
 .env.save

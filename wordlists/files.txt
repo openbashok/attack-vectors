@@ -16,8 +16,8 @@ credentials
 mcp
 secrets.yaml
 login
-test
 robots.txt
+test
 security.txt
 .env.dev
 config.php

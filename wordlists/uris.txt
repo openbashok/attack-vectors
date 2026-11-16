@@ -4,8 +4,8 @@ SDK/webLanguage
 .git/config
 .env.production
 .env.bak
-app/.env
 robots.txt
+app/.env
 .env.local
 api/.env
 .env.save
@@ -249,8 +249,8 @@ sitemap.xml
 wp-config.php.old
 .env.default
 phpinfo
-.env_sample
 *
+.env_sample
 .env.config
 .env.dev.local
 .env.uat
