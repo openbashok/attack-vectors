@@ -18,8 +18,8 @@ webLanguage
 .env.local
 .env.production
 .%2e
-.aws
 phpinfo
+.aws
 .env.php
 _profiler
 config.json
@@ -433,10 +433,12 @@ service-account.json
 .idea
 .terraform
 Gemfile.lock
+GponForm
 backup.tar.gz
 bedrock
 composer.lock
 cron
+diag_Form
 docker-compose.override.yml
 environ
 kyc
@@ -448,7 +450,6 @@ wordpress
 .env_1
 .env_old
 .netrc
-GponForm
 api-docs
 azure
 batch
@@ -457,7 +458,6 @@ composer.json
 configprops
 credentials.yml.enc
 current
-diag_Form
 env.php
 formLogin
 framework

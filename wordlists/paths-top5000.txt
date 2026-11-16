@@ -244,8 +244,8 @@ twilio.env
 .env.template
 sitemap.xml
 .env.live
-wp-config.php.old
 phpinfo
+wp-config.php.old
 *
 .env.default
 .env_sample
@@ -408,6 +408,7 @@ shared/.env
 .ssh/authorized_keys
 .ssh/id_ed25519
 Gemfile.lock
+GponForm/diag_Form
 composer.lock
 config/config.php
 dist/.env
@@ -420,7 +421,6 @@ vendor/.env
 .env_1
 .env_old
 .netrc
-GponForm/diag_Form
 HNAP1/
 actuator/configprops
 actuator/env

@@ -37,8 +37,8 @@ info.php
 site/.env
 .git/HEAD
 server/.env
-.env.testing
 _profiler/phpinfo
+.env.testing
 prod/.env
 core/.env
 www/.env
@@ -246,10 +246,10 @@ sitemap.xml
 .env.live
 .env.staging.local
 .env.template
+phpinfo
 wp-config.php.old
 .env.default
 _
-phpinfo
 .env_sample
 .env.config
 .env.dev.local
@@ -412,6 +412,7 @@ wp-config.bak
 .env.tmp
 .s3cfg
 Gemfile.lock
+GponForm/diag_Form_images/
 api/.env.local
 app/.env.local
 composer.lock
@@ -423,7 +424,6 @@ server/.env.local
 .env_old
 .ssh/authorized_keys
 .ssh/id_ed25519
-GponForm/diag_Form_images/
 HNAP1/
 app/config/.env
 compose/.env

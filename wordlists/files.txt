@@ -237,6 +237,7 @@ service-account.json
 Gemfile.lock
 backup.tar.gz
 composer.lock
+diag_Form
 docker-compose.override.yml
 environ
 .env_1
@@ -246,7 +247,6 @@ api-docs
 composer.json
 configprops
 credentials.yml.enc
-diag_Form
 env.php
 formLogin
 server-status
