@@ -574,6 +574,7 @@ config.php.save
 credentials.yml
 cronlab/.env
 dana-na/nc/nc_gina_ver.txt
+druid/index.html
 en/.env
 env.js
 exapi/.env
@@ -610,7 +611,6 @@ awstats/.env
 config/mail.php
 credentials.csv
 database.php
-druid/index.html
 enviroments/.env
 enviroments/.env.production
 functions/.env

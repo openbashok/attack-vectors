@@ -573,6 +573,7 @@ cgi-bin/authLogin.cgi
 config.php.save
 cronlab/.env
 dana-na/nc/nc_gina_ver.txt
+druid/index.html
 en/.env
 env.js
 exapi/.env
@@ -619,7 +620,6 @@ config/mail.php
 credentials.csv
 database.php
 db.sql.gz
-druid/index.html
 enviroments/.env
 enviroments/.env.production
 graphql

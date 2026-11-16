@@ -85,8 +85,8 @@ sendgrid
 .env.backup
 client
 tmp
-log
 index.html
+log
 .well-known
 static
 temp
@@ -639,6 +639,7 @@ config.production.json
 cores
 cp
 cronlab
+druid
 error.aspx
 example
 exapi
@@ -683,7 +684,6 @@ bucket.env
 cgi-mod
 ci.yml
 credentials.csv
-druid
 export
 gemini.json
 heads
