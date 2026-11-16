@@ -143,6 +143,7 @@ base/.env
 bot/.env
 config.dev.php
 config/.env.php
+developmentserver/metadatauploader
 docs/.env
 home/.env
 info/
@@ -162,7 +163,6 @@ aws.yml
 back/.env
 configuration.json
 data/.env
-developmentserver/metadatauploader
 env-config.js
 services/.env
 administrator/.env

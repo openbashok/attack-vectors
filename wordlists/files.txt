@@ -95,12 +95,12 @@ wp-config.php.bak
 .env.sample.php
 aws.env
 config.dev.php
+metadatauploader
 %00.env
 bedrock.env
 configuration.json
 env-config.js
 google-services.json
-metadatauploader
 app.log
 server.key
 credentials.xml

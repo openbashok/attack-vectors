@@ -145,6 +145,7 @@ aws.yml
 base/.env
 config.dev.php
 config/.env.php
+developmentserver/metadatauploader
 docs/.env
 home/.env
 info/
@@ -161,7 +162,6 @@ api/mcp
 back/.env
 configuration.json
 data/.env
-developmentserver/metadatauploader
 env-config.js
 google-services.json
 services/.env
