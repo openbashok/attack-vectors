@@ -30,9 +30,9 @@ public/.env
 .gitlab-ci.yml
 src/.env
 .env.development
-admin/.env
 get
 ip.cypher.rest:443
+admin/.env
 wp-config.php
 .git/HEAD
 info.php
@@ -2965,6 +2965,7 @@ ztp/cgi-bin/handler
 .git/info/exclude
 .git/objects/pack.zip
 .git/reconx-d0d4c338608c
+.git/refs/heads/
 .github
 .github/workflows/
 .github/workflows/build.yaml

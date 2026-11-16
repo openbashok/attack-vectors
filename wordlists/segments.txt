@@ -104,10 +104,10 @@ wp-config.php
 .ssh
 config.env
 database.yml
-project
-blog
 get
 ip.cypher.rest:443
+project
+blog
 credentials.json
 new
 administrator
@@ -591,6 +591,7 @@ phpmyadmin4
 phpmyadmin5
 projbackend
 redmine
+refs
 script
 secure
 sitemaps
@@ -641,7 +642,6 @@ plugin-qiankun
 properties
 psnlink
 raw
-refs
 routes
 runtime-env.js
 s3.json
@@ -671,6 +671,7 @@ credentials.csv
 druid
 export
 gemini.json
+heads
 hudson
 integration
 keys.json
@@ -751,7 +752,6 @@ front-app
 front-empathy
 gcp.json
 gradle.properties
-heads
 helm
 hetong.js
 include

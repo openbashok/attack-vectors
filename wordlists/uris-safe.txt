@@ -27,10 +27,10 @@ frontend/.env
 web/.env
 public/.env
 .gitlab-ci.yml
-src/.env
-.env.development
 get
 ip.cypher.rest:443
+src/.env
+.env.development
 wp-config.php
 admin/.env
 info.php
@@ -3050,6 +3050,7 @@ ztp/cgi-bin/handler
 .git/packed-refs
 .git/packed-refs_v=18e6211dee32832d
 .git/reconx-d0d4c338608c
+.git/refs/heads/
 .git/refs/heads/main_v=18e6211dfeca0b67
 .git/refs/heads/master_v=18e6211dfd54a849
 .github

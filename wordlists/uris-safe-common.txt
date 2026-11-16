@@ -27,10 +27,10 @@ frontend/.env
 web/.env
 public/.env
 .gitlab-ci.yml
-src/.env
-.env.development
 get
 ip.cypher.rest:443
+src/.env
+.env.development
 wp-config.php
 admin/.env
 info.php

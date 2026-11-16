@@ -30,9 +30,9 @@ public/.env
 .gitlab-ci.yml
 src/.env
 .env.development
-admin/.env
 get
 ip.cypher.rest:443
+admin/.env
 wp-config.php
 .git/HEAD
 info.php
