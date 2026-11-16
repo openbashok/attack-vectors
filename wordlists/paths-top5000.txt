@@ -3466,6 +3466,7 @@ configs/routes-4aug.js
 configs/routes.js
 configuration%2ephp%2ebak
 configuration.php.old
+confluence/rpc/soap-axis/confluenceservice-v2
 console/.env
 console/api/setup
 constants.php
@@ -3982,6 +3983,9 @@ rest/%2eenv
 rest/about/version.json
 rest/v1/
 rightside/agent/astguiclient.php
+rpc/soap-axis/confluenceservice-v1
+rpc/soap-axis/confluenceservice-v2
+rpc/soap/jirasoapservice-v2
 rsc
 ruby.zip
 runtime/%2eenv

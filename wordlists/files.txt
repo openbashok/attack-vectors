@@ -970,6 +970,7 @@ conf
 config.dev.env
 config.ts
 configs.json
+confluenceservice-v2
 contact
 context.xml
 credentials-for-node

@@ -888,6 +888,7 @@ setup
 setup.cgi
 shell
 sign_in
+soap
 ssl.key
 sslvpn
 studioserver
@@ -1130,6 +1131,7 @@ rdweb
 release
 repos
 robots
+rpc
 rust-backend
 s3.key
 s3.secret
@@ -1148,7 +1150,6 @@ services.php
 settings.ini
 setup.php
 site.sql
-soap
 speed.cloudflare.com:443
 sslvpnLogin.html
 staging2
@@ -1291,6 +1292,7 @@ config.bak
 config.php.orig
 config.php.swo
 config.php.swp
+confluence
 connect.cgi
 connectionstrings.config
 counterwallet
@@ -1482,6 +1484,7 @@ shopdb
 site-profile.json
 smtp
 smtp.php
+soap-axis
 source
 sql-admin
 sqlweb
@@ -1821,7 +1824,7 @@ config-material-app
 config.dev.env
 config.ts
 configs.json
-confluence
+confluenceservice-v2
 contact
 context.xml
 couchdb

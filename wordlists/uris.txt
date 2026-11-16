@@ -3702,6 +3702,7 @@ configs/routes-4aug.js?v=18e6211cafa18ef4
 configs/routes.js?v=18e6211cac583d45
 configuration%2ephp%2ebak?v=RS1O6
 configuration.php.old
+confluence/rpc/soap-axis/confluenceservice-v2?wsdl
 connectionstrings.config?v=18e621136e130a0b
 console/.env
 console/api/setup
@@ -4349,6 +4350,9 @@ rest/about/version.json?v=18e6211cc82234bd
 rest/v1/
 rightside/agent/astguiclient.php
 routes/.env?v=x2qH0
+rpc/soap-axis/confluenceservice-v1?wsdl
+rpc/soap-axis/confluenceservice-v2?wsdl
+rpc/soap/jirasoapservice-v2?wsdl
 rsc
 ruby.zip
 runtime/%2eenv?v=anfye
