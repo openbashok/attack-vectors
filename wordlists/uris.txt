@@ -454,6 +454,7 @@ src/.env.local
 .env.yaml
 127.0.0.1:801
 aaa9
+api.ipinfo.io:443
 autodiscover/autodiscover.json?@zdi/Powershell
 backup.tar.gz
 backup.zip
@@ -466,6 +467,7 @@ cron/.env
 dana-na/auth/url_default/welcome.cgi
 doc/index.html
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+icanhazip.com:443
 protected/.env
 service-account.json
 terraform.tfvars
@@ -480,7 +482,6 @@ www.zip
 Dockerfile
 admin/login.asp
 api
-api.ipinfo.io:443
 api/metrics/run
 app.json
 audio/.env
@@ -489,7 +490,6 @@ credentials.py
 ecosystem.config.js
 env/.env
 files/.env
-icanhazip.com:443
 id_rsa
 lib/.env
 mail/.env

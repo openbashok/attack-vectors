@@ -224,6 +224,7 @@ geoserver/web/
 infos/
 kubernetes/secrets.yaml
 log/
+login
 php_error.log
 php_errors.log
 platform/.env
@@ -239,7 +240,6 @@ tests/
 tmp/
 twilio.env
 .env.stage
-login
 .env.staging.local
 .env.template
 sitemap.xml
@@ -460,10 +460,12 @@ www.zip
 127.0.0.1:801
 Dockerfile
 aaa9
+api.ipinfo.io:443
 autodiscover/autodiscover.json
 dana-na/auth/url_default/welcome.cgi
 doc/index.html
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+icanhazip.com:443
 id_rsa
 lib/.env
 mail/.env
@@ -484,7 +486,6 @@ wp-admin/.env
 .yarnrc
 admin/login.asp
 api
-api.ipinfo.io:443
 api/metrics/run
 app.json
 app/settings.py
@@ -496,7 +497,6 @@ ecosystem.config.js
 env.txt
 files/.env
 frontend/.env.local
-icanhazip.com:443
 kyc/.env
 laravel/core/.env
 mailer/.env

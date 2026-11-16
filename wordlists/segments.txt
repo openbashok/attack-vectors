@@ -494,6 +494,7 @@ www.zip
 Current
 Dockerfile
 aaa9
+api.ipinfo.io:443
 application-prod.yml
 autodiscover.json
 bootstrap
@@ -502,6 +503,7 @@ ecp
 en
 exporttool
 gcloud
+icanhazip.com:443
 list
 metrics
 microsoft.exchange.ediscovery.exporttool.application
@@ -525,7 +527,6 @@ wp
 ClientApp
 __fixtures__
 admin-app
-api.ipinfo.io:443
 app.json
 application_default_credentials.json
 audio
@@ -541,7 +542,6 @@ environment
 front
 gcp-credentials.json
 global-protect
-icanhazip.com:443
 login.asp
 mailer
 metadata

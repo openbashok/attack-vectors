@@ -15,8 +15,8 @@ credentials
 .env.bak
 mcp
 secrets.yaml
-test
 login
+test
 robots.txt
 security.txt
 .env.dev
@@ -264,9 +264,11 @@ www.zip
 127.0.0.1:801
 Dockerfile
 aaa9
+api.ipinfo.io:443
 application-prod.yml
 autodiscover.json
 credentials.yml
+icanhazip.com:443
 list
 microsoft.exchange.ediscovery.exporttool.application
 openai.json
@@ -278,7 +280,6 @@ settings
 .env.save~
 .env.www
 .yarnrc
-api.ipinfo.io:443
 app.json
 application_default_credentials.json
 credentials.py
@@ -286,7 +287,6 @@ deploy.yml
 ecosystem.config.js
 env.txt
 gcp-credentials.json
-icanhazip.com:443
 login.asp
 run
 wp-config.old
