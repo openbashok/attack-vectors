@@ -62,10 +62,10 @@ staging
 laravel.log
 phpinfo.php
 env
+cgi-bin
 debug
 .env.prod
 tests
-cgi-bin
 .svn
 config.js
 settings.py
@@ -88,10 +88,10 @@ tmp
 log
 index.html
 .well-known
+static
 temp
 docker-compose.yml
 settings.json
-static
 .env.development
 old
 prod
@@ -149,11 +149,11 @@ appsettings.json
 config.php.bak
 database.sql
 docker-compose.yaml
+images
+js
 shop
 site.zip
 dump.sql
-images
-js
 .claude
 .kube
 application.properties
@@ -180,9 +180,9 @@ k8s
 open
 parameters.yml
 web.config
+sse
 back
 bot
-sse
 v3
 API
 cache
@@ -216,6 +216,7 @@ google-services.json
 platform
 app.log
 developer
+login.html
 saas
 server.key
 bak
@@ -245,7 +246,6 @@ database.config
 env.example
 facturacion
 infos
-login.html
 php_error.log
 php_errors.log
 pos
@@ -293,6 +293,7 @@ root
 backup.zip
 containers
 version
+wp-json
 .env.ci
 .env.sample
 .env~
@@ -300,7 +301,6 @@ configuration.php
 sites
 testing
 users
-wp-json
 $(pwd)
 .env.preprod
 .htpasswd
@@ -331,6 +331,7 @@ hello.world
 openai
 resources
 sftp-config.json
+swagger.json
 test.hello
 vue-heroes
 yii
@@ -343,7 +344,6 @@ ec
 environments
 manage
 phpmyadmin
-swagger.json
 Dr0v
 Jenkinsfile
 backups
@@ -351,6 +351,7 @@ conf
 index
 logon.aspx
 pki-validation
+scripts
 sdk
 static..
 vpn
@@ -366,7 +367,6 @@ logon
 media..
 production
 public_html
-scripts
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 welcome.cgi
 RDWeb
@@ -385,17 +385,18 @@ enviroments
 evox
 mcp.json
 private
+solr
 ~
 .env.2
 .env.test.local
 __tests__
+css
 default_settings
 docker-compose
 id_dsa
 includes
 index.js
 pma
-solr
 swagger
 wp-config.php~
 abc6
@@ -403,7 +404,7 @@ abc8
 auth.json
 autodiscover
 babel-plugin-dotenv
-css
+console
 doc
 live
 manager
@@ -417,7 +418,6 @@ wp-config.bak
 abc7
 code
 config.yaml
-console
 db.php
 django
 local_settings.py
@@ -596,8 +596,10 @@ phpmyadmin3
 phpmyadmin4
 phpmyadmin5
 projbackend
+properties
 redmine
 script
+session
 sitemaps
 terraform
 test-become
@@ -623,12 +625,14 @@ ansible
 ansible.cfg
 application-prod.properties
 auth.html
+authLogin.cgi
 back-end
 bedrock.json
 blogs
 ci
 claude.json
 cmdb
+common
 community
 config.php.save
 config.production.json
@@ -650,14 +654,12 @@ mifs
 nc
 nc_gina_ver.txt
 plugin-qiankun
-properties
 psnlink
 raw
 routes
 runtime-env.js
 s3.json
 secrets.toml
-session
 socket.io
 sslvpn-portal
 sslvpn_logon.shtml
@@ -674,13 +676,12 @@ wsman
 1
 Public
 ReportServer
+WebInterface
 application.properties.bak
-authLogin.cgi
 aws-ses.json
 bucket.env
 cgi-mod
 ci.yml
-common
 credentials.csv
 druid
 export
@@ -727,7 +728,7 @@ ContainerRegistry
 Datavase
 Final_Project
 PMA
-WebInterface
+Web
 adminer
 adminer.sql
 airflow.cfg
@@ -762,8 +763,10 @@ gradle.properties
 helm
 hetong.js
 human.aspx
+icons
 include
 index.cgi
+index.jsp
 infra
 lambda
 liveliness
@@ -787,6 +790,7 @@ releases
 samples
 secrets.js
 ses
+showLogin.cc
 smtp.env
 sqladmin
 sqlmanager
@@ -821,7 +825,6 @@ Exercise.Frontend
 Kubernetes
 Pipfile.lock
 WEB-INF
-Web
 _catalog
 admin.php
 adminpanel
@@ -842,6 +845,7 @@ composer
 config.toml
 config.xml
 configs
+control
 custom
 database.php.bak
 dbconfig.php
@@ -855,12 +859,11 @@ google
 google-credentials.json
 http
 i.php
-icons
-index.jsp
 kitchensink
 kubeconfig
 latest
 lcomernbootcamp
+license.txt
 local.xml
 magento
 middleware
@@ -883,7 +886,7 @@ serverless.yml
 settings.local.json
 setup
 setup.cgi
-showLogin.cc
+shell
 sign_in
 ssl.key
 sslvpn
@@ -1023,7 +1026,6 @@ configurations
 configurations.do
 connect.php
 connection.php
-control
 controller
 credentials.db
 credentials.tfrc.json
@@ -1051,6 +1053,7 @@ ews
 exchange.asmx
 execute-solution
 export.sql
+ext-js
 favicon
 faxnew
 fgt_lang
@@ -1077,6 +1080,7 @@ home.tar.gz
 horizon
 iam
 icon
+identity
 image_data
 index.do
 index.htm
@@ -1091,7 +1095,6 @@ kibana
 known_hosts
 lara
 libs
-license.txt
 liveObjects
 live_env
 lms
@@ -1144,7 +1147,6 @@ service-account-credentials.json
 services.php
 settings.ini
 setup.php
-shell
 site.sql
 soap
 speed.cloudflare.com:443
@@ -1176,6 +1178,7 @@ wp-login.php
 www.cloudflare.com:443
 www.git
 www.google.com:443
+zld_product_spec.js
 ztp_gate.php
 %2F.aws%2Fcredentials
 %2F.git%2Fconfig
@@ -1216,6 +1219,7 @@ ztp_gate.php
 <script>alert(1)<
 Admin_Files
 AndroidManifest.xml
+Auth
 Backend
 Batch
 CHANGELOG.md
@@ -1230,6 +1234,7 @@ Helmetjs
 INSTALL.md
 InstantCV
 MyAdmin
+OA_HTML
 OLCNE
 Pipfile
 README.md
@@ -1315,7 +1320,6 @@ env.bak
 env.dev.js
 env.development.js
 expected
-ext-js
 extender.html
 f
 fastlane
@@ -1523,7 +1527,7 @@ wp-config.php-backup
 wp-pma-mod
 wwwroot
 xx-final
-zld_product_spec.js
+zabbix
 %00.aws
 %00backup.tar.gz
 %00config
@@ -1669,8 +1673,8 @@ Admin
 Airflow_Dag
 App
 App_Themes
+AppsLocalLogin.jsp
 Assignment3
-Auth
 BACK
 BACKEND
 BE
@@ -1687,17 +1691,20 @@ Gemfile
 GetPhpInfo.php
 Helpdesk.woa
 IPCamDesc.xml
+IdmBrandingBar.js
 Imagebord
 Images
 Info.plist
 Integration
 Library
 LocalSettings.php
+Login.htm
 ManageUserRoles
 Modix
 MyRentals.Web
+NewWindow_2_all.js
 Nuke.App.Ui
-OA_HTML
+PTZOptics_powerby.png
 Production
 Pulumi.yaml
 RSC
@@ -1710,6 +1717,7 @@ Sources
 SpotiApps
 Staging
 StartingFile
+Telerik.Web.UI.WebResource.axd
 Tests
 UI_String.js
 User_info
@@ -1731,6 +1739,7 @@ addOrg3
 admin-panel
 adminapp
 agent-rest
+ajax
 allversions
 analytics-ga-key
 api-backend
@@ -1752,6 +1761,7 @@ application-staging.properties
 application-staging.yml
 archives
 aries-js-worker
+aspera
 assembly
 asset_img
 autoload.php
@@ -1782,6 +1792,7 @@ busybox$%7BIFS%7Dwget$%7BIFS%7D-qO.y$%7BIFS%7Dhttp:
 c
 caches
 catalog
+cf_scripts
 cgi
 cgiChkMasterPwd.exe
 ch6a-mytodo
@@ -1795,6 +1806,8 @@ chatroom-spa
 check-version
 chunks
 ci-cd
+ckeditor
+ckeditor.js
 client_secret.json
 club
 cluster
@@ -1864,7 +1877,9 @@ example02-golang-package
 executions
 express
 extlib
+faspex
 favicon-19fbef86.svg
+favicon-32x32.png
 favicon-abe32304.png
 favs
 fe
@@ -1908,6 +1923,8 @@ helpers
 hgrc
 hgs-static
 hibernate.cfg.xml
+historypage.js
+homepage
 hooks
 horde
 host.php
@@ -1917,7 +1934,6 @@ httpdocs
 hub
 hubspot.yml
 huey
-identity
 ikiwiki
 import-underscore
 index.php.old
@@ -1927,16 +1943,21 @@ info.cgi
 info.xml
 installed.json
 instanceWithDependentSteps
+internal_forms_authentication
 ip.ifconfig.dpdns.org:443
 is-sslvpn-enabled
 ise
 jaeger
+jasperserver
+jasperserver-pro
+jasperserverTest
 jobrunr
 jobs
 jobs_u
 joomla.xml
 jquery-3.3.1.slim.min.js
 jquery-3.3.2.slim.min.js
+jsLibs
 jsrelay
 jupyter
 jupyter_server_config.json
@@ -1959,12 +1980,14 @@ llms.txt
 local.properties
 local.yml
 localization.js
+login.do
 logo.gif
 logo.png
 luci
 m
 magento_version
 mailinabox
+main.pl
 manifests
 mariadb-test
 memcached
@@ -2024,6 +2047,7 @@ page-editor
 param.cgi
 parity
 partner
+partymgr
 patchwork
 path
 pbxcore
@@ -2058,6 +2082,7 @@ production.env
 production.key
 production.yml
 profiles
+progs
 project.json
 project_root
 proxy.php
@@ -2116,11 +2141,15 @@ sidetree-mock
 simcore
 site-library
 siteMariage
+sitecore
+sitecore.version.xml
 sitestatic
 smtp.json
 spearmint
+sphere1.png
 spikes
 sql.php
+ssi.cgi
 ssl-vpn
 st-js-be-2020-movies-two
 statement
@@ -2135,6 +2164,7 @@ style
 styled-ui-docs
 styles
 subosito
+sugar_version.json
 svs-path-check-nonexistent
 system-config
 system:ping
@@ -2179,6 +2209,7 @@ w
 w3tc-config
 wallet.dat
 web.config.bak
+webfig
 webhook_secret.env
 webjars
 webroot_path
@@ -2200,7 +2231,7 @@ wp-login
 wp_filemanager.php
 wrangler.toml
 www-data
-zabbix
+xmldata
 zmusic-frontend
 ztp
 zxtm

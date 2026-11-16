@@ -4,8 +4,8 @@ SDK/webLanguage
 .git/config
 index.php
 .env.production
-.env.bak
 robots.txt
+.env.bak
 app/.env
 .env.local
 api/.env
@@ -68,13 +68,13 @@ docker-compose.yaml
 htdocs/.env
 crm/.env
 dev/.env
+mcp
 .kube/config
 backup/.env
 dump.sql
-mcp
+mcp/
 backup.sql
 database.sql
-mcp/
 .env.json
 dashboard/.env
 db.sql
@@ -109,12 +109,12 @@ new/.env
 project/.env
 secrets.yaml
 sendgrid.env
+sse
 test/.env
 ../.env
 cms/.env
 main/.env
 settings.json
-sse
 .aws/config
 app_dev.php/_profiler/phpinfo
 auth/.env
@@ -136,6 +136,7 @@ wp-config.php.bak
 .env.production.php
 .env.sample.php
 API/.env
+api/mcp
 api/v2/.env
 apis/.env
 app_dev.php/_profiler/.env
@@ -158,7 +159,6 @@ sendgrid/.env.php
 test/.env.php
 twilio/.env.php
 var/.env.local.php
-api/mcp
 back/.env
 configuration.json
 data/.env
@@ -284,6 +284,7 @@ server/.git/config
 .vscode/sftp.json
 docker/.env
 index.html
+login.html
 public/.git/config
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 wp-config.php.save
@@ -293,7 +294,6 @@ docker-compose.prod.yml
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-login.html
 sftp-config.json
 src/.git/config
 test.hello
@@ -403,6 +403,7 @@ app/.env.local
 local_settings.py
 secrets.py
 shared/.env
+swagger.json
 .env.copy
 .env.tmp
 .ssh/authorized_keys
@@ -416,7 +417,6 @@ docker-compose.override.yml
 docker-compose/.env
 openapi.json
 server/.env.local
-swagger.json
 vendor/.env
 .env_1
 .env_old
@@ -559,6 +559,7 @@ wp-content/uploads/
 .yarnrc.yml
 _layouts/15/error.aspx
 admin-app/.env
+admin/
 ansible.cfg
 api/config.env
 application-prod.properties
@@ -568,6 +569,7 @@ awstats/.env
 backend/.env.production
 backend/.git/config
 blogs/.env
+cgi-bin/authLogin.cgi
 config.php.save
 cronlab/.env
 dana-na/nc/nc_gina_ver.txt
@@ -605,14 +607,13 @@ ReportServer
 __tests__/test-become/.env
 _profiler
 actuator
-admin/
 admin/.env.production
+api/
 app/config.php
 application.properties.bak
 aws-ses.json
 aws.json
 aws/.env
-cgi-bin/authLogin.cgi
 config/.env.local
 config/mail.php
 credentials.csv
@@ -656,8 +657,8 @@ xmlrpc.php
 admin/assets/js/views/login.js
 adminer.sql
 airflow.cfg
-api/
 api/config.php
+api/session/properties
 api/shared/config/.env
 api/shared/config/config.env
 appsettings.production.json
@@ -700,6 +701,7 @@ releases/.env
 resources/.env
 root/.s3cfg
 s3/.env.bak
+showLogin.cc
 sites/.env
 stag/.env
 static/admin/javascript/hetong.js
@@ -731,7 +733,6 @@ Public/home/js/check.js
 administrator/
 api-docs
 api/.env.staging
-api/session/properties
 api/src/.env
 api/v1/validate/code
 application.yaml
@@ -749,6 +750,7 @@ config/aws.php
 config/db.php
 config/filesystems.php
 config/openai.json
+console
 css/.env
 custom/.env
 dana-na
@@ -774,6 +776,7 @@ k8s/.env
 keys.json
 kubeconfig
 lib/config.php
+license.txt
 magento/.env
 mcp.json
 middleware/.env
@@ -791,7 +794,6 @@ server/.env.production
 serverless.yaml
 serverless.yml
 setup.cgi
-showLogin.cc
 ssl.key
 sslvpn/Login/Login
 stats/.env
@@ -974,7 +976,6 @@ configurations
 configurations.do
 connect.php
 connection.php
-console
 crm/.env.local
 crm/.env.production
 dana-cached/hc/HostCheckerInstaller.osx
@@ -1008,6 +1009,7 @@ example/.env
 example27-how-to-load-env/sample02/.env
 examples/.env
 export.sql
+ext-js/app/common/zld_product_spec.js
 favicon
 fileserver/.env
 films/.env
@@ -1050,7 +1052,6 @@ laravel/core/.env.production
 laravel/core/.env.staging
 libraries/.env
 libs/.env
-license.txt
 live/.env
 live/.env.local
 live/.env.production
@@ -1166,6 +1167,7 @@ webroot/.env
 webui
 webui/
 webui/.env
+wp-json
 wp-login.php
 wp/.env
 www.cloudflare.com:443
@@ -1254,6 +1256,7 @@ Socketio/.env
 Thumbs.db
 Travel_form/.env
 WEB-INF/classes/application.properties
+WebInterface/
 __/firebase/init.json
 __ENV.js
 __phpmyadmin/index.php
@@ -1437,7 +1440,6 @@ examples/09-production/.env
 examples/vue-dashboard/backend/.env
 examples/web/.env
 examples/with-cookie-auth-fauna/.env
-ext-js/app/common/zld_product_spec.js
 extender.html
 fastlane/.env
 favicons/.env
@@ -1678,7 +1680,6 @@ wp-admin/css/colors/sunrise/
 wp-config.php-backup
 wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
 wp-content/themes/gaukingo/
-wp-json
 wp-json/Batch/v1
 wp-json/batch/v1/
 xx-final/vue-heroes/.env

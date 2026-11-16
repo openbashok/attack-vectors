@@ -4,8 +4,8 @@ SDK/webLanguage
 .git/config
 index.php
 .env.production
-.env.bak
 robots.txt
+.env.bak
 app/.env
 .env.local
 api/.env
@@ -68,13 +68,13 @@ docker-compose.yaml
 htdocs/.env
 crm/.env
 dev/.env
+mcp
 .kube/config
 backup/.env
 dump.sql
-mcp
+mcp/
 backup.sql
 database.sql
-mcp/
 .env.json
 dashboard/.env
 db.sql
@@ -109,12 +109,12 @@ new/.env
 project/.env
 secrets.yaml
 sendgrid.env
+sse
 test/.env
 ../.env
 cms/.env
 main/.env
 settings.json
-sse
 .aws/config
 app_dev.php/_profiler/phpinfo
 auth/.env
@@ -136,6 +136,7 @@ wp-config.php.bak
 .env.production.php
 .env.sample.php
 API/.env
+api/mcp
 api/v2/.env
 apis/.env
 app_dev.php/_profiler/.env
@@ -158,7 +159,6 @@ sendgrid/.env.php
 test/.env.php
 twilio/.env.php
 var/.env.local.php
-api/mcp
 back/.env
 configuration.json
 data/.env
@@ -284,6 +284,7 @@ server/.git/config
 .vscode/sftp.json
 docker/.env
 index.html
+login.html
 public/.git/config
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 wp-config.php.save
@@ -293,7 +294,6 @@ docker-compose.prod.yml
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-login.html
 sftp-config.json
 src/.git/config
 test.hello
@@ -403,6 +403,7 @@ app/.env.local
 local_settings.py
 secrets.py
 shared/.env
+swagger.json
 .env.copy
 .env.tmp
 .ssh/authorized_keys
@@ -416,7 +417,6 @@ docker-compose.override.yml
 docker-compose/.env
 openapi.json
 server/.env.local
-swagger.json
 vendor/.env
 .env_1
 .env_old
@@ -559,6 +559,7 @@ wp-content/uploads/
 .yarnrc.yml
 _layouts/15/error.aspx
 admin-app/.env
+admin/
 ansible.cfg
 api/config.env
 application-prod.properties
@@ -568,6 +569,7 @@ awstats/.env
 backend/.env.production
 backend/.git/config
 blogs/.env
+cgi-bin/authLogin.cgi
 config.php.save
 cronlab/.env
 dana-na/nc/nc_gina_ver.txt
@@ -605,14 +607,13 @@ ReportServer
 __tests__/test-become/.env
 _profiler
 actuator
-admin/
 admin/.env.production
+api/
 app/config.php
 application.properties.bak
 aws-ses.json
 aws.json
 aws/.env
-cgi-bin/authLogin.cgi
 config/.env.local
 config/mail.php
 credentials.csv
@@ -656,8 +657,8 @@ xmlrpc.php
 admin/assets/js/views/login.js
 adminer.sql
 airflow.cfg
-api/
 api/config.php
+api/session/properties
 api/shared/config/.env
 api/shared/config/config.env
 appsettings.production.json
@@ -700,6 +701,7 @@ releases/.env
 resources/.env
 root/.s3cfg
 s3/.env.bak
+showLogin.cc
 sites/.env
 stag/.env
 static/admin/javascript/hetong.js
@@ -731,7 +733,6 @@ Public/home/js/check.js
 administrator/
 api-docs
 api/.env.staging
-api/session/properties
 api/src/.env
 api/v1/validate/code
 application.yaml
@@ -749,6 +750,7 @@ config/aws.php
 config/db.php
 config/filesystems.php
 config/openai.json
+console
 css/.env
 custom/.env
 dana-na
@@ -774,6 +776,7 @@ k8s/.env
 keys.json
 kubeconfig
 lib/config.php
+license.txt
 magento/.env
 mcp.json
 middleware/.env
@@ -791,7 +794,6 @@ server/.env.production
 serverless.yaml
 serverless.yml
 setup.cgi
-showLogin.cc
 ssl.key
 sslvpn/Login/Login
 stats/.env
@@ -974,7 +976,6 @@ configurations
 configurations.do
 connect.php
 connection.php
-console
 crm/.env.local
 crm/.env.production
 dana-cached/hc/HostCheckerInstaller.osx
@@ -1008,6 +1009,7 @@ example/.env
 example27-how-to-load-env/sample02/.env
 examples/.env
 export.sql
+ext-js/app/common/zld_product_spec.js
 favicon
 fileserver/.env
 films/.env
@@ -1050,7 +1052,6 @@ laravel/core/.env.production
 laravel/core/.env.staging
 libraries/.env
 libs/.env
-license.txt
 live/.env
 live/.env.local
 live/.env.production
@@ -1166,6 +1167,7 @@ webroot/.env
 webui
 webui/
 webui/.env
+wp-json
 wp-login.php
 wp/.env
 www.cloudflare.com:443
@@ -1254,6 +1256,7 @@ Socketio/.env
 Thumbs.db
 Travel_form/.env
 WEB-INF/classes/application.properties
+WebInterface/
 __/firebase/init.json
 __ENV.js
 __phpmyadmin/index.php
@@ -1437,7 +1440,6 @@ examples/09-production/.env
 examples/vue-dashboard/backend/.env
 examples/web/.env
 examples/with-cookie-auth-fauna/.env
-ext-js/app/common/zld_product_spec.js
 extender.html
 fastlane/.env
 favicons/.env
@@ -1678,7 +1680,6 @@ wp-admin/css/colors/sunrise/
 wp-config.php-backup
 wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
 wp-content/themes/gaukingo/
-wp-json
 wp-json/Batch/v1
 wp-json/batch/v1/
 xx-final/vue-heroes/.env
@@ -1863,6 +1864,7 @@ MyRentals.Web/ClientApp/.env
 Nodejs-Projects/play-ground/ManageUserRoles/.env
 Nodejs-Projects/play-ground/login/.env
 Nuke.App.Ui/.env
+OA_HTML/AppsLocalLogin.jsp
 Production/.env
 Public/.env
 Pulumi.yaml
@@ -1876,12 +1878,13 @@ Site/.env
 Sources/API/.env
 SpotiApps/.env
 Staging/.env
+Telerik.Web.UI.WebResource.axd
 Tests/Application/.env
 User_info/.env
 Web/.env
+Web/Auth
 Web/siteMariage/.env
 WebApp/js/UI_String.js
-WebInterface/
 \.\.env
 \\.env
 __debug__/
@@ -2002,6 +2005,7 @@ apps/api/.env
 apps/client/.env
 apps/frontend/.env
 apps/zxtm/login.cgi
+aspera/faspex/
 asset_img/.env
 assets/credentials.json
 assets/img/favicon.ico
@@ -2055,6 +2059,7 @@ build/static/js/main.js.map
 bun.lock
 c/login
 cart/.env
+cf_scripts/scripts/ajax/ckeditor/ckeditor.js
 cgi-bin/info.cgi
 cgi-bin/luci
 cgi-bin/param.cgi
@@ -2118,6 +2123,7 @@ crm/.env.bak
 crm/.env.staging
 cron/.env.production
 cslu/v1/core/conf
+css/images/PTZOptics_powerby.png
 customer/.env
 d/.env
 dashboard
@@ -2203,6 +2209,7 @@ examples/with-react-relay-network-modern/.env
 examples/with-relay-modern/.env
 examples/with-universal-configuration-build-time/.env
 extlib/.env
+favicon-32x32.png
 favs/.env
 fe/.env
 fetch
@@ -2254,17 +2261,25 @@ hotpot-app-frontend/.env
 http/.env
 httpboot/.env
 httpdocs/.env
+icons/sphere1.png
+identity
+identity/jsLibs/IdmBrandingBar.js
 ikiwiki/.env
 images/logo.gif
 images/logo.png
 images/transparentpix.gif
 inc/.env
 index.js
+index.jsp
 index.php.old
 info.asp
 info/.env.dev
+internal_forms_authentication
 ip.ifconfig.dpdns.org:443
 ise/img/rm-logo_small.png
+jasperserver-pro/login.html
+jasperserver/login.html
+jasperserverTest/login.html
 javascript/.env
 jolokia
 jolokia/list
@@ -2272,6 +2287,7 @@ joomla/.env
 jquery-3.3.1.slim.min.js
 jquery-3.3.2.slim.min.js
 js/.env.example
+js/NewWindow_2_all.js
 js/config.js
 json/version
 jsrelay/.env
@@ -2303,7 +2319,9 @@ local.properties
 local/.env.example
 log/.env.example
 login.aspx
+login.do
 login.php
+login/login
 login/login.html
 logs/%252eenv
 m/.env
@@ -2386,6 +2404,7 @@ packages/styled-ui-docs/.env
 packed/.env
 page-editor/.env
 parity/.env
+partymgr/control/main
 patchwork/.env
 path/.env
 pbxcore/api/v3/system:ping
@@ -2421,6 +2440,7 @@ production.env
 production/.env.example
 production/.env.local
 products/.env
+progs/homepage
 project/.env.example
 project/.env.local
 project/.env.production
@@ -2510,8 +2530,10 @@ shop/.env.production
 shop/.env.staging
 shopware/.env
 site-library/.env
+sitecore/shell/sitecore.version.xml
 sitestatic/.env
 smtp/.env
+solr/
 source/.env
 sources/api/.env
 spearmint/.env
@@ -2537,6 +2559,7 @@ srv/.env
 srv6_controller/controller/.env
 srv6_controller/examples/.env
 srv6_controller/node-manager/.env
+ssi.cgi/Login.htm
 ssl-vpn/prelogin.esp
 st-js-be-2020-movies-two/.env
 stag/.env.example
@@ -2553,6 +2576,7 @@ static-collected/.env
 static-html/.env
 static-root/.env
 static/.env.example
+static/historypage.js
 static/js/main.js.map
 static_prod/.env
 static_root/.env
@@ -2571,6 +2595,7 @@ strapi/.env
 stripe/webhook_secret.env
 style/.env
 styles/.env
+sugar_version.json
 support/.env
 svs-path-check-nonexistent
 swagger-ui/
@@ -2664,6 +2689,7 @@ web.config.bak
 web/.env.bak
 web/.env.example
 webclient
+webfig/
 webjars/swagger-ui/index.html
 webroot_path/.env
 websocket/.env
@@ -2685,6 +2711,8 @@ wrangler.toml
 www-data/.env
 wwwroot/.env
 xml/info.xml
+xmldata
+zabbix/favicon.ico
 zmusic-frontend/.env
 ztp/cgi-bin/handler
 ~/.env
@@ -3065,19 +3093,16 @@ GoogleService-Info.plist
 LAPI/V1.0/PTZ/CustomProtocal/Configuration
 MagicInfo/config.js
 Main_Login.asp
-OA_HTML/AppsLocalLogin.jsp
 OA_HTML/AppsTCFServer
 Procfile
 Properties/launchSettings.json
 RSC/R/0u0h8k9qqz6q4wr.txt
 RSC/cbu8y1xolsftybm.txt
 SiteLoader
-Telerik.Web.UI.WebResource.axd
 WEB-INF/classes/application.yml
 WEB-INF/web.xml
 Web.Debug.config
 Web.Release.config
-Web/Auth
 WuEL
 _%64%65%62%75%67
 _%64%65%62%75%67/%64%65%66%61%75%6c%74
@@ -3270,7 +3295,6 @@ archives/site.zip
 artifact.zip
 artifacts.zip
 artisan/.env
-aspera/faspex/
 aspnet.zip
 assets.tar.gz
 assets.zip
@@ -3344,10 +3368,10 @@ catalog/.env
 cdn/.env
 centreon/api/latest/platform/versions
 cert.zip
-cf_scripts/scripts/ajax/ckeditor/ckeditor.js
 cgi-bin/ExportSettings.sh
 cgi-bin/config.exp
 cgi-bin/cstecgi.cgi
+cgi-bin/main.pl
 cgi-bin/nas_sharing.cgi
 cgi-bin/network_tools
 chart/values.yaml
@@ -3470,7 +3494,6 @@ credentials/smtp.json
 credentials/store/system/domain/_/api/json
 crm/%252eenv
 css/elfinder.min.css
-css/images/PTZOptics_powerby.png
 ctrlt/DeviceUpgrade_1
 customer/account/create/
 customer/account/login/
@@ -3545,7 +3568,6 @@ export/backup.zip
 export/db.sql.gz
 exports/.env
 extensions/.env
-favicon-32x32.png
 favicon.ico/
 favicon.png
 feature/.env
@@ -3614,10 +3636,7 @@ hx/api/about
 i%252ephp
 i18n/component/JS
 iagent/idialer.php
-icons/sphere1.png
 id_rsa.bak
-identity
-identity/jsLibs/IdmBrandingBar.js
 images../.git/config
 images.tar.gz
 images.zip
@@ -3629,7 +3648,6 @@ include/.env
 includes/config.inc.php
 includes/smtp.php
 index.cfm
-index.jsp
 index.php/admin
 index.php/admin/login
 index.php/login
@@ -3642,12 +3660,8 @@ information.php
 infra.zip
 infra/%2eenv
 infrastructure.zip
-internal_forms_authentication
 inventories/hosts
 ip-api.com:80
-jasperserver-pro/login.html
-jasperserver/login.html
-jasperserverTest/login.html
 javascript/validation/OEM.js
 jenkins/credentials
 jm0735rn23p2nc
@@ -3657,7 +3671,6 @@ joomla-backup.zip
 joomla.tar.gz
 joomla.zip
 joomla/configuration.php
-js/NewWindow_2_all.js
 js/main.js
 json/
 json/login_session
@@ -3730,11 +3743,9 @@ localstart.cgi
 log.tar.gz
 log.txt
 log/app.log
-login.do
 login/
 login/%252eenv
 login/Auth
-login/login
 logs.tar.gz
 logs/app.log
 logs/backup.zip
@@ -3881,7 +3892,6 @@ parameters%2eyml
 params.yaml
 partner/.env
 partner/config/config.js
-partymgr/control/main
 password/reset
 payments/%2eenv
 paypal.env
@@ -3927,7 +3937,6 @@ production/%252eenv
 production/%2eenv
 profiles/%2eenv
 profiles/.env
-progs/homepage
 project/%2eenv
 project/settings/production.py
 projects.zip
@@ -4053,7 +4062,6 @@ site/env
 site/wp-includes/wlwmanifest.xml
 site_2025.zip
 site_2026.zip
-sitecore/shell/sitecore.version.xml
 sites/%252eenv
 sites/%2eenv
 sites/default/%2eenv
@@ -4066,7 +4074,6 @@ smtp/config.php
 soap.cgi
 social.env
 socket/.env
-solr/
 source.tar.gz
 source.zip
 source/%2eenv
@@ -4089,7 +4096,6 @@ src/openai.ts
 src/settings.py
 srv/app/.env
 ssh-config.json
-ssi.cgi/Login.htm
 ssl/.env
 sslvpnclient
 stability/.env
@@ -4107,7 +4113,6 @@ static/config.js
 static/css/common.css/.env
 static/css/home.css/.env
 static/favicon.ico
-static/historypage.js
 static/images/.env
 static/js/adapter.js/.env
 static/js/bundle.js
@@ -4138,7 +4143,6 @@ store/%252eenv
 streamlit/secrets.toml
 stripe/%2eenv
 submit/
-sugar_version.json
 suitecrm/.env
 superset_config.py
 support/
@@ -4240,7 +4244,6 @@ web/wp-includes/wlwmanifest.xml
 web_2024.zip
 webapp/.env
 webclient/
-webfig/
 webportal.cgi
 website/wp-includes/wlwmanifest.xml
 wg07c87q705po6
@@ -4311,10 +4314,8 @@ xai/.env
 xampp/phpinfo.php
 xfzp94bg5dy3tm
 xl4fvmn4ebdx5s
-xmldata
 xpvhykubaiexsm
 yii.zip
 yoenrmvpo5lqyq
 zabbix/
-zabbix/favicon.ico
 ~site.zip
