@@ -24,10 +24,10 @@ config.json
 phpinfo.php
 docker-compose.yml
 .env.staging
-frontend/.env
-web/.env
 get
 ip.cypher.rest:443
+frontend/.env
+web/.env
 public/.env
 .gitlab-ci.yml
 src/.env
@@ -66,9 +66,9 @@ credentials.json
 database.yml
 docker-compose.yaml
 htdocs/.env
+mcp
 crm/.env
 dev/.env
-mcp
 .kube/config
 backup/.env
 dump.sql
@@ -438,6 +438,7 @@ var/www/.env
 .env.yml
 .env_backup
 aab9
+api.ipinfo.io:443
 autodiscover/autodiscover.json
 backup.tar.gz
 backup.zip
@@ -454,6 +455,7 @@ docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env/.env
+icanhazip.com:443
 laravel/.env.example
 service-account.json
 src/.env.local
@@ -463,9 +465,7 @@ www.zip
 127.0.0.1:801
 Dockerfile
 aaa9
-api.ipinfo.io:443
 doc/index.html
-icanhazip.com:443
 id_rsa
 lib/.env
 mail/.env

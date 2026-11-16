@@ -38,9 +38,9 @@ index.html
 docker-compose.yml
 settings.json
 .env.development
-info.php
 get
 ip.cypher.rest:443
+info.php
 secrets.yml
 .gitlab-ci.yml
 wp-config.php
@@ -255,10 +255,12 @@ wlwmanifest.xml
 .env.yml
 .env_backup
 aab9
+api.ipinfo.io:443
 autodiscover.json
 config.php.old
 config.php~
 env.js
+icanhazip.com:443
 microsoft.exchange.ediscovery.exporttool.application
 www.zip
 .env.yaml
@@ -267,10 +269,8 @@ www.zip
 Dockerfile
 Login
 aaa9
-api.ipinfo.io:443
 application-prod.yml
 credentials.yml
-icanhazip.com:443
 list
 openai.json
 settings

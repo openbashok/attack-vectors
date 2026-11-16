@@ -23,9 +23,9 @@ config.json
 phpinfo.php
 docker-compose.yml
 .env.staging
-frontend/.env
 get
 ip.cypher.rest:443
+frontend/.env
 web/.env
 public/.env
 .gitlab-ci.yml
@@ -61,11 +61,11 @@ test.php
 .well-known/security.txt
 database.yml
 htdocs/.env
+mcp
 appsettings.json
 config.php.bak
 credentials.json
 docker-compose.yaml
-mcp
 dev/.env
 mcp/
 .kube/config
@@ -441,6 +441,7 @@ vendor/.env
 aab9
 actuator/configprops
 actuator/env
+api.ipinfo.io:443
 autodiscover/autodiscover.json?@zdi/Powershell
 backups/.env
 config.php~
@@ -451,13 +452,13 @@ development/.env
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
+icanhazip.com:443
 laravel/.env.example
 server-status
 src/.env.local
 .env.yaml
 127.0.0.1:801
 aaa9
-api.ipinfo.io:443
 backup.tar.gz
 backup.zip
 config.php.old
@@ -467,7 +468,6 @@ config/application.yml
 config/settings.py
 cron/.env
 doc/index.html
-icanhazip.com:443
 protected/.env
 service-account.json
 terraform.tfvars
