@@ -420,6 +420,7 @@ vendor/.env
 .env_1
 .env_old
 .netrc
+GponForm/diag_Form
 HNAP1/
 actuator/configprops
 actuator/env
@@ -436,7 +437,6 @@ var/www/.env
 .env.prod.local
 .env.yml
 .env_backup
-GponForm/diag_Form
 aab9
 backup.tar.gz
 backup.zip

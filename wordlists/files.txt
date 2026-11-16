@@ -246,6 +246,7 @@ api-docs
 composer.json
 configprops
 credentials.yml.enc
+diag_Form
 env.php
 formLogin
 server-status
@@ -256,7 +257,6 @@ wlwmanifest.xml
 aab9
 config.php.old
 config.php~
-diag_Form
 env.js
 www.zip
 .env.yaml
