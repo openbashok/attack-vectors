@@ -371,6 +371,7 @@ settings.php
 wp-config.php.orig
 .travis.yml
 HNAP1
+actuator/health
 config.inc.php
 evox/about
 public_html/.env
@@ -379,7 +380,6 @@ ws
 .env.2
 .env.test.local
 .git/logs/HEAD
-actuator/health
 app/.env.production
 cgi-bin/login.cgi
 config.py

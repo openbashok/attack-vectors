@@ -374,6 +374,7 @@ pub/
 settings.php
 .git/index
 HNAP1
+actuator/health
 conf/.env
 config.inc.php
 config/master.key
@@ -384,7 +385,6 @@ ws
 .env.2
 .env.test.local
 .travis.yml
-actuator/health
 cgi-bin/login.cgi
 config.py
 downloads/

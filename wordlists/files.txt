@@ -163,11 +163,11 @@ admin
 config.yml
 .env.secret
 backup.zip
+health
 .env.ci
 .env.sample
 .env~
 configuration.php
-health
 version
 .env.preprod
 .htpasswd

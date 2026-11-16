@@ -121,10 +121,10 @@ terraform.tfstate
 application
 secrets.json
 db
+actuator
 aws.yml
 compose
 examples
-actuator
 dashboard
 home
 application.yml
@@ -269,10 +269,10 @@ packages
 .env_sample
 database
 database.php
+health
 login.jsp
 panel
 %252eenv
-health
 json
 aws.json
 config.py
