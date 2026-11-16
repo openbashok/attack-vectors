@@ -196,6 +196,7 @@ client_secrets.json
 config.ini
 crossdomain.xml
 frontend/web/debug/default/view
+geoserver/web/
 k8s/secrets.yaml
 log/.env
 logs/
@@ -220,7 +221,6 @@ demo/
 dev/
 env.example
 facturacion/.env
-geoserver/web/
 infos/
 kubernetes/secrets.yaml
 log/

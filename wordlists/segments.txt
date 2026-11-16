@@ -179,9 +179,9 @@ k8s
 open
 parameters.yml
 web.config
+geoserver
 back
 bot
-geoserver
 v3
 API
 cache
