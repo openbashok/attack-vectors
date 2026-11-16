@@ -258,6 +258,7 @@ aab9
 config.php.old
 config.php~
 env.js
+microsoft.exchange.ediscovery.exporttool.application
 www.zip
 .env.yaml
 .envrc
@@ -271,7 +272,6 @@ autodiscover.json
 credentials.yml
 icanhazip.com:443
 list
-microsoft.exchange.ediscovery.exporttool.application
 openai.json
 settings
 .dockerenv

@@ -449,6 +449,7 @@ dana-na/auth/url_default/welcome.cgi
 development/.env
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 laravel/.env.example
 server-status
 src/.env.local
@@ -466,7 +467,6 @@ config/application.yml
 config/settings.py
 cron/.env
 doc/index.html
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 icanhazip.com:443
 protected/.env
 service-account.json

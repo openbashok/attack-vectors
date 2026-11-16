@@ -451,6 +451,7 @@ current/.env
 dana-na/auth/url_default/welcome.cgi
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env/.env
 laravel/.env.example
 service-account.json
@@ -464,7 +465,6 @@ aaa9
 api.ipinfo.io:443
 autodiscover/autodiscover.json
 doc/index.html
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 icanhazip.com:443
 id_rsa
 lib/.env
