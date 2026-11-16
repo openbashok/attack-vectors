@@ -71,14 +71,14 @@ dev/.env
 .kube/config
 backup/.env
 dump.sql
+mcp
 backup.sql
 database.sql
-mcp
+mcp/
 .env.json
 dashboard/.env
 db.sql
 env
-mcp/
 terraform.tfstate
 .env.dist
 .env.php
@@ -114,10 +114,10 @@ test/.env
 cms/.env
 main/.env
 settings.json
+sse
 .aws/config
 app_dev.php/_profiler/phpinfo
 auth/.env
-sse
 system/.env
 app_dev.php/_profiler/open
 bot/.env
@@ -157,6 +157,7 @@ sendgrid/.env.php
 test/.env.php
 twilio/.env.php
 var/.env.local.php
+api/mcp
 back/.env
 configuration.json
 data/.env
@@ -165,7 +166,6 @@ env-config.js
 google-services.json
 services/.env
 administrator/.env
-api/mcp
 app/config/parameters.yml
 beta/.env
 download/.env
@@ -438,6 +438,7 @@ var/www/.env
 .env.yml
 .env_backup
 aab9
+autodiscover/autodiscover.json
 backup.tar.gz
 backup.zip
 config.php.old
@@ -463,7 +464,6 @@ www.zip
 Dockerfile
 aaa9
 api.ipinfo.io:443
-autodiscover/autodiscover.json
 doc/index.html
 icanhazip.com:443
 id_rsa

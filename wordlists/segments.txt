@@ -35,9 +35,9 @@ logs
 backend
 v1
 frontend
+mcp
 server
 .env.bak
-mcp
 storage
 core
 app_dev.php
@@ -182,11 +182,11 @@ parameters.yml
 web.config
 back
 bot
+sse
 v3
 API
 cache
 env.json
-sse
 twilio
 .docker
 mysql.sql
@@ -401,6 +401,7 @@ wp-config.php~
 abc6
 abc8
 auth.json
+autodiscover
 babel-plugin-dotenv
 css
 doc
@@ -414,7 +415,6 @@ terraform.tfvars
 wp-config.bak
 .env.docker
 abc7
-autodiscover
 code
 config.yaml
 console
@@ -476,6 +476,7 @@ Current
 _next
 aab9
 all
+autodiscover.json
 b
 config.php.old
 config.php~
@@ -502,7 +503,6 @@ Dockerfile
 aaa9
 api.ipinfo.io:443
 application-prod.yml
-autodiscover.json
 bootstrap
 credentials.yml
 en

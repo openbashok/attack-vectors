@@ -66,16 +66,16 @@ config.php.bak
 credentials.json
 docker-compose.yaml
 dev/.env
+mcp
 .kube/config
 crm/.env
 dump.sql
-mcp
+mcp/
 .env.json
 backup.sql
 backup/.env
 database.sql
 env
-mcp/
 .env.php
 dashboard/.env
 db.sql
@@ -107,11 +107,11 @@ apps/.env
 cms/.env
 error.log
 new/.env
+sse
 test/.env
 main/.env
 secrets.yaml
 settings.json
-sse
 system/.env
 ../.env
 app_dev.php/_profiler/open?file=app/config/parameters.yml
@@ -157,6 +157,7 @@ twilio/.env.php
 var/.env.local.php
 wp-config.php.bak
 .aws/config
+api/mcp
 aws.yml
 back/.env
 configuration.json
@@ -165,7 +166,6 @@ developmentserver/metadatauploader
 env-config.js
 services/.env
 administrator/.env
-api/mcp
 beta/.env
 download/.env
 env.json
@@ -441,6 +441,7 @@ vendor/.env
 aab9
 actuator/configprops
 actuator/env
+autodiscover/autodiscover.json?@zdi/Powershell
 backups/.env
 config.php~
 config/credentials.yml.enc
@@ -457,7 +458,6 @@ src/.env.local
 127.0.0.1:801
 aaa9
 api.ipinfo.io:443
-autodiscover/autodiscover.json?@zdi/Powershell
 backup.tar.gz
 backup.zip
 config.php.old

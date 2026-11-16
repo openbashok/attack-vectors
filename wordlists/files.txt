@@ -12,8 +12,8 @@ config.json
 .env.example
 .env.staging
 credentials
-.env.bak
 mcp
+.env.bak
 login
 secrets.yaml
 robots.txt
@@ -80,8 +80,8 @@ parameters.yml
 web
 web.config
 open
-env.json
 sse
+env.json
 mysql.sql
 secrets.env
 wp-config.php.bak
@@ -255,6 +255,7 @@ wlwmanifest.xml
 .env.yml
 .env_backup
 aab9
+autodiscover.json
 config.php.old
 config.php~
 env.js
@@ -268,7 +269,6 @@ Login
 aaa9
 api.ipinfo.io:443
 application-prod.yml
-autodiscover.json
 credentials.yml
 icanhazip.com:443
 list
