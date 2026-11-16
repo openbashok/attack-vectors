@@ -365,13 +365,13 @@ media../.git/config
 media/.git/config
 project/.git/config
 sdk
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 version
 .docker/.env
 admin/index.html
 login.jsp
 pub/
 settings.php
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .git/index
 HNAP1
 conf/.env

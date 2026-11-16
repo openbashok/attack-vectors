@@ -197,13 +197,13 @@ logon.aspx
 files
 login.htm
 sdk
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 welcome.cgi
 authorized_keys
 id_ed25519
 login.cgi
 master.key
 pub
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php.orig
 .boto
 .travis.yml

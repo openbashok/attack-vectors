@@ -367,6 +367,7 @@ media..
 production
 public_html
 scripts
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 welcome.cgi
 RDWeb
 authorized_keys
@@ -376,7 +377,6 @@ dist
 id_ed25519
 login.cgi
 master.key
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php.orig
 .boto
 .travis.yml
@@ -554,6 +554,7 @@ mailer
 metadata
 nginx
 rails
+refs
 sonicos
 template
 ubuntu
@@ -596,7 +597,6 @@ phpmyadmin4
 phpmyadmin5
 projbackend
 redmine
-refs
 script
 sitemaps
 terraform
