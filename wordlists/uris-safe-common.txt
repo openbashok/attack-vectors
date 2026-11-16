@@ -779,6 +779,7 @@ symfony/.env
 template/.env
 terraform/.env
 users/.env
+v2/_catalog
 vpn/js/rdx/core/lang/rdx_en.json.gz
 web/.git/config
 wp-blog-header.php
@@ -1078,7 +1079,6 @@ theme/.env
 ubuntu/.env
 upload/.env
 users/sign_in
-v2/_catalog
 var/.env
 var/task/amplify.yaml
 var/task/amplify.yml
@@ -1230,6 +1230,7 @@ amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
 api-docs/
+api/client/update_arch=amd64_commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17_os=windows
 api/config.json
 api/health
 api/login

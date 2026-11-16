@@ -795,6 +795,7 @@ symfony/.env
 template/.env
 terraform/.env
 upload/.env
+v2/_catalog
 var/.env
 vpn/js/rdx/core/lang/rdx_en.json.gz
 web/.git/config
@@ -1098,7 +1099,6 @@ tests/drupal-test/.env
 theme/.env
 ubuntu/.env
 users/sign_in
-v2/_catalog
 var/task/amplify.yaml
 var/task/amplify.yml
 var/task/amplify/backend/function/*/src/index.js
@@ -1250,6 +1250,7 @@ amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
 api-docs/
+api/client/update
 api/config.json
 api/health
 api/login

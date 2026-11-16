@@ -84,8 +84,8 @@ html
 sendgrid
 .env.backup
 tmp
-log
 client
+log
 temp
 .well-known
 docker-compose.yml
@@ -320,10 +320,10 @@ LICENSE
 account
 etc
 logon.html
+update
 workspace
 .htaccess
 about
-update
 wp-config.php.save
 docker-compose.prod.yml
 hello.world
@@ -817,6 +817,7 @@ Pipfile.lock
 WEB-INF
 Web
 WebInterface
+_catalog
 admin.php
 adminpanel
 application.yaml
@@ -944,7 +945,6 @@ Nosto
 Pages
 Passportjs
 Tagging
-_catalog
 _debug
 _debugbar
 a

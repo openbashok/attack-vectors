@@ -795,6 +795,7 @@ symfony/.env
 template/.env
 terraform/.env
 upload/.env
+v2/_catalog
 var/.env
 vpn/js/rdx/core/lang/rdx_en.json.gz
 web/.git/config
@@ -997,4 +998,3 @@ horizon
 html/.git/config
 icon/.env
 icons/.env
-image_data/.env

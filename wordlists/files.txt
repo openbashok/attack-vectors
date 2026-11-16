@@ -178,12 +178,12 @@ app.php
 .s3cfg
 logon.html
 .htaccess
+update
 wp-config.php.save
 docker-compose.prod.yml
 hello.world
 sftp-config.json
 test.hello
-update
 .git-credentials
 config.inc.php
 swagger.json
@@ -436,6 +436,7 @@ www.tar.gz
 .mcp.json
 .vault-token
 Pipfile.lock
+_catalog
 admin.php
 application.yaml
 astguiclient.php
@@ -507,7 +508,6 @@ wp-settings.php
 .terraform.tfstate
 7f13c0a9d8644f3ca0a563b6b56e49d7
 HostCheckerInstaller.osx
-_catalog
 access.log
 active-coins
 app
