@@ -97,6 +97,8 @@ old
 prod
 info.php
 services
+get
+ip.cypher.rest:443
 secrets.yml
 .gitlab-ci.yml
 site
@@ -104,8 +106,6 @@ wp-config.php
 .ssh
 config.env
 database.yml
-get
-ip.cypher.rest:443
 project
 blog
 credentials.json
@@ -175,11 +175,11 @@ service
 sh
 sql
 yarn.lock
+geoserver
 k8s
 open
 parameters.yml
 web.config
-geoserver
 back
 bot
 v3

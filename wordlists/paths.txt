@@ -26,12 +26,12 @@ docker-compose.yml
 .env.staging
 frontend/.env
 web/.env
+get
+ip.cypher.rest:443
 public/.env
 .gitlab-ci.yml
 src/.env
 .env.development
-get
-ip.cypher.rest:443
 admin/.env
 wp-config.php
 .git/HEAD
@@ -189,6 +189,7 @@ bak/.env
 cache/.env
 developer/.env
 erp/.env
+geoserver/web/
 logs/.env
 wp-config.php.backup
 .json
@@ -196,7 +197,6 @@ client_secrets.json
 config.ini
 crossdomain.xml
 frontend/web/debug/default/view
-geoserver/web/
 k8s/secrets.yaml
 log/.env
 login

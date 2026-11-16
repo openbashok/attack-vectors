@@ -24,11 +24,11 @@ phpinfo.php
 docker-compose.yml
 .env.staging
 frontend/.env
+get
+ip.cypher.rest:443
 web/.env
 public/.env
 .gitlab-ci.yml
-get
-ip.cypher.rest:443
 src/.env
 .env.development
 wp-config.php
@@ -187,6 +187,7 @@ cache/.env
 content/.env
 developer/.env
 erp/.env
+geoserver/web/
 logs/.env
 requirements.txt
 server.js
@@ -196,7 +197,6 @@ client_secrets.json
 config.ini
 crossdomain.xml
 frontend/web/debug/default/view
-geoserver/web/
 log/.env
 logs/
 node/.env
