@@ -340,6 +340,7 @@ www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 Jenkinsfile
 backup/.git/config
 owa/auth/logon.aspx
+sdk
 static../.git/config
 .env.1
 .env.txt
@@ -357,7 +358,6 @@ manage/account/login
 media../.git/config
 media/.git/config
 project/.git/config
-sdk
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 version
 .docker/.env
@@ -3359,6 +3359,7 @@ build.tar.gz
 build.zip
 build/%2eenv
 build/manifest.json
+c/
 c8u97ymrl6z255
 cache/original/../../.env
 cache/original/../.env

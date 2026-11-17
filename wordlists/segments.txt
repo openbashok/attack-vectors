@@ -345,6 +345,7 @@ ec
 environments
 manage
 phpmyadmin
+sdk
 Jenkinsfile
 backups
 conf
@@ -352,7 +353,6 @@ index
 logon.aspx
 pki-validation
 scripts
-sdk
 static..
 vpn
 .circleci
@@ -1276,6 +1276,7 @@ bitcoind
 blocks
 bootstrap.yml
 build.yml
+c
 cardea
 cart
 ch2-mytodo
@@ -1792,7 +1793,6 @@ bookchain-client
 bookmarkable
 bun.lock
 busybox$%7BIFS%7Dwget$%7BIFS%7D-qO.y$%7BIFS%7Dhttp:
-c
 caches
 catalog
 cf_scripts

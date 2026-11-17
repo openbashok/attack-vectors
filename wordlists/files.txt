@@ -192,11 +192,11 @@ Jenkinsfile
 about
 index
 logon.aspx
+sdk
 .env.1
 .env.txt
 files
 login.htm
-sdk
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 welcome.cgi
 authorized_keys
