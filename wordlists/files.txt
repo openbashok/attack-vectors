@@ -240,6 +240,7 @@ composer.lock
 diag_Form
 docker-compose.override.yml
 environ
+formLogin
 .env_1
 .env_old
 .netrc
@@ -248,7 +249,6 @@ composer.json
 configprops
 credentials.yml.enc
 env.php
-formLogin
 server-status
 wlwmanifest.xml
 .env.prod.local
@@ -351,6 +351,7 @@ login.php
 main
 nc_gina_ver.txt
 raw
+redlion
 runtime-env.js
 s3.json
 secrets.toml
@@ -379,7 +380,6 @@ keys.json
 main.js
 main.yml
 private.key
-redlion
 signin
 vertex.json
 wp-config.php.dist

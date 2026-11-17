@@ -583,6 +583,7 @@ lab/.env
 logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 manager/html
+portal/redlion
 psnlink/.env
 raw
 root/.aws/credentials
@@ -621,7 +622,6 @@ js/.env
 manager/text/list
 new/.env.production
 nginx/.env
-portal/redlion
 proc/self/environ
 rest/.env
 script/.env
@@ -1323,6 +1323,7 @@ bedrock.yml
 bedrock/.env
 bitcoind/.env
 blog/wp-json/batch/v1
+boaform/admin/formLogin_username=user_psd=user
 bootstrap.properties
 bootstrap/cache/config.php
 boxes/oracle-vagrant-boxes/OLCNE/.env

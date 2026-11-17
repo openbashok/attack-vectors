@@ -410,6 +410,7 @@ swagger.json
 .ssh/id_ed25519
 Gemfile.lock
 GponForm/diag_Form
+boaform/admin/formLogin
 composer.lock
 config/config.php
 dist/.env
@@ -426,7 +427,6 @@ actuator/configprops
 actuator/env
 app/config/.env
 backups/.env
-boaform/admin/formLogin
 compose/.env
 composer.json
 config/credentials.yml.enc
@@ -585,6 +585,7 @@ logon/LogonPoint/tmindex.html
 manager/html
 new/.env.production
 nginx/.env
+portal/redlion
 psnlink/.env
 raw
 root/.aws/credentials
@@ -628,7 +629,6 @@ hudson
 id_dsa
 manager/text/list
 node_modules/.env
-portal/redlion
 private.key
 proc/self/environ
 rest/.env

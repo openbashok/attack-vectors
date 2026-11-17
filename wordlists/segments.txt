@@ -12,8 +12,8 @@ index.php
 favicon.ico
 app
 test
-admin
 SDK
+admin
 webLanguage
 .env.local
 .env.production
@@ -112,8 +112,8 @@ credentials.json
 new
 system
 administrator
-settings
 portal
+settings
 data
 media
 terraform.tfstate
@@ -436,11 +436,13 @@ Gemfile.lock
 GponForm
 backup.tar.gz
 bedrock
+boaform
 composer.lock
 cron
 diag_Form
 docker-compose.override.yml
 environ
+formLogin
 kyc
 libraries
 qa
@@ -453,13 +455,11 @@ wordpress
 api-docs
 azure
 batch
-boaform
 composer.json
 configprops
 credentials.yml.enc
 current
 env.php
-formLogin
 framework
 instance
 myadmin
@@ -658,6 +658,7 @@ nc_gina_ver.txt
 plugin-qiankun
 psnlink
 raw
+redlion
 routes
 runtime-env.js
 s3.json
@@ -696,7 +697,6 @@ localhost
 main.yml
 marketing
 private.key
-redlion
 register
 route
 signin
