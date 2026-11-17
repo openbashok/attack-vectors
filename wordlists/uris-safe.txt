@@ -608,6 +608,7 @@ admin/.env.production
 api/config.env
 app/config.php
 application-prod.properties
+autodiscover/autodiscover.xml
 aws-ses.json
 aws.json
 aws/credentials
@@ -617,6 +618,7 @@ credentials.csv
 database.php
 enviroments/.env
 enviroments/.env.production
+ews/exchange.asmx
 functions/.env
 graphql
 hudson
@@ -658,7 +660,6 @@ api/session/properties
 application.properties.bak
 appsettings.production.json
 auth.json
-autodiscover/autodiscover.xml
 aws.env.json
 aws/.env
 aws/s3/env.env
@@ -677,7 +678,6 @@ deployment/.env
 dev/.env.local
 django/.env
 engine/.env
-ews/exchange.asmx
 fedex/.env
 firebase-adminsdk.json
 front/.env

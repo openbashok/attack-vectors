@@ -615,6 +615,7 @@ actuator
 admin/.env.production
 app/config.php
 application.properties.bak
+autodiscover/autodiscover.xml
 aws-ses.json
 aws.json
 aws/.env
@@ -625,6 +626,7 @@ database.php
 db.sql.gz
 enviroments/.env
 enviroments/.env.production
+ews/exchange.asmx
 graphql
 hudson
 id_dsa
@@ -665,7 +667,6 @@ api/shared/config/config.env
 app.js
 appsettings.production.json
 auth.json
-autodiscover/autodiscover.xml
 aws.env.json
 aws/s3/env.env
 aws/ses/smtp.env
@@ -685,7 +686,6 @@ deployment/.env
 dev/.env.local
 django/.env
 engine/.env
-ews/exchange.asmx
 fedex/.env
 firebase-adminsdk.json
 front/.env

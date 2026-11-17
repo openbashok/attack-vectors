@@ -373,6 +373,7 @@ RDWeb
 abc6
 abc8
 authorized_keys
+autodiscover
 deploy
 development
 dist
@@ -387,7 +388,6 @@ wp-config.php~
 .travis.yml
 abc7
 anthropic
-autodiscover
 config.yaml
 enviroments
 evox
@@ -685,11 +685,14 @@ Public
 ReportServer
 WebInterface
 application.properties.bak
+autodiscover.xml
 aws-ses.json
 bucket.env
 cgi-mod
 ci.yml
 credentials.csv
+ews
+exchange.asmx
 export
 gemini.json
 heads
@@ -740,7 +743,6 @@ adminer.sql
 airflow.cfg
 api_key.txt
 appsettings.production.json
-autodiscover.xml
 aws.env.json
 azure-openai.json
 azure.yaml
@@ -760,9 +762,7 @@ engine
 env.env
 env.prod.js
 env.production.js
-ews
 example27-how-to-load-env
-exchange.asmx
 firebase-adminsdk.json
 front-app
 front-empathy

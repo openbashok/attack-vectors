@@ -372,10 +372,12 @@ wsman
 ReportServer
 actuator
 application.properties.bak
+autodiscover.xml
 aws-ses.json
 bucket.env
 ci.yml
 credentials.csv
+exchange.asmx
 gemini.json
 graphql
 hudson
@@ -402,7 +404,6 @@ adminer.sql
 airflow.cfg
 api_key.txt
 appsettings.production.json
-autodiscover.xml
 aws.env.json
 azure-openai.json
 azure.yaml
@@ -417,7 +418,6 @@ db.py
 env.env
 env.prod.js
 env.production.js
-exchange.asmx
 firebase-adminsdk.json
 gcp.json
 gradle.properties
