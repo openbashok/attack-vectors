@@ -18,10 +18,10 @@ admin
 .env.local
 .env.production
 .%2e
-.aws
 phpinfo
-.env.php
+.aws
 config.json
+.env.php
 _profiler
 .env.example
 web
@@ -45,12 +45,12 @@ v2
 dev
 www
 auth
-lib
 robots.txt
+lib
 secrets.yaml
 assets
-demo
 security.txt
+demo
 backup
 docker
 .env.dev
@@ -75,10 +75,10 @@ cms
 .env.local.php
 view
 var
+..
 .env.test
 beta
 client
-..
 .env.backup
 apps
 crm
@@ -86,9 +86,9 @@ html
 index.html
 sendgrid
 tmp
+.well-known
 docker-compose.yml
 log
-.well-known
 settings.json
 static
 temp
@@ -135,6 +135,7 @@ fixtures
 htdocs
 main
 docs
+site.zip
 test.php
 wp-content
 .env:80
@@ -142,7 +143,6 @@ bin
 debug.log
 docker-compose.yaml
 local
-site.zip
 uploads
 ws
 user
@@ -168,6 +168,7 @@ node
 aws
 files
 store
+geoserver
 package-lock.json
 package.json
 sendgrid.env
@@ -175,7 +176,6 @@ service
 sh
 sql
 yarn.lock
-geoserver
 k8s
 open
 parameters.yml
@@ -220,12 +220,12 @@ developer
 login.html
 saas
 server.key
+*
 bak
 content
 credentials.xml
 requirements.txt
 rest
-*
 .env.save.1
 Application
 erp
@@ -250,6 +250,7 @@ php_error.log
 php_errors.log
 pos
 readme.md
+sitemap.xml
 twilio.env
 .env.stage
 sftp.json
@@ -259,7 +260,6 @@ s3
 .github
 owa
 shared
-sitemap.xml
 .env.live
 build
 wp-config.php.old
@@ -394,6 +394,8 @@ solr
 .env.2
 .env.test.local
 __tests__
+abc6
+abc8
 backup.tar.gz
 css
 default_settings
@@ -403,8 +405,7 @@ includes
 index.js
 swagger
 wp-config.php~
-abc6
-abc8
+abc7
 auth.json
 babel-plugin-dotenv
 console
@@ -417,7 +418,6 @@ task
 terraform.tfstate.backup
 wp-config.bak
 .env.docker
-abc7
 code
 db.php
 django
