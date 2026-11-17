@@ -593,6 +593,7 @@ solr/admin/info/system
 sonicui/7/sslvpn-portal/
 sources/.env
 sslvpn_logon.shtml
+vpn/index.html
 wp-config.php.swp
 wsman
 .github/workflows/ci.yml
@@ -629,7 +630,6 @@ sites/default/settings.php
 tests/.env
 user/.env.staging
 vendor/laravel/.env
-vpn/index.html
 website/.env
 wp-config.php.txt
 wp-config.txt
@@ -2840,6 +2840,7 @@ ztp/cgi-bin/handler
 %77%6f%72%6b%65%72/.%65%6e%76?v=9HID5
 %77%70-%63%6f%6e%74%65%6e%74/.%65%6e%76?v=W51l2
 %77%70/.%65%6e%76?v=R8Xkc
++CSCOSSLO/
 .%63%69%72%63%6c%65%63%69/%63%6f%6e%66%69%67.%79%6d%6c?v=dlGSX
 ..%2F.env?v=18e62112c9193882
 ..%2f..%2f..%2f..%2f..%2f..%2fproc/self/environ
@@ -3400,6 +3401,7 @@ api_keys.env
 apikey.txt
 apis/config/config.js?v=18e62110ce34b574
 apis/controllers/users.js?v=18e6211c8c2048e8
+apm/
 app.ipynb?v=18e6211e6ce74fba
 app.js?v=18e62111d348ffbd
 app.py?v=18e62111c594e0f5
@@ -3467,6 +3469,7 @@ archives/site.zip
 artifact.zip
 artifacts.zip
 artisan/.env
+asdm/
 aspnet.zip
 assets.tar.gz
 assets.zip
@@ -3481,6 +3484,7 @@ auth/.env?v=Xq4xJ
 auth/login
 auth/signin
 auth/v1/health
+authpoint/
 aws-bedrock/.env?v=18e6211057fe0396
 aws-codecommit/
 aws-secret.yaml?v=18e6211ca8ef07f0
@@ -3748,6 +3752,7 @@ customer/account/login/
 cve202615748/
 daemon/%2eenv?v=cmVKy
 daemon/.env
+dana-na/auth/url_for_dana.action
 dashboard/.env?v=18e6211f0a84be18
 dashboard/phpinfo.php?v=18e621123f1f8576
 data.tar.gz
@@ -3893,6 +3898,7 @@ ghost/.env
 ghost/api/admin/
 ghost/signin
 gitlab/.env
+global-protect/getconfig.esp
 global-protect/prelogin.esp?tmp=tmp&clientVer=4100&clientos=Windows
 global/.env
 globals.php
@@ -4103,6 +4109,7 @@ message/.env
 messages/%2eenv?v=8FAKR
 messages/.env
 metrics
+mgmt/tmos
 microservice/.env
 migrations/.env
 migrations/.env?v=n9Yti
@@ -4339,6 +4346,7 @@ redis/.env
 redoc
 register/
 remix/.env
+remote/login.php
 remoteControlAction.do
 render.yaml?v=18e6211e463ba6d7
 replicate/.env?v=18e621124e0e6a60
@@ -4442,6 +4450,7 @@ services/openai/config.js?v=18e6211124ae1e7b
 services/openai/index.js?v=18e62111226c94a3
 services/opencode/index.js?v=18e62111af650cd7
 services/openrouter/index.js?v=18e621118855dc40
+servlet/DanaServlet
 ses.env
 ses.json
 session/%2eenv?v=4kvLZ
@@ -4504,10 +4513,13 @@ src/openai.ts?v=18e621112aec1df2
 src/settings.py?v=18e6211fb1535bfd
 srv/app/.env
 ssh-config.json
+ssl-vpn/
 ssl-vpn/prelogin.esp
 ssl-vpn/prelogin.esp?tmp=tmp&clientVer=4100&clientos=Windows
 ssl/.env
+sslvpn/portal.html
 sslvpnclient?launchplatform=mac&neProto=3&supportipv6=yes
+sso/login.php
 stability/.env?v=18e62112545d867f
 stage/%252eenv
 stager64
@@ -4690,6 +4702,7 @@ webpack.config.js?v=18e6211f8eca67f6
 webportal.cgi
 website/.env?v=18e62111a9652313
 website/wp-includes/wlwmanifest.xml
+webvpn/
 wg07c87q705po6
 wgcgi.cgi
 whm
@@ -4709,6 +4722,7 @@ worker/.env?v=9HID5
 workers/.env?v=GLAPe
 workflow/%2eenv?v=s6Jih
 workflow/.env?v=s6Jih
+workplace/
 workplace/home.action
 wp-admin.zip
 wp-admin/admin-ajax.php

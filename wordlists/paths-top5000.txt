@@ -596,6 +596,7 @@ solr/admin/info/system
 sonicui/7/sslvpn-portal/
 sources/.env
 sslvpn_logon.shtml
+vpn/index.html
 website/.env
 wp-config.php.txt
 wp-config.txt
@@ -637,7 +638,6 @@ sites/default/settings.php
 tests/.env
 user/.env.staging
 vendor/laravel/.env
-vpn/index.html
 wp-config.php.dist
 xmlrpc.php
 .c9/metadata/environment/.env
@@ -2849,6 +2849,7 @@ ztp/cgi-bin/handler
 %77%6f%72%6b%65%72/.%65%6e%76
 %77%70-%63%6f%6e%74%65%6e%74/.%65%6e%76
 %77%70/.%65%6e%76
++CSCOSSLO/
 .%63%69%72%63%6c%65%63%69/%63%6f%6e%66%69%67.%79%6d%6c
 ..%2F.env
 ..%2f..%2f..%2f..%2f..%2f..%2fproc/self/environ
@@ -3251,6 +3252,7 @@ api_keys.env
 apikey.txt
 apis/config/config.js
 apis/controllers/users.js
+apm/
 app.ipynb
 app.py
 app.rar
@@ -3295,6 +3297,7 @@ archives/site.zip
 artifact.zip
 artifacts.zip
 artisan/.env
+asdm/
 aspnet.zip
 assets.tar.gz
 assets.zip
@@ -3308,6 +3311,7 @@ attachments.zip
 auth/login
 auth/signin
 auth/v1/health
+authpoint/
 aws-bedrock/.env
 aws-codecommit/
 azure-credentials.json
@@ -3502,6 +3506,7 @@ customer/account/login/
 cve202615748/
 daemon/%2eenv
 daemon/.env
+dana-na/auth/url_for_dana.action
 data.tar.gz
 data/backup.zip
 data/env
@@ -3606,6 +3611,7 @@ ghost/.env
 ghost/api/admin/
 ghost/signin
 gitlab/.env
+global-protect/getconfig.esp
 global-protect/prelogin.esp
 global/.env
 globals.php
@@ -3778,6 +3784,7 @@ message/.env
 messages/%2eenv
 messages/.env
 metrics
+mgmt/tmos
 microservice/.env
 minimax-config.json
 minimax/.env
@@ -3976,6 +3983,7 @@ redis/.env
 redoc
 register/
 remix/.env
+remote/login.php
 remoteControlAction.do
 render.yaml
 replicate/.env
@@ -4054,6 +4062,7 @@ services/openai/config.js
 services/openai/index.js
 services/opencode/index.js
 services/openrouter/index.js
+servlet/DanaServlet
 ses.env
 ses.json
 session/%2eenv
@@ -4101,8 +4110,11 @@ src/openai.ts
 src/settings.py
 srv/app/.env
 ssh-config.json
+ssl-vpn/
 ssl/.env
+sslvpn/portal.html
 sslvpnclient
+sso/login.php
 stability/.env
 stage/%252eenv
 stager64
@@ -4251,6 +4263,7 @@ webapp/.env
 webclient/
 webportal.cgi
 website/wp-includes/wlwmanifest.xml
+webvpn/
 wg07c87q705po6
 wgcgi.cgi
 whm
@@ -4267,6 +4280,7 @@ worker.js
 worker/%2eenv
 workflow/%2eenv
 workflow/.env
+workplace/
 workplace/home.action
 wp-admin.zip
 wp-admin/admin-ajax.php

@@ -84,8 +84,8 @@ html
 sendgrid
 .env.backup
 client
-tmp
 index.html
+tmp
 log
 .well-known
 static
@@ -273,14 +273,14 @@ health
 login.jsp
 panel
 %252eenv
+dana-na
 json
 aws.json
 config.py
-dana-na
+remote
 workflows
 .%65%6e%76
 mysql
-remote
 .env.uat
 .npmrc
 HNAP1
@@ -346,6 +346,7 @@ environments
 manage
 phpmyadmin
 sdk
+vpn
 Jenkinsfile
 backups
 conf
@@ -354,7 +355,6 @@ logon.aspx
 pki-validation
 scripts
 static..
-vpn
 .circleci
 .config
 .env.1
@@ -484,6 +484,7 @@ config.php~
 ecp
 env.js
 exporttool
+global-protect
 icanhazip.com:443
 mailchimp
 market
@@ -508,7 +509,6 @@ bootstrap
 credentials.yml
 en
 gcloud
-global-protect
 list
 metrics
 node_modules
@@ -650,6 +650,7 @@ img
 inc
 jsp
 lab
+login.php
 main.js
 mifs
 nc
@@ -772,7 +773,6 @@ lambda
 liveliness
 local.settings.json
 login.js
-login.php
 main.js.map
 management
 mysqlmanager
@@ -795,6 +795,7 @@ smtp.env
 sqladmin
 sqlmanager
 srv6_controller
+sslvpn
 status
 stg
 templates
@@ -890,7 +891,6 @@ shell
 sign_in
 soap
 ssl.key
-sslvpn
 studioserver
 symfony
 terraform.tfvars.json
@@ -1490,6 +1490,7 @@ source
 sql-admin
 sqlweb
 srv
+ssl-vpn
 stackato-pkg
 staticfiles
 storage.yml
@@ -2153,7 +2154,6 @@ sphere1.png
 spikes
 sql.php
 ssi.cgi
-ssl-vpn
 st-js-be-2020-movies-two
 statement
 static-collected
@@ -2229,6 +2229,7 @@ with-react-relay-network-modern
 with-relay-modern
 with-universal-configuration-build-time
 workflow
+workplace
 wp-config.php.original
 wp-login
 wp_filemanager.php

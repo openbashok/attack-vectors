@@ -593,6 +593,7 @@ solr/admin/info/system
 sonicui/7/sslvpn-portal/
 sources/.env
 sslvpn_logon.shtml
+vpn/index.html
 wp-config.php.swp
 wsman
 .github/workflows/ci.yml
@@ -629,7 +630,6 @@ sites/default/settings.php
 tests/.env
 user/.env.staging
 vendor/laravel/.env
-vpn/index.html
 website/.env
 wp-config.php.txt
 wp-config.txt
