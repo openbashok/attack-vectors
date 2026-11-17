@@ -663,6 +663,7 @@ api/shared/config/.env
 api/shared/config/config.env
 appsettings.production.json
 auth.json
+autodiscover/autodiscover.xml
 aws.env.json
 aws/s3/env.env
 aws/ses/smtp.env
@@ -681,6 +682,7 @@ deployment/.env
 dev/.env.local
 django/.env
 engine/.env
+ews/exchange.asmx
 fedex/.env
 firebase-adminsdk.json
 front/.env
@@ -921,7 +923,6 @@ auth/admin
 auth/admin/master/console/
 auth1.html
 authorization.do
-autodiscover/autodiscover.xml
 aws-exports.js
 aws.yaml
 aws/bucket
@@ -997,4 +998,3 @@ developerslv/.env
 directories/.env
 django_project_path/.env
 dns-query
-docker-node-mongo-redis/.env

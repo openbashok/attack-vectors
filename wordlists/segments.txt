@@ -13,8 +13,8 @@ favicon.ico
 app
 test
 SDK
-admin
 webLanguage
+admin
 .env.local
 .env.production
 .%2e
@@ -381,6 +381,7 @@ wp-config.php.orig
 .boto
 .travis.yml
 anthropic
+autodiscover
 enviroments
 evox
 mcp.json
@@ -402,7 +403,6 @@ wp-config.php~
 abc6
 abc8
 auth.json
-autodiscover
 babel-plugin-dotenv
 console
 doc
@@ -736,6 +736,7 @@ airflow.cfg
 api_key.txt
 app.js
 appsettings.production.json
+autodiscover.xml
 aws.env.json
 azure-openai.json
 azure.yaml
@@ -755,7 +756,9 @@ engine
 env.env
 env.prod.js
 env.production.js
+ews
 example27-how-to-load-env
+exchange.asmx
 firebase-adminsdk.json
 front-app
 front-empathy
@@ -990,7 +993,6 @@ applinks
 appsettings.Development.json
 auth1.html
 authorization.do
-autodiscover.xml
 aws-codecommit
 aws-exports.js
 aws.yaml
@@ -1050,8 +1052,6 @@ drupal-test
 env-config
 environment.json
 errors
-ews
-exchange.asmx
 execute-solution
 export.sql
 ext-js

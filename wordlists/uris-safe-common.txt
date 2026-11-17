@@ -656,6 +656,7 @@ api/session/properties
 application.properties.bak
 appsettings.production.json
 auth.json
+autodiscover/autodiscover.xml
 aws.env.json
 aws/.env
 aws/s3/env.env
@@ -673,6 +674,7 @@ deployment/.env
 dev/.env.local
 django/.env
 engine/.env
+ews/exchange.asmx
 fedex/.env
 firebase-adminsdk.json
 front/.env
@@ -907,7 +909,6 @@ auth/admin
 auth/admin/master/console/
 auth1.html
 authorization.do
-autodiscover/autodiscover.xml
 aws-exports.js
 aws.yaml
 aws/bucket
@@ -984,7 +985,6 @@ environments/production/.env
 error/.env
 errors/.env
 etc/boto.cfg
-ews/exchange.asmx
 example/.env
 example27-how-to-load-env/sample02/.env
 examples/.env
