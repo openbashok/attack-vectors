@@ -6,8 +6,8 @@ index.php
 .env.production
 .env.bak
 robots.txt
-app/.env
 .env.local
+app/.env
 .env.save
 api/.env
 .aws/credentials
@@ -19,8 +19,8 @@ config.json
 backend/.env
 .env.test
 .env.old
-phpinfo.php
 .env.backup
+phpinfo.php
 .env.example
 docker-compose.yml
 .env.staging
@@ -43,8 +43,8 @@ _profiler/phpinfo
 prod/.env
 core/.env
 www/.env
-secrets.json
 config.js
+secrets.json
 security.txt
 .svn/entries
 html/.env
@@ -61,9 +61,9 @@ client/.env
 old/.env
 settings.py
 .env.orig
+config.php.bak
 .well-known/security.txt
 appsettings.json
-config.php.bak
 database.yml
 htdocs/.env
 mcp
@@ -74,9 +74,9 @@ dev/.env
 backup/.env
 dump.sql
 mcp/
+site.zip
 backup.sql
 database.sql
-site.zip
 .env.json
 application.yml
 dashboard/.env
@@ -99,6 +99,8 @@ info
 local/.env
 portal/.env
 web.config
+wp-config.php.bak
+../.env
 .env.local.php
 application.properties
 apps/.env
@@ -109,18 +111,17 @@ new/.env
 project/.env
 secrets.yaml
 sendgrid.env
+settings.json
 sse
 test/.env
-wp-config.php.bak
-../.env
 cms/.env
 main/.env
-settings.json
 .aws/config
 app_dev.php/_profiler/phpinfo
 auth/.env
 system/.env
 app_dev.php/_profiler/open
+assets/.env
 bot/.env
 demo/.env
 developmentserver/metadatauploader
@@ -141,7 +142,6 @@ api/mcp
 api/v2/.env
 apis/.env
 app_dev.php/_profiler/.env
-assets/.env
 aws.env
 aws.yml
 base/.env
@@ -168,6 +168,7 @@ google-services.json
 services/.env
 administrator/.env
 app/config/parameters.yml
+assets/config.json
 beta/.env
 download/.env
 env.json
@@ -175,7 +176,6 @@ saas/.env
 server.key
 temp/.env
 tmp/.env
-assets/config.json
 bedrock.env
 content/.env
 credentials.xml
@@ -263,11 +263,11 @@ app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config.php
 config/database.php
++CSCOE+/logon.html
 .env.preprod
 .htpasswd
 config/secrets.yml
 www/.git/config
-+CSCOE+/logon.html
 .env.sandbox
 config/app.php
 configuration.php
@@ -295,6 +295,7 @@ docker-compose.prod.yml
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+remote/login
 sftp-config.json
 src/.git/config
 test.hello
@@ -327,7 +328,6 @@ phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/src/Util/PHP/eval-stdin.php
 public/index.php
 public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-remote/login
 test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -435,6 +435,7 @@ backups/.env
 compose/.env
 composer.json
 config/credentials.yml.enc
+dana-na/auth/url_default/welcome.cgi
 development/.env
 instance/config.py
 server-status
@@ -452,7 +453,6 @@ config/application.yml
 config/settings.py
 cron/.env
 current/.env
-dana-na/auth/url_default/welcome.cgi
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
@@ -465,6 +465,7 @@ src/.env.local
 127.0.0.1:801
 Dockerfile
 aaa9
+adminer.php
 doc/index.html
 id_rsa
 lib/.env
@@ -526,7 +527,6 @@ wp-config.old
 _static/.env
 actuator/heapdump
 admin
-adminer.php
 api/.env.production
 api/v1/.env
 app/etc/env.php
@@ -547,6 +547,7 @@ myapp/settings.py
 php/.env
 redmine/.env
 sitemaps/.env
+vpn/index.html
 web/
 web/.env.local
 webpages/login.html
@@ -598,7 +599,6 @@ solr/admin/info/system
 sonicui/7/sslvpn-portal/
 sources/.env
 sslvpn_logon.shtml
-vpn/index.html
 website/.env
 wp-config.php.txt
 wp-config.txt
@@ -672,6 +672,7 @@ aws/ses/smtp.env
 bitbucket-pipelines.yml
 bootstrap/.env
 build.gradle
+cgi-bin/welcome
 ci/.env
 config
 config/.env.production
@@ -705,6 +706,7 @@ releases/.env
 resources/.env
 root/.s3cfg
 s3/.env.bak
+setup.cgi
 showLogin.cc
 sites/.env
 stag/.env
@@ -720,6 +722,7 @@ vpn/js/rdx/core/lang/rdx_en.json.gz
 wordpress/.env
 wp-admin/
 wp-config.php.gz
+wp-login.php
 www.tar.gz
 xampp/.env
 .claude.json
@@ -744,7 +747,6 @@ authorized_keys
 backup.tar
 cdn-cgi/trace
 cert.pem
-cgi-bin/welcome
 cgi-mod/index.cgi
 checkout/.env
 cloud/.env
@@ -797,7 +799,7 @@ runtime-env.js
 server/.env.production
 serverless.yaml
 serverless.yml
-setup.cgi
+sonicui/7/login/
 ssl.key
 sslvpn/Login/Login
 stats/.env
@@ -996,5 +998,3 @@ demo/.env.local
 demo/.env.production
 demo/.env.staging
 deployment-config.json
-dev/.env.staging
-developerslv/.env
