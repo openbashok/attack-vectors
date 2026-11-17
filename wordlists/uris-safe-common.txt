@@ -40,9 +40,9 @@ _profiler/phpinfo
 server/.env
 .env.testing
 prod/.env
+config.js
 core/.env
 www/.env
-config.js
 security.txt
 html/.env
 secrets.json
@@ -89,11 +89,11 @@ application/.env
 package-lock.json
 secrets.yml
 shop/.env
+wp-config.php.bak
 yarn.lock
 info
 package.json
 sse
-wp-config.php.bak
 .env.local.php
 blog/.env
 config.env
@@ -382,6 +382,7 @@ config/master.key
 evox/about
 public_html/.env
 wp-config.php.orig
+wp-config.php_
 ws
 .env.2
 .env.test.local
@@ -392,7 +393,6 @@ cgi-bin/login.cgi
 config.py
 downloads/
 remote/login
-wp-config.php_
 .git/logs/HEAD
 abc7
 app/.env.production
@@ -1031,6 +1031,7 @@ infra/.env
 install.php
 internal/.env
 jira/secure/Dashboard.jspa
+js/config.js
 jsp/index.jsp
 keys.json
 kibana/.env

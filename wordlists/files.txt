@@ -24,8 +24,8 @@ test
 config.php
 phpinfo.php
 laravel.log
-.env.prod
 config.js
+.env.prod
 HEAD
 settings.py
 info
@@ -37,8 +37,8 @@ view
 index.html
 docker-compose.yml
 settings.json
-get
 info.php
+get
 ip.cypher.rest:443
 .env.development
 wp-config.php
@@ -72,11 +72,11 @@ error.log
 %2eenv
 .env.json
 web
+wp-config.php.bak
 package-lock.json
 package.json
 sendgrid.env
 sh
-wp-config.php.bak
 yarn.lock
 parameters.yml
 sse
@@ -206,11 +206,11 @@ master.key
 pub
 terraform.tfvars
 wp-config.php.orig
+wp-config.php~
 .boto
 .travis.yml
 config.yaml
 mcp.json
-wp-config.php~
 ws
 .env.2
 .env.test.local
@@ -385,6 +385,7 @@ main.yml
 private.key
 signin
 vertex.json
+wallet.dat
 wp-config.php.dist
 xmlrpc.php
 .dockercfg
@@ -1117,7 +1118,6 @@ userInfos
 userfiles
 vault.json
 vendor
-wallet.dat
 wallets
 web.config.bak
 webfig

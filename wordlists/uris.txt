@@ -40,9 +40,9 @@ _profiler/phpinfo
 server/.env
 .env.testing
 prod/.env
+config.js
 core/.env
 www/.env
-config.js
 security.txt
 html/.env
 secrets.json
@@ -89,11 +89,11 @@ application/.env
 package-lock.json
 secrets.yml
 shop/.env
+wp-config.php.bak
 yarn.lock
 info
 package.json
 sse
-wp-config.php.bak
 .env.local.php
 blog/.env
 config.env
@@ -382,6 +382,7 @@ config/master.key
 evox/about
 public_html/.env
 wp-config.php.orig
+wp-config.php~
 ws
 .env.2
 .env.test.local
@@ -392,7 +393,6 @@ cgi-bin/login.cgi
 config.py
 downloads/
 remote/login
-wp-config.php~
 .git/logs/HEAD
 abc7
 app/.env.production
@@ -1027,6 +1027,7 @@ infra/.env
 install.php
 internal/.env
 jira/secure/Dashboard.jspa
+js/config.js
 jsp/index.jsp
 keys.json
 kibana/.env
@@ -1678,6 +1679,7 @@ $(pwd)/.env.staging
 .aws/credentials/admin/.env
 .azure/accessTokens.json
 .bitbucket/.env
+.bitcoin/wallet.dat
 .bundle/.env
 .cache-loader/.env
 .config/.env
@@ -1990,6 +1992,7 @@ asset_img/.env
 assets/credentials.json
 assets/img/favicon.ico
 assets/index.js.map
+assets/js/config.js
 assets/png/favicon-abe32304.png
 aws-bedrock.config
 aws-bedrock.env
@@ -2271,7 +2274,6 @@ jquery-3.3.1.slim.min.js
 jquery-3.3.2.slim.min.js
 js/.env.example
 js/NewWindow_2_all.js
-js/config.js
 json/version
 jsrelay/.env
 jupyter/.env
@@ -2467,6 +2469,7 @@ rest/executions
 rest/login
 restapi/.env
 results/.env
+root/.bitcoin/wallet.dat
 rosterBack/.env
 roundcube/.env
 roundcubemail/.env
@@ -2670,6 +2673,7 @@ versa/login
 versions
 vm-docker-compose/.env
 vue/vuecli/.env
+wallet.dat
 web.config.bak
 web/.env.bak
 web/.env.example
@@ -2902,7 +2906,6 @@ ztp/cgi-bin/handler
 .bash_history
 .bash_history?v=18e621101808e257
 .bitcoin/
-.bitcoin/wallet.dat
 .bitcoin/wallets/
 .bitcoin/wallets/wallet.dat
 .boto?v=18e6211de22586d6
@@ -3220,6 +3223,7 @@ CSCOSSLC/tunnel
 CXKv
 DcGn
 Dockerfile?v=18e6211fab93e265
+Documents/wallet-backup.txt
 Double.php/.env
 DpOY
 GoogleService-Info.plist?v=18e6211dc7ba3ce9
@@ -4304,6 +4308,7 @@ previous/.env
 privacy.php/.env
 private.key?v=18e6211037cac8df
 private.pem?v=18e621103f5eba68
+private.txt
 private/%2eenv?v=kEPo7
 private/.env?v=18e6211f43a15324
 pro/%252eenv
@@ -4420,6 +4425,7 @@ secrets/vault.json
 secured/phpinfo.php?v=18e6211235e44c04
 security/%2eenv?v=2a8Sb
 security/.env?v=2a8Sb
+seed.txt
 seed/.env
 sendgrid.json
 server-info
@@ -4701,6 +4707,7 @@ voyage/.env?v=18e62112512690cd
 vscode/.env
 vtiger/.env
 vue.zip
+wallet.txt
 wanipcn.xml
 web.config?v=18e6211374522b0b
 web.tar.gz

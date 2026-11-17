@@ -62,11 +62,11 @@ default
 staging
 laravel.log
 env
+config.js
 .env.prod
 cgi-bin
 debug
 tests
-config.js
 .svn
 HEAD
 settings.py
@@ -92,8 +92,8 @@ log
 settings.json
 static
 temp
-get
 info.php
+get
 ip.cypher.rest:443
 .env.development
 old
@@ -135,6 +135,7 @@ fixtures
 htdocs
 main
 docs
+js
 site.zip
 test.php
 wp-content
@@ -151,7 +152,6 @@ appsettings.json
 config.php.bak
 database.sql
 images
-js
 shop
 .env.production.local
 dump.sql
@@ -169,13 +169,13 @@ node
 aws
 files
 geoserver
+wp-config.php.bak
 package-lock.json
 package.json
 sendgrid.env
 service
 sh
 sql
-wp-config.php.bak
 yarn.lock
 k8s
 open
@@ -281,6 +281,7 @@ config.py
 workflows
 .%65%6e%76
 mysql
+root
 .env.uat
 .env~
 .npmrc
@@ -291,7 +292,6 @@ wp-json
 .env.config
 .env.dev.local
 config.yml
-root
 version
 .env.secret
 containers
@@ -380,6 +380,7 @@ master.key
 pma
 terraform.tfvars
 wp-config.php.orig
+wp-config.php~
 .boto
 .travis.yml
 anthropic
@@ -390,7 +391,6 @@ evox
 mcp.json
 private
 solr
-wp-config.php~
 ~
 .env.2
 .env.test.local
@@ -676,6 +676,7 @@ telescope
 tmindex.html
 wp-config.txt
 wsman
+.bitcoin
 .env.qa
 .gitignore
 07-accessing-data
@@ -711,6 +712,7 @@ text
 upload
 vertex.json
 views
+wallet.dat
 wp-config.php.dist
 xampp
 xmlrpc.php
@@ -925,7 +927,6 @@ $%28uname$%7BIFS%7D-n%29%7C%7Cwget$%7BIFS%7D-qO-$%7BIFS%7D-T$%7BIFS%7D4$%7BIFS%7
 .DS_Store
 .amazonq
 .amplifyrc
-.bitcoin
 .composer
 .continue
 .dockerignore
@@ -2212,7 +2213,6 @@ vm-docker-compose
 vuecli
 w
 w3tc-config
-wallet.dat
 wc
 web.config.bak
 webfig

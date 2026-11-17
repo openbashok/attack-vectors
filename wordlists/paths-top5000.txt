@@ -33,8 +33,8 @@ public/.env
 src/.env
 wp-config.php
 .env.development
-.git/HEAD
 info.php
+.git/HEAD
 admin/.env
 site/.env
 _profiler/phpinfo
@@ -42,8 +42,8 @@ server/.env
 .env.testing
 prod/.env
 core/.env
-www/.env
 config.js
+www/.env
 secrets.json
 security.txt
 .svn/entries
@@ -88,10 +88,10 @@ terraform.tfstate
 application/.env
 secrets.yml
 staging/.env
+wp-config.php.bak
 package-lock.json
 package.json
 shop/.env
-wp-config.php.bak
 yarn.lock
 ../.env
 config.env
@@ -370,13 +370,13 @@ login.jsp
 pub/
 settings.php
 wp-config.php.orig
+wp-config.php~
 .travis.yml
 HNAP1
 actuator/health
 config.inc.php
 evox/about
 public_html/.env
-wp-config.php~
 ws
 .env.2
 .env.test.local
@@ -1049,6 +1049,7 @@ index.htm
 install.php
 internal/.env
 jira/secure/Dashboard.jspa
+js/config.js
 jsp/index.jsp
 kibana/.env
 kubernetes/.env
@@ -1706,6 +1707,7 @@ $(pwd)/.env.staging
 .azure/accessTokens.json
 .bash_history
 .bitbucket/.env
+.bitcoin/wallet.dat
 .bundle/.env
 .cache-loader/.env
 .claude/.credentials.json
@@ -2014,6 +2016,7 @@ asset_img/.env
 assets/credentials.json
 assets/img/favicon.ico
 assets/index.js.map
+assets/js/config.js
 assets/png/favicon-abe32304.png
 aws-bedrock.config
 aws-bedrock.env
@@ -2293,7 +2296,6 @@ jquery-3.3.1.slim.min.js
 jquery-3.3.2.slim.min.js
 js/.env.example
 js/NewWindow_2_all.js
-js/config.js
 json/version
 jsrelay/.env
 jupyter/.env
@@ -2485,6 +2487,7 @@ rest/executions
 rest/login
 restapi/.env
 results/.env
+root/.bitcoin/wallet.dat
 rosterBack/.env
 roundcube/.env
 roundcubemail/.env
@@ -2691,6 +2694,7 @@ versa/login
 versions
 vm-docker-compose/.env
 vue/vuecli/.env
+wallet.dat
 web.config.bak
 web/.env.bak
 web/.env.example
@@ -2895,7 +2899,6 @@ ztp/cgi-bin/handler
 .azure/openai.json
 .backup.tar.gz
 .bitcoin/
-.bitcoin/wallet.dat
 .bitcoin/wallets/
 .bitcoin/wallets/wallet.dat
 .bundle/config
@@ -3096,6 +3099,7 @@ CLAUDE.md
 CSCOSSLC/tunnel
 CXKv
 DcGn
+Documents/wallet-backup.txt
 Double.php/.env
 DpOY
 GoogleService-Info.plist
@@ -3943,6 +3947,7 @@ prestashop.zip
 prestashop/app/config/parameters.php
 previous/.env
 privacy.php/.env
+private.txt
 private/%2eenv
 pro/%252eenv
 pro/%2eenv
@@ -4043,6 +4048,7 @@ secrets/vault.json
 secured/phpinfo.php
 security/%2eenv
 security/.env
+seed.txt
 seed/.env
 sendgrid.json
 server-info%252ephp
@@ -4264,6 +4270,7 @@ voyage/.env
 vscode/.env
 vtiger/.env
 vue.zip
+wallet.txt
 wanipcn.xml
 web.tar.gz
 web/api/config.js

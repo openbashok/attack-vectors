@@ -33,8 +33,8 @@ public/.env
 src/.env
 wp-config.php
 .env.development
-.git/HEAD
 info.php
+.git/HEAD
 admin/.env
 site/.env
 _profiler/phpinfo
@@ -42,8 +42,8 @@ server/.env
 .env.testing
 prod/.env
 core/.env
-www/.env
 config.js
+www/.env
 secrets.json
 security.txt
 .svn/entries
@@ -88,10 +88,10 @@ terraform.tfstate
 application/.env
 secrets.yml
 staging/.env
+wp-config.php.bak
 package-lock.json
 package.json
 shop/.env
-wp-config.php.bak
 yarn.lock
 ../.env
 config.env
@@ -370,13 +370,13 @@ login.jsp
 pub/
 settings.php
 wp-config.php.orig
+wp-config.php~
 .travis.yml
 HNAP1
 actuator/health
 config.inc.php
 evox/about
 public_html/.env
-wp-config.php~
 ws
 .env.2
 .env.test.local
