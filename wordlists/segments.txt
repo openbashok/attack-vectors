@@ -139,13 +139,13 @@ js
 site.zip
 test.php
 wp-content
+ws
 .env:80
 bin
 debug.log
 docker-compose.yaml
 local
 uploads
-ws
 user
 .env.orig
 appsettings.json
@@ -210,12 +210,12 @@ kubernetes
 library
 server.js
 %00.env
+*
 bedrock.env
 configuration.json
 env-config.js
 google-services.json
 platform
-*
 app.log
 developer
 login.html
@@ -370,6 +370,8 @@ production
 public_html
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 RDWeb
+abc6
+abc8
 authorized_keys
 deploy
 development
@@ -383,6 +385,7 @@ wp-config.php.orig
 wp-config.php~
 .boto
 .travis.yml
+abc7
 anthropic
 autodiscover
 config.yaml
@@ -395,8 +398,6 @@ solr
 .env.2
 .env.test.local
 __tests__
-abc6
-abc8
 backup.tar.gz
 css
 default_settings
@@ -405,7 +406,6 @@ id_dsa
 includes
 index.js
 swagger
-abc7
 auth.json
 babel-plugin-dotenv
 console
@@ -1344,6 +1344,7 @@ global.asa
 google-ai.json
 graphiql
 group_vars
+havoc
 help
 helper.js
 host_vars
