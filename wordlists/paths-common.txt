@@ -120,12 +120,12 @@ main/.env
 app_dev.php/_profiler/phpinfo
 assets/.env
 auth/.env
+developmentserver/metadatauploader
 system/.env
 api/mcp
 app_dev.php/_profiler/open
 bot/.env
 demo/.env
-developmentserver/metadatauploader
 secrets.env
 store/.env
 test
