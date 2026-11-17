@@ -3084,6 +3084,7 @@ ztp/cgi-bin/handler
 .git/refs/heads/
 .git/refs/heads/main?v=18e6211dfeca0b67
 .git/refs/heads/master?v=18e6211dfd54a849
+.git/refs/remotes/
 .git/refs/tags/
 .github
 .github/workflows/

@@ -2996,6 +2996,7 @@ ztp/cgi-bin/handler
 .git/objects/pack.zip
 .git/reconx-d0d4c338608c
 .git/refs/heads/
+.git/refs/remotes/
 .git/refs/tags/
 .github
 .github/workflows/
