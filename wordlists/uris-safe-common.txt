@@ -5,15 +5,15 @@ SDK/webLanguage
 .env.production
 robots.txt
 .env.bak
-app/.env
 .env.local
+app/.env
 .env.save
 api/.env
 .aws/credentials
 config/.env
+.env.prod
 laravel/.env
 .env.dev
-.env.prod
 config.json
 backend/.env
 .env.test
@@ -93,6 +93,7 @@ yarn.lock
 info
 package.json
 sse
+wp-config.php.bak
 .env.local.php
 blog/.env
 config.env
@@ -104,7 +105,6 @@ project/.env
 sendgrid.env
 settings.json
 web.config
-wp-config.php.bak
 ../.env
 application.properties
 apps/.env
@@ -348,6 +348,7 @@ config/aws.yml
 owa/auth/logon.aspx
 sdk
 static../.git/config
+version
 .env.1
 .env.txt
 .vscode/settings.json
@@ -366,7 +367,6 @@ media../.git/config
 media/.git/config
 project/.git/config
 sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
-version
 .docker/.env
 .docker/config.json
 admin/index.html
@@ -392,13 +392,13 @@ cgi-bin/login.cgi
 config.py
 downloads/
 remote/login
+wp-config.php_
 .git/logs/HEAD
 abc7
 app/.env.production
 backend/.env.local
 deploy/.env
 sftp.json
-wp-config.php_
 wp-content/.env
 .env.docker
 .env_1
@@ -462,6 +462,7 @@ icanhazip.com:443
 laravel/.env.example
 server-status
 src/.env.local
+v1
 .env.yaml
 127.0.0.1:801
 config.php.old
@@ -472,7 +473,6 @@ cron/.env
 doc/index.html
 protected/.env
 service-account.json
-v1
 wp-admin/.env
 .dockerenv
 .env.new
@@ -597,6 +597,7 @@ sonicui/7/sslvpn-portal/
 sources/.env
 sslvpn_logon.shtml
 wp-config.php.swp
+wp-config.php.txt
 wsman
 .github/workflows/ci.yml
 .gitignore
@@ -624,6 +625,7 @@ manager/text/list
 new/.env.production
 nginx/.env
 proc/self/environ
+remote/login_lang=en
 rest/.env
 script/.env
 scripts/.env
@@ -632,7 +634,6 @@ tests/.env
 user/.env.staging
 vendor/laravel/.env
 website/.env
-wp-config.php.txt
 wp-config.txt
 wp-content/debug.log
 .c9/metadata/environment/.env
@@ -695,7 +696,6 @@ private.key
 product/.env.staging
 react/.env
 releases/.env
-remote/login_lang=en
 resources/.env
 root/.s3cfg
 s3/.env.bak

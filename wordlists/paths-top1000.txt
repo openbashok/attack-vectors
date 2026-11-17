@@ -11,8 +11,8 @@ app/.env
 .env.save
 api/.env
 .aws/credentials
-config/.env
 .env.prod
+config/.env
 laravel/.env
 .env.dev
 config.json
@@ -91,6 +91,7 @@ staging/.env
 package-lock.json
 package.json
 shop/.env
+wp-config.php.bak
 yarn.lock
 ../.env
 config.env
@@ -102,7 +103,6 @@ portal/.env
 settings.json
 sse
 web.config
-wp-config.php.bak
 .env.local.php
 application.properties
 apps/.env
@@ -244,9 +244,9 @@ twilio.env
 .env.staging.local
 .env.template
 phpinfo
+wp-config.php.old
 *
 .env.live
-wp-config.php.old
 .env.default
 .env_sample
 .env.uat
@@ -287,6 +287,7 @@ docker/.env
 index.html
 login.html
 public/.git/config
+remote/login
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 wp-config.php.save
 config/aws.json
@@ -295,7 +296,6 @@ docker-compose.prod.yml
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-remote/login
 sftp-config.json
 src/.git/config
 test.hello
@@ -342,6 +342,7 @@ backup/.git/config
 owa/auth/logon.aspx
 sdk
 static../.git/config
+version
 .docker/config.json
 .env.1
 .env.txt
@@ -360,7 +361,6 @@ media../.git/config
 media/.git/config
 project/.git/config
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
-version
 .docker/.env
 .git/index
 admin/index.html
@@ -376,6 +376,7 @@ actuator/health
 config.inc.php
 evox/about
 public_html/.env
+wp-config.php~
 ws
 .env.2
 .env.test.local
@@ -387,7 +388,6 @@ cgi-bin/login.cgi
 config.py
 deploy/.env
 downloads/
-wp-config.php~
 wp-content/.env
 abc7
 actuator/env
@@ -462,6 +462,7 @@ icanhazip.com:443
 laravel/.env.example
 service-account.json
 src/.env.local
+v1
 .env.yaml
 127.0.0.1:801
 Dockerfile
@@ -472,7 +473,6 @@ lib/.env
 mail/.env
 private/.env
 protected/.env
-v1
 wp-admin/.env
 .boto
 .dockerenv
@@ -552,6 +552,7 @@ web/
 web/.env.local
 webpages/login.html
 wp-config.php.swp
+wp-config.php.txt
 wp-content/uploads/
 .docker/laravel/app/.env
 .env-example
@@ -600,7 +601,6 @@ sonicui/7/sslvpn-portal/
 sources/.env
 sslvpn_logon.shtml
 website/.env
-wp-config.php.txt
 wp-config.txt
 wp-content/debug.log
 wsman

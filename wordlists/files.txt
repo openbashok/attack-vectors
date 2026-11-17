@@ -76,11 +76,11 @@ package-lock.json
 package.json
 sendgrid.env
 sh
+wp-config.php.bak
 yarn.lock
 parameters.yml
 sse
 web.config
-wp-config.php.bak
 open
 env.json
 metadatauploader
@@ -139,9 +139,9 @@ twilio.env
 sftp.json
 .env.staging.local
 .env.template
+wp-config.php.old
 *
 .env.live
-wp-config.php.old
 id_rsa
 .env.default
 .env_sample
@@ -150,8 +150,8 @@ login.jsp
 %252eenv
 aws.json
 config.py
-.%65%6e%76
 v1
+.%65%6e%76
 .env.uat
 .env~
 .npmrc
@@ -165,10 +165,10 @@ wc.db
 config.yml
 .env.secret
 health
+version
 .env.ci
 .env.sample
 configuration.php
-version
 .env.preprod
 .htpasswd
 logon.html
@@ -210,6 +210,7 @@ wp-config.php.orig
 .travis.yml
 config.yaml
 mcp.json
+wp-config.php~
 ws
 .env.2
 .env.test.local
@@ -220,7 +221,6 @@ backup.tar.gz
 downloads
 id_dsa
 index.js
-wp-config.php~
 abc7
 auth.json
 openapi.json
@@ -328,6 +328,7 @@ uploads
 users
 wp-admin
 wp-config.php.swp
+wp-config.php.txt
 .env-example
 .env-sample
 .env.back
@@ -364,7 +365,6 @@ sslvpn_logon.shtml
 swagger-ui.html
 tmindex.html
 webui
-wp-config.php.txt
 wp-config.txt
 wsman
 .env.qa
@@ -1078,6 +1078,7 @@ prod.secret.exs
 production.env
 production.key
 production.yml
+products
 project.json
 proxy.php
 rclone.conf
@@ -1123,6 +1124,7 @@ webfig
 webhook_secret.env
 winscp.ini
 wp-config.php.original
+wp-config.save
 wp_filemanager.php
 wrangler.toml
 xmldata

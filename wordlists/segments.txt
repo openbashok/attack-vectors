@@ -161,6 +161,7 @@ application.properties
 backup.sql
 db.sql
 error.log
+store
 %2eenv
 .env.json
 apis
@@ -168,20 +169,19 @@ node
 aws
 files
 geoserver
-store
 package-lock.json
 package.json
 sendgrid.env
 service
 sh
 sql
+wp-config.php.bak
 yarn.lock
 k8s
 open
 parameters.yml
 sse
 web.config
-wp-config.php.bak
 .docker
 back
 bot
@@ -260,9 +260,9 @@ s3
 .github
 owa
 shared
+wp-config.php.old
 .env.live
 build
-wp-config.php.old
 id_rsa
 packages
 .env.default
@@ -273,9 +273,9 @@ database.php
 health
 login.jsp
 panel
+remote
 %252eenv
 json
-remote
 aws.json
 config.py
 workflows
@@ -287,14 +287,14 @@ mysql
 HNAP1
 backup.zip
 wc.db
+wp-json
 .env.config
 .env.dev.local
 config.yml
 root
+version
 .env.secret
 containers
-version
-wp-json
 .env.ci
 .env.sample
 configuration.php
@@ -390,6 +390,7 @@ evox
 mcp.json
 private
 solr
+wp-config.php~
 ~
 .env.2
 .env.test.local
@@ -404,7 +405,6 @@ id_dsa
 includes
 index.js
 swagger
-wp-config.php~
 abc7
 auth.json
 babel-plugin-dotenv
@@ -610,6 +610,7 @@ website
 withMySQL
 withRedis
 wp-config.php.swp
+wp-config.php.txt
 ....
 .env-example
 .env-sample
@@ -673,7 +674,6 @@ stag
 swagger-ui.html
 telescope
 tmindex.html
-wp-config.php.txt
 wp-config.txt
 wsman
 .env.qa
@@ -789,6 +789,7 @@ phpMyAdmin2
 phpMyAdmin3
 phpmy-admin
 por
+products
 rdx
 rdx_en.json.gz
 releases
@@ -1128,7 +1129,6 @@ play-ground
 pluginlist.xml
 preview
 production.json
-products
 proxy
 rdweb
 release
@@ -2213,6 +2213,7 @@ vuecli
 w
 w3tc-config
 wallet.dat
+wc
 web.config.bak
 webfig
 webhook_secret.env
@@ -2233,6 +2234,7 @@ with-universal-configuration-build-time
 workflow
 workplace
 wp-config.php.original
+wp-config.save
 wp-login
 wp_filemanager.php
 wrangler.toml
