@@ -33,9 +33,9 @@ public
 logs
 backend
 %%32%65%%32%65
+mcp
 v1
 frontend
-mcp
 .env.bak
 server
 storage
@@ -177,12 +177,12 @@ sendgrid.env
 service
 sh
 sql
+sse
 web.config
 .docker
 k8s
 open
 parameters.yml
-sse
 back
 bot
 v3
@@ -328,6 +328,7 @@ workspace
 about
 config.inc.php
 wp-config.php.save
+Dr0v
 docker-compose.prod.yml
 hello.world
 openai
@@ -340,7 +341,6 @@ vpn
 vue-heroes
 yii
 zend
-Dr0v
 Jenkinsfile
 V2
 backups
@@ -561,7 +561,9 @@ login.esp
 mailer
 metadata
 nginx
+properties
 rails
+session
 sonicos
 template
 ubuntu
@@ -603,10 +605,8 @@ phpmyadmin3
 phpmyadmin4
 phpmyadmin5
 projbackend
-properties
 redmine
 script
-session
 sitemaps
 terraform
 test-become
@@ -892,6 +892,7 @@ pom.xml
 prisma
 repo
 reports
+rpc
 s3_config.json
 sample.env
 serverless.yaml
@@ -1136,7 +1137,6 @@ rdweb
 release
 repos
 robots
-rpc
 rust-backend
 s3.key
 s3.secret
@@ -1155,6 +1155,7 @@ services.php
 settings.ini
 setup.php
 site.sql
+soap-axis
 speed.cloudflare.com:443
 sslvpnLogin.html
 staging2
@@ -1298,6 +1299,7 @@ config.php.orig
 config.php.swo
 config.php.swp
 confluence
+confluenceservice-v2
 connect.cgi
 connectionstrings.config
 counterwallet
@@ -1491,7 +1493,6 @@ shopdb
 site-profile.json
 smtp
 smtp.php
-soap-axis
 source
 sql-admin
 sqlweb
@@ -1832,7 +1833,6 @@ config-material-app
 config.dev.env
 config.ts
 configs.json
-confluenceservice-v2
 contact
 context.xml
 couchdb

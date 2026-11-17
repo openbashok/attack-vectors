@@ -61,19 +61,19 @@ v2/.env
 client/.env
 old/.env
 settings.py
+mcp
 .env.orig
 config.php.bak
 database.yml
-mcp
 appsettings.json
 dev/.env
 htdocs/.env
+mcp/
 .env.production.local
 .kube/config
 backup/.env
 crm/.env
 dump.sql
-mcp/
 site.zip
 backup.sql
 database.sql
@@ -94,6 +94,7 @@ staging/.env
 yarn.lock
 debug.log
 shop/.env
+sse
 web.config
 ../.env
 application.properties
@@ -105,7 +106,6 @@ local/.env
 portal/.env
 secrets.yaml
 settings.json
-sse
 .env.local.php
 apps/.env
 blog/.env
@@ -117,12 +117,12 @@ test/.env
 cms/.env
 main/.env
 .aws/config
+api/mcp
 app_dev.php/_profiler/phpinfo
 assets/.env
 auth/.env
 developmentserver/metadatauploader
 system/.env
-api/mcp
 app_dev.php/_profiler/open
 bot/.env
 demo/.env
@@ -291,6 +291,7 @@ public/.git/config
 remote/login
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 wp-config.php.save
+Dr0v
 config/aws.json
 docker-compose.prod.yml
 hello.world
@@ -306,7 +307,6 @@ yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 .well-known/pki-validation/update
-Dr0v
 Jenkinsfile
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -622,6 +622,7 @@ actuator
 admin/.env.production
 adminer.sql
 airflow.cfg
+api/session/properties
 app/config.php
 appsettings.production.json
 autodiscover/autodiscover.xml
@@ -666,7 +667,6 @@ xmlrpc.php
 admin/assets/js/views/login.js
 admin/modules/framework/amp_conf/htdocs/admin/config.php
 api/config.php
-api/session/properties
 api/shared/config/.env
 api/shared/config/config.env
 app.js
@@ -2501,6 +2501,7 @@ roundcubemail/.env
 route/.env
 route/.env.example
 routes
+rpc/soap-axis/confluenceservice-v2
 ruby/.env
 runtime-config.js
 rust-backend/.env
@@ -4011,7 +4012,6 @@ rest/about/version.json
 rest/v1/
 rightside/agent/astguiclient.php
 rpc/soap-axis/confluenceservice-v1
-rpc/soap-axis/confluenceservice-v2
 rpc/soap/jirasoapservice-v2
 rsc
 ruby.zip
