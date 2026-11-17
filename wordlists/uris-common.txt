@@ -30,9 +30,9 @@ web/.env
 public/.env
 wp-config.php
 .gitlab-ci.yml
+info.php
 src/.env
 .env.development
-info.php
 .git/HEAD
 admin/.env
 site/.env
@@ -564,6 +564,7 @@ actuator/heapdump
 admin-app/.env
 admin/
 ansible.cfg
+api/
 api/.env.production
 application-prod.yml
 appsettings.Production.json
@@ -604,7 +605,6 @@ wsman
 ReportServer
 __tests__/test-become/.env
 admin/.env.production
-api/
 api/config.env
 app/config.php
 application-prod.properties

@@ -90,9 +90,9 @@ tmp
 docker-compose.yml
 log
 settings.json
+info.php
 static
 temp
-info.php
 get
 ip.cypher.rest:443
 .env.development

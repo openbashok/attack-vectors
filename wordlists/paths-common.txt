@@ -30,10 +30,10 @@ frontend/.env
 web/.env
 public/.env
 .gitlab-ci.yml
+info.php
 src/.env
 wp-config.php
 .env.development
-info.php
 .git/HEAD
 admin/.env
 site/.env
@@ -564,6 +564,7 @@ _layouts/15/error.aspx
 admin-app/.env
 admin/
 ansible.cfg
+api/
 api/config.env
 application-prod.properties
 auth.html
@@ -612,7 +613,6 @@ __tests__/test-become/.env
 _profiler
 actuator
 admin/.env.production
-api/
 app/config.php
 application.properties.bak
 aws-ses.json
