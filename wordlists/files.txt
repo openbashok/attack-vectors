@@ -37,10 +37,10 @@ view
 index.html
 docker-compose.yml
 settings.json
-info.php
-.env.development
 get
+info.php
 ip.cypher.rest:443
+.env.development
 wp-config.php
 secrets.yml
 .gitlab-ci.yml
@@ -78,10 +78,10 @@ sendgrid.env
 sh
 yarn.lock
 parameters.yml
+sse
 web.config
 wp-config.php.bak
 open
-sse
 env.json
 metadatauploader
 mysql.sql

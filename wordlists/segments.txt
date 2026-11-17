@@ -33,9 +33,9 @@ public
 logs
 backend
 %%32%65%%32%65
+mcp
 v1
 frontend
-mcp
 .env.bak
 server
 storage
@@ -92,10 +92,10 @@ log
 settings.json
 static
 temp
-info.php
-.env.development
 get
+info.php
 ip.cypher.rest:443
+.env.development
 old
 prod
 wp-config.php
@@ -179,10 +179,10 @@ yarn.lock
 k8s
 open
 parameters.yml
+sse
 web.config
 wp-config.php.bak
 .docker
-sse
 back
 bot
 v3

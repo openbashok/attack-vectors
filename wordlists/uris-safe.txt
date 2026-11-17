@@ -22,9 +22,9 @@ backend/.env
 phpinfo.php
 .env.example
 docker-compose.yml
-.env.staging
 get
 ip.cypher.rest:443
+.env.staging
 frontend/.env
 web/.env
 public/.env
@@ -58,16 +58,16 @@ credentials.json
 docker-compose.yaml
 old/.env
 client/.env
+mcp
 settings.py
 test.php
 .env.orig
 config.php.bak
 database.yml
 htdocs/.env
-mcp
 appsettings.json
-dev/.env
 mcp/
+dev/.env
 site.zip
 .env.production.local
 .kube/config
@@ -92,6 +92,7 @@ shop/.env
 yarn.lock
 info
 package.json
+sse
 .env.local.php
 blog/.env
 config.env
@@ -102,7 +103,6 @@ portal/.env
 project/.env
 sendgrid.env
 settings.json
-sse
 web.config
 wp-config.php.bak
 ../.env
@@ -116,6 +116,7 @@ assets/.env
 main/.env
 secrets.yaml
 system/.env
+api/mcp
 app_dev.php/_profiler/open_file=app/config/parameters.yml
 app_dev.php/_profiler/phpinfo
 auth/.env
@@ -137,7 +138,6 @@ uploads/.env
 API/.env
 _phpinfo=-1
 _url=.env
-api/mcp
 api/v2/.env
 apis/.env
 app_dev.php/_profiler/.env
