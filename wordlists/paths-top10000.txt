@@ -243,10 +243,10 @@ twilio.env
 .env.stage
 .env.staging.local
 .env.template
-.env.live
 phpinfo
-wp-config.php.old
 *
+.env.live
+wp-config.php.old
 .env.default
 .env_sample
 .env.uat
@@ -305,6 +305,7 @@ vendor/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
+.well-known/pki-validation/update
 Dr0v
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -336,7 +337,6 @@ workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-.well-known/pki-validation/update
 Jenkinsfile
 backup/.git/config
 owa/auth/logon.aspx
@@ -1153,6 +1153,7 @@ tests/default_settings/v13.0/.env
 tests/drupal-test/.env
 theme/.env
 ubuntu/.env
+v1/models
 var/task/amplify.yaml
 var/task/amplify.yml
 var/task/amplify/backend/function/*/src/index.js
@@ -1662,7 +1663,6 @@ typo3/.env
 ui/.env
 urlmem-app/.env
 userportal/webpages/myaccount/login.jsp
-v1/models
 var/task/.env
 vertex-ai-credentials.json
 vertex-ai.json
@@ -1922,6 +1922,7 @@ anthropic/.env
 api-backend/.env
 api-node/.env
 api-server/.env
+api.ipify.org:443
 api/%2eenv
 api/.env.back
 api/.env.bak
@@ -3798,6 +3799,7 @@ minimax/group.json
 mistral/.env
 mobile/.env
 model/.env
+models
 module/.env
 mojo/core/.env
 mongo.json

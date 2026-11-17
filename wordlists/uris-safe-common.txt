@@ -306,6 +306,7 @@ vendor/phpunit/src/Util/PHP/eval-stdin.php
 wp-config.php.save
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+.well-known/pki-validation/update
 Dr0v
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -342,7 +343,6 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
-.well-known/pki-validation/update
 backup/.git/config
 config/aws.yml
 owa/auth/logon.aspx
@@ -1134,6 +1134,7 @@ tests/drupal-test/.env
 theme/.env
 ubuntu/.env
 upload/.env
+v1/models
 var/.env
 var/task/amplify.yaml
 var/task/amplify.yml
@@ -1638,7 +1639,6 @@ tiedostot/.env
 typo3/.env
 urlmem-app/.env
 userportal/webpages/myaccount/login.jsp
-v1/models
 var/task/.env
 vertex-ai-credentials.json
 vertex-ai.json

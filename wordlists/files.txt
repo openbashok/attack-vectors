@@ -139,9 +139,9 @@ twilio.env
 sftp.json
 .env.staging.local
 .env.template
+*
 .env.live
 wp-config.php.old
-*
 id_rsa
 .env.default
 .env_sample
@@ -175,10 +175,10 @@ logon.html
 settings.php
 .env.sandbox
 app.php
+update
 .env.swp
 .git-credentials
 .s3cfg
-update
 .htaccess
 wp-config.php.save
 docker-compose.prod.yml
@@ -475,6 +475,7 @@ i.php
 kubeconfig
 license.txt
 local.xml
+models
 owa
 php_info.php
 phpmyadmin
@@ -751,7 +752,6 @@ mcp.yaml
 mcp.yml
 mcp_config.json
 me
-models
 modern
 mysql
 nbproject
@@ -936,6 +936,7 @@ accessTokens.json
 acme.json
 allversions
 api-key.txt
+api.ipify.org:443
 apidocs
 app.zip
 application-local.yml
