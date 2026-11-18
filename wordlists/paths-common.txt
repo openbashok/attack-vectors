@@ -292,6 +292,7 @@ remote/login
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 wp-config.php.save
 .env.sample
+.well-known/pki-validation/update
 Dr0v
 config/aws.json
 docker-compose.prod.yml
@@ -306,7 +307,6 @@ vendor/phpunit/phpunit/LICENSE/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-.well-known/pki-validation/update
 Jenkinsfile
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -418,6 +418,7 @@ www.zip
 .ssh/authorized_keys
 Gemfile.lock
 GponForm/diag_Form
+api.ipinfo.io:443
 backups/.env
 boaform/admin/formLogin
 composer.lock
@@ -425,6 +426,7 @@ config/config.php
 dist/.env
 docker-compose.override.yml
 docker-compose/.env
+icanhazip.com:443
 openapi.json
 server/.env.local
 vendor/.env
@@ -433,7 +435,6 @@ vendor/.env
 .netrc
 HNAP1/
 actuator/configprops
-api.ipinfo.io:443
 app/config/.env
 compose/.env
 composer.json
@@ -441,7 +442,6 @@ config/credentials.yml.enc
 current/.env
 dana-na/auth/url_default/welcome.cgi
 development/.env
-icanhazip.com:443
 instance/config.py
 server-status
 var/www/.env

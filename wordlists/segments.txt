@@ -82,8 +82,8 @@ client
 beta
 html
 index.html
-.env.development
 .well-known
+.env.development
 apps
 crm
 sendgrid
@@ -306,11 +306,11 @@ sites
 .htpasswd
 logon.html
 testing
+update
 users
 $(pwd)
 bdd
 drupal
-update
 wp-admin
 .env.sandbox
 .git-credentials
@@ -334,6 +334,7 @@ hello.world
 manage
 openai
 phpmyadmin
+pki-validation
 resources
 sftp-config.json
 swagger.json
@@ -349,7 +350,6 @@ downloads
 ec
 environments
 index
-pki-validation
 sdk
 .env.txt
 conf
@@ -439,6 +439,7 @@ www.zip
 .terraform
 Gemfile.lock
 GponForm
+api.ipinfo.io:443
 bedrock
 boaform
 composer.lock
@@ -449,6 +450,7 @@ docker-compose.override.yml
 env.php
 environ
 formLogin
+icanhazip.com:443
 kyc
 libraries
 qa
@@ -463,14 +465,12 @@ wordpress
 .netrc
 7
 api-docs
-api.ipinfo.io:443
 azure
 batch
 composer.json
 configprops
 credentials.yml.enc
 env.js
-icanhazip.com:443
 instance
 myadmin
 plugins

@@ -290,6 +290,7 @@ server/.git/config
 index.html
 public/.git/config
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+.well-known/pki-validation/update
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 Dr0v
 config/aws.json
@@ -309,7 +310,6 @@ wp-config.php.save
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
-.well-known/pki-validation/update
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -419,6 +419,7 @@ wp-config.bak
 .ssh/id_ed25519
 Gemfile.lock
 GponForm/diag_Form?images/
+api.ipinfo.io:443
 api/.env.local
 backup.zip
 composer.lock
@@ -426,6 +427,7 @@ config.yaml
 config/config.php
 dist/.env
 docker-compose/.env
+icanhazip.com:443
 server/.env.local
 swagger.json
 terraform.tfvars
@@ -434,7 +436,6 @@ www.zip
 .env_old
 .ssh/authorized_keys
 HNAP1/
-api.ipinfo.io:443
 app/config/.env
 backups/.env
 compose/.env
@@ -442,7 +443,6 @@ composer.json
 current/.env
 dana-na/auth/url_default/welcome.cgi
 docker-compose.override.yml
-icanhazip.com:443
 instance/config.py
 openapi.json
 var/www/.env
