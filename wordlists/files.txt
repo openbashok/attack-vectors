@@ -71,11 +71,11 @@ db.sql
 error.log
 .env.json
 %2eenv
+web
 wp-config.php.bak
 package-lock.json
 package.json
 sse
-web
 yarn.lock
 sendgrid.env
 sh
@@ -475,6 +475,7 @@ dump.sql.gz
 filesystems.php
 google-credentials.json
 i.php
+index.htm
 kubeconfig
 lang
 license.txt
@@ -587,7 +588,6 @@ home.tar.gz
 horizon
 images
 index.do
-index.htm
 index.js.map
 install.php
 known_hosts

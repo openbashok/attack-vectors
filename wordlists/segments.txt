@@ -166,11 +166,11 @@ error.log
 store
 %2eenv
 apis
+geoserver
 node
 wp-config.php.bak
 aws
 files
-geoserver
 package-lock.json
 package.json
 sse
@@ -874,6 +874,7 @@ google
 google-credentials.json
 http
 i.php
+index.htm
 kitchensink
 kubeconfig
 latest
@@ -1091,7 +1092,6 @@ icon
 identity
 image_data
 index.do
-index.htm
 index.js.map
 install.php
 internal

@@ -165,6 +165,7 @@ back/.env
 configuration.json
 data/.env
 env-config.js
+geoserver/web/
 services/.env
 administrator/.env
 app/config/parameters.yml
@@ -172,7 +173,6 @@ assets/config.json
 beta/.env
 download/.env
 env.json
-geoserver/web/
 saas/.env
 server.key
 temp/.env
@@ -783,6 +783,7 @@ i.php
 id_ed25519
 include/config.php
 includes/db.php
+index.htm
 infra/.env
 k8s/.env
 keys.json
@@ -1050,7 +1051,6 @@ images/
 img/.env
 includes/.env
 index.do
-index.htm
 install.php
 internal/.env
 jira/secure/Dashboard.jspa

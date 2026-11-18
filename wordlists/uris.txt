@@ -164,6 +164,7 @@ back/.env
 configuration.json
 data/.env
 env-config.js
+geoserver/web/
 google-services.json
 server.js
 services/.env
@@ -172,7 +173,6 @@ assets/config.json
 beta/.env
 download/.env
 env.json
-geoserver/web/
 saas/.env
 temp/.env
 app/config/parameters.yml
@@ -770,6 +770,7 @@ i.php
 id_rsa.pub
 include/config.php
 includes/db.php
+index.htm
 k8s/.env
 kubeconfig
 lambda/.env
@@ -1027,7 +1028,6 @@ images/
 img/.env
 includes/.env
 index.do
-index.htm
 infra/.env
 install.php
 internal/.env
