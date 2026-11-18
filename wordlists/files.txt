@@ -252,6 +252,7 @@ icanhazip.com:443
 .env_old
 .netrc
 api-docs
+autodiscover.json
 composer.json
 configprops
 credentials.yml.enc
@@ -264,7 +265,6 @@ wlwmanifest.xml
 Dockerfile
 adminer.php
 application-prod.yml
-autodiscover.json
 config.php.old
 config.php~
 credentials.yml

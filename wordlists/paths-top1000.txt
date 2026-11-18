@@ -436,6 +436,7 @@ vendor/.env
 HNAP1/
 actuator/configprops
 app/config/.env
+autodiscover/autodiscover.json
 compose/.env
 composer.json
 config/credentials.yml.enc
@@ -450,7 +451,6 @@ var/www/.env
 .env_backup
 Dockerfile
 adminer.php
-autodiscover/autodiscover.json
 config.php.old
 config.php~
 config.yml

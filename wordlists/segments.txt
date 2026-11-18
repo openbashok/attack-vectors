@@ -367,6 +367,7 @@ welcome.cgi
 .env.1
 Login
 LogonPoint
+autodiscover
 id_ed25519
 login.cgi
 logon
@@ -376,7 +377,6 @@ RDWeb
 abc6
 abc8
 authorized_keys
-autodiscover
 deploy
 development
 dist
@@ -465,6 +465,7 @@ wordpress
 .netrc
 7
 api-docs
+autodiscover.json
 azure
 batch
 composer.json
@@ -487,7 +488,6 @@ _next
 adminer.php
 all
 application-prod.yml
-autodiscover.json
 b
 config.php.old
 config.php~
