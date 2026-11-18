@@ -1061,6 +1061,7 @@ magento_version
 main.pl
 manage.php
 management
+meta
 netlify.toml
 node_modules
 nsepa_setup.exe
