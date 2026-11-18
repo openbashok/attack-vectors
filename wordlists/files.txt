@@ -14,8 +14,8 @@ config.json
 credentials
 mcp
 .env.bak
-login
 robots.txt
+login
 secrets.yaml
 security.txt
 test
@@ -74,11 +74,11 @@ error.log
 wp-config.php.bak
 package-lock.json
 package.json
+sse
 web
 yarn.lock
 sendgrid.env
 sh
-sse
 web.config
 parameters.yml
 open

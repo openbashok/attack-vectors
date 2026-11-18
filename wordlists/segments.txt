@@ -44,8 +44,8 @@ app_dev.php
 dev
 v2
 www
-auth
 robots.txt
+auth
 lib
 secrets.yaml
 assets
@@ -172,12 +172,12 @@ files
 geoserver
 package-lock.json
 package.json
+sse
 yarn.lock
 sendgrid.env
 service
 sh
 sql
-sse
 web.config
 .docker
 k8s
