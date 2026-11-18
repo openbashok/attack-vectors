@@ -82,8 +82,8 @@ sh
 web.config
 parameters.yml
 open
-env.json
 metadatauploader
+env.json
 mysql.sql
 secrets.env
 .config.yaml
@@ -1070,6 +1070,7 @@ openaikey
 org.geoserver.web.AboutGeoServerPage
 pa
 param.cgi
+pbxapi
 persistence.xml
 php-info.php
 pi.php

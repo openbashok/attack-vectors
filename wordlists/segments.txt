@@ -185,12 +185,12 @@ open
 parameters.yml
 back
 bot
+developmentserver
+metadatauploader
 v3
 API
 cache
-developmentserver
 env.json
-metadatauploader
 twilio
 mysql.sql
 secrets.env
@@ -2062,6 +2062,7 @@ partner
 partymgr
 patchwork
 path
+pbxapi
 pbxcore
 persistence.xml
 phoenix

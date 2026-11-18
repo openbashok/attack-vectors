@@ -111,11 +111,11 @@ settings.json
 api/mcp
 apps/.env
 cms/.env
+developmentserver/metadatauploader
 new/.env
 secrets.yaml
 test/.env
 assets/.env
-developmentserver/metadatauploader
 main/.env
 system/.env
 app_dev.php/_profiler/open?file=app/config/parameters.yml

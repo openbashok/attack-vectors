@@ -116,12 +116,12 @@ sendgrid.env
 test/.env
 api/mcp
 cms/.env
+developmentserver/metadatauploader
 main/.env
 .aws/config
 app_dev.php/_profiler/phpinfo
 assets/.env
 auth/.env
-developmentserver/metadatauploader
 system/.env
 app_dev.php/_profiler/open
 bot/.env
@@ -2420,6 +2420,7 @@ parity/.env
 partymgr/control/main
 patchwork/.env
 path/.env
+pbxapi/
 pbxcore/api/v3/system:ping
 phoenix/favicon.ico
 php-info.php
