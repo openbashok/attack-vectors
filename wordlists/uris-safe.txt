@@ -2,8 +2,8 @@
 favicon.ico
 SDK/webLanguage
 .git/config
-.env.production
 robots.txt
+.env.production
 .env.bak
 .env.local
 app/.env
@@ -43,16 +43,16 @@ prod/.env
 www/.env
 config.js
 core/.env
+security.txt
 api/.git/config
 html/.env
 secrets.json
-security.txt
 storage/.env
 .svn/entries
 settings/.env
+.well-known/security.txt
 storage/logs/laravel.log
 v1/.env
-.well-known/security.txt
 credentials.json
 v2/.env
 docker-compose.yaml
@@ -183,6 +183,7 @@ credentials.xml
 images/.env
 login/.env
 server.key
+sitemap.xml
 static/.env
 tmp/.env
 .env.save.1
@@ -193,7 +194,6 @@ developer/.env
 erp/.env
 logs/.env
 requirements.txt
-sitemap.xml
 v3/.env
 .json
 client_secrets.json

@@ -45,17 +45,17 @@ www/.env
 config.js
 core/.env
 secrets.json
+security.txt
 .svn/entries
 api/.git/config
 html/.env
-security.txt
 storage/.env
 settings/.env
 storage/logs/laravel.log
 v1/.env
+.well-known/security.txt
 credentials.json
 test.php
-.well-known/security.txt
 docker-compose.yaml
 v2/.env
 client/.env
@@ -186,6 +186,7 @@ credentials.xml
 images/.env
 login/.env
 requirements.txt
+sitemap.xml
 static/.env
 v3/.env
 .env.save.1
@@ -194,7 +195,6 @@ developer/.env
 erp/.env
 login
 logs/.env
-sitemap.xml
 wp-config.php.backup
 .json
 client_secrets.json

@@ -17,8 +17,8 @@ mcp
 robots.txt
 login
 secrets.yaml
-.env.dev
 security.txt
+.env.dev
 .env.save
 test
 config.php
@@ -110,8 +110,8 @@ server.key
 .env.development.local
 credentials.xml
 requirements.txt
-.env.save.1
 sitemap.xml
+.env.save.1
 wp-config.php.backup
 .json
 client_secrets.json
