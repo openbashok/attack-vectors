@@ -17,8 +17,8 @@ mcp
 robots.txt
 login
 secrets.yaml
-.env.dev
 security.txt
+.env.dev
 .env.save
 test
 config.php
@@ -81,8 +81,8 @@ sendgrid.env
 sh
 web.config
 parameters.yml
-open
 metadatauploader
+open
 env.json
 .env.stage
 mysql.sql
@@ -111,13 +111,13 @@ credentials.xml
 requirements.txt
 .env.development.local
 .env.save.1
+sitemap.xml
 wp-config.php.backup
 .json
 client_secrets.json
 config.ini
 crossdomain.xml
 logs
-sitemap.xml
 beta
 claude.env
 configuration.xml
@@ -279,6 +279,7 @@ ecosystem.config.js
 list
 openai.json
 settings
+x.js
 .dockerenv
 .env.aws
 .env.new
@@ -301,7 +302,6 @@ properties
 run
 wp-config.old
 wp-config.php.txt
-x.js
 .env.bak~
 .env.old~
 .env.prev

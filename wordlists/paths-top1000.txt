@@ -55,9 +55,9 @@ v1/.env
 credentials.json
 settings/.env
 test.php
+.well-known/security.txt
 docker-compose.yaml
 v2/.env
-.well-known/security.txt
 client/.env
 mcp
 old/.env
@@ -109,6 +109,7 @@ settings.json
 .env.local.php
 apps/.env
 blog/.env
+developmentserver/metadatauploader
 media/.env
 new/.env
 project/.env
@@ -116,7 +117,6 @@ sendgrid.env
 test/.env
 api/mcp
 cms/.env
-developmentserver/metadatauploader
 main/.env
 .aws/config
 app_dev.php/_profiler/phpinfo
@@ -194,6 +194,7 @@ developer/.env
 erp/.env
 login
 logs/.env
+sitemap.xml
 wp-config.php.backup
 .json
 client_secrets.json
@@ -205,7 +206,6 @@ log/.env
 logs/
 node/.env
 sandbox/.env
-sitemap.xml
 user/.env
 .aws/.env
 .bedrock/.env
@@ -475,6 +475,7 @@ ecosystem.config.js
 id_rsa
 lib/.env
 mail/.env
+owa/auth/x.js
 private/.env
 protected/.env
 wp-admin/.env
@@ -509,7 +510,6 @@ laravel/core/.env
 mailer/.env
 new/.env.local
 new/.env.staging
-owa/auth/x.js
 panel/.env
 production/.env
 sites/all/libraries/mailchimp/.env

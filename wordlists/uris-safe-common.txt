@@ -2,8 +2,8 @@
 favicon.ico
 SDK/webLanguage
 .git/config
-.env.production
 robots.txt
+.env.production
 .env.bak
 .env.local
 app/.env
@@ -52,9 +52,9 @@ api/.git/config
 settings/.env
 storage/logs/laravel.log
 v1/.env
+.well-known/security.txt
 credentials.json
 v2/.env
-.well-known/security.txt
 docker-compose.yaml
 mcp
 old/.env
@@ -100,6 +100,7 @@ web.config
 application.properties
 blog/.env
 config.env
+developmentserver/metadatauploader
 error.log
 local/.env
 media/.env
@@ -111,7 +112,6 @@ settings.json
 api/mcp
 apps/.env
 cms/.env
-developmentserver/metadatauploader
 new/.env
 secrets.yaml
 test/.env
@@ -192,6 +192,7 @@ developer/.env
 erp/.env
 logs/.env
 requirements.txt
+sitemap.xml
 v3/.env
 .env.stage
 .json
@@ -203,7 +204,6 @@ log/.env
 logs/
 node/.env
 sandbox/.env
-sitemap.xml
 user/.env
 wp-config.php.backup
 .aws/.env
@@ -476,6 +476,7 @@ credentials.py
 cron/.env
 doc/index.html
 ecosystem.config.js
+owa/auth/x.js
 protected/.env
 service-account.json
 wp-admin/.env
@@ -498,7 +499,6 @@ global-protect/login.esp
 id_rsa
 lib/.env
 mail/.env
-owa/auth/x.js
 panel/.env
 private/.env
 production/.env
