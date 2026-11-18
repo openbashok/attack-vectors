@@ -16,8 +16,8 @@ mcp
 .env.bak
 robots.txt
 login
-secrets.yaml
 security.txt
+secrets.yaml
 .env.dev
 .env.save
 test
@@ -181,9 +181,9 @@ app.php
 .htaccess
 .s3cfg
 docker-compose.prod.yml
+Dr0v
 config.inc.php
 wp-config.php.save
-Dr0v
 hello.world
 sftp-config.json
 swagger.json
@@ -472,6 +472,7 @@ database.php.bak
 dbconfig.php
 debug
 dump.sql.gz
+favicon
 filesystems.php
 google-credentials.json
 i.php
@@ -580,7 +581,6 @@ dqgqoeCXckuwPtxov
 environment.json
 execute-solution
 export.sql
-favicon
 fgt_lang
 firebase.json
 ftp-sync.json

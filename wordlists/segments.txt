@@ -46,9 +46,9 @@ dev
 robots.txt
 v2
 auth
+security.txt
 lib
 secrets.yaml
-security.txt
 assets
 .env.dev
 .env.save
@@ -74,10 +74,10 @@ HEAD
 settings.py
 .env.backup
 cms
+.well-known
 .env.local.php
 var
 view
-.well-known
 client
 ..
 beta
@@ -326,10 +326,10 @@ LICENSE
 docker-compose.prod.yml
 php
 workspace
+Dr0v
 about
 config.inc.php
 wp-config.php.save
-Dr0v
 hello.world
 manage
 openai
@@ -869,6 +869,7 @@ design
 dump
 dump.sql.gz
 error
+favicon
 faxnew
 filesystems.php
 gcp
@@ -1067,7 +1068,6 @@ errors
 execute-solution
 export.sql
 ext-js
-favicon
 fgt_lang
 fileserver
 films

@@ -50,10 +50,10 @@ security.txt
 api/.git/config
 html/.env
 storage/.env
+.well-known/security.txt
 settings/.env
 storage/logs/laravel.log
 v1/.env
-.well-known/security.txt
 credentials.json
 test.php
 docker-compose.yaml
@@ -288,6 +288,7 @@ index.html
 login.html
 src/.git/config
 .vscode/sftp.json
+Dr0v
 config/database.yml
 docker/.env
 remote/login
@@ -295,7 +296,6 @@ vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 wp-config.php.save
 .env.sample
 .well-known/pki-validation/update
-Dr0v
 backup/.git/config
 config/aws.json
 hello.world
@@ -738,6 +738,7 @@ xampp/.env
 .gitmodules
 .mcp.json
 .vault-token
+.well-known/robots.txt
 Pipfile.lock
 admin.php
 admin/modules/framework/amp_conf/var/www/html/admin/config.php
@@ -777,6 +778,7 @@ dump.sql.gz
 env.prod.js
 env.production.js
 export/.env
+favicon
 frontend/.git/config
 google-credentials.json
 i.php
@@ -871,7 +873,6 @@ $(pwd)/terraform.tfvars
 .terraform.tfstate
 .terraform/credentials.tfrc.json
 .vscode/ftp-sync.json
-.well-known/robots.txt
 07-accessing-data/begin/vue-heroes/.env
 09-managing-state/begin/vue-heroes/.env
 09-managing-state/end/vue-heroes/.env
@@ -997,4 +998,3 @@ dana-na/auth/url_3/welcome.cgi
 dashboard/phpinfo.php
 data.sql
 database.zip
-db.tar.gz

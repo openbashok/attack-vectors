@@ -42,15 +42,15 @@ server/.env
 prod/.env
 www/.env
 config.js
-core/.env
 security.txt
+core/.env
 api/.git/config
 html/.env
 secrets.json
 storage/.env
 .svn/entries
-settings/.env
 .well-known/security.txt
+settings/.env
 storage/logs/laravel.log
 v1/.env
 credentials.json
@@ -289,11 +289,11 @@ index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 login.html
 src/.git/config
 .vscode/sftp.json
+Dr0v
 docker-compose.prod.yml
 index.html
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 .well-known/pki-validation/update
-Dr0v
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 backup/.git/config
 config/aws.json
@@ -722,6 +722,7 @@ xmlrpc.php
 .env.sendgrid
 .env_example
 .gitmodules
+.well-known/robots.txt
 Pipfile.lock
 _profiler
 admin.php
@@ -764,6 +765,7 @@ drupal/.env
 env.prod.js
 env.production.js
 export/.env
+favicon
 frontend/.git/config
 google-credentials.json
 i.php
@@ -848,7 +850,6 @@ xampp/.env
 .terraform/credentials.tfrc.json
 .vault-token
 .vscode/ftp-sync.json
-.well-known/robots.txt
 07-accessing-data/begin/vue-heroes/.env
 09-managing-state/begin/vue-heroes/.env
 09-managing-state/end/vue-heroes/.env
@@ -1002,7 +1003,6 @@ example27-how-to-load-env/sample02/.env
 examples/.env
 export.sql
 ext-js/app/common/zld_product_spec.js
-favicon
 fileserver/.env
 films/.env
 fpui/jsp/login.jsp
