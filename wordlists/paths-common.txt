@@ -345,6 +345,7 @@ login.htm
 manage/account/login
 owa/auth/logon.aspx
 sdk
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 static../.git/config
 version
 .env.1
@@ -364,7 +365,6 @@ media../.git/config
 media/.git/config
 project/.git/config
 settings.php
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .docker/.env
 abc6
 abc8
