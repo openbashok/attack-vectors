@@ -294,10 +294,10 @@ root
 wc.db
 .env.secret
 HNAP1
+version
 wp-json
 .env.ci
 config.yml
-version
 configuration.php
 containers
 settings.php

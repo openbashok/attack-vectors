@@ -353,6 +353,7 @@ test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+version
 workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -363,7 +364,6 @@ config/aws.yml
 login.htm
 manage/account/login
 sdk
-version
 .docker/config.json
 .env.1
 .vscode/settings.json

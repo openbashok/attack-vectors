@@ -169,9 +169,9 @@ json
 .env.ci
 config.yml
 health
+version
 configuration.php
 settings.php
-version
 .env.sandbox
 .htpasswd
 logon.html
