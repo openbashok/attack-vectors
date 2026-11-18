@@ -351,6 +351,7 @@ ec
 environments
 index
 sdk
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 .env.txt
 assets..
@@ -360,7 +361,6 @@ logon.aspx
 media..
 public_html
 scripts
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 welcome.cgi
 .circleci
 .config

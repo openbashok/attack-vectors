@@ -336,6 +336,7 @@ phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/src/Util/PHP/eval-stdin.php
 public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello
 public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 static../.git/config
 test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -362,7 +363,6 @@ media/.git/config
 owa/auth/logon.aspx
 project/.git/config
 sdk
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 version
 .docker/config.json
 .env.1
