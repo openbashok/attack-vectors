@@ -148,6 +148,7 @@ bot/.env
 config.dev.php
 config/.env.php
 docs/.env
+geoserver/web/
 home/.env
 info/
 library/.env
@@ -164,7 +165,6 @@ back/.env
 configuration.json
 data/.env
 env-config.js
-geoserver/web/
 google-services.json
 server.js
 services/.env
@@ -1597,6 +1597,7 @@ rest/oauth2-credential/auth
 rest/settings
 rest/users
 rest/workflows
+rpc/soap-axis/confluenceservice-v2_wsdl
 s-with-me-front/.env
 s3/config.json
 secret/config.json
@@ -2487,7 +2488,7 @@ roundcubemail/.env
 route/.env
 route/.env.example
 routes
-rpc/soap-axis/confluenceservice-v2_wsdl
+rpc/soap/jirasoapservice-v2_wsdl
 ruby/.env
 runtime-config.js
 rust-backend/.env
@@ -4409,7 +4410,6 @@ rest/v1/
 rightside/agent/astguiclient.php
 routes/.env_v=x2qH0
 rpc/soap-axis/confluenceservice-v1_wsdl
-rpc/soap/jirasoapservice-v2_wsdl
 rsc
 ruby.zip
 runtime/%2eenv_v=anfye

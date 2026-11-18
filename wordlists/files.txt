@@ -70,8 +70,8 @@ backup.sql
 db.sql
 error.log
 .env.json
-%2eenv
 web
+%2eenv
 wp-config.php.bak
 package-lock.json
 package.json
@@ -563,6 +563,7 @@ config.development.json
 config.prod.json
 configurations
 configurations.do
+confluenceservice-v2
 connect.php
 connection.php
 credentials.db
@@ -707,7 +708,6 @@ config.bak
 config.php.orig
 config.php.swo
 config.php.swp
-confluenceservice-v2
 connect.cgi
 connectionstrings.config
 data
@@ -1036,6 +1036,7 @@ installed.json
 internal_forms_authentication
 ip.ifconfig.dpdns.org:443
 is-sslvpn-enabled
+jirasoapservice-v2
 jolokia
 joomla.xml
 jquery-3.3.1.slim.min.js

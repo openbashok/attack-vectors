@@ -19,8 +19,8 @@ test
 .env.production
 .%2e
 phpinfo
-.aws
 web
+.aws
 config.json
 .env.php
 _profiler
@@ -163,10 +163,10 @@ db.sql
 error.log
 .claude
 .env.json
+geoserver
 store
 %2eenv
 apis
-geoserver
 node
 wp-config.php.bak
 aws
@@ -715,6 +715,7 @@ private.key
 register
 releases
 route
+rpc
 signin
 stats
 stripe
@@ -804,6 +805,7 @@ ses
 setup.cgi
 showLogin.cc
 smtp.env
+soap
 sqladmin
 sqlmanager
 srv6_controller
@@ -894,7 +896,6 @@ pom.xml
 prisma
 repo
 reports
-rpc
 s3_config.json
 sample.env
 sellers.json
@@ -904,7 +905,7 @@ settings.local.json
 setup
 shell
 sign_in
-soap
+soap-axis
 ssl.key
 studioserver
 symfony
@@ -1037,6 +1038,7 @@ config.development.json
 config.prod.json
 configurations
 configurations.do
+confluenceservice-v2
 connect.php
 connection.php
 controller
@@ -1156,7 +1158,6 @@ services.php
 settings.ini
 setup.php
 site.sql
-soap-axis
 speed.cloudflare.com:443
 sslvpnLogin.html
 staging2
@@ -1299,7 +1300,6 @@ config.php.orig
 config.php.swo
 config.php.swp
 confluence
-confluenceservice-v2
 connect.cgi
 connectionstrings.config
 counterwallet
@@ -1962,6 +1962,7 @@ jaeger
 jasperserver
 jasperserver-pro
 jasperserverTest
+jirasoapservice-v2
 jobrunr
 jobs
 jobs_u
