@@ -801,6 +801,7 @@ pom.xml
 repo/.env
 routes/.env
 runtime-env.js
+sellers.json
 server/.env.production
 serverless.yaml
 serverless.yml
@@ -1130,7 +1131,6 @@ sample.env
 samples/docker/deploymentscripts/.env
 scripts/fvt/.env
 secure/Dashboard.jspa
-sellers.json
 serve-browserbench/.env
 server/.env.staging
 server/config/.env

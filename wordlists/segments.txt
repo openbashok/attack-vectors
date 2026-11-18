@@ -895,6 +895,7 @@ reports
 rpc
 s3_config.json
 sample.env
+sellers.json
 serverless.yaml
 serverless.yml
 settings.local.json
@@ -1147,7 +1148,6 @@ sample02
 sdesktop
 sdl-first
 secret
-sellers.json
 sendgrid.json
 serve-browserbench
 service-account-credentials.json

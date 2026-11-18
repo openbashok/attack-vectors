@@ -2,8 +2,8 @@
 favicon.ico
 SDK/webLanguage
 .git/config
-.env.production
 robots.txt
+.env.production
 .env.bak
 .env.local
 app/.env
@@ -785,6 +785,7 @@ php_info.php
 pom.xml
 repo/.env
 runtime-env.js
+sellers.json
 server/.env.production
 sonicui/7/login/
 ssl.key
@@ -1102,7 +1103,6 @@ sample.env
 samples/docker/deploymentscripts/.env
 scripts/fvt/.env
 secure/Dashboard.jspa
-sellers.json
 serve-browserbench/.env
 server/.env.staging
 server/config/.env

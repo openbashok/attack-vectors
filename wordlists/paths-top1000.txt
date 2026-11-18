@@ -801,6 +801,7 @@ pom.xml
 repo/.env
 routes/.env
 runtime-env.js
+sellers.json
 server/.env.production
 serverless.yaml
 serverless.yml
@@ -997,4 +998,3 @@ db/.env
 debug
 demo/.env.local
 demo/.env.production
-demo/.env.staging

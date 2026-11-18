@@ -486,6 +486,7 @@ pom.xml
 register
 s3_config.json
 sample.env
+sellers.json
 serverless.yaml
 serverless.yml
 settings.local.json
@@ -613,7 +614,6 @@ s3.secret
 s3.yml
 s3cmd.ini
 sam-template.yaml
-sellers.json
 sendgrid.json
 service-account-credentials.json
 services.php
