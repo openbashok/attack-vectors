@@ -397,6 +397,7 @@ cgi-bin/login.cgi
 downloads/
 remote/login
 .env.docker
+aab9
 actuator/env
 backend/.env.local
 deploy/.env
@@ -406,7 +407,7 @@ shared/.env
 terraform.tfstate.backup
 wp-content/.env
 RDWeb
-aab9
+aaa9
 app/.env.local
 backup.tar.gz
 local_settings.py
@@ -418,7 +419,6 @@ wp-config.bak
 .ssh/id_ed25519
 Gemfile.lock
 GponForm/diag_Form?images/
-aaa9
 api/.env.local
 backup.zip
 composer.lock
