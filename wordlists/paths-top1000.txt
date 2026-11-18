@@ -190,6 +190,7 @@ v3/.env
 cache/.env
 developer/.env
 erp/.env
+login
 logs/.env
 wp-config.php.backup
 .env.development.local
@@ -201,7 +202,6 @@ crossdomain.xml
 frontend/web/debug/default/view
 k8s/secrets.yaml
 log/.env
-login
 logs/
 node/.env
 sandbox/.env
@@ -259,6 +259,7 @@ config.php
 .env.secret
 admin/config.php
 build/.env
++CSCOE+/logon.html
 .env.ci
 .env.preprod
 .htpasswd
@@ -266,7 +267,6 @@ app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config/database.php
 config/secrets.yml
-+CSCOE+/logon.html
 .env.swp
 configuration.php
 www/.git/config
@@ -281,12 +281,12 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .htaccess
 admin/.git/config
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
+index.html
+login.html
 server/.git/config
 .vscode/sftp.json
 config/database.yml
 docker/.env
-index.html
-login.html
 public/.git/config
 remote/login
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -341,6 +341,8 @@ www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .docker/config.json
 .env.txt
 backup/.git/config
+login.htm
+manage/account/login
 owa/auth/logon.aspx
 sdk
 static../.git/config
@@ -348,6 +350,7 @@ version
 .env.1
 .git/index
 .vscode/settings.json
+admin/index.html
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -357,8 +360,6 @@ data/.git/config
 dev/.git/config
 files/
 files/.git/config
-login.htm
-manage/account/login
 media../.git/config
 media/.git/config
 project/.git/config
@@ -367,7 +368,6 @@ sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .docker/.env
 abc6
 abc8
-admin/index.html
 conf/.env
 config.inc.php
 login.jsp
@@ -383,11 +383,11 @@ HNAP1
 abc7
 actuator/health
 app/.env.production
+cgi-bin/login.cgi
 config.py
 evox/about
 .env.2
 actuator/env
-cgi-bin/login.cgi
 deploy/.env
 downloads/
 terraform.tfstate.backup
@@ -563,6 +563,7 @@ wp-content/uploads/
 .env.docker.dev
 .env.project
 .env.qa
+ReportServer
 _layouts/15/error.aspx
 admin-app/.env
 admin/
@@ -615,7 +616,6 @@ wsman
 .gitignore
 .npmrc._default
 .ssh/id_ecdsa
-ReportServer
 __tests__/test-become/.env
 _profiler
 actuator
@@ -916,6 +916,7 @@ api/sonicos/tfa
 api/v2/cmdb/system/admin
 api/v2/cmdb/system/admin/admin
 app
+app-ads.txt
 app/.terraform/terraform.tfstate
 app/amplify.yaml
 app/amplify.yml
@@ -997,4 +998,3 @@ dashboard/phpinfo.php
 data.sql
 database.zip
 db.tar.gz
-db.zip

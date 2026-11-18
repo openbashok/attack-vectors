@@ -34,8 +34,8 @@ info
 .env.backup
 .env.local.php
 view
-.env.development
 index.html
+.env.development
 docker-compose.yml
 info.php
 settings.json
@@ -103,8 +103,8 @@ server.js
 bedrock.env
 configuration.json
 env-config.js
-app.log
 login.html
+app.log
 server.key
 credentials.xml
 requirements.txt
@@ -137,8 +137,8 @@ temp
 tests
 tmp
 twilio.env
-sftp.json
 *
+sftp.json
 .env.staging.local
 wp-config.php.old
 .env.template
@@ -192,19 +192,19 @@ Jenkinsfile
 index
 .env.txt
 about
+login.htm
 logon.aspx
 sdk
 welcome.cgi
 .env.1
 files
 id_ed25519
-login.htm
+login.cgi
 master.key
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 abc6
 abc8
 authorized_keys
-login.cgi
 pub
 terraform.tfvars
 wp-config.php.orig
@@ -337,6 +337,7 @@ wp-config.php.swp
 .env.back
 .env.docker.dev
 Dashboard.jspa
+ReportServer
 administrator
 amplify.yaml
 amplify.yml
@@ -373,7 +374,6 @@ wsman
 .env.production.backup
 .gitignore
 .npmrc._default
-ReportServer
 actuator
 adminer.sql
 airflow.cfg
@@ -538,6 +538,7 @@ access.log
 active-coins
 admin_login.html
 app
+app-ads.txt
 app.min.js
 app_dev.php
 appliance
@@ -689,7 +690,6 @@ ads.txt
 amplifyconfiguration.json
 apiconfig.json
 apikey.txt
-app-ads.txt
 app.config
 app.config.json
 application-dev.yml

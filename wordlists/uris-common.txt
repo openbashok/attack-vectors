@@ -228,6 +228,7 @@ infos/
 k8s/secrets.yaml
 kubernetes/secrets.yaml
 log/
+login
 php_error.log
 php_errors.log
 platform/.env
@@ -242,7 +243,6 @@ test/phpinfo/
 tests/
 tmp/
 twilio.env
-login
 *
 .env.live
 .env.staging.local
@@ -260,13 +260,13 @@ wp-config.php.old
 config.php
 admin/config.php
 build/.env
++CSCOE+/logon.html
 .env.ci
 .env.preprod
 .env.secret
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config/database.php
-+CSCOE+/logon.html
 .htpasswd
 config/secrets.yml
 configuration.php
@@ -284,9 +284,10 @@ admin/.git/config
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
+login.html
 server/.git/config
 .vscode/sftp.json
-login.html
+index.html
 public/.git/config
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
@@ -295,7 +296,6 @@ config/aws.json
 config/database.yml
 docker/.env
 hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
-index.html
 index.php?-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -347,6 +347,8 @@ www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 Jenkinsfile
 backup/.git/config
 config/aws.yml
+login.htm
+manage/account/login
 owa/auth/logon.aspx
 sdk
 static../.git/config
@@ -354,6 +356,7 @@ version
 .docker/config.json
 .env.1
 .vscode/settings.json
+admin/index.html
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -362,8 +365,6 @@ data/.git/config
 dev/.git/config
 files/
 files/.git/config
-login.htm
-manage/account/login
 media../.git/config
 media/.git/config
 project/.git/config
@@ -373,7 +374,6 @@ sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 .git/index
 abc6
 abc8
-admin/index.html
 config.inc.php
 config/master.key
 login.jsp
@@ -384,6 +384,7 @@ ws
 HNAP1
 abc7
 actuator/health
+cgi-bin/login.cgi
 conf/.env
 config.py
 evox/about
@@ -393,7 +394,6 @@ wp-config.php~
 .git/logs/HEAD
 .travis.yml
 app/.env.production
-cgi-bin/login.cgi
 downloads/
 remote/login
 .env.docker
@@ -564,6 +564,7 @@ wp-content/uploads/
 .env.docker.dev
 .env.project
 .pypirc
+ReportServer
 _layouts/15/error.aspx
 admin-app/.env
 admin/
@@ -609,7 +610,6 @@ wsman
 .gitignore
 .npmrc._default
 .ssh/id_ecdsa
-ReportServer
 __tests__/test-become/.env
 admin/.env.production
 adminer.sql
@@ -898,6 +898,7 @@ api/sonicos/tfa
 api/v2/cmdb/system/admin
 api/v2/cmdb/system/admin/admin
 app
+app-ads.txt
 app/.terraform/terraform.tfstate
 app/amplify.yaml
 app/amplify.yml
@@ -1298,7 +1299,6 @@ api/v1/version
 api/v2/
 api/v2/config.json
 apiconfig.json
-app-ads.txt
 app-order-client/.env
 app.config
 app.config.json

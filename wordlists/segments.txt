@@ -81,11 +81,11 @@ client
 ..
 beta
 html
+index.html
 .env.development
 .well-known
 apps
 crm
-index.html
 sendgrid
 docker-compose.yml
 tmp
@@ -193,9 +193,9 @@ API
 cache
 env.json
 twilio
+*
 mysql.sql
 secrets.env
-*
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -217,11 +217,11 @@ server.js
 bedrock.env
 configuration.json
 env-config.js
+login.html
 platform
 app.log
 bak
 developer
-login.html
 saas
 server.key
 content
@@ -301,19 +301,20 @@ configuration.php
 containers
 settings.php
 sites
++CSCOE+
 .env.ci
 .htpasswd
+logon.html
 testing
 users
 $(pwd)
-+CSCOE+
 bdd
 drupal
-logon.html
 update
 wp-admin
 .env.sandbox
 .git-credentials
+account
 app.php
 configuration
 etc
@@ -322,7 +323,6 @@ wp-includes
 .htaccess
 .s3cfg
 LICENSE
-account
 php
 workspace
 about
@@ -331,6 +331,7 @@ wp-config.php.save
 Dr0v
 docker-compose.prod.yml
 hello.world
+manage
 openai
 phpmyadmin
 resources
@@ -348,11 +349,11 @@ downloads
 ec
 environments
 index
-manage
 pki-validation
 sdk
 .env.txt
 conf
+login.htm
 logon.aspx
 public_html
 scripts
@@ -365,7 +366,7 @@ Login
 LogonPoint
 assets..
 id_ed25519
-login.htm
+login.cgi
 logon
 master.key
 media..
@@ -379,7 +380,6 @@ autodiscover
 deploy
 development
 dist
-login.cgi
 modules
 pma
 terraform.tfvars
@@ -624,6 +624,7 @@ wp-config.php.swp
 15
 Dashboard.jspa
 Public
+ReportServer
 _ignition
 _layouts
 amplify.yaml
@@ -686,7 +687,6 @@ wsman
 .npmrc._default
 07-accessing-data
 1
-ReportServer
 WebInterface
 adminer.sql
 airflow.cfg
@@ -993,6 +993,7 @@ agc
 ai
 alpha
 anaconda
+app-ads.txt
 app.min.js
 app1-static
 app2-static
@@ -1267,7 +1268,6 @@ amplifyconfiguration.json
 angular
 apiconfig.json
 apikey.txt
-app-ads.txt
 app-order-client
 app.config
 app.config.json
