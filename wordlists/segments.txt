@@ -92,10 +92,10 @@ log
 info.php
 settings.json
 static
-temp
-.env.development
 get
 ip.cypher.rest:443
+temp
+.env.development
 old
 wp-config.php
 .ssh
@@ -126,19 +126,19 @@ db
 aws.yml
 compose
 examples
+home
 dashboard
 entries
-home
 htdocs
 .env.dist
 fixtures
 .vscode
 main
+js
 test.php
 debug.log
 docker-compose.yaml
 docs
-js
 site.zip
 wp-content
 ws
@@ -462,12 +462,14 @@ wordpress
 .netrc
 7
 api-docs
+api.ipinfo.io:443
 azure
 batch
 composer.json
 configprops
 credentials.yml.enc
 env.js
+icanhazip.com:443
 instance
 myadmin
 plugins
@@ -483,7 +485,6 @@ Dockerfile
 _next
 adminer.php
 all
-api.ipinfo.io:443
 application-prod.yml
 autodiscover.json
 b
@@ -494,7 +495,6 @@ dbadmin
 ecp
 exporttool
 global-protect
-icanhazip.com:443
 mailchimp
 market
 microsoft.exchange.ediscovery.exporttool.application
@@ -556,6 +556,7 @@ front
 gcp-credentials.json
 heapdump
 id_ecdsa
+javascript
 login.asp
 login.esp
 mailer
@@ -596,7 +597,6 @@ develop
 environment.rb
 functions
 graphql
-javascript
 local.py
 mail.php
 myapp
@@ -622,6 +622,7 @@ wp-config.php.swp
 09-managing-state
 15
 Dashboard.jspa
+Public
 _ignition
 _layouts
 amplify.yaml
@@ -685,7 +686,6 @@ wsman
 .npmrc._default
 07-accessing-data
 1
-Public
 ReportServer
 WebInterface
 adminer.sql
@@ -702,6 +702,7 @@ exchange.asmx
 export
 gemini.json
 heads
+hetong.js
 hudson
 install
 integration
@@ -754,6 +755,7 @@ bedrock.yml
 bitbucket-pipelines.yml
 bucket
 build.gradle
+check.js
 colors
 com
 controllers
@@ -772,7 +774,6 @@ front-empathy
 gcp.json
 gradle.properties
 helm
-hetong.js
 human.aspx
 icons
 include
@@ -849,7 +850,6 @@ buckets
 cdn-cgi
 cert.pem
 charts
-check.js
 checkout
 clients
 components

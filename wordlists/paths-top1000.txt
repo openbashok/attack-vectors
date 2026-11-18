@@ -23,9 +23,9 @@ backend/.env
 phpinfo.php
 .env.example
 docker-compose.yml
-.env.staging
 get
 ip.cypher.rest:443
+.env.staging
 frontend/.env
 web/.env
 public/.env
@@ -433,6 +433,7 @@ vendor/.env
 .netrc
 HNAP1/
 actuator/configprops
+api.ipinfo.io:443
 app/config/.env
 compose/.env
 composer.json
@@ -440,6 +441,7 @@ config/credentials.yml.enc
 current/.env
 dana-na/auth/url_default/welcome.cgi
 development/.env
+icanhazip.com:443
 instance/config.py
 server-status
 var/www/.env
@@ -448,7 +450,6 @@ var/www/.env
 .env_backup
 Dockerfile
 adminer.php
-api.ipinfo.io:443
 autodiscover/autodiscover.json
 config.php.old
 config.php~
@@ -460,7 +461,6 @@ docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env/.env
-icanhazip.com:443
 laravel/.env.example
 service-account.json
 src/.env.local
@@ -649,6 +649,7 @@ releases/.env
 rest/.env
 s3/bucket.env
 script/.env
+static/admin/javascript/hetong.js
 tests/.env
 user/.env.staging
 vendor/laravel/.env
@@ -664,6 +665,7 @@ xmlrpc.php
 .envs
 .github/workflows/main.yml
 .gitlab-ci/.env
+Public/home/js/check.js
 admin/assets/js/views/login.js
 admin/modules/framework/amp_conf/htdocs/admin/config.php
 api/config.php
@@ -711,7 +713,6 @@ setup.cgi
 showLogin.cc
 sites/.env
 stag/.env
-static/admin/javascript/hetong.js
 storage/.env.local
 swagger-ui.html
 swagger/v1/swagger.json
@@ -737,7 +738,6 @@ xampp/.env
 .mcp.json
 .vault-token
 Pipfile.lock
-Public/home/js/check.js
 admin.php
 admin/modules/framework/amp_conf/var/www/html/admin/config.php
 administrator/
