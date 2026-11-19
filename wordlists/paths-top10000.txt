@@ -444,6 +444,7 @@ config/credentials.yml.enc
 current/.env
 dana-na/auth/url_default/welcome.cgi
 development/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 var/www/.env
 .env.prod.local
@@ -459,7 +460,6 @@ config/settings.py
 cron/.env
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env/.env
 laravel/.env.example
 service-account.json
@@ -2068,6 +2068,10 @@ bedrock-credentials.json
 bedrock-credentials.yml
 bedrock/credentials.json
 beta/.env.staging
+bins/bin.arm
+bins/bin.arm5
+bins/bin.arm6
+bins/bin.sh4
 bookchain-client/.env
 bootstrap/.env.example
 bot/.env.local
@@ -3388,8 +3392,8 @@ bak/phpinfo.php
 bank/.env
 base.jsa
 billing/.env
-bins/bin.arm5
-bins/bin.arm6
+bins/bin.arm7
+bins/bin.m68k
 blank-jtganc
 blog/
 blog/%2eenv

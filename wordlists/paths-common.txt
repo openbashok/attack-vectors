@@ -444,6 +444,7 @@ config/credentials.yml.enc
 current/.env
 dana-na/auth/url_default/welcome.cgi
 development/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 var/www/.env
 .env.prod.local
@@ -459,7 +460,6 @@ config/settings.py
 cron/.env
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 env/.env
 laravel/.env.example
 service-account.json

@@ -445,6 +445,7 @@ composer.json
 current/.env
 dana-na/auth/url_default/welcome.cgi
 docker-compose.override.yml
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 openapi.json
 var/www/.env
@@ -459,7 +460,6 @@ config/credentials.yml.enc
 development/.env
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 laravel/.env.example
 src/.env.local
 v1
@@ -2047,6 +2047,10 @@ bedrock/config.json
 bedrock/credentials
 bedrock/credentials.json
 beta/.env.staging
+bins/bin.arm
+bins/bin.arm5
+bins/bin.arm6
+bins/bin.sh4
 boaform/admin/formLogin
 bookchain-client/.env
 bootstrap.yml
@@ -3583,8 +3587,8 @@ bedrock/.env?v=18e62111981a33dd
 bedrock/config.json?v=18e6211059e7c251
 bedrock/credentials?v=18e621105b89b6ce
 billing/.env
-bins/bin.arm5
-bins/bin.arm6
+bins/bin.arm7
+bins/bin.m68k
 bitbucket-pipelines.yml?v=18e6211e53f19ae9
 blank-jtganc
 blog/%2eenv?v=pp3zc

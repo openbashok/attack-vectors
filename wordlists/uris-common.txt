@@ -445,6 +445,7 @@ composer.json
 current/.env
 dana-na/auth/url_default/welcome.cgi
 docker-compose.override.yml
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 openapi.json
 var/www/.env
@@ -459,7 +460,6 @@ config/credentials.yml.enc
 development/.env
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 laravel/.env.example
 src/.env.local
 v1

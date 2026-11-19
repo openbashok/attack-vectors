@@ -258,6 +258,7 @@ composer.json
 configprops
 credentials.yml.enc
 env.js
+microsoft.exchange.ediscovery.exporttool.application
 wlwmanifest.xml
 .env.prod.local
 .env.yml
@@ -268,7 +269,6 @@ application-prod.yml
 config.php.old
 config.php~
 credentials.yml
-microsoft.exchange.ediscovery.exporttool.application
 .env.yaml
 .envrc
 .yarnrc
@@ -966,6 +966,10 @@ bedrock-api-key.yml
 bedrock-credentials
 bedrock-credentials.json
 bedrock-credentials.yml
+bin.arm
+bin.arm5
+bin.arm6
+bin.sh4
 bun.lock
 cgiChkMasterPwd.exe
 check-version
