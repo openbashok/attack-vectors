@@ -18,9 +18,9 @@ test
 .env.local
 .env.production
 .%2e
+web
 .aws
 phpinfo
-web
 config.json
 .env.php
 _profiler
@@ -161,8 +161,8 @@ application.properties
 backup.sql
 db.sql
 error.log
-.claude
 geoserver
+.claude
 .env.json
 files
 sse
@@ -357,6 +357,7 @@ logon.aspx
 media..
 sdk
 .env.txt
+autodiscover
 conf
 login.htm
 public_html
@@ -367,7 +368,6 @@ welcome.cgi
 .env.1
 Login
 LogonPoint
-autodiscover
 id_ed25519
 login.cgi
 logon
@@ -388,6 +388,7 @@ wp-config.php~
 .boto
 .env.test.local
 .travis.yml
+aaa9
 abc7
 anthropic
 backup.tar.gz
@@ -410,7 +411,6 @@ manager
 swagger
 terraform.tfstate.backup
 .env.docker
-aaa9
 aab9
 auth.json
 babel-plugin-dotenv
@@ -634,6 +634,7 @@ ansible.cfg
 application.properties.bak
 auth.html
 authLogin.cgi
+autodiscover.xml
 back-end
 bedrock.json
 blogs
@@ -649,8 +650,10 @@ cp
 cronlab
 druid
 error.aspx
+ews
 example
 exapi
+exchange.asmx
 fedex
 front-end
 hudson
@@ -693,14 +696,11 @@ WebInterface
 adminer.sql
 airflow.cfg
 appsettings.production.json
-autodiscover.xml
 aws-ses.json
 bucket.env
 cgi-mod
 ci.yml
 credentials.csv
-ews
-exchange.asmx
 export
 gemini.json
 heads
@@ -717,6 +717,7 @@ register
 releases
 route
 rpc
+setup.cgi
 signin
 stats
 stripe
@@ -803,7 +804,6 @@ rdx_en.json.gz
 samples
 secrets.js
 ses
-setup.cgi
 showLogin.cc
 smtp.env
 soap
@@ -844,6 +844,7 @@ Exercise.Frontend
 Kubernetes
 Pipfile.lock
 _catalog
+aab8
 adminpanel
 application.yaml
 astguiclient.php
@@ -1263,7 +1264,6 @@ _phpinfo.php
 _phpmyadmin
 _phpmyadmin_
 a56f1a4933ad0bca
-aab8
 admins
 ads.txt
 agent
@@ -1802,6 +1802,7 @@ bedrock-api-key.yml
 bedrock-credentials
 bedrock-credentials.json
 bedrock-credentials.yml
+bins
 bookchain-client
 bookmarkable
 bun.lock
