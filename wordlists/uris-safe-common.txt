@@ -211,6 +211,7 @@ wp-config.php.backup
 .claude/.env
 .env/.env
 Application/.env
+_
 api/test
 app.log
 beta/
@@ -245,7 +246,6 @@ tmp/
 twilio.env
 .env.live
 .env.staging.local
-_
 .env.template
 phpinfo
 wp-config.php.old
@@ -304,6 +304,7 @@ index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 sftp-config.json
+sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 static../.git/config
 test.hello_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/Util/PHP/eval-stdin.php
@@ -348,7 +349,6 @@ phpunit/src/Util/PHP/eval-stdin.php
 project/.git/config
 public/index.php_s=/index/_think_app/invokefunction_function=call_user_func_array_vars_0_=md5_vars_1___=Hello
 public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-sra__BA195980-CD49-458b-9E23-C84EE0ADCD75_/
 test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php

@@ -118,6 +118,7 @@ client_secrets.json
 config.ini
 crossdomain.xml
 logs
+*
 .env.staging.local
 beta
 claude.env
@@ -138,7 +139,6 @@ temp
 tests
 tmp
 twilio.env
-*
 .env.template
 sftp.json
 .env.uat
@@ -186,12 +186,12 @@ config.inc.php
 wp-config.php.save
 hello.world
 sftp-config.json
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger.json
 test.hello
 Jenkinsfile
 index
 logon.aspx
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.txt
 about
 login.htm
@@ -417,6 +417,7 @@ bitbucket-pipelines.yml
 bucket
 build.gradle
 check.js
+confluenceservice-v2
 database.json
 db.py
 env.env
@@ -564,7 +565,6 @@ config.development.json
 config.prod.json
 configurations
 configurations.do
-confluenceservice-v2
 connect.php
 connection.php
 credentials.db
@@ -1002,6 +1002,7 @@ environment.production.ts
 environment.ts
 errorFE.aspx
 error_log
+error_reporting_enabled
 eventmanager
 example.env
 executions

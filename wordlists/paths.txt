@@ -207,6 +207,7 @@ logs/
 node/.env
 sandbox/.env
 user/.env
+*
 .aws/.env
 .bedrock/.env
 .claude/.env
@@ -242,7 +243,6 @@ test/phpinfo/
 tests/
 tmp/
 twilio.env
-*
 .env.live
 .env.template
 phpinfo
@@ -302,6 +302,7 @@ hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 sftp-config.json
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 static../.git/config
 test.hello
 vendor/phpunit/Util/PHP/eval-stdin.php
@@ -343,7 +344,6 @@ phpunit/src/Util/PHP/eval-stdin.php
 project/.git/config
 public/index.php
 public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -1983,6 +1983,7 @@ api/config.js
 api/docs/
 api/sonicos/is-sslvpn-enabled
 api/swagger-ui.html
+api/system/system/error_reporting_enabled
 api/v1.0/environment
 api/v1/Accounts
 api/v1/check-version
@@ -2439,6 +2440,7 @@ pinfo.php
 pipeline/.env
 playground/.env
 plugin_static/.env
+plugins/servlet/soap-axis1/confluenceservice-v2
 pma/
 pnpm-lock.yaml
 portal/

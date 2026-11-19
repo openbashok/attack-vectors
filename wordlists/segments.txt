@@ -6,8 +6,8 @@ src
 eval-stdin.php
 PHP
 Util
-vendor
 api
+vendor
 index.php
 favicon.ico
 app
@@ -41,8 +41,8 @@ frontend
 server
 storage
 core
-app_dev.php
 robots.txt
+app_dev.php
 dev
 v2
 auth
@@ -107,10 +107,10 @@ credentials.json
 database.yml
 project
 site
+system
 config.env
 blog
 new
-system
 administrator
 settings
 secrets.json
@@ -189,12 +189,12 @@ parameters.yml
 back
 bot
 v3
+*
 .env.stage
 API
 cache
 env.json
 twilio
-*
 mysql.sql
 secrets.env
 .config.yaml
@@ -337,6 +337,7 @@ phpmyadmin
 pki-validation
 resources
 sftp-config.json
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 swagger.json
 test.hello
@@ -355,7 +356,6 @@ index
 logon.aspx
 media..
 sdk
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 .env.txt
 conf
 login.htm
@@ -431,6 +431,7 @@ django
 icanhazip.com:443
 mail
 master
+plugins
 secrets
 self
 server-status
@@ -475,7 +476,6 @@ credentials.yml.enc
 env.js
 instance
 myadmin
-plugins
 url_default
 wlwmanifest.xml
 .env.prod.local
@@ -760,6 +760,7 @@ build.gradle
 check.js
 colors
 com
+confluenceservice-v2
 controllers
 database.json
 db.py
@@ -1041,7 +1042,6 @@ config.development.json
 config.prod.json
 configurations
 configurations.do
-confluenceservice-v2
 connect.php
 connection.php
 controller
@@ -1489,6 +1489,7 @@ server-info.php
 server.crt
 server_info.php
 service_account.json
+servlet
 sessions
 settings.js
 setup.md
@@ -1884,6 +1885,7 @@ envy
 epa
 errorFE.aspx
 error_log
+error_reporting_enabled
 eventmanager
 example.env
 example02-golang-package
@@ -2163,6 +2165,7 @@ sitecore
 sitecore.version.xml
 sitestatic
 smtp.json
+soap-axis1
 spearmint
 sphere1.png
 spikes
