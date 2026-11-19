@@ -54,15 +54,15 @@ settings/.env
 storage/logs/laravel.log
 v1/.env
 credentials.json
+mcp
 v2/.env
 docker-compose.yaml
-mcp
 old/.env
 client/.env
+mcp/
 settings.py
 test.php
 database.yml
-mcp/
 .env.orig
 .env.production.local
 config.php.bak
@@ -81,11 +81,11 @@ database.sql
 application.yml
 db.sql
 env
+sse
 terraform.tfstate
 .env.php
 dashboard/.env
 package-lock.json
-sse
 staging/.env
 wp-config.php.bak
 yarn.lock
@@ -97,6 +97,7 @@ debug.log
 info
 web.config
 .env.local.php
+api/mcp
 application.properties
 blog/.env
 config.env
@@ -109,7 +110,6 @@ project/.env
 sendgrid.env
 settings.json
 ../.env
-api/mcp
 apps/.env
 cms/.env
 new/.env

@@ -12,8 +12,8 @@ config.json
 .env.example
 .env.staging
 credentials
-.env.bak
 mcp
+.env.bak
 robots.txt
 login
 security.txt
@@ -72,10 +72,10 @@ error.log
 web
 .env.json
 %2eenv
+sse
 wp-config.php.bak
 package-lock.json
 package.json
-sse
 yarn.lock
 sendgrid.env
 sh

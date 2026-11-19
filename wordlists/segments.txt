@@ -33,8 +33,8 @@ credentials
 logs
 backend
 %%32%65%%32%65
-.env.bak
 mcp
+.env.bak
 v1
 www
 frontend
@@ -169,11 +169,11 @@ store
 %2eenv
 apis
 node
+sse
 wp-config.php.bak
 aws
 package-lock.json
 package.json
-sse
 yarn.lock
 sendgrid.env
 service
