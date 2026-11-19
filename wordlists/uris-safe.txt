@@ -94,6 +94,7 @@ package.json
 secrets.yml
 shop/.env
 debug.log
+developmentserver/metadatauploader
 info
 web.config
 .env.local.php
@@ -101,7 +102,6 @@ api/mcp
 application.properties
 blog/.env
 config.env
-developmentserver/metadatauploader
 error.log
 local/.env
 media/.env
@@ -446,6 +446,7 @@ dana-na/auth/url_default/welcome.cgi
 docker-compose.override.yml
 instance/config.py
 openapi.json
+server-status
 var/www/.env
 vendor/.env
 .env.prod.local
@@ -460,7 +461,6 @@ docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 laravel/.env.example
-server-status
 src/.env.local
 v1
 .env.yaml

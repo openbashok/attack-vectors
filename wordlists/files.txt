@@ -80,8 +80,8 @@ yarn.lock
 sendgrid.env
 sh
 web.config
-parameters.yml
 metadatauploader
+parameters.yml
 open
 .env.stage
 env.json
@@ -247,6 +247,7 @@ docker-compose.override.yml
 env.php
 environ
 formLogin
+server-status
 .env.qa
 .env_1
 .env_old
@@ -257,7 +258,6 @@ composer.json
 configprops
 credentials.yml.enc
 env.js
-server-status
 wlwmanifest.xml
 .env.prod.local
 .env.yml

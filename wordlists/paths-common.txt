@@ -100,6 +100,7 @@ web.config
 application.properties
 config.env
 debug/default/view
+developmentserver/metadatauploader
 error.log
 info
 local/.env
@@ -110,7 +111,6 @@ settings.json
 api/mcp
 apps/.env
 blog/.env
-developmentserver/metadatauploader
 media/.env
 new/.env
 project/.env
@@ -428,6 +428,7 @@ dist/.env
 docker-compose.override.yml
 docker-compose/.env
 openapi.json
+server-status
 server/.env.local
 vendor/.env
 .env_1
@@ -444,7 +445,6 @@ current/.env
 dana-na/auth/url_default/welcome.cgi
 development/.env
 instance/config.py
-server-status
 var/www/.env
 .env.prod.local
 .env.yml

@@ -181,11 +181,11 @@ sh
 sql
 web.config
 .docker
+developmentserver
 k8s
+metadatauploader
 open
 parameters.yml
-developmentserver
-metadatauploader
 back
 bot
 v3
@@ -455,6 +455,7 @@ kyc
 libraries
 qa
 run
+server-status
 sonicui
 webui
 wordpress
@@ -475,7 +476,6 @@ env.js
 instance
 myadmin
 plugins
-server-status
 url_default
 wlwmanifest.xml
 .env.prod.local
