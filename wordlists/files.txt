@@ -34,10 +34,10 @@ settings.py
 info
 .env.local.php
 view
-index.html
-.env.development
 get
+index.html
 ip.cypher.rest:443
+.env.development
 docker-compose.yml
 info.php
 settings.json

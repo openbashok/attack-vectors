@@ -20,9 +20,9 @@ config.json
 .env.test
 backend/.env
 .env.old
-phpinfo.php
 get
 ip.cypher.rest:443
+phpinfo.php
 .env.example
 docker-compose.yml
 .env.staging
@@ -288,6 +288,7 @@ index.html
 login.html
 src/.git/config
 .vscode/sftp.json
+.well-known/pki-validation/update
 Dr0v
 config/database.yml
 docker/.env
@@ -295,7 +296,6 @@ remote/login
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 wp-config.php.save
 .env.sample
-.well-known/pki-validation/update
 backup/.git/config
 config/aws.json
 hello.world

@@ -289,11 +289,11 @@ index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 login.html
 src/.git/config
 .vscode/sftp.json
+.well-known/pki-validation/update
 Dr0v
 docker-compose.prod.yml
 index.html
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-.well-known/pki-validation/update
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 backup/.git/config
 config/aws.json
