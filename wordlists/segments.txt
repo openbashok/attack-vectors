@@ -57,9 +57,9 @@ config.php
 demo
 docker
 .env.prod
+info
 phpinfo.php
 default
-info
 staging
 laravel.log
 env
@@ -105,9 +105,9 @@ services
 .gitlab-ci.yml
 credentials.json
 database.yml
+system
 project
 site
-system
 config.env
 blog
 new
@@ -288,12 +288,12 @@ workflows
 .env.swp
 .env~
 .npmrc
+HNAP1
 backup.zip
 mysql
 root
 wc.db
 .env.secret
-HNAP1
 version
 wp-json
 .env.ci
@@ -323,11 +323,11 @@ wp-includes
 .htaccess
 .s3cfg
 LICENSE
+about
 docker-compose.prod.yml
 php
 workspace
 Dr0v
-about
 config.inc.php
 pki-validation
 wp-config.php.save
@@ -336,6 +336,7 @@ manage
 openai
 phpmyadmin
 resources
+sdk
 sftp-config.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
@@ -355,7 +356,6 @@ environments
 index
 logon.aspx
 media..
-sdk
 .env.txt
 autodiscover
 conf
@@ -373,6 +373,7 @@ login.cgi
 logon
 master.key
 production
+solr
 RDWeb
 abc6
 abc8
@@ -380,6 +381,7 @@ authorized_keys
 deploy
 development
 dist
+evox
 modules
 pma
 terraform.tfvars
@@ -394,10 +396,8 @@ anthropic
 backup.tar.gz
 config.yaml
 enviroments
-evox
 mcp.json
 private
-solr
 ~
 .env.2
 __tests__
@@ -592,9 +592,11 @@ amplify
 app.js
 application-prod.properties
 appsettings.Production.json
+authLogin.cgi
 boxes
 cloud
 config.inc.php.bak
+cores
 develop
 environment.rb
 functions
@@ -634,7 +636,6 @@ ansible
 ansible.cfg
 application.properties.bak
 auth.html
-authLogin.cgi
 autodiscover.xml
 back-end
 bedrock.json
@@ -646,7 +647,6 @@ common
 community
 config.php.save
 config.production.json
-cores
 cp
 cronlab
 druid
@@ -749,6 +749,7 @@ Final_Project
 PMA
 WEB-INF
 Web
+_catalog
 admin.php
 api_key.txt
 aws.env.json
@@ -844,7 +845,6 @@ xml
 Exercise.Frontend
 Kubernetes
 Pipfile.lock
-_catalog
 aab8
 adminpanel
 application.yaml
