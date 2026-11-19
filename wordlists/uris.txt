@@ -374,6 +374,7 @@ settings.php
 .docker/.env
 .git/index
 HNAP1
+aaa9
 abc6
 abc8
 config.inc.php
@@ -384,7 +385,6 @@ pub/
 public_html/.env
 ws
 .env.test.local
-aaa9
 abc7
 cgi-bin/login.cgi
 conf/.env
@@ -394,11 +394,11 @@ wp-config.php~
 .env.2
 .git/logs/HEAD
 .travis.yml
+aab9
 app/.env.production
 downloads/
 remote/login
 .env.docker
-aab9
 actuator/env
 api.ipinfo.io:443
 backend/.env.local
@@ -413,6 +413,7 @@ RDWeb
 app/.env.local
 backup.tar.gz
 local_settings.py
+server-status
 wp-config.bak
 .circleci/config.yml
 .env.copy
@@ -428,7 +429,6 @@ config.yaml
 config/config.php
 dist/.env
 docker-compose/.env
-server-status
 server/.env.local
 swagger.json
 terraform.tfvars

@@ -368,6 +368,7 @@ files/
 settings.php
 .docker/.env
 HNAP1
+aaa9
 abc6
 abc8
 conf/.env
@@ -382,19 +383,18 @@ ws
 .env.test.local
 .git/logs/HEAD
 .travis.yml
-aaa9
 abc7
 app/.env.production
 cgi-bin/login.cgi
 config.py
 .env.2
+aab9
 actuator/env
 deploy/.env
 downloads/
 terraform.tfstate.backup
 wp-content/.env
 .env.docker
-aab9
 api.ipinfo.io:443
 app/.env.local
 backend/.env.local
@@ -402,6 +402,7 @@ backup.tar.gz
 icanhazip.com:443
 local_settings.py
 secrets.py
+server-status
 sftp.json
 shared/.env
 wp-config.bak
@@ -412,7 +413,6 @@ RDWeb
 api/.env.local
 backup.zip
 config.yaml
-server-status
 swagger.json
 terraform.tfvars
 www.zip
