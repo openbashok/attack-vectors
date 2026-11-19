@@ -3,8 +3,8 @@ favicon.ico
 SDK/webLanguage
 .git/config
 index.php
-.env.production
 robots.txt
+.env.production
 .env.bak
 .env.local
 app/.env
@@ -21,10 +21,10 @@ backend/.env
 .env.backup
 .env.old
 phpinfo.php
-.env.example
-docker-compose.yml
 get
 ip.cypher.rest:443
+.env.example
+docker-compose.yml
 .env.staging
 web/.env
 frontend/.env

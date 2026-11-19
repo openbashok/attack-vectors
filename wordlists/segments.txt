@@ -42,8 +42,8 @@ server
 storage
 core
 app_dev.php
-dev
 robots.txt
+dev
 v2
 auth
 security.txt
@@ -86,11 +86,11 @@ index.html
 .env.development
 apps
 crm
+get
+ip.cypher.rest:443
 sendgrid
 docker-compose.yml
 tmp
-get
-ip.cypher.rest:443
 log
 info.php
 settings.json

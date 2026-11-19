@@ -19,10 +19,10 @@ config.json
 backend/.env
 .env.backup
 .env.old
-phpinfo.php
-.env.example
 get
 ip.cypher.rest:443
+phpinfo.php
+.env.example
 docker-compose.yml
 .env.staging
 web/.env

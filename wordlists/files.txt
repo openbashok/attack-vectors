@@ -36,9 +36,9 @@ info
 view
 index.html
 .env.development
-docker-compose.yml
 get
 ip.cypher.rest:443
+docker-compose.yml
 info.php
 settings.json
 wp-config.php
