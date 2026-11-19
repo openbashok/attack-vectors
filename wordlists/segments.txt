@@ -1,8 +1,8 @@
 .env
 config
 phpunit
-src
 .git
+src
 eval-stdin.php
 PHP
 Util
