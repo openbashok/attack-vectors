@@ -32,8 +32,8 @@ login
 credentials
 %%32%65%%32%65
 logs
-backend
 mcp
+backend
 .env.bak
 v1
 www
@@ -102,10 +102,10 @@ wp-config.php
 .ssh
 secrets.yml
 services
+system
 .gitlab-ci.yml
 credentials.json
 database.yml
-system
 project
 site
 config.env
@@ -163,9 +163,9 @@ db.sql
 error.log
 geoserver
 .claude
+sse
 .env.json
 files
-sse
 store
 %2eenv
 apis
@@ -280,6 +280,7 @@ remote
 %252eenv
 .env.sample
 config.py
+HNAP1
 aws.json
 workflows
 .%65%6e%76
@@ -288,7 +289,6 @@ workflows
 .env.swp
 .env~
 .npmrc
-HNAP1
 backup.zip
 mysql
 root
@@ -316,6 +316,7 @@ bdd
 wp-admin
 .git-credentials
 LICENSE
+about
 account
 app.php
 etc
@@ -324,13 +325,13 @@ workspace
 wp-includes
 .htaccess
 .s3cfg
-about
 docker-compose.prod.yml
 php
 Dr0v
 config.inc.php
 hello.world
 pki-validation
+sdk
 test.hello
 wp-config.php.save
 yii
@@ -342,7 +343,6 @@ manage
 openai
 phpmyadmin
 resources
-sdk
 sftp-config.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
@@ -356,6 +356,7 @@ downloads
 environments
 index
 media..
+solr
 .env.txt
 autodiscover
 conf
@@ -368,12 +369,12 @@ welcome.cgi
 .env.1
 Login
 LogonPoint
+evox
 id_ed25519
 login.cgi
 logon
 master.key
 production
-solr
 RDWeb
 aaa9
 abc6
@@ -382,7 +383,6 @@ authorized_keys
 deploy
 development
 dist
-evox
 modules
 pma
 terraform.tfvars
@@ -549,6 +549,7 @@ application_default_credentials.json
 audio
 awstats
 begin
+cores
 db.sql.gz
 deploy.yml
 deployment.yaml
@@ -596,7 +597,6 @@ authLogin.cgi
 boxes
 cloud
 config.inc.php.bak
-cores
 develop
 environment.rb
 functions
