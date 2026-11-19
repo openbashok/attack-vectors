@@ -471,6 +471,7 @@ api-docs
 autodiscover.json
 azure
 batch
+bins
 composer.json
 configprops
 credentials.yml.enc
@@ -548,7 +549,6 @@ application_default_credentials.json
 audio
 awstats
 begin
-bins
 db.sql.gz
 deploy.yml
 deployment.yaml

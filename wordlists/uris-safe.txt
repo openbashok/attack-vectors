@@ -3318,6 +3318,7 @@ admin.html
 admin.jhtml
 admin/%252eenv
 admin/.env_v=18e62111a4e619d9
+admin/api/v1/auth/init-password-hash
 admin/auth/login
 admin/config
 admin/config_v=18e62111261de63a
@@ -3589,6 +3590,9 @@ bedrock/credentials_v=18e621105b89b6ce
 billing/.env
 bins/bin.arm7
 bins/bin.m68k
+bins/bin.mips
+bins/bin.mpsl
+bins/bin.ppc
 bitbucket-pipelines.yml_v=18e6211e53f19ae9
 blank-jtganc
 blog/%2eenv_v=pp3zc
