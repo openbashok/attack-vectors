@@ -91,8 +91,8 @@ ip.cypher.rest:443
 sendgrid
 docker-compose.yml
 tmp
-log
 info.php
+log
 settings.json
 static
 temp
@@ -113,9 +113,9 @@ blog
 new
 administrator
 settings
+actuator
 secrets.json
 .env.dist
-actuator
 data
 media
 portal
@@ -261,10 +261,10 @@ owa
 sftp.json
 .env.uat
 build
+health
 s3
 wp-config.php.old
 .github
-health
 .env.default
 .env_sample
 id_rsa

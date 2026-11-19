@@ -30,9 +30,9 @@ src/.env
 web/.env
 frontend/.env
 public/.env
+info.php
 .env.development
 .gitlab-ci.yml
-info.php
 wp-config.php
 .git/HEAD
 admin/.env
@@ -361,6 +361,7 @@ sdk
 .env.1
 .git/index
 .vscode/settings.json
+actuator/health
 admin/index.html
 config/master.key
 files/
@@ -368,7 +369,6 @@ settings.php
 .docker/.env
 abc6
 abc8
-actuator/health
 conf/.env
 config.inc.php
 login.jsp

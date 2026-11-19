@@ -165,10 +165,10 @@ wc.db
 .env.secret
 HNAP1
 admin
+health
 json
 .env.ci
 config.yml
-health
 version
 configuration.php
 settings.php
