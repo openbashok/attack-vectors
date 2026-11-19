@@ -19,9 +19,9 @@ config.json
 .env.backup
 .env.test
 backend/.env
-.env.old
 get
 ip.cypher.rest:443
+.env.old
 phpinfo.php
 .env.example
 docker-compose.yml
@@ -549,6 +549,7 @@ django/settings.py
 docker/compose/.env
 docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
+druid/index.html
 env.js
 gcp-credentials.json
 local.py
@@ -586,7 +587,6 @@ config.php.save
 cronlab/.env
 dana-na/nc/nc_gina_ver.txt
 db.sql.gz
-druid/index.html
 en/.env
 ews/exchange.asmx
 exapi/.env

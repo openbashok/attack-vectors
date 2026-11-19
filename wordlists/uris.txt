@@ -18,9 +18,9 @@ config.json
 .env.backup
 .env.test
 backend/.env
-.env.old
 get
 ip.cypher.rest:443
+.env.old
 phpinfo.php
 .env.example
 docker-compose.yml
@@ -543,6 +543,7 @@ docker/app/.env
 docker/compose/.env
 docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
+druid/index.html
 env.js
 env.txt
 frontend/.env.local
@@ -585,7 +586,6 @@ blogs/.env
 config.php.save
 cronlab/.env
 dana-na/nc/nc_gina_ver.txt
-druid/index.html
 en/.env
 ews/exchange.asmx
 exapi/.env

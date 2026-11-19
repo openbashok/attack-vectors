@@ -76,15 +76,15 @@ settings.py
 cms
 .well-known
 .env.local.php
+get
+ip.cypher.rest:443
 var
 view
 client
 html
+index.html
 ..
 beta
-get
-index.html
-ip.cypher.rest:443
 apps
 crm
 .env.development
@@ -598,6 +598,7 @@ boxes
 cloud
 config.inc.php.bak
 develop
+druid
 environment.rb
 functions
 graphql
@@ -649,7 +650,6 @@ config.php.save
 config.production.json
 cp
 cronlab
-druid
 error.aspx
 ews
 example

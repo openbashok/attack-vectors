@@ -33,10 +33,10 @@ HEAD
 settings.py
 info
 .env.local.php
-view
 get
-index.html
 ip.cypher.rest:443
+index.html
+view
 .env.development
 docker-compose.yml
 info.php
