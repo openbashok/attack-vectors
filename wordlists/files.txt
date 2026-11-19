@@ -77,10 +77,10 @@ wp-config.php.bak
 package-lock.json
 package.json
 yarn.lock
+metadatauploader
 sendgrid.env
 sh
 web.config
-metadatauploader
 parameters.yml
 open
 .env.stage
@@ -722,6 +722,7 @@ env.backup
 env.bak
 env.dev.js
 env.development.js
+eventmanager
 extender.html
 favicon.png
 fly.toml
@@ -1003,7 +1004,6 @@ environment.ts
 errorFE.aspx
 error_log
 error_reporting_enabled
-eventmanager
 example.env
 executions
 faspex

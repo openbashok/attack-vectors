@@ -90,11 +90,11 @@ staging/.env
 wp-config.php.bak
 yarn.lock
 application/.env
+developmentserver/metadatauploader
 package.json
 secrets.yml
 shop/.env
 debug.log
-developmentserver/metadatauploader
 info
 web.config
 .env.local.php
@@ -261,9 +261,9 @@ build/.env
 .env.ci
 .env.preprod
 .env.secret
+admin/config.php
 app/.git/config
 config.php
-admin/config.php
 www/.git/config
 +CSCOE+/logon.html
 .env.sandbox
@@ -1429,6 +1429,7 @@ e2e/.env
 env.bak
 env/template/.env
 environments/local/.env
+eventmanager
 examples/09-production/.env
 examples/vue-dashboard/backend/.env
 examples/web/.env
@@ -2185,7 +2186,6 @@ environments/.env.example
 envs/.env
 epa/scripts/win/nsepa_setup.exe
 error_log
-eventmanager
 example.env
 example/.env.example
 example02-golang-package/import-underscore/.env

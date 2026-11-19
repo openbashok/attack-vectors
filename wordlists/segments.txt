@@ -53,8 +53,8 @@ assets
 .env.dev
 .env.save
 backup
-demo
 config.php
+demo
 docker
 .env.prod
 phpinfo.php
@@ -175,15 +175,15 @@ aws
 package-lock.json
 package.json
 yarn.lock
+developmentserver
+metadatauploader
 sendgrid.env
 service
 sh
 sql
 web.config
 .docker
-developmentserver
 k8s
-metadatauploader
 open
 parameters.yml
 back
@@ -1331,6 +1331,7 @@ env.backup
 env.bak
 env.dev.js
 env.development.js
+eventmanager
 expected
 extender.html
 f
@@ -1886,7 +1887,6 @@ epa
 errorFE.aspx
 error_log
 error_reporting_enabled
-eventmanager
 example.env
 example02-golang-package
 executions

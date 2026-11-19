@@ -3,8 +3,8 @@ favicon.ico
 SDK/webLanguage
 .git/config
 index.php
-.env.production
 robots.txt
+.env.production
 .env.bak
 .env.local
 app/.env
@@ -94,13 +94,13 @@ secrets.yml
 staging/.env
 yarn.lock
 debug.log
+developmentserver/metadatauploader
 shop/.env
 web.config
 ../.env
 application.properties
 config.env
 debug/default/view
-developmentserver/metadatauploader
 error.log
 info
 local/.env
@@ -259,9 +259,9 @@ wp-config.php.old
 build/.env
 .env.ci
 .env.preprod
+admin/config.php
 app/.git/config
 config.php
-admin/config.php
 www/.git/config
 +CSCOE+/logon.html
 .env.sandbox
@@ -1449,6 +1449,7 @@ env.backup
 env.bak
 env/template/.env
 environments/local/.env
+eventmanager
 examples/09-production/.env
 examples/vue-dashboard/backend/.env
 examples/web/.env
