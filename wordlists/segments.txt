@@ -33,8 +33,8 @@ credentials
 logs
 backend
 %%32%65%%32%65
-mcp
 .env.bak
+mcp
 v1
 www
 frontend
@@ -69,10 +69,10 @@ debug
 tests
 .env.old
 .svn
+.env.backup
 HEAD
 .env.test
 settings.py
-.env.backup
 cms
 .well-known
 .env.local.php
@@ -653,6 +653,7 @@ example
 exapi
 fedex
 front-end
+hudson
 id_rsa.pub
 img
 inc
@@ -704,7 +705,6 @@ export
 gemini.json
 heads
 hetong.js
-hudson
 install
 integration
 keys.json

@@ -3,8 +3,8 @@ favicon.ico
 SDK/webLanguage
 .git/config
 index.php
-robots.txt
 .env.production
+robots.txt
 .env.bak
 .env.local
 app/.env
@@ -16,9 +16,9 @@ config/.env
 .env.dev
 laravel/.env
 config.json
+.env.backup
 .env.test
 backend/.env
-.env.backup
 .env.old
 phpinfo.php
 get
@@ -26,13 +26,13 @@ ip.cypher.rest:443
 .env.example
 docker-compose.yml
 .env.staging
+src/.env
 web/.env
 frontend/.env
 public/.env
 .env.development
 .gitlab-ci.yml
 info.php
-src/.env
 wp-config.php
 .git/HEAD
 admin/.env
@@ -588,6 +588,7 @@ en/.env
 exapi/.env
 functions/.env
 health/liveliness
+hudson
 js/.env
 lab/.env
 logon/LogonPoint/index.html
@@ -640,7 +641,6 @@ enviroments/.env
 enviroments/.env.production
 ews/exchange.asmx
 graphql
-hudson
 id_dsa
 manager/text/list
 node_modules/.env
@@ -4028,6 +4028,7 @@ readme.html
 readme.txt
 reconx-cf19e009375d
 recordings/
+redfish/v1/
 redis.conf
 redis/.env
 redoc

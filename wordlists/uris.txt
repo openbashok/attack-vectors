@@ -15,9 +15,9 @@ config/.env
 .env.dev
 laravel/.env
 config.json
+.env.backup
 .env.test
 backend/.env
-.env.backup
 .env.old
 get
 ip.cypher.rest:443
@@ -25,6 +25,7 @@ phpinfo.php
 .env.example
 docker-compose.yml
 .env.staging
+src/.env
 web/.env
 frontend/.env
 public/.env
@@ -32,7 +33,6 @@ wp-config.php
 .env.development
 .gitlab-ci.yml
 info.php
-src/.env
 .git/HEAD
 admin/.env
 site/.env
@@ -587,6 +587,7 @@ en/.env
 exapi/.env
 gcp-credentials.json
 health/liveliness
+hudson
 lab/.env
 logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
@@ -636,7 +637,6 @@ enviroments/.env.production
 ews/exchange.asmx
 functions/.env
 graphql
-hudson
 js/.env
 manager/text/list
 new/.env.production
@@ -4392,6 +4392,7 @@ readme.html
 readme.txt
 reconx-cf19e009375d
 recordings/
+redfish/v1/
 redis.conf
 redis/.env
 redoc
