@@ -395,9 +395,11 @@ terraform.tfstate.backup
 wp-content/.env
 .env.docker
 aab9
+api.ipinfo.io:443
 app/.env.local
 backend/.env.local
 backup.tar.gz
+icanhazip.com:443
 local_settings.py
 secrets.py
 sftp.json
@@ -407,11 +409,9 @@ wp-config.bak
 .s3cfg
 .ssh/id_ed25519
 RDWeb
-api.ipinfo.io:443
 api/.env.local
 backup.zip
 config.yaml
-icanhazip.com:443
 server-status
 swagger.json
 terraform.tfvars

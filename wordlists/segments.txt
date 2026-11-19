@@ -18,9 +18,9 @@ test
 .env.local
 .env.production
 .%2e
+phpinfo
 web
 .aws
-phpinfo
 config.json
 .env.php
 _profiler
@@ -412,11 +412,13 @@ swagger
 terraform.tfstate.backup
 .env.docker
 aab9
+api.ipinfo.io:443
 auth.json
 babel-plugin-dotenv
 console
 doc
 framework
+icanhazip.com:443
 live
 local_settings.py
 openapi.json
@@ -424,11 +426,9 @@ phpMyAdmin
 secrets.py
 task
 wp-config.bak
-api.ipinfo.io:443
 code
 db.php
 django
-icanhazip.com:443
 mail
 master
 plugins

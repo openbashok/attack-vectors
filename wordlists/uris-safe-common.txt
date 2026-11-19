@@ -400,8 +400,10 @@ remote/login
 .env.docker
 aab9
 actuator/env
+api.ipinfo.io:443
 backend/.env.local
 deploy/.env
+icanhazip.com:443
 secrets.py
 sftp.json
 shared/.env
@@ -409,10 +411,8 @@ terraform.tfstate.backup
 wp-content/.env
 .env_1
 RDWeb
-api.ipinfo.io:443
 app/.env.local
 backup.tar.gz
-icanhazip.com:443
 local_settings.py
 wp-config.bak
 .circleci/config.yml
