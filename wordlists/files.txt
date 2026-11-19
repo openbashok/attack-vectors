@@ -71,8 +71,8 @@ db.sql
 error.log
 web
 .env.json
-%2eenv
 sse
+%2eenv
 wp-config.php.bak
 package-lock.json
 package.json
@@ -236,6 +236,7 @@ api.ipinfo.io:443
 auth
 db.php
 icanhazip.com:443
+server-status
 service-account.json
 www.zip
 .env.copy
@@ -247,7 +248,6 @@ docker-compose.override.yml
 env.php
 environ
 formLogin
-server-status
 .env.qa
 .env_1
 .env_old

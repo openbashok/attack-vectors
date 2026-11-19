@@ -55,9 +55,9 @@ settings/.env
 storage/logs/laravel.log
 v1/.env
 credentials.json
+mcp
 test.php
 docker-compose.yaml
-mcp
 v2/.env
 client/.env
 old/.env
@@ -81,10 +81,10 @@ database.sql
 .env.json
 application.yml
 db.sql
+sse
 terraform.tfstate
 dashboard/.env
 env
-sse
 wp-config.php.bak
 .env.php
 application/.env
@@ -412,6 +412,7 @@ api/.env.local
 backup.zip
 config.yaml
 icanhazip.com:443
+server-status
 swagger.json
 terraform.tfvars
 www.zip
@@ -428,7 +429,6 @@ dist/.env
 docker-compose.override.yml
 docker-compose/.env
 openapi.json
-server-status
 server/.env.local
 vendor/.env
 .env_1

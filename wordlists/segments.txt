@@ -32,8 +32,8 @@ login
 credentials
 logs
 backend
-%%32%65%%32%65
 mcp
+%%32%65%%32%65
 .env.bak
 v1
 www
@@ -165,11 +165,11 @@ error.log
 geoserver
 .env.json
 files
+sse
 store
 %2eenv
 apis
 node
-sse
 wp-config.php.bak
 aws
 package-lock.json
@@ -433,6 +433,7 @@ mail
 master
 secrets
 self
+server-status
 service-account.json
 www.zip
 .env.copy
@@ -455,7 +456,6 @@ kyc
 libraries
 qa
 run
-server-status
 sonicui
 webui
 wordpress

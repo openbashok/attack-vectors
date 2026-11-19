@@ -51,10 +51,10 @@ storage/.env
 .svn/entries
 .well-known/security.txt
 settings/.env
+mcp
 storage/logs/laravel.log
 v1/.env
 credentials.json
-mcp
 v2/.env
 docker-compose.yaml
 old/.env
@@ -78,10 +78,10 @@ backup.sql
 backup/.env
 crm/.env
 database.sql
+sse
 application.yml
 db.sql
 env
-sse
 terraform.tfstate
 .env.php
 dashboard/.env
@@ -429,6 +429,7 @@ config.yaml
 config/config.php
 dist/.env
 docker-compose/.env
+server-status
 server/.env.local
 swagger.json
 terraform.tfvars
@@ -446,7 +447,6 @@ dana-na/auth/url_default/welcome.cgi
 docker-compose.override.yml
 instance/config.py
 openapi.json
-server-status
 var/www/.env
 vendor/.env
 .env.prod.local
