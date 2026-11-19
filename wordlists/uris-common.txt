@@ -195,6 +195,7 @@ erp/.env
 logs/.env
 requirements.txt
 v3/.env
+*
 .json
 client_secrets.json
 config.ini
@@ -206,7 +207,6 @@ node/.env
 sandbox/.env
 user/.env
 wp-config.php.backup
-*
 .aws/.env
 .bedrock/.env
 .claude/.env
@@ -326,6 +326,7 @@ lib/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
+owa/auth/logon.aspx
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -355,7 +356,6 @@ dev/.git/config
 files/.git/config
 media../.git/config
 media/.git/config
-owa/auth/logon.aspx
 project/.git/config
 sdk
 version
@@ -703,6 +703,7 @@ resources/.env
 root/.s3cfg
 s3/.env.bak
 s3/bucket.env
+sellers.json
 showLogin.cc
 sites/.env
 stag/.env
@@ -795,7 +796,6 @@ public/.env.production
 public/.env.staging
 repo/.env
 runtime-env.js
-sellers.json
 server/.env.production
 sonicui/7/login/
 ssl.key

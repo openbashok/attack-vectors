@@ -113,12 +113,12 @@ requirements.txt
 sitemap.xml
 .env.save.1
 wp-config.php.backup
+*
 .json
 client_secrets.json
 config.ini
 crossdomain.xml
 logs
-*
 .env.staging.local
 beta
 claude.env
@@ -186,13 +186,13 @@ config.inc.php
 hello.world
 test.hello
 wp-config.php.save
+logon.aspx
 sftp-config.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 swagger.json
 Jenkinsfile
 about
 index
-logon.aspx
 sdk
 .env.txt
 login.htm
@@ -437,6 +437,7 @@ main.js.map
 pma
 rdx_en.json.gz
 secrets.js
+sellers.json
 showLogin.cc
 smtp.env
 status
@@ -491,7 +492,6 @@ pom.xml
 register
 s3_config.json
 sample.env
-sellers.json
 serverless.yaml
 serverless.yml
 settings.local.json

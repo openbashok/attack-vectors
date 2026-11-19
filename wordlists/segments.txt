@@ -186,10 +186,10 @@ web.config
 k8s
 open
 parameters.yml
+*
 back
 bot
 v3
-*
 .env.stage
 API
 cache
@@ -251,13 +251,13 @@ database.config
 env.example
 facturacion
 infos
+owa
 php_error.log
 php_errors.log
 pos
 readme.md
 twilio.env
 .env.template
-owa
 sftp.json
 .env.uat
 build
@@ -337,6 +337,7 @@ yii
 zend
 V2
 ec
+logon.aspx
 manage
 openai
 phpmyadmin
@@ -354,7 +355,6 @@ backups
 downloads
 environments
 index
-logon.aspx
 media..
 .env.txt
 autodiscover
@@ -805,6 +805,7 @@ rdx
 rdx_en.json.gz
 samples
 secrets.js
+sellers.json
 ses
 showLogin.cc
 smtp.env
@@ -902,7 +903,6 @@ repo
 reports
 s3_config.json
 sample.env
-sellers.json
 serverless.yaml
 serverless.yml
 settings.local.json

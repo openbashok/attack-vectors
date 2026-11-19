@@ -196,6 +196,7 @@ erp/.env
 login
 logs/.env
 wp-config.php.backup
+*
 .json
 client_secrets.json
 config.ini
@@ -207,7 +208,6 @@ logs/
 node/.env
 sandbox/.env
 user/.env
-*
 .aws/.env
 .bedrock/.env
 .claude/.env
@@ -321,6 +321,7 @@ lib/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
+owa/auth/logon.aspx
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -350,7 +351,6 @@ dev/.git/config
 files/.git/config
 media../.git/config
 media/.git/config
-owa/auth/logon.aspx
 project/.git/config
 sdk
 version
@@ -710,6 +710,7 @@ react/.env
 resources/.env
 root/.s3cfg
 s3/.env.bak
+sellers.json
 showLogin.cc
 sites/.env
 stag/.env
@@ -811,7 +812,6 @@ public/.env.staging
 repo/.env
 routes/.env
 runtime-env.js
-sellers.json
 server/.env.production
 serverless.yaml
 serverless.yml
