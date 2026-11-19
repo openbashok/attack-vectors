@@ -1677,6 +1677,7 @@ zabbix
 9
 9.2.x
 9.3.x
+@id
 ADMIN
 APP
 Account
@@ -1738,6 +1739,7 @@ WebApp
 WebObjects
 \.\.env
 \\.env
+__vite-browser-external:%60);%7D%7D;import.meta.glob('.
 _build
 accessTokens.json
 acme.json
