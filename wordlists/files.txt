@@ -162,11 +162,11 @@ aws.json
 .npmrc
 HNAP1
 backup.zip
+json
 wc.db
 .env.secret
 admin
 health
-json
 .env.ci
 config.yml
 version
@@ -198,6 +198,7 @@ sdk
 login.htm
 welcome.cgi
 .env.1
+api
 files
 id_ed25519
 login.cgi
@@ -215,7 +216,6 @@ ws
 .travis.yml
 aaa9
 abc7
-api
 backup.tar.gz
 config.yaml
 mcp.json
