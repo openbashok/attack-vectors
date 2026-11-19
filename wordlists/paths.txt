@@ -262,11 +262,11 @@ build/.env
 admin/config.php
 app/.git/config
 config.php
+cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 www/.git/config
 +CSCOE+/logon.html
 .env.sandbox
 .htpasswd
-cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 config/database.php
 config/secrets.yml
 configuration/.env
@@ -276,13 +276,13 @@ configuration.php
 server/.git/config
 .git-credentials
 .ssh/id_rsa
+cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 config/app.php
 containers/json
 database/.env
 public/.git/config
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .htaccess
-cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 docker-compose.prod.yml
 index.html
 login.html
