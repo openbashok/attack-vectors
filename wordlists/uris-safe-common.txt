@@ -15,9 +15,9 @@ config/.env
 .env.dev
 config.json
 laravel/.env
-.env.backup
 get
 ip.cypher.rest:443
+.env.backup
 .env.test
 backend/.env
 .env.old
@@ -79,9 +79,9 @@ backup.sql
 backup/.env
 crm/.env
 database.sql
+developmentserver/metadatauploader
 application.yml
 db.sql
-developmentserver/metadatauploader
 env
 terraform.tfstate
 .env.php

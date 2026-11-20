@@ -32,9 +32,9 @@ HEAD
 .env.test
 settings.py
 info
-index.html
 get
 ip.cypher.rest:443
+index.html
 .env.local.php
 view
 .env.development
@@ -72,8 +72,8 @@ backup.sql
 db.sql
 error.log
 .env.json
-%2eenv
 metadatauploader
+%2eenv
 sh
 wp-config.php.bak
 package-lock.json
@@ -796,6 +796,7 @@ prelogin.esp
 private.pem
 prod.decrypt.private.php
 proxy
+readme.txt
 route
 routes
 rsc
@@ -1106,7 +1107,6 @@ products
 project.json
 proxy.php
 rclone.conf
-readme.txt
 refs
 requests
 resolve

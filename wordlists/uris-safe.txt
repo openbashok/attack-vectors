@@ -15,9 +15,9 @@ config/.env
 .env.dev
 config.json
 laravel/.env
-.env.backup
 get
 ip.cypher.rest:443
+.env.backup
 .env.test
 backend/.env
 .env.old
@@ -79,9 +79,9 @@ backup.sql
 backup/.env
 crm/.env
 database.sql
+developmentserver/metadatauploader
 application.yml
 db.sql
-developmentserver/metadatauploader
 env
 terraform.tfstate
 .env.php
@@ -4877,6 +4877,8 @@ wp-content/debug.log_v=18e6211304f051f0
 wp-content/dump.sql
 wp-content/mysql.sql
 wp-content/phpinfo.php
+wp-content/plugins/contact-form-7/includes/css/styles.css
+wp-content/plugins/contact-form-7/readme.txt
 wp-content/plugins/forminator/forminator.php
 wp-content/plugins/forminator/readme.txt
 wp-content/plugins/some-plugin/config.php
