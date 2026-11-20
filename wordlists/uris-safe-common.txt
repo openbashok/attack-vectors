@@ -299,6 +299,7 @@ hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+owa/auth/logon.aspx
 test.hello_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -326,7 +327,6 @@ lib/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
-owa/auth/logon.aspx
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -1099,6 +1099,7 @@ robots/.env
 root/.aws/config
 root/.boto
 routes/.env
+rpc/soap-axis/confluenceservice-v2_wsdl
 run/.env
 s3.key
 s3.secret
@@ -1622,7 +1623,7 @@ rest/oauth2-credential/auth
 rest/settings
 rest/users
 rest/workflows
-rpc/soap-axis/confluenceservice-v2_wsdl
+rpc/soap/jirasoapservice-v2_wsdl
 s-with-me-front/.env
 s3/config.json
 secret/config.json

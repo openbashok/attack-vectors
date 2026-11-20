@@ -234,12 +234,12 @@ rest
 .env.save.1
 Application
 erp
+owa
 wp-config.php.backup
 .json
 client_secrets.json
 config.ini
 crossdomain.xml
-owa
 sandbox
 stage
 .bedrock
@@ -330,6 +330,7 @@ php
 Dr0v
 config.inc.php
 hello.world
+logon.aspx
 manage
 pki-validation
 sdk
@@ -341,7 +342,6 @@ zend
 V2
 downloads
 ec
-logon.aspx
 openai
 phpmyadmin
 resources
@@ -613,6 +613,7 @@ phpmyadmin5
 projbackend
 redlion
 redmine
+rpc
 script
 sitemaps
 terraform
@@ -704,6 +705,7 @@ aws-ses.json
 bucket.env
 cgi-mod
 ci.yml
+confluenceservice-v2
 credentials.csv
 export
 gemini.json
@@ -722,10 +724,10 @@ private.key
 register
 releases
 route
-rpc
 setup.cgi
 showLogin.cc
 signin
+soap
 stats
 stripe
 swagger-ui
@@ -767,7 +769,6 @@ build.gradle
 check.js
 colors
 com
-confluenceservice-v2
 control
 controllers
 database.json
@@ -814,7 +815,7 @@ sellers.json
 ses
 shell
 smtp.env
-soap
+soap-axis
 sqladmin
 sqlmanager
 srv6_controller
@@ -911,7 +912,6 @@ serverless.yml
 settings.local.json
 setup
 sign_in
-soap-axis
 ssl.key
 studioserver
 symfony
@@ -1394,6 +1394,7 @@ items
 jasperserver
 jasperserver-pro
 jasperserverTest
+jirasoapservice-v2
 joomla
 js-plugin
 jsLibs
@@ -1989,7 +1990,6 @@ ip.ifconfig.dpdns.org:443
 is-sslvpn-enabled
 ise
 jaeger
-jirasoapservice-v2
 jobrunr
 jobs
 jobs_u

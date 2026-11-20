@@ -297,6 +297,7 @@ docker/.env
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+owa/auth/logon.aspx
 test.hello
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -321,7 +322,6 @@ lib/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
-owa/auth/logon.aspx
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -1123,6 +1123,7 @@ repos/.env
 robots/.env
 root/.aws/config
 root/.boto
+rpc/soap-axis/confluenceservice-v2
 run/.env
 s3.key
 s3.secret
@@ -1640,7 +1641,7 @@ rest/oauth2-credential/auth
 rest/settings
 rest/users
 rest/workflows
-rpc/soap-axis/confluenceservice-v2
+rpc/soap/jirasoapservice-v2
 s-with-me-front/.env
 s3/config.json
 secret.json
