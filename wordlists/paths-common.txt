@@ -421,6 +421,7 @@ www.zip
 .ssh/authorized_keys
 Gemfile.lock
 GponForm/diag_Form
+autodiscover/autodiscover.json
 backups/.env
 boaform/admin/formLogin
 composer.lock
@@ -437,7 +438,6 @@ vendor/.env
 HNAP1/
 actuator/configprops
 app/config/.env
-autodiscover/autodiscover.json
 compose/.env
 composer.json
 config/credentials.yml.enc
@@ -541,6 +541,7 @@ _static/.env
 admin
 admin/
 api/.env.production
+api/session/properties
 api/v1/.env
 application-prod.properties
 appsettings.Production.json
@@ -577,7 +578,6 @@ aab8
 admin-app/.env
 ansible.cfg
 api/config.env
-api/session/properties
 application.properties.bak
 auth.html
 autodiscover/autodiscover.xml
@@ -966,6 +966,7 @@ bgoldd/.env
 blankon/.env
 blob/.env
 blue/.env
+boaform/adminformLogout//boaform/admin/login.asp
 bootstrap.properties
 boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
@@ -1364,7 +1365,6 @@ bedrock/config.json
 bedrock/credentials
 bitcoind/.env
 blog/wp-json/batch/v1
-boaform/adminformLogout//boaform/admin/login.asp
 bootstrap.yml
 bootstrap/cache/config.php
 boxes/oracle-vagrant-boxes/OLCNE/.env

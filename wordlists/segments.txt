@@ -354,14 +354,15 @@ vue-heroes
 Jenkinsfile
 aaa9
 assets..
+autodiscover
 backups
+boaform
 environments
 index
 login.htm
 media..
 scripts
 .env.txt
-autodiscover
 conf
 login.cgi
 public_html
@@ -371,7 +372,6 @@ welcome.cgi
 .env.1
 Login
 LogonPoint
-boaform
 evox
 id_ed25519
 logon
@@ -431,6 +431,7 @@ wp-config.bak
 code
 db.php
 django
+login.asp
 mail
 master
 plugins
@@ -444,6 +445,7 @@ www.zip
 .terraform
 Gemfile.lock
 GponForm
+autodiscover.json
 bedrock
 composer.lock
 cron
@@ -455,7 +457,6 @@ environ
 formLogin
 kyc
 libraries
-login.asp
 qa
 run
 sonicui
@@ -469,7 +470,6 @@ wordpress
 7
 Current
 api-docs
-autodiscover.json
 azure
 batch
 bins
@@ -503,6 +503,8 @@ global-protect
 mailchimp
 market
 proc
+properties
+session
 sources
 tools
 vue
@@ -526,12 +528,10 @@ node_modules
 openai.json
 picture
 product
-properties
 protected
 react
 refs
 secure
-session
 webclient
 wp
 x.js
@@ -1001,6 +1001,7 @@ acme
 acme-challenge
 active-coins
 admin_login.html
+adminformLogout
 agc
 ai
 alpha
@@ -1273,7 +1274,6 @@ _phpinfo.php
 _phpmyadmin
 _phpmyadmin_
 a56f1a4933ad0bca
-adminformLogout
 admins
 ads.txt
 agent

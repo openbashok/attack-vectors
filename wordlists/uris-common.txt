@@ -424,6 +424,7 @@ wp-config.bak
 Gemfile.lock
 GponForm/diag_Form?images/
 api/.env.local
+autodiscover/autodiscover.json?@zdi/Powershell
 backup.zip
 composer.lock
 config.yaml
@@ -438,7 +439,6 @@ www.zip
 .ssh/authorized_keys
 HNAP1/
 app/config/.env
-autodiscover/autodiscover.json?@zdi/Powershell
 backups/.env
 compose/.env
 composer.json
@@ -533,6 +533,7 @@ _static/.env
 actuator/heapdump
 admin
 admin/
+api/session/properties
 api/v1/.env
 app/settings.py
 application-prod.yml
@@ -578,7 +579,6 @@ aab8
 admin-app/.env
 ansible.cfg
 api/.env.production
-api/session/properties
 application-prod.properties
 appsettings.Production.json
 auth.html
@@ -948,6 +948,7 @@ blankon/.env
 blob/.env
 blue/.env
 boaform/admin/formLogin?username=admin&psd=admin
+boaform/adminformLogout//boaform/admin/login.asp
 boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
 cdw-backend/.env
@@ -1343,7 +1344,6 @@ bedrock/.env
 bitcoind/.env
 blog/wp-json/batch/v1
 boaform/admin/formLogin?username=user&psd=user
-boaform/adminformLogout//boaform/admin/login.asp
 bootstrap.properties
 bootstrap/cache/config.php
 boxes/oracle-vagrant-boxes/OLCNE/.env
