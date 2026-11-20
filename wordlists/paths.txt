@@ -1145,6 +1145,7 @@ services/traefik/.env
 settings.ini
 setup.php
 setup/.env
+shell
 site.sql
 soap
 speed.cloudflare.com:443
@@ -1660,7 +1661,6 @@ services/deployment-agent/.env
 services/minio/.env
 services/registry/.env
 settings
-shell
 shopdb/index.php
 signin
 site/.git/config

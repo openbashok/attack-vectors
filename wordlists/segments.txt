@@ -725,6 +725,7 @@ register
 releases
 route
 setup.cgi
+shell
 showLogin.cc
 signin
 soap
@@ -813,7 +814,6 @@ samples
 secrets.js
 sellers.json
 ses
-shell
 smtp.env
 soap-axis
 sqladmin

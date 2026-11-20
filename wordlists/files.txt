@@ -625,6 +625,7 @@ service-account-credentials.json
 services.php
 settings.ini
 setup.php
+shell
 site-profile.json
 site.sql
 soap
@@ -809,7 +810,6 @@ server_info.php
 service_account.json
 settings.js
 setup.md
-shell
 sitecore.version.xml
 smtp.php
 solr
