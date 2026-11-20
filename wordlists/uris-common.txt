@@ -431,6 +431,7 @@ config.yaml
 config/config.php
 dist/.env
 docker-compose/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 server/.env.local
 terraform.tfvars
 www.zip
@@ -445,7 +446,6 @@ composer.json
 current/.env
 dana-na/auth/url_default/welcome.cgi
 docker-compose.override.yml
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 openapi.json
 var/www/.env

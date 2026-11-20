@@ -443,6 +443,7 @@ www.zip
 .env.tmp
 .idea
 .terraform
+Current
 Gemfile.lock
 GponForm
 autodiscover.json
@@ -452,11 +453,14 @@ cron
 current
 diag_Form
 docker-compose.override.yml
+ecp
 env.php
 environ
+exporttool
 formLogin
 kyc
 libraries
+microsoft.exchange.ediscovery.exporttool.application
 qa
 run
 sonicui
@@ -468,7 +472,6 @@ wordpress
 .hg
 .netrc
 7
-Current
 api-docs
 azure
 batch
@@ -476,11 +479,8 @@ bins
 composer.json
 configprops
 credentials.yml.enc
-ecp
 env.js
-exporttool
 instance
-microsoft.exchange.ediscovery.exporttool.application
 myadmin
 url_default
 webpages

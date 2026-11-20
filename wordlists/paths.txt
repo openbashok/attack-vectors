@@ -429,6 +429,7 @@ config/config.php
 dist/.env
 docker-compose.override.yml
 docker-compose/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 openapi.json
 server/.env.local
 vendor/.env
@@ -444,7 +445,6 @@ config/credentials.yml.enc
 current/.env
 dana-na/auth/url_default/welcome.cgi
 development/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 var/www/.env
 .env.prod.local

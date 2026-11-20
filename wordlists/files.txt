@@ -250,6 +250,7 @@ docker-compose.override.yml
 env.php
 environ
 formLogin
+microsoft.exchange.ediscovery.exporttool.application
 .env.qa
 .env_1
 .env_old
@@ -259,7 +260,6 @@ composer.json
 configprops
 credentials.yml.enc
 env.js
-microsoft.exchange.ediscovery.exporttool.application
 wlwmanifest.xml
 .env.prod.local
 .env.yml
