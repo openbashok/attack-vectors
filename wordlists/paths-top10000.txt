@@ -1990,6 +1990,7 @@ api/system/system/error_reporting_enabled
 api/v1.0/environment
 api/v1/Accounts
 api/v1/check-version
+api/v1/member/root/exist
 api/v1/pods
 api/v2/about
 api/version

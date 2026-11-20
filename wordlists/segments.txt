@@ -280,6 +280,7 @@ remote
 %252eenv
 .env.sample
 config.py
+root
 HNAP1
 aws.json
 workflows
@@ -291,7 +292,6 @@ workflows
 .npmrc
 backup.zip
 mysql
-root
 wc.db
 .env.secret
 version
@@ -1897,6 +1897,7 @@ error_reporting_enabled
 example.env
 example02-golang-package
 executions
+exist
 express
 extlib
 faspex
@@ -2015,6 +2016,7 @@ main.pl
 manage.php
 manifests
 mariadb-test
+member
 memcached
 mentorg-lava-docker
 messages
