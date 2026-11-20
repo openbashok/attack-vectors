@@ -112,11 +112,11 @@ settings.json
 ../.env
 apps/.env
 cms/.env
+geoserver/web/
 new/.env
 secrets.yaml
 test/.env
 assets/.env
-geoserver/web/
 main/.env
 system/.env
 app_dev.php/_profiler/open?file=app/config/parameters.yml
@@ -186,6 +186,7 @@ login/.env
 server.key
 static/.env
 tmp/.env
+*
 .env.save.1
 .env.stage
 cache/.env
@@ -195,7 +196,6 @@ erp/.env
 logs/.env
 requirements.txt
 v3/.env
-*
 .json
 client_secrets.json
 config.ini
@@ -362,6 +362,7 @@ version
 .env.txt
 Jenkinsfile
 config/aws.yml
+files/
 login.htm
 manage/account/login
 .docker/config.json
@@ -372,7 +373,7 @@ aaa9
 actuator/health
 admin/index.html
 evox/about
-files/
+pub/
 settings.php
 .docker/.env
 .git/index
@@ -381,7 +382,6 @@ abc8
 config.inc.php
 config/master.key
 login.jsp
-pub/
 public_html/.env
 ws
 .env.test.local
@@ -389,6 +389,7 @@ abc7
 cgi-bin/login.cgi
 conf/.env
 config.py
+downloads/
 wp-config.php.orig
 wp-config.php~
 .env.2
@@ -396,7 +397,6 @@ wp-config.php~
 .travis.yml
 aab9
 app/.env.production
-downloads/
 remote/login
 .env.docker
 actuator/env
@@ -494,6 +494,7 @@ app.json
 app/etc/env.php
 audio/.env
 cgi-bin/.env
+cgi-bin/authLogin.cgi
 env/.env
 files/.env
 global-protect/login.esp
@@ -532,7 +533,6 @@ admin
 api/v1/.env
 app/settings.py
 application-prod.yml
-cgi-bin/authLogin.cgi
 client/.env.local
 config.inc.php.bak
 config/environment.rb
@@ -556,6 +556,7 @@ myapp/settings.py
 new/.env.local
 new/.env.staging
 php/.env
+portal/redlion
 redmine/.env
 sitemaps/.env
 tools/.env
@@ -595,7 +596,6 @@ hudson
 lab/.env
 logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
-portal/redlion
 psnlink/.env
 raw
 root/.aws/credentials
@@ -1297,6 +1297,7 @@ api/v1/
 api/v1/auto_login
 api/v1/config
 api/v1/config.json
+api/v1/member/root/exist
 api/v1/version
 api/v2/
 api/v2/config.json
@@ -1966,7 +1967,6 @@ api/system/system/error_reporting_enabled
 api/v1.0/environment
 api/v1/Accounts
 api/v1/check-version
-api/v1/member/root/exist
 api/v1/pods
 api/v2/about
 api/version

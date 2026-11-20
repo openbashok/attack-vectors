@@ -117,12 +117,12 @@ project/.env
 sendgrid.env
 test/.env
 cms/.env
+geoserver/web/
 main/.env
 .aws/config
 app_dev.php/_profiler/phpinfo
 assets/.env
 auth/.env
-geoserver/web/
 system/.env
 app_dev.php/_profiler/open
 bot/.env
@@ -189,6 +189,7 @@ login/.env
 requirements.txt
 static/.env
 v3/.env
+*
 .env.save.1
 cache/.env
 developer/.env
@@ -196,7 +197,6 @@ erp/.env
 login
 logs/.env
 wp-config.php.backup
-*
 .json
 client_secrets.json
 config.ini
@@ -356,6 +356,7 @@ project/.git/config
 version
 .docker/config.json
 .env.txt
+files/
 login.htm
 manage/account/login
 .env.1
@@ -367,7 +368,7 @@ actuator/health
 admin/index.html
 config/master.key
 evox/about
-files/
+pub/
 settings.php
 .docker/.env
 abc6
@@ -375,7 +376,6 @@ abc8
 conf/.env
 config.inc.php
 login.jsp
-pub/
 public_html/.env
 wp-config.php.orig
 wp-config.php~
@@ -387,11 +387,11 @@ abc7
 app/.env.production
 cgi-bin/login.cgi
 config.py
+downloads/
 .env.2
 aab9
 actuator/env
 deploy/.env
-downloads/
 terraform.tfstate.backup
 wp-content/.env
 .env.docker
@@ -500,6 +500,7 @@ app/settings.py
 application-prod.yml
 audio/.env
 cgi-bin/.env
+cgi-bin/authLogin.cgi
 credentials.yml
 docker/app/.env
 env.txt
@@ -540,7 +541,6 @@ api/.env.production
 api/v1/.env
 application-prod.properties
 appsettings.Production.json
-cgi-bin/authLogin.cgi
 client/.env.local
 config.inc.php.bak
 config/environment.rb
@@ -556,6 +556,7 @@ local.py
 manager/html
 myapp/settings.py
 php/.env
+portal/redlion
 redmine/.env
 sitemaps/.env
 vpn/index.html
@@ -599,7 +600,6 @@ logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
 new/.env.production
 nginx/.env
-portal/redlion
 psnlink/.env
 raw
 root/.aws/credentials
@@ -1316,6 +1316,7 @@ api/v1/
 api/v1/auto_login
 api/v1/config
 api/v1/config.json
+api/v1/member/root/exist
 api/v1/version
 api/v2/
 api/v2/config.json

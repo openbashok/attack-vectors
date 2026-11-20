@@ -18,8 +18,8 @@ test
 .env.local
 .env.production
 .%2e
-phpinfo
 web
+phpinfo
 .aws
 config.json
 .env.php
@@ -61,8 +61,8 @@ info
 phpinfo.php
 default
 staging
-laravel.log
 cgi-bin
+laravel.log
 env
 config.js
 debug
@@ -114,11 +114,11 @@ new
 administrator
 settings
 actuator
+portal
 secrets.json
 .env.dist
 data
 media
-portal
 .env.testing
 terraform.tfstate
 application
@@ -153,6 +153,7 @@ appsettings.json
 config.php.bak
 database.sql
 dump.sql
+geoserver
 images
 shared
 shop
@@ -161,11 +162,10 @@ application.properties
 backup.sql
 db.sql
 error.log
-geoserver
 sse
 .claude
-.env.json
 files
+.env.json
 store
 %2eenv
 apis
@@ -277,10 +277,10 @@ database.php
 json
 login.jsp
 remote
+root
 %252eenv
 .env.sample
 config.py
-root
 HNAP1
 aws.json
 workflows
@@ -313,6 +313,7 @@ logon.html
 users
 $(pwd)
 bdd
+pub
 wp-admin
 .git-credentials
 LICENSE
@@ -320,7 +321,6 @@ about
 account
 app.php
 etc
-pub
 workspace
 wp-includes
 .htaccess
@@ -337,6 +337,7 @@ wp-config.php.save
 yii
 zend
 V2
+downloads
 ec
 logon.aspx
 manage
@@ -352,7 +353,6 @@ vue-heroes
 Jenkinsfile
 assets..
 backups
-downloads
 environments
 index
 media..
@@ -548,6 +548,7 @@ adminer
 app.json
 application_default_credentials.json
 audio
+authLogin.cgi
 awstats
 begin
 cores
@@ -593,7 +594,6 @@ amplify
 app.js
 application-prod.properties
 appsettings.Production.json
-authLogin.cgi
 boxes
 cloud
 config.inc.php.bak
@@ -610,6 +610,7 @@ phpmyadmin3
 phpmyadmin4
 phpmyadmin5
 projbackend
+redlion
 redmine
 script
 sitemaps
@@ -672,7 +673,6 @@ nc_gina_ver.txt
 plugin-qiankun
 psnlink
 raw
-redlion
 routes
 runtime-env.js
 s3.json
@@ -1334,6 +1334,7 @@ env.bak
 env.dev.js
 env.development.js
 eventmanager
+exist
 expected
 extender.html
 f
@@ -1392,6 +1393,7 @@ mcp.yaml
 mcp.yml
 mcp_config.json
 me
+member
 micro-app-react
 minio
 mobile
@@ -1897,7 +1899,6 @@ error_reporting_enabled
 example.env
 example02-golang-package
 executions
-exist
 express
 extlib
 faspex
@@ -2016,7 +2017,6 @@ main.pl
 manage.php
 manifests
 mariadb-test
-member
 memcached
 mentorg-lava-docker
 messages
