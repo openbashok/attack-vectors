@@ -182,12 +182,12 @@ sendgrid.env
 service
 sql
 web.config
+*
 .docker
 k8s
 login.html
 open
 parameters.yml
-*
 back
 bot
 v3
@@ -342,6 +342,7 @@ zend
 V2
 downloads
 ec
+index
 openai
 phpmyadmin
 resources
@@ -358,7 +359,6 @@ autodiscover
 backups
 boaform
 environments
-index
 login.htm
 media..
 scripts
@@ -482,6 +482,8 @@ credentials.yml.enc
 env.js
 instance
 myadmin
+properties
+session
 url_default
 webpages
 wlwmanifest.xml
@@ -503,8 +505,6 @@ global-protect
 mailchimp
 market
 proc
-properties
-session
 sources
 tools
 vue
@@ -759,6 +759,7 @@ Final_Project
 PMA
 WEB-INF
 admin.php
+ai
 api_key.txt
 aws.env.json
 azure-openai.json
@@ -853,7 +854,6 @@ Exercise.Frontend
 Kubernetes
 Pipfile.lock
 adminpanel
-ai
 application.yaml
 astguiclient.php
 aws.php
@@ -913,6 +913,7 @@ serverless.yml
 settings.local.json
 setup
 sign_in
+site-profile.json
 ssl.key
 studioserver
 symfony
@@ -1166,7 +1167,6 @@ service-account-credentials.json
 services.php
 settings.ini
 setup.php
-site-profile.json
 site.sql
 speed.cloudflare.com:443
 sslvpnLogin.html

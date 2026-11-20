@@ -177,6 +177,7 @@ env.json
 saas/.env
 temp/.env
 .env.development.local
+_
 app/config/parameters.yml
 bak/.env
 bedrock.env
@@ -188,7 +189,6 @@ static/.env
 tmp/.env
 .env.save.1
 .env.stage
-_
 cache/.env
 content/.env
 developer/.env
@@ -369,6 +369,7 @@ config/aws.yml
 files/
 .docker/config.json
 .env.1
+.git/index
 .vscode/settings.json
 HNAP1
 actuator/health
@@ -377,7 +378,6 @@ login.jsp
 pub/
 settings.php
 .docker/.env
-.git/index
 abc6
 abc8
 cgi-bin/login.cgi
@@ -491,6 +491,7 @@ wp-admin/.env
 .ssh/config
 api
 api/metrics/run
+api/session/properties
 app.json
 app/etc/env.php
 audio/.env
@@ -533,7 +534,6 @@ _static/.env
 actuator/heapdump
 admin
 admin/
-api/session/properties
 api/v1/.env
 app/settings.py
 application-prod.yml
@@ -734,6 +734,7 @@ _profiler
 admin.php
 admin/modules/framework/amp_conf/var/www/html/admin/config.php
 administrator/
+ai/site-profile.json
 api/.env.staging
 api/shared/config/.env
 api/shared/config/config.env
@@ -893,7 +894,6 @@ admin/.env.local
 admin/.env.staging
 admin/login
 admin_login.html
-ai/site-profile.json
 alpha/.env
 amplify/team-provider-info.json
 anaconda/.env

@@ -108,10 +108,10 @@ env-config.js
 .env.live
 app.log
 server.key
+*
 .env.development.local
 credentials.xml
 requirements.txt
-*
 .env.save.1
 wp-config.php.backup
 .json
@@ -189,12 +189,12 @@ swagger.json
 test.hello
 wp-config.php.save
 about
+index
 sdk
 sftp-config.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 Jenkinsfile
 aaa9
-index
 login.htm
 .env.txt
 api
@@ -260,6 +260,7 @@ composer.json
 configprops
 credentials.yml.enc
 env.js
+properties
 wlwmanifest.xml
 .env.prod.local
 .env.yml
@@ -270,7 +271,6 @@ application-prod.yml
 config.php.old
 config.php~
 credentials.yml
-properties
 .env.yaml
 .envrc
 .yarnrc
@@ -496,6 +496,7 @@ serverless.yaml
 serverless.yml
 settings.local.json
 sign_in
+site-profile.json
 ssl.key
 terraform.tfvars.json
 trace
@@ -626,7 +627,6 @@ services.php
 settings.ini
 setup.php
 shell
-site-profile.json
 site.sql
 soap
 speed.cloudflare.com:443

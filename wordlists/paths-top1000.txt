@@ -179,6 +179,7 @@ saas/.env
 server.key
 temp/.env
 tmp/.env
+*
 .env.development.local
 .env.stage
 bak/.env
@@ -190,7 +191,6 @@ login/.env
 requirements.txt
 static/.env
 v3/.env
-*
 .env.save.1
 cache/.env
 developer/.env
@@ -359,10 +359,10 @@ project/.git/config
 version
 .docker/config.json
 .env.txt
+.git/index
 admin/index.html
 files/
 .env.1
-.git/index
 .vscode/settings.json
 HNAP1
 actuator/health
@@ -495,6 +495,7 @@ wp-admin/.env
 actuator/heapdump
 api
 api/metrics/run
+api/session/properties
 app.json
 app/etc/env.php
 app/settings.py
@@ -541,7 +542,6 @@ _static/.env
 admin
 admin/
 api/.env.production
-api/session/properties
 api/v1/.env
 application-prod.properties
 appsettings.Production.json
@@ -749,6 +749,7 @@ Pipfile.lock
 admin.php
 admin/modules/framework/amp_conf/var/www/html/admin/config.php
 administrator/
+ai/site-profile.json
 api-docs
 api/.env.staging
 api/src/.env
@@ -906,7 +907,6 @@ admin/.env.local
 admin/.env.staging
 admin/login
 admin_login.html
-ai/site-profile.json
 alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
