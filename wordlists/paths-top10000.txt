@@ -3690,6 +3690,7 @@ html.zip
 html/.git/
 html/.git/HEAD
 html/.git/reconx-2350875b8f0c
+html/index.html
 hub/.env
 hubspot/.env
 hx/api/about

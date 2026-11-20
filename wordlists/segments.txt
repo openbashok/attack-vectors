@@ -78,11 +78,11 @@ cms
 index.html
 .env.local.php
 get
+html
 ip.cypher.rest:443
 var
 view
 client
-html
 ..
 beta
 apps
