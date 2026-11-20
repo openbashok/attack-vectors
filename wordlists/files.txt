@@ -32,10 +32,10 @@ HEAD
 .env.test
 settings.py
 info
+index.html
 .env.local.php
 get
 ip.cypher.rest:443
-index.html
 view
 .env.development
 docker-compose.yml
@@ -64,8 +64,8 @@ site.zip
 appsettings.json
 config.php.bak
 database.sql
-dump.sql
 web
+dump.sql
 application.properties
 backup.sql
 db.sql
@@ -85,6 +85,7 @@ parameters.yml
 open
 .env.stage
 env.json
+login.html
 mysql.sql
 secrets.env
 .config.yaml
@@ -103,7 +104,6 @@ server.js
 bedrock.env
 configuration.json
 env-config.js
-login.html
 .env.live
 app.log
 server.key
@@ -146,9 +146,9 @@ wp-config.php.old
 .env.default
 .env_sample
 id_rsa
+login.jsp
 .env.preprod
 database.php
-login.jsp
 %252eenv
 .env.sample
 config.py
@@ -171,10 +171,10 @@ health
 config.yml
 version
 configuration.php
+logon.html
 settings.php
 .env.sandbox
 .htpasswd
-logon.html
 update
 .git-credentials
 app.php
@@ -195,14 +195,14 @@ swagger.json
 Jenkinsfile
 aaa9
 index
+login.htm
 .env.txt
 files
-login.htm
+login.cgi
 welcome.cgi
 .env.1
 api
 id_ed25519
-login.cgi
 master.key
 pub
 abc6
@@ -258,6 +258,7 @@ composer.json
 configprops
 credentials.yml.enc
 env.js
+login.asp
 microsoft.exchange.ediscovery.exporttool.application
 wlwmanifest.xml
 .env.prod.local
@@ -269,7 +270,6 @@ application-prod.yml
 config.php.old
 config.php~
 credentials.yml
-login.asp
 .env.yaml
 .envrc
 .yarnrc
