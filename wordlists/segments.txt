@@ -173,11 +173,11 @@ node
 sh
 wp-config.php.bak
 aws
+developmentserver
+metadatauploader
 package-lock.json
 package.json
 yarn.lock
-developmentserver
-metadatauploader
 sendgrid.env
 service
 sql
@@ -369,6 +369,7 @@ welcome.cgi
 .env.1
 Login
 LogonPoint
+aaa9
 evox
 id_ed25519
 login.cgi
@@ -376,7 +377,6 @@ logon
 master.key
 production
 RDWeb
-aaa9
 abc6
 abc8
 authorized_keys
@@ -694,6 +694,7 @@ wsman
 07-accessing-data
 1
 WebInterface
+_catalog
 adminer.sql
 airflow.cfg
 appsettings.production.json
@@ -749,7 +750,7 @@ Final_Project
 PMA
 WEB-INF
 Web
-_catalog
+aab8
 admin.php
 api_key.txt
 aws.env.json
@@ -846,7 +847,6 @@ xml
 Exercise.Frontend
 Kubernetes
 Pipfile.lock
-aab8
 adminpanel
 application.yaml
 astguiclient.php
@@ -1094,6 +1094,7 @@ health-check
 higlass-website
 home.tar.gz
 horizon
+hyper.Index
 iam
 icon
 identity
