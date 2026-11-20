@@ -14,8 +14,8 @@ api/.env
 .env.prod
 config/.env
 .env.dev
-laravel/.env
 config.json
+laravel/.env
 .env.backup
 .env.test
 backend/.env
@@ -159,6 +159,7 @@ phpinfo/
 sendgrid/.env
 sendgrid/.env.php
 server.js
+sitemap.xml
 test/.env.php
 twilio/.env.php
 var/.env.local.php
@@ -167,7 +168,6 @@ configuration.json
 data/.env
 env-config.js
 services/.env
-sitemap.xml
 administrator/.env
 app/config/parameters.yml
 assets/config.json
@@ -906,6 +906,7 @@ admin/.env.local
 admin/.env.staging
 admin/login
 admin_login.html
+ai/site-profile.json
 alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
@@ -1306,7 +1307,6 @@ administrator/web/index.php
 adminpanel
 ads.txt
 agora/.env
-ai/site-profile.json
 amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml

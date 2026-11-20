@@ -214,12 +214,12 @@ google-services.json
 kubernetes
 library
 server.js
+sitemap.xml
 %00.env
 bedrock.env
 configuration.json
 env-config.js
 platform
-sitemap.xml
 .env.live
 app.log
 bak
@@ -853,6 +853,7 @@ Exercise.Frontend
 Kubernetes
 Pipfile.lock
 adminpanel
+ai
 application.yaml
 astguiclient.php
 aws.php
@@ -1003,7 +1004,6 @@ active-coins
 admin_login.html
 adminformLogout
 agc
-ai
 alpha
 anaconda
 app-ads.txt
@@ -1166,6 +1166,7 @@ service-account-credentials.json
 services.php
 settings.ini
 setup.php
+site-profile.json
 site.sql
 speed.cloudflare.com:443
 sslvpnLogin.html
@@ -1525,7 +1526,6 @@ sessions
 settings.js
 setup.md
 shopdb
-site-profile.json
 sitecore
 sitecore.version.xml
 smtp

@@ -100,11 +100,11 @@ aws.env
 config.dev.php
 google-services.json
 server.js
+sitemap.xml
 %00.env
 bedrock.env
 configuration.json
 env-config.js
-sitemap.xml
 .env.live
 app.log
 server.key
@@ -625,6 +625,7 @@ service-account-credentials.json
 services.php
 settings.ini
 setup.php
+site-profile.json
 site.sql
 soap
 speed.cloudflare.com:443
@@ -809,7 +810,6 @@ service_account.json
 settings.js
 setup.md
 shell
-site-profile.json
 sitecore.version.xml
 smtp.php
 solr

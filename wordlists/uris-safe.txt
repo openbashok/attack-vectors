@@ -13,8 +13,8 @@ api/.env
 .env.prod
 config/.env
 .env.dev
-laravel/.env
 config.json
+laravel/.env
 .env.backup
 get
 ip.cypher.rest:443
@@ -156,6 +156,7 @@ mysql.sql
 phpinfo/
 sendgrid/.env
 sendgrid/.env.php
+sitemap.xml
 test/.env.php
 twilio/.env.php
 var/.env.local.php
@@ -168,7 +169,6 @@ env-config.js
 google-services.json
 server.js
 services/.env
-sitemap.xml
 administrator/.env
 assets/config.json
 beta/.env
@@ -893,6 +893,7 @@ admin/.env.local
 admin/.env.staging
 admin/login
 admin_login.html
+ai/site-profile.json
 alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
@@ -1285,7 +1286,6 @@ administrator/web/index.php_lang=en
 adminpanel
 ads.txt
 agora/.env
-ai/site-profile.json
 amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
