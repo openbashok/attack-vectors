@@ -929,6 +929,7 @@ NewWindow_2_all.js
 PTZOptics_powerby.png
 Pages
 Pulumi.yaml
+RPC2_Login
 Remote
 Telerik.Web.UI.WebResource.axd
 UI_String.js

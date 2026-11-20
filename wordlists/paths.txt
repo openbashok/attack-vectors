@@ -1887,6 +1887,7 @@ Public/.env
 Pulumi.yaml
 RDWeb/Pages/
 RDWeb/Pages/en-US/login.aspx
+RPC2_Login
 Remote
 Serve_time_server/.env
 Server_with_db/.env
