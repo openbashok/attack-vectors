@@ -66,11 +66,11 @@ appsettings.json
 config.php.bak
 database.sql
 dump.sql
+sse
 application.properties
 backup.sql
 db.sql
 error.log
-sse
 .env.json
 %2eenv
 metadatauploader
@@ -88,6 +88,7 @@ open
 env.json
 mysql.sql
 secrets.env
+sitemap.xml
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -100,7 +101,6 @@ aws.env
 config.dev.php
 google-services.json
 server.js
-sitemap.xml
 %00.env
 bedrock.env
 configuration.json
@@ -149,10 +149,10 @@ id_rsa
 login.jsp
 .env.preprod
 database.php
+v1
 %252eenv
 .env.sample
 config.py
-v1
 HNAP1
 aws.json
 json
@@ -167,9 +167,9 @@ backup.zip
 wc.db
 .env.secret
 health
+version
 .env.ci
 config.yml
-version
 configuration.php
 logon.html
 settings.php

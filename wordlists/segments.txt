@@ -34,12 +34,12 @@ mcp
 %%32%65%%32%65
 logs
 backend
-.env.bak
 v1
+.env.bak
 www
 frontend
-server
 robots.txt
+server
 storage
 core
 app_dev.php
@@ -72,8 +72,8 @@ tests
 .env.backup
 HEAD
 .env.test
-settings.py
 .well-known
+settings.py
 cms
 index.html
 get
@@ -157,12 +157,12 @@ geoserver
 dump.sql
 shared
 shop
+sse
 .kube
 application.properties
 backup.sql
 db.sql
 error.log
-sse
 .claude
 files
 .env.json
@@ -198,6 +198,7 @@ env.json
 twilio
 mysql.sql
 secrets.env
+sitemap.xml
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -214,7 +215,6 @@ google-services.json
 kubernetes
 library
 server.js
-sitemap.xml
 %00.env
 bedrock.env
 configuration.json
@@ -292,10 +292,10 @@ workflows
 .npmrc
 backup.zip
 mysql
+version
 wc.db
 wp-json
 .env.secret
-version
 .env.ci
 config.yml
 containers

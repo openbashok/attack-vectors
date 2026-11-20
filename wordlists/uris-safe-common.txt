@@ -47,15 +47,15 @@ www/.env
 core/.env
 api/.git/config
 html/.env
+mcp
 secrets.json
 storage/.env
 .svn/entries
-mcp
 settings/.env
+mcp/
 storage/logs/laravel.log
 v1/.env
 credentials.json
-mcp/
 v2/.env
 docker-compose.yaml
 old/.env
@@ -67,9 +67,9 @@ database.yml
 .env.production.local
 config.php.bak
 htdocs/.env
+sse
 appsettings.json
 dev/.env
-sse
 .env.dist
 .kube/config
 dump.sql
@@ -85,12 +85,12 @@ developmentserver/metadatauploader
 env
 terraform.tfstate
 .env.php
+api/mcp
 dashboard/.env
 package-lock.json
 staging/.env
 wp-config.php.bak
 yarn.lock
-api/mcp
 application/.env
 package.json
 secrets.yml
@@ -126,6 +126,7 @@ debug/default/view_panel=config
 demo/.env
 laravel.log
 secrets.env
+sitemap.xml
 store/.env
 test
 uploads/.env
@@ -156,7 +157,6 @@ mysql.sql
 phpinfo/
 sendgrid/.env
 sendgrid/.env.php
-sitemap.xml
 test/.env.php
 twilio/.env.php
 var/.env.local.php
@@ -342,6 +342,7 @@ test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+version
 workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 wp-config.php.save
 ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -361,7 +362,6 @@ manage/account/login
 media../.git/config
 media/.git/config
 project/.git/config
-version
 .env.txt
 Jenkinsfile
 admin/index.html
@@ -448,6 +448,7 @@ dana-na/auth/url_default/welcome.cgi
 docker-compose.override.yml
 instance/config.py
 openapi.json
+v1
 var/www/.env
 vendor/.env
 .env.prod.local
@@ -463,7 +464,6 @@ docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 laravel/.env.example
 src/.env.local
-v1
 .env.yaml
 .yarnrc
 127.0.0.1:801
