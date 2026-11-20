@@ -3232,6 +3232,7 @@ ztp/cgi-bin/handler
 ?phpinfo=1&v=18e621122da8e9eb
 ?pp=env&v=NMDDG
 ?pp=phpinfo
+?query=SELECT%20version%28%29
 ?rest_route=/batch/v1
 @fs/..%252f..%252f..%252f..%252f..%252fproc/self/environ?raw??
 @fs/..%252f..%252f..%252f..%252f..%252froot/.env?raw??
@@ -4029,6 +4030,7 @@ infra/%2eenv?v=yJACU
 infra/.env?v=18e6211f7aa94bb0
 infrastructure.zip
 inventories/hosts
+ipp
 javascript/validation/OEM.js
 jenkins/credentials
 jm0735rn23p2nc
@@ -4728,6 +4730,7 @@ uploads.zip
 uploads/%2eenv?v=enDsu
 uploads/backup.tar.gz
 uploads/backup.zip
+upnp/control/basicevent1
 user/%2eenv?v=g13dF
 user/config/config.js?v=18e6211cb0b568e3
 user/controllers/index.js?v=18e6211c94327d8b

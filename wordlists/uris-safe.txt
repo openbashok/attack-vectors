@@ -3300,6 +3300,7 @@ _profiler/phpinfo.php
 _profiler/phpinfo/info.php_v=18e62112232c0130
 _profiler/phpinfo/phpinfo.php_v=18e6211226e249cf
 _profiler/phpinfo_v=18e621122df9f3e6
+_query=SELECT%20version%28%29
 _rest_route=/batch/v1
 _rsc
 _site.zip
@@ -4029,6 +4030,7 @@ infra/%2eenv_v=yJACU
 infra/.env_v=18e6211f7aa94bb0
 infrastructure.zip
 inventories/hosts
+ipp
 javascript/validation/OEM.js
 jenkins/credentials
 jm0735rn23p2nc
@@ -4728,6 +4730,7 @@ uploads.zip
 uploads/%2eenv_v=enDsu
 uploads/backup.tar.gz
 uploads/backup.zip
+upnp/control/basicevent1
 user/%2eenv_v=g13dF
 user/config/config.js_v=18e6211cb0b568e3
 user/controllers/index.js_v=18e6211c94327d8b

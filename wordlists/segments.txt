@@ -706,6 +706,7 @@ bucket.env
 cgi-mod
 ci.yml
 confluenceservice-v2
+control
 credentials.csv
 export
 gemini.json
@@ -770,7 +771,6 @@ build.gradle
 check.js
 colors
 com
-control
 controllers
 database.json
 db.py
