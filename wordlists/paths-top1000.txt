@@ -41,8 +41,8 @@ _profiler/phpinfo
 server/.env
 .env.testing
 prod/.env
-www/.env
 config.js
+www/.env
 core/.env
 secrets.json
 security.txt

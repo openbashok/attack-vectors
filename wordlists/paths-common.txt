@@ -41,8 +41,8 @@ _profiler/phpinfo
 server/.env
 .env.testing
 prod/.env
-www/.env
 config.js
+www/.env
 core/.env
 secrets.json
 security.txt
@@ -1497,6 +1497,7 @@ icons/sphere1.png
 id_ecdsa
 identity
 identity/jsLibs/IdmBrandingBar.js
+images/transparentpix.gif
 index.jsp
 index.php.bak
 index.php~

@@ -821,6 +821,7 @@ sugar_version.json
 sunrise
 swagger-ui
 test_smtp.py
+transparentpix.gif
 user
 v2
 vault.yml
@@ -1131,7 +1132,6 @@ svs-path-check-nonexistent
 system:ping
 tile.vf
 token
-transparentpix.gif
 updates
 userInfos
 userfiles

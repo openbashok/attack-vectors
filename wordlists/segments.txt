@@ -63,8 +63,8 @@ cgi-bin
 default
 staging
 laravel.log
-env
 config.js
+env
 debug
 tests
 .env.old
@@ -147,13 +147,13 @@ wp-content
 local
 uploads
 .env.production.local
+images
 user
 .env.orig
 appsettings.json
 config.php.bak
 database.sql
 geoserver
-images
 dump.sql
 shared
 shop
@@ -1552,6 +1552,7 @@ testdata
 tiedostot
 todo-react
 token
+transparentpix.gif
 typeScriptProject
 typeScriptVisualizeProject
 typo3
@@ -2213,7 +2214,6 @@ tile.vf
 tos
 train
 translation
-transparentpix.gif
 ts
 typeScriptIntegrationProject
 uat
