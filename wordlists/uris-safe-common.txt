@@ -55,9 +55,9 @@ settings/.env
 storage/logs/laravel.log
 v1/.env
 credentials.json
+mcp/
 v2/.env
 docker-compose.yaml
-mcp/
 old/.env
 client/.env
 settings.py
@@ -69,11 +69,11 @@ config.php.bak
 htdocs/.env
 appsettings.json
 dev/.env
+sse
 .env.dist
 .kube/config
 dump.sql
 site.zip
-sse
 .env.json
 backup.sql
 backup/.env
@@ -90,11 +90,11 @@ package-lock.json
 staging/.env
 wp-config.php.bak
 yarn.lock
+api/mcp
 application/.env
 package.json
 secrets.yml
 shop/.env
-api/mcp
 debug.log
 info
 web.config

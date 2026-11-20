@@ -58,9 +58,9 @@ v1/.env
 credentials.json
 test.php
 docker-compose.yaml
+mcp/
 v2/.env
 client/.env
-mcp/
 old/.env
 settings.py
 .env.orig
@@ -76,9 +76,9 @@ backup/.env
 crm/.env
 dump.sql
 site.zip
+sse
 backup.sql
 database.sql
-sse
 .env.json
 application.yml
 db.sql
@@ -94,11 +94,11 @@ package.json
 secrets.yml
 staging/.env
 yarn.lock
+api/mcp
 debug.log
 shop/.env
 web.config
 ../.env
-api/mcp
 application.properties
 config.env
 debug/default/view
@@ -2740,6 +2740,7 @@ wp-json/wc/store/products
 wp-login/.env
 wrangler.toml
 www-data/.env
+www.baidu.com:443
 wwwroot/.env
 xml/info.xml
 xmldata
@@ -3405,6 +3406,7 @@ blog/
 blog/%2eenv
 blog/wp-config.php
 blog/wp-includes/wlwmanifest.xml
+boaform/adminformLogout//boaform/admin/login.asp
 braintree.env
 build../.env
 build.tar.gz

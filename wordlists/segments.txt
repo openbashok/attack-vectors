@@ -30,9 +30,9 @@ laravel
 .env.staging
 login
 credentials
+mcp
 %%32%65%%32%65
 logs
-mcp
 backend
 .env.bak
 v1
@@ -162,8 +162,8 @@ backup.sql
 db.sql
 error.log
 geoserver
-.claude
 sse
+.claude
 .env.json
 files
 store
@@ -415,6 +415,7 @@ terraform.tfstate.backup
 api.ipinfo.io:443
 auth.json
 babel-plugin-dotenv
+boaform
 console
 doc
 framework
@@ -444,7 +445,6 @@ www.zip
 Gemfile.lock
 GponForm
 bedrock
-boaform
 composer.lock
 cron
 current
@@ -519,6 +519,7 @@ en
 gcloud
 lang
 list
+login.asp
 metrics
 node_modules
 openai.json
@@ -561,7 +562,6 @@ gcp-credentials.json
 heapdump
 id_ecdsa
 javascript
-login.asp
 login.esp
 mailer
 metadata
@@ -2262,6 +2262,7 @@ wp-login
 wp_filemanager.php
 wrangler.toml
 www-data
+www.baidu.com:443
 xmldata
 zmusic-frontend
 ztp
