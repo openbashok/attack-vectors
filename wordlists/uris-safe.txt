@@ -1338,6 +1338,7 @@ bedrock/.env
 bitcoind/.env
 blog/wp-json/batch/v1
 boaform/admin/formLogin_username=user_psd=user
+boaform/adminformLogout//boaform/admin/login.asp
 bootstrap.properties
 bootstrap/cache/config.php
 boxes/oracle-vagrant-boxes/OLCNE/.env
@@ -2055,7 +2056,6 @@ bins/bin.arm5
 bins/bin.arm6
 bins/bin.sh4
 boaform/admin/formLogin
-boaform/adminformLogout//boaform/admin/login.asp
 bookchain-client/.env
 bootstrap.yml
 bootstrap/.env.example
