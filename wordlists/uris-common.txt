@@ -103,6 +103,7 @@ application.properties
 blog/.env
 config.env
 error.log
+geoserver/web/
 local/.env
 media/.env
 portal/.env
@@ -112,7 +113,6 @@ settings.json
 ../.env
 apps/.env
 cms/.env
-geoserver/web/
 new/.env
 secrets.yaml
 test/.env

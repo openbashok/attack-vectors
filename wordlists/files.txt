@@ -60,11 +60,11 @@ debug.log
 docker-compose.yaml
 site.zip
 .env.production.local
+web
 .env.orig
 appsettings.json
 config.php.bak
 database.sql
-web
 dump.sql
 application.properties
 backup.sql

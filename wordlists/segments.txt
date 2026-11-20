@@ -152,8 +152,8 @@ user
 appsettings.json
 config.php.bak
 database.sql
-dump.sql
 geoserver
+dump.sql
 images
 shared
 shop

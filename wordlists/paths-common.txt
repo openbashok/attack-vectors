@@ -111,13 +111,13 @@ settings.json
 .env.local.php
 apps/.env
 blog/.env
+geoserver/web/
 media/.env
 new/.env
 project/.env
 sendgrid.env
 test/.env
 cms/.env
-geoserver/web/
 main/.env
 .aws/config
 app_dev.php/_profiler/phpinfo
