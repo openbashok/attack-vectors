@@ -46,8 +46,8 @@ app_dev.php
 dev
 v2
 auth
-lib
 security.txt
+lib
 secrets.yaml
 assets
 .env.dev

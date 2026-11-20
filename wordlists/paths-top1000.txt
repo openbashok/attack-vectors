@@ -42,15 +42,15 @@ server/.env
 .env.testing
 prod/.env
 config.js
+security.txt
 www/.env
 core/.env
 secrets.json
-security.txt
+.well-known/security.txt
 .svn/entries
 api/.git/config
 html/.env
 storage/.env
-.well-known/security.txt
 mcp
 settings/.env
 storage/logs/laravel.log
