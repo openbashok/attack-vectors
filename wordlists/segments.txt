@@ -40,8 +40,8 @@ www
 frontend
 server
 storage
-core
 robots.txt
+core
 app_dev.php
 dev
 v2
@@ -225,12 +225,12 @@ bak
 developer
 saas
 server.key
+sitemap.xml
 .env.development.local
 content
 credentials.xml
 requirements.txt
 rest
-sitemap.xml
 .env.save.1
 Application
 erp

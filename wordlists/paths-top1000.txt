@@ -175,6 +175,7 @@ download/.env
 env.json
 saas/.env
 server.key
+sitemap.xml
 temp/.env
 tmp/.env
 .env.development.local
@@ -186,7 +187,6 @@ credentials.xml
 images/.env
 login/.env
 requirements.txt
-sitemap.xml
 static/.env
 v3/.env
 .env.save.1

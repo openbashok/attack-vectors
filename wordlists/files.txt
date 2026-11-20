@@ -107,10 +107,10 @@ login.html
 .env.live
 app.log
 server.key
+sitemap.xml
 .env.development.local
 credentials.xml
 requirements.txt
-sitemap.xml
 .env.save.1
 wp-config.php.backup
 *
