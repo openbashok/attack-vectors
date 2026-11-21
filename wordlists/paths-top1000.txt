@@ -475,6 +475,7 @@ docker/compose/withPostgres/.env
 global-protect/login.esp
 laravel/.env.example
 logon/LogonPoint/tmindex.html
+owa/auth/x.js
 private/.env
 sonicui/7/sslvpn-portal/
 src/.env.local
@@ -496,7 +497,6 @@ graphql
 id_rsa
 lib/.env
 mail/.env
-owa/auth/x.js
 protected/.env
 vpn/index.html
 wp-admin/.env

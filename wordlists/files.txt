@@ -292,6 +292,7 @@ main.js
 sslvpn-portal
 tmindex.html
 wsman
+x.js
 .dockerenv
 .envrc
 .ftpconfig
@@ -308,7 +309,6 @@ settings
 swagger-ui.html
 system
 wp-config.old
-x.js
 .env.aws
 .env.bak~
 .env.new
@@ -507,6 +507,7 @@ www.tar.gz
 .gitmodules
 .mcp.json
 .vault-token
+Auth
 Pipfile.lock
 app-ads.txt
 application.yaml
@@ -587,7 +588,6 @@ wp-settings.php
 .terraform.tfstate
 1
 7f13c0a9d8644f3ca0a563b6b56e49d7
-Auth
 CHANGELOG.txt
 Helpdesk.woa
 IPCamDesc.xml
@@ -1082,6 +1082,7 @@ environment.ts
 error_reporting_enabled
 example.env
 executions
+fast_setting_wifi_set
 fetch
 forgot-password
 gemini.yml

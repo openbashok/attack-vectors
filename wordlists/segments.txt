@@ -189,9 +189,9 @@ sql
 v3
 web.config
 k8s
+owa
 API
 download
-owa
 twilio
 .env.stage
 back
@@ -543,6 +543,7 @@ vue
 withMongo
 withPostgres
 wsman
+x.js
 .dockerenv
 .envrc
 .ftpconfig
@@ -573,7 +574,6 @@ swagger-ui.html
 telescope
 wp
 wp-config.old
-x.js
 ..;
 .env.aws
 .env.bak~
@@ -921,6 +921,7 @@ ztp_gate.php
 .vault-token
 .vercel
 08-routing
+Auth
 Exercise.Frontend
 Kubernetes
 Pages
@@ -1056,7 +1057,6 @@ Api
 App_Themes
 Archipel
 Assignment4
-Auth
 CFIDE
 CHANGELOG.txt
 Default
@@ -1449,6 +1449,7 @@ gemini
 gemini.config
 gitlab-ci
 global.asa
+goform
 google-ai.json
 group_vars
 havoc
@@ -2009,6 +2010,7 @@ executions
 express
 extensions
 extlib
+fast_setting_wifi_set
 favs
 fe
 fetch
@@ -2036,7 +2038,6 @@ github-connect
 global.asax
 go.sum
 gobuffalo
-goform
 google-ai.yml
 gotenv
 gql

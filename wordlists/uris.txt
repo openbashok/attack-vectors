@@ -473,6 +473,7 @@ docker/compose/withPostgres/.env
 global-protect/login.esp
 laravel/.env.example
 logon/LogonPoint/tmindex.html
+owa/auth/x.js
 service-account.json
 sonicui/7/sslvpn-portal/
 src/.env.local
@@ -493,7 +494,6 @@ credentials.py
 cron/.env
 ecosystem.config.js
 env/.env
-owa/auth/x.js
 private/.env
 protected/.env
 vpn/index.html
@@ -2348,6 +2348,7 @@ github-connect/.env
 github/.env
 global.asax
 go.sum
+goform/fast_setting_wifi_set
 google-ai.yml
 google/.env
 graphql/.env
@@ -2417,6 +2418,7 @@ localstart.cgi
 localstart.html
 localstart.jsp
 log/.env.example
+login/Auth
 login?pp=enable&pp=env
 logs/%252eenv
 m/.env
@@ -4144,7 +4146,6 @@ globals.php
 go.mod
 goautodial-agent/astguiclient.php
 goautodial/
-goform/fast_setting_wifi_set
 goform/setUsbUnload
 google-services.json?v=18e6211ddafb58bb
 gql
@@ -4373,7 +4374,6 @@ log.txt
 log/app.log?v=18e6211e01dbad22
 login/%252eenv
 login/?next=/
-login/Auth
 logs.tar.gz
 logs/app.log?v=18e6211e33ccbcc9
 logs/backup.zip

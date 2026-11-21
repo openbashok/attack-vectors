@@ -473,6 +473,7 @@ docker/compose/withPostgres/.env
 global-protect/login.esp
 laravel/.env.example
 logon/LogonPoint/tmindex.html
+owa/auth/x.js
 service-account.json
 sonicui/7/sslvpn-portal/
 src/.env.local
@@ -493,7 +494,6 @@ credentials.py
 cron/.env
 ecosystem.config.js
 env/.env
-owa/auth/x.js
 private/.env
 protected/.env
 vpn/index.html
