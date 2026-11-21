@@ -164,9 +164,9 @@ json
 .npmrc
 admin
 backup.zip
+health
 wc.db
 .env.secret
-health
 version
 .env.ci
 config.yml

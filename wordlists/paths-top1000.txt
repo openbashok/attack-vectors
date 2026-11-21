@@ -915,6 +915,7 @@ ansible/.env
 api/.env.example
 api/active-coins
 api/docs
+api/health
 api/settings
 api/shared/.env
 api/shared/config.env
@@ -996,4 +997,3 @@ configurations
 configurations.do
 connect.php
 connection.php
-crm/.env.local

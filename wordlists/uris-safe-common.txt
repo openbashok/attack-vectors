@@ -903,6 +903,7 @@ api-docs
 api/.env.example
 api/active-coins
 api/docs
+api/health
 api/settings
 api/sonicos/auth
 api/sonicos/tfa
@@ -1292,7 +1293,6 @@ ansible/vault.yml
 api-docs/
 api/client/update_arch=amd64_commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17_os=windows
 api/config.json
-api/health
 api/hyper.Index/config
 api/login
 api/route

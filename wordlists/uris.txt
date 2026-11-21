@@ -899,6 +899,7 @@ api-docs
 api/.env.example
 api/active-coins
 api/docs
+api/health
 api/settings
 api/sonicos/auth
 api/sonicos/tfa
@@ -1292,7 +1293,6 @@ ansible/vault.yml
 api-docs/
 api/client/update?arch=amd64&commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17&os=windows
 api/config.json
-api/health
 api/hyper.Index/config
 api/login
 api/route
@@ -1853,6 +1853,7 @@ $(pwd)/.env.staging
 ?etc/passwd../cmd.exe
 ?pp=enable&pp=env
 ?pp=env&pp=env
+?rest_route=/batch/v1
 ADMIN/.env
 APP/.env
 Account/Login
@@ -3233,7 +3234,6 @@ ztp/cgi-bin/handler
 ?pp=env&v=NMDDG
 ?pp=phpinfo
 ?query=SELECT%20version%28%29
-?rest_route=/batch/v1
 @fs/..%252f..%252f..%252f..%252f..%252fproc/self/environ?raw??
 @fs/..%252f..%252f..%252f..%252f..%252froot/.env?raw??
 @fs/..%2f..%2f..%2f..%2f..%2fapp/.env?raw??

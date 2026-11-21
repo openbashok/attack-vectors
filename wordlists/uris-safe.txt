@@ -903,6 +903,7 @@ api-docs
 api/.env.example
 api/active-coins
 api/docs
+api/health
 api/settings
 api/sonicos/auth
 api/sonicos/tfa
@@ -1292,7 +1293,6 @@ ansible/vault.yml
 api-docs/
 api/client/update_arch=amd64_commit=08059e95dacafe0bf6e5782f8e2c8ec9cd8c5a17_os=windows
 api/config.json
-api/health
 api/hyper.Index/config
 api/login
 api/route
@@ -1922,6 +1922,7 @@ _pp=env_pp=env
 _profiler/info
 _profiler/latest
 _profiler_v=hjcqU
+_rest_route=/batch/v1
 acme.json
 acme_challenges/.env
 actions-server/.env
@@ -3301,7 +3302,6 @@ _profiler/phpinfo/info.php_v=18e62112232c0130
 _profiler/phpinfo/phpinfo.php_v=18e6211226e249cf
 _profiler/phpinfo_v=18e621122df9f3e6
 _query=SELECT%20version%28%29
-_rest_route=/batch/v1
 _rsc
 _site.zip
 _watcher/_query/watches

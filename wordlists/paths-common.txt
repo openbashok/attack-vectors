@@ -915,6 +915,7 @@ ansible/.env
 api/.env.example
 api/active-coins
 api/docs
+api/health
 api/settings
 api/shared/.env
 api/shared/config.env
@@ -1314,7 +1315,6 @@ ansible/vault.yml
 api-docs/
 api/client/update
 api/config.json
-api/health
 api/hyper.Index/config
 api/login
 api/route
