@@ -33,17 +33,17 @@ frontend/.env
 info.php
 .env.development
 wp-config.php
+_profiler/phpinfo
 .git/HEAD
 admin/.env
-_profiler/phpinfo
 site/.env
 server/.env
 .env.testing
 prod/.env
 config.js
 security.txt
-www/.env
 .well-known/security.txt
+www/.env
 core/.env
 mcp
 api/.git/config
@@ -120,6 +120,7 @@ secrets.yaml
 assets/.env
 laravel.log
 main/.env
+sitemap.xml
 system/.env
 app_dev.php/_profiler/open?file=app/config/parameters.yml
 app_dev.php/_profiler/phpinfo
@@ -127,7 +128,6 @@ auth/.env
 debug/default/view?panel=config
 demo/.env
 secrets.env
-sitemap.xml
 store/.env
 test
 uploads/.env

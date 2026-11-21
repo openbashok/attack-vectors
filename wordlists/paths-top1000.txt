@@ -35,8 +35,8 @@ info.php
 .env.development
 wp-config.php
 .git/HEAD
-admin/.env
 _profiler/phpinfo
+admin/.env
 site/.env
 server/.env
 .env.testing
@@ -124,13 +124,13 @@ app_dev.php/_profiler/phpinfo
 assets/.env
 auth/.env
 laravel.log
+sitemap.xml
 system/.env
 app_dev.php/_profiler/open
 bot/.env
 demo/.env
 google-services.json
 secrets.env
-sitemap.xml
 store/.env
 test
 uploads/.env

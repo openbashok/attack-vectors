@@ -19,8 +19,8 @@ test
 .env.production
 .%2e
 .aws
-web
 phpinfo
+web
 config.json
 _profiler
 .env.php
@@ -46,9 +46,9 @@ v2
 app_dev.php
 dev
 auth
+security.txt
 assets
 lib
-security.txt
 phpinfo.php
 secrets.yaml
 .env.dev
@@ -70,10 +70,10 @@ tests
 .env.old
 .env.backup
 .svn
+.well-known
 HEAD
 static
 .env.test
-.well-known
 index.html
 settings.py
 cms
@@ -196,12 +196,12 @@ bot
 API
 cache
 env.json
+sitemap.xml
 twilio
 google-services.json
 mysql.sql
 rest
 secrets.env
-sitemap.xml
 .config.yaml
 .env.example.php
 .env.php-backup

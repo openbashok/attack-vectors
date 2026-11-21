@@ -86,10 +86,10 @@ sendgrid.env
 web.config
 .env.stage
 env.json
+sitemap.xml
 google-services.json
 mysql.sql
 secrets.env
-sitemap.xml
 .config.yaml
 .env.example.php
 .env.php-backup
