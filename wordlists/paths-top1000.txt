@@ -612,6 +612,7 @@ js/.env
 lab/.env
 logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
+manager/text/list
 new/.env.production
 nginx/.env
 psnlink/.env
@@ -661,7 +662,6 @@ enviroments/.env.production
 ext-js/app/common/zld_product_spec.js
 firebase-adminsdk.json
 id_dsa
-manager/text/list
 node_modules/.env
 private.key
 proc/self/environ

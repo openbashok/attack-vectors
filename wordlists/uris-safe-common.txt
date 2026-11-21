@@ -608,6 +608,7 @@ hudson
 lab/.env
 logon/LogonPoint/index.html
 logon/LogonPoint/tmindex.html
+manager/text/list
 psnlink/.env
 raw
 root/.env
@@ -654,7 +655,6 @@ ext-js/app/common/zld_product_spec.js
 firebase-adminsdk.json
 functions/.env
 js/.env
-manager/text/list
 new/.env.production
 nginx/.env
 proc/self/environ

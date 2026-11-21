@@ -278,6 +278,7 @@ authLogin.cgi
 config.php.old
 config.php~
 credentials.yml
+list
 main.js
 webui
 .dockerenv
@@ -290,7 +291,6 @@ credentials.py
 deploy.yml
 ecosystem.config.js
 heapdump
-list
 openai.json
 settings
 swagger-ui.html

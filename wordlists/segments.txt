@@ -398,6 +398,7 @@ authorized_keys
 backup.tar.gz
 deploy
 development
+manager
 pma
 private
 swagger
@@ -408,7 +409,6 @@ abc7
 anthropic
 config.yaml
 enviroments
-manager
 mcp.json
 ~
 .env.2
@@ -515,6 +515,7 @@ credentials.yml
 dbadmin
 environment
 global-protect
+list
 mailchimp
 market
 proc
@@ -537,7 +538,6 @@ ecosystem.config.js
 en
 heapdump
 javascript
-list
 metadata
 metrics
 node_modules
@@ -711,6 +711,7 @@ sslvpn-portal
 sslvpn_logon.shtml
 stag
 swagger-ui
+text
 themes
 tmindex.html
 wsman
@@ -763,7 +764,6 @@ soap
 stats
 stripe
 templates
-text
 ui
 upload
 vertex.json
