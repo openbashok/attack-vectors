@@ -33,8 +33,8 @@ frontend/.env
 info.php
 .env.development
 wp-config.php
-_profiler/phpinfo
 .git/HEAD
+_profiler/phpinfo
 admin/.env
 site/.env
 server/.env

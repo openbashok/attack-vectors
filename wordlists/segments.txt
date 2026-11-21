@@ -70,8 +70,8 @@ tests
 .env.old
 .env.backup
 .svn
-.well-known
 HEAD
+.well-known
 static
 .env.test
 index.html
