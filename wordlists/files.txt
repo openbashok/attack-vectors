@@ -230,6 +230,7 @@ api.ipinfo.io:443
 auth.json
 icanhazip.com:443
 local_settings.py
+login.asp
 openapi.json
 secrets.py
 server-status
@@ -237,7 +238,6 @@ wp-config.bak
 RDWeb
 auth
 db.php
-login.asp
 service-account.json
 www.zip
 .env.copy

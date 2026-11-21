@@ -745,6 +745,7 @@ app/.env.example
 authorized_keys
 bitbucket-pipelines.yml
 boaform/admin/formLogin?username=adminisp&psd=adminisp
+boaform/adminformLogout//boaform/admin/login.asp
 cdn-cgi/trace
 cgi-mod/index.cgi
 checkout/.env
@@ -949,7 +950,6 @@ blankon/.env
 blob/.env
 blue/.env
 boaform/admin/formLogin?username=admin&psd=admin
-boaform/adminformLogout//boaform/admin/login.asp
 boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
 cdw-backend/.env
