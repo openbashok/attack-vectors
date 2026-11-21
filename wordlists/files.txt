@@ -197,9 +197,9 @@ index
 login.cgi
 sftp-config.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
+api
 login.htm
 .env.txt
-api
 files
 master.key
 wp-config.php~

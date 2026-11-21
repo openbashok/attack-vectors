@@ -461,6 +461,7 @@ var/www/.env
 .remote-sync.json
 _layouts/15/error.aspx
 adminer.php
+api/
 auth.html
 cgi-bin/authLogin.cgi
 config.php_
@@ -484,7 +485,6 @@ Dockerfile
 aab8
 admin
 admin/login.asp
-api/
 config.php.old
 config.yml
 config/application.yml

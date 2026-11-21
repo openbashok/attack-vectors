@@ -460,6 +460,7 @@ var/www/.env
 .remote-sync.json
 Dockerfile
 _layouts/15/error.aspx
+api/
 auth.html
 cgi-bin/authLogin.cgi
 config.php.old
@@ -489,7 +490,6 @@ aab8
 actuator/heapdump
 admin
 admin/login.asp
-api/
 credentials.py
 ecosystem.config.js
 graphql
