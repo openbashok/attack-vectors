@@ -445,6 +445,7 @@ vendor/.env
 .ssh/authorized_keys
 HNAP1/
 actuator/configprops
+api/
 app/config/.env
 backups/.env
 compose/.env
@@ -461,7 +462,6 @@ var/www/.env
 .remote-sync.json
 _layouts/15/error.aspx
 adminer.php
-api/
 auth.html
 cgi-bin/authLogin.cgi
 config.php~
@@ -515,6 +515,7 @@ api/v1/.env
 app.json
 app/etc/env.php
 audio/.env
+boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/.env
 files/.env
 graphql
@@ -602,7 +603,6 @@ aws/credentials
 backend/.env.production
 backend/.git/config
 blogs/.env
-boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/welcome
 config.php.save
 cronlab/.env

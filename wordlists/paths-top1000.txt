@@ -443,6 +443,7 @@ wp-admin/admin-ajax.php
 .netrc
 HNAP1/
 adminer.php
+api/
 app/config/.env
 compose/.env
 config/credentials.yml.enc
@@ -460,7 +461,6 @@ var/www/.env
 .remote-sync.json
 Dockerfile
 _layouts/15/error.aspx
-api/
 auth.html
 cgi-bin/authLogin.cgi
 config.php.old
@@ -518,6 +518,7 @@ app/etc/env.php
 app/settings.py
 application-prod.yml
 audio/.env
+boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/.env
 credentials.yml
 docker/app/.env
@@ -604,7 +605,6 @@ awstats/.env
 backend/.env.production
 backend/.git/config
 blogs/.env
-boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/welcome
 config.php.save
 cronlab/.env

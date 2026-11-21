@@ -193,14 +193,15 @@ Jenkinsfile
 config.inc.php
 hello.world
 test.hello
+api
 index
 login.cgi
 sftp-config.json
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
-api
 login.htm
 .env.txt
 files
+login.asp
 master.key
 wp-config.php~
 .env.1
@@ -217,7 +218,6 @@ api-docs
 auth
 authorized_keys
 backup.tar.gz
-login.asp
 terraform.tfvars
 wp-config.php.orig
 ws
