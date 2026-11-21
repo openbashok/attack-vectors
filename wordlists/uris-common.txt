@@ -45,14 +45,14 @@ config.js
 www/.env
 .well-known/security.txt
 core/.env
+mcp
 api/.git/config
 html/.env
-mcp
 secrets.json
 storage/.env
 .svn/entries
-settings/.env
 mcp/
+settings/.env
 storage/logs/laravel.log
 v1/.env
 credentials.json
@@ -63,11 +63,11 @@ client/.env
 settings.py
 test.php
 database.yml
+sse
 .env.orig
 .env.production.local
 config.php.bak
 htdocs/.env
-sse
 appsettings.json
 dev/.env
 .env.dist
@@ -80,12 +80,12 @@ backup/.env
 crm/.env
 database.sql
 developmentserver/metadatauploader
+api/mcp
 application.yml
 db.sql
 env
 terraform.tfstate
 .env.php
-api/mcp
 dashboard/.env
 package-lock.json
 staging/.env
@@ -307,6 +307,7 @@ vendor/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+aaa9
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -349,7 +350,6 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
-aaa9
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -531,6 +531,7 @@ wp-config.old
 .vscode/.env
 .yarnrc.yml
 _static/.env
+aab8
 actuator/heapdump
 admin
 admin/
@@ -575,7 +576,6 @@ wp-content/uploads/
 .pypirc
 ReportServer
 _layouts/15/error.aspx
-aab8
 admin-app/.env
 ansible.cfg
 api/.env.production
