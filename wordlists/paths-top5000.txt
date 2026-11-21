@@ -81,9 +81,9 @@ site.zip
 backup/.env
 db.sql
 .env.json
+developmentserver/metadatauploader
 wp-config.php.bak
 application.yml
-developmentserver/metadatauploader
 env
 terraform.tfstate
 .env.php

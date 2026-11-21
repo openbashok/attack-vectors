@@ -166,11 +166,11 @@ shop
 application.properties
 .claude
 .env.json
+developmentserver
+metadatauploader
 store
 wp-config.php.bak
-developmentserver
 login.html
-metadatauploader
 %2eenv
 apis
 aws

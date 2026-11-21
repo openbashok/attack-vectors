@@ -79,8 +79,8 @@ site.zip
 .env.json
 crm/.env
 db.sql
-backup/.env
 developmentserver/metadatauploader
+backup/.env
 env
 wp-config.php.bak
 .env.php

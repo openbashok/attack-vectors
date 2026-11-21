@@ -72,9 +72,9 @@ sse
 error.log
 application.properties
 .env.json
+metadatauploader
 wp-config.php.bak
 login.html
-metadatauploader
 %2eenv
 package.json
 sh
