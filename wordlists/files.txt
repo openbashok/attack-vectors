@@ -65,11 +65,11 @@ appsettings.json
 database.sql
 config.php.bak
 dump.sql
+sse
 .env.orig
 backup.sql
 db.sql
 login.html
-sse
 error.log
 application.properties
 metadatauploader
@@ -102,11 +102,11 @@ mysql.sql
 aws.env
 server.js
 %00.env
+*
 .env.live
 bedrock.env
 configuration.json
 env-config.js
-*
 .env.development.local
 app.log
 server.key
@@ -149,8 +149,9 @@ wp-config.php.old
 .env.default
 id_rsa
 .env_sample
-.env.preprod
 v1
+.env.preprod
+version
 .env.sample
 HNAP1
 database.php
@@ -158,7 +159,6 @@ json
 %252eenv
 aws.json
 config.py
-version
 .env.swp
 .env~
 .npmrc
@@ -204,6 +204,7 @@ files
 login.asp
 master.key
 wp-config.php~
+ws
 .env.1
 id_ed25519
 index.js
@@ -220,7 +221,6 @@ authorized_keys
 backup.tar.gz
 terraform.tfvars
 wp-config.php.orig
-ws
 .env.test.local
 abc7
 config.yaml
@@ -329,8 +329,10 @@ html
 human.aspx
 id_ecdsa
 owa
+raw
 rdx_en.json.gz
 run
+socket.io
 status
 wp-config.php.txt
 .env.prev
@@ -345,6 +347,7 @@ wp-config.php.txt
 .git
 .pypirc
 .yarnrc.yml
+ReportServer
 actuator
 application-prod.properties
 appsettings.Production.json
@@ -368,7 +371,6 @@ wp-config.txt
 .env-sample
 .env.back
 .env.docker.dev
-ReportServer
 administrator
 amplify.yaml
 amplify.yml
@@ -385,11 +387,9 @@ hudson
 id_rsa.pub
 liveliness
 main.js.map
-raw
 runtime-env.js
 s3.json
 secrets.toml
-socket.io
 sslvpn_logon.shtml
 telescope
 welcome
@@ -508,6 +508,7 @@ www.tar.gz
 .mcp.json
 .vault-token
 Pipfile.lock
+app-ads.txt
 application.yaml
 astguiclient.php
 aws-exports.js
@@ -564,6 +565,7 @@ wp-load.php
 wp-settings.php
 %2F.env
 *.auto.tfvars
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2f..%2f..%2f..%2f.env
 .DS_Store
 .amplifyrc
@@ -595,7 +597,6 @@ access.log
 active-coins
 allversions
 app
-app-ads.txt
 app_dev.php
 appsettings.Development.json
 aws-codecommit
@@ -698,7 +699,6 @@ xml
 %2f.env.production
 %3Cinvalid%3Ehello.html
 %c0
-..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .ENV
 .bzr
 .drone.yml

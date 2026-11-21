@@ -52,8 +52,8 @@ secrets.json
 storage/.env
 .svn/entries
 storage/logs/laravel.log
-settings/.env
 mcp/
+settings/.env
 docker-compose.yaml
 test.php
 v1/.env
@@ -63,11 +63,11 @@ old/.env
 client/.env
 dev/.env
 settings.py
+sse
 .env.production.local
 appsettings.json
 config.php.bak
 database.yml
-sse
 .env.orig
 crm/.env
 dump.sql
@@ -82,11 +82,11 @@ site.zip
 .env.php
 db.sql
 staging/.env
+api/mcp
 backup/.env
 dashboard/.env
 env
 wp-config.php.bak
-api/mcp
 application.yml
 application/.env
 terraform.tfstate
@@ -162,6 +162,7 @@ google-services.json
 home/.env
 library/.env
 mysql.sql
+*
 administrator/.env
 aws.yml
 back/.env
@@ -170,7 +171,6 @@ data/.env
 env-config.js
 server.js
 services/.env
-*
 .env.development.local
 app/config/parameters.yml
 assets/config.json
@@ -291,6 +291,7 @@ index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 public/.git/config
 sdk
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+version
 .git-credentials
 .htaccess
 src/.git/config
@@ -311,7 +312,6 @@ test.hello?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
-version
 wp-config.php.save
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -372,6 +372,7 @@ project/.git/config
 admin/index.html
 config/aws.yml
 files/
+ws
 .docker/.env
 .env.1
 .git/index
@@ -387,7 +388,6 @@ abc8
 cgi-bin/login.cgi
 config.inc.php
 public_html/.env
-ws
 .env.test.local
 .travis.yml
 abc7
@@ -438,6 +438,7 @@ dist/.env
 docker-compose/.env
 server/.env.local
 terraform.tfvars
+v1
 vendor/.env
 .env.yml
 .env_1
@@ -453,7 +454,6 @@ current/.env
 dana-na/nc/nc_gina_ver.txt
 docker-compose.override.yml
 instance/config.py
-v1
 var/www/.env
 .env.prod.local
 .env.yaml
@@ -527,8 +527,10 @@ manager/html
 owa/
 panel/.env
 production/.env
+raw
 root/.aws/credentials
 sites/all/libraries/mailchimp/.env
+socket.io/?EIO=4&transport=websocket
 solr/admin/cores?action=STATUS&wt=json
 solr/admin/info/system
 vpn/js/rdx/core/lang/rdx_en.json.gz
@@ -548,6 +550,7 @@ webpages/login.html
 .ssh/id_dsa
 .vscode/.env
 .yarnrc.yml
+ReportServer
 _static/.env
 admin/
 app/settings.py
@@ -592,7 +595,6 @@ wp-content/uploads/
 .github/workflows/ci.yml
 .github/workflows/main.yml
 .pypirc
-ReportServer
 admin-app/.env
 ansible.cfg
 api/.env.production
@@ -616,10 +618,8 @@ hudson
 lab/.env
 manager/text/list
 psnlink/.env
-raw
 root/.env
 sites/default/settings.php
-socket.io/?EIO=4&transport=websocket
 sources/.env
 sslvpn_logon.shtml
 tests/.env
@@ -816,6 +816,7 @@ api/shared/config/.env
 api/shared/config/config.env
 api/src/.env
 api/v1/validate/code
+app-ads.txt
 app/.env.example
 authorized_keys
 aws-exports.js
@@ -902,6 +903,7 @@ $(pwd)/*.auto.tfvars
 $(pwd)/.terraform/terraform.tfstate
 $(pwd)/terraform.tfstate
 $(pwd)/terraform.tfvars
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .amplifyrc
 .circleci/.env
 .claude.json
@@ -975,7 +977,6 @@ api/v2/about
 api/version
 api/vip/i18n/api/v2/translation/products/vRNIUI/versions/1
 app
-app-ads.txt
 app/.terraform/terraform.tfstate
 app/amplify.yaml
 app/amplify.yml
@@ -1246,7 +1247,6 @@ $(pwd)/.env.production
 %3Cscript%3Ealert%281%29%3C/script%3E.html
 %c0
 %u002f/.env
-..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ../../../../etc/passwd
 .AWS_/credentials
 .DS_Store

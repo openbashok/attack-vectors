@@ -139,12 +139,12 @@ htdocs
 fixtures
 main
 test.php
+ws
 debug.log
 images
 bin
 docker-compose.yaml
 user
-ws
 docs
 site.zip
 .env.production.local
@@ -155,11 +155,11 @@ files
 local
 config.php.bak
 dump.sql
+sse
 .env.orig
 backup.sql
 db.sql
 login.html
-sse
 .kube
 error.log
 shared
@@ -179,10 +179,10 @@ node
 package.json
 sendgrid.env
 sh
+*
 .docker
 package-lock.json
 yarn.lock
-*
 parameters.yml
 service
 sql
@@ -273,13 +273,13 @@ s3
 .env.default
 id_rsa
 json
+version
 .env_sample
 database
 panel
 workflows
 .env.preprod
 packages
-version
 .env.sample
 HNAP1
 database.php
@@ -606,9 +606,11 @@ mailer
 management
 nginx
 rails
+raw
 rdx
 rdx_en.json.gz
 routes
+socket.io
 status
 template
 ubuntu
@@ -627,6 +629,7 @@ wp-config.php.txt
 .yarnrc.yml
 1
 1.0
+ReportServer
 _static
 amplify
 application-prod.properties
@@ -672,7 +675,6 @@ wp-config.txt
 .env.docker.dev
 09-managing-state
 Public
-ReportServer
 _ignition
 amplify.yaml
 amplify.yml
@@ -709,11 +711,9 @@ officescan
 plugin-qiankun
 products
 psnlink
-raw
 runtime-env.js
 s3.json
 secrets.toml
-socket.io
 sslvpn
 sslvpn_logon.shtml
 stag
@@ -927,6 +927,7 @@ Pages
 Pipfile.lock
 _debugbar
 adminpanel
+app-ads.txt
 application.yaml
 astguiclient.php
 aws-exports.js
@@ -1018,6 +1019,7 @@ $%28uname$%7BIFS%7D-n%29%7C%7Cwget$%7BIFS%7D-qO-$%7BIFS%7D-T$%7BIFS%7D4$%7BIFS%7
 %2F.env
 *.auto.tfvars
 .
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2f..%2f..%2f..%2f.env
 .AWS_
 .DS_Store
@@ -1083,7 +1085,6 @@ agc
 allversions
 alpha
 anaconda
-app-ads.txt
 app1-static
 app2-static
 app_nginx_static_path
@@ -1282,7 +1283,6 @@ zxtm
 %3Cscript%3Ealert%281%29%3C
 %c0
 %u002f
-..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .ENV
 .auth
 .bundle
