@@ -94,11 +94,11 @@ package.json
 yarn.lock
 application/.env
 debug.log
+geoserver/web/
 secrets.yml
 shop/.env
 .env.local.php
 blog/.env
-geoserver/web/
 info
 settings.json
 web.config
@@ -170,6 +170,7 @@ data/.env
 env-config.js
 server.js
 services/.env
+*
 .env.development.local
 app/config/parameters.yml
 assets/config.json
@@ -178,7 +179,6 @@ download/.env
 env.json
 saas/.env
 temp/.env
-*
 .env.stage
 bak/.env
 bedrock.env

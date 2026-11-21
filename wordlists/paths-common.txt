@@ -97,6 +97,7 @@ package-lock.json
 secrets.yml
 yarn.lock
 debug/default/view
+geoserver/web/
 settings.json
 shop/.env
 web.config
@@ -107,7 +108,6 @@ application.properties
 blog/.env
 config.env
 error.log
-geoserver/web/
 info
 local/.env
 portal/.env
@@ -170,6 +170,7 @@ configuration.json
 data/.env
 env-config.js
 services/.env
+*
 .env.development.local
 .env.stage
 assets/config.json
@@ -181,7 +182,6 @@ saas/.env
 server.key
 temp/.env
 tmp/.env
-*
 bak/.env
 bedrock.env
 content/.env

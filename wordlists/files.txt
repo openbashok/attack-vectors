@@ -59,9 +59,9 @@ debug.log
 docker-compose.yaml
 test.php
 site.zip
+web
 .env.production.local
 database.sql
-web
 config.php.bak
 dump.sql
 .env.orig
@@ -106,10 +106,10 @@ server.js
 bedrock.env
 configuration.json
 env-config.js
+*
 .env.development.local
 app.log
 server.key
-*
 credentials.xml
 requirements.txt
 .env.save.1

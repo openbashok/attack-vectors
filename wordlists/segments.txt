@@ -19,8 +19,8 @@ test
 .env.production
 .%2e
 .aws
-phpinfo
 web
+phpinfo
 config.json
 _profiler
 .env.php
@@ -133,10 +133,10 @@ aws.yml
 compose
 examples
 entries
+geoserver
 htdocs
 .vscode
 fixtures
-geoserver
 main
 debug.log
 images
@@ -181,13 +181,13 @@ sh
 open
 package-lock.json
 yarn.lock
+*
 parameters.yml
 sendgrid.env
 service
 sql
 v3
 web.config
-*
 k8s
 download
 .env.stage
@@ -764,6 +764,7 @@ stats
 stripe
 templates
 text
+ui
 upload
 vertex.json
 views
@@ -853,7 +854,6 @@ srv6_controller
 sslvpn
 stg
 symfony
-ui
 vars
 webadmin
 webdb
