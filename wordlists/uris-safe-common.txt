@@ -76,11 +76,11 @@ htdocs/.env
 .kube/config
 backup.sql
 database.sql
+developmentserver/metadatauploader
 site.zip
 .env.json
 .env.php
 db.sql
-developmentserver/metadatauploader
 staging/.env
 backup/.env
 dashboard/.env
@@ -352,6 +352,7 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 HNAP1
+actuator/health
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -368,7 +369,6 @@ media/.git/config
 project/.git/config
 .docker/config.json
 .env.txt
-actuator/health
 admin/index.html
 config/aws.yml
 files/

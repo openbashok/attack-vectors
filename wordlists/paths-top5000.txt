@@ -80,10 +80,10 @@ htdocs/.env
 site.zip
 backup/.env
 db.sql
+developmentserver/metadatauploader
 .env.json
 .env.php
 dashboard/.env
-developmentserver/metadatauploader
 staging/.env
 wp-config.php.bak
 application.yml
@@ -346,6 +346,7 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .docker/config.json
 HNAP1
+actuator/health
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -363,7 +364,6 @@ media/.git/config
 project/.git/config
 .env.txt
 .git/index
-actuator/health
 admin/index.html
 config/master.key
 files/
@@ -4716,6 +4716,7 @@ wp-content/plugins/site-editor/editor/extensions/pagebuilder/includes/ajax_short
 wp-content/plugins/some-plugin/config.php
 wp-content/plugins/wp-file-manager/lib/files/pentest_proof_6c9f30.php
 wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+wp-content/plugins/wp-file-manager/readme.txt
 wp-content/plugins/wp-migration-duplicator/includes/download.php
 wp-content/uploads/backup.zip
 wp-content/uploads/debug.log

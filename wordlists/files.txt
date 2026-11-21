@@ -72,8 +72,8 @@ login.html
 sse
 error.log
 application.properties
-.env.json
 metadatauploader
+.env.json
 wp-config.php.bak
 %2eenv
 open
@@ -143,9 +143,9 @@ tests
 tmp
 twilio.env
 admin
+health
 wp-config.php.old
 .env.uat
-health
 .env.default
 id_rsa
 .env_sample
@@ -541,6 +541,7 @@ local.xml
 openapi.yaml
 php.php
 phpmyadmin
+readme.txt
 register
 routes
 s3_config.json
@@ -662,7 +663,6 @@ param.cgi
 passwd
 portal
 production.json
-readme.txt
 rm-logo_small.png
 s3.key
 s3.secret

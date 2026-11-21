@@ -96,10 +96,10 @@ tmp
 log
 settings.json
 system
-temp
 wp-content
-prod
+temp
 actuator
+prod
 old
 .ssh
 wp-config.php
@@ -165,11 +165,11 @@ error.log
 shared
 shop
 application.properties
+developmentserver
+metadatauploader
 .claude
 .env.json
 apis
-developmentserver
-metadatauploader
 store
 wp-config.php.bak
 open
@@ -211,11 +211,11 @@ env.json
 rest
 sitemap.xml
 google-services.json
+health
 mysql.sql
 aws.env
 base
 dana-na
-health
 kubernetes
 library
 platform
@@ -307,10 +307,10 @@ vpn
 Login
 about
 containers
+plugins
 swagger.json
 users
 configuration.php
-plugins
 settings.php
 sites
 testing
@@ -987,6 +987,7 @@ order
 persistence
 php.php
 prisma
+readme.txt
 redis
 repo
 s3_config.json
@@ -1220,7 +1221,6 @@ preview
 production.json
 proxy
 r-seenet
-readme.txt
 release
 repos
 rm-logo_small.png
@@ -1666,6 +1666,7 @@ with-cookie-auth-fauna
 worker
 workers
 wp-config.php-backup
+wp-file-manager
 wp-pma-mod
 wwwroot
 xmldata
@@ -2343,7 +2344,6 @@ with-universal-configuration-build-time
 workflow
 wp-config.php.original
 wp-config.save
-wp-file-manager
 wp-login
 wp_filemanager.php
 wrangler.toml

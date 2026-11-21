@@ -76,11 +76,11 @@ htdocs/.env
 .kube/config
 backup.sql
 database.sql
+developmentserver/metadatauploader
 site.zip
 .env.json
 .env.php
 db.sql
-developmentserver/metadatauploader
 staging/.env
 backup/.env
 dashboard/.env
@@ -352,6 +352,7 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 HNAP1
+actuator/health
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -368,7 +369,6 @@ media/.git/config
 project/.git/config
 .docker/config.json
 .env.txt
-actuator/health
 admin/index.html
 config/aws.yml
 files/
@@ -5220,6 +5220,7 @@ wp-content/plugins/site-editor/editor/extensions/pagebuilder/includes/ajax_short
 wp-content/plugins/some-plugin/config.php
 wp-content/plugins/wp-file-manager/lib/files/pentest_proof_6c9f30.php
 wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php
+wp-content/plugins/wp-file-manager/readme.txt
 wp-content/plugins/wp-migration-duplicator/includes/download.php_file=../../../wp-config.php
 wp-content/uploads/backup.zip_v=18e621130ed52229
 wp-content/uploads/debug.log_v=18e621130ba5879a

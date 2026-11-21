@@ -80,10 +80,10 @@ htdocs/.env
 site.zip
 backup/.env
 db.sql
+developmentserver/metadatauploader
 .env.json
 .env.php
 dashboard/.env
-developmentserver/metadatauploader
 staging/.env
 wp-config.php.bak
 application.yml
@@ -346,6 +346,7 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .docker/config.json
 HNAP1
+actuator/health
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -363,7 +364,6 @@ media/.git/config
 project/.git/config
 .env.txt
 .git/index
-actuator/health
 admin/index.html
 config/master.key
 files/
