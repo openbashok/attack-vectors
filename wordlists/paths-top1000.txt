@@ -16,9 +16,9 @@ api/.env
 config/.env
 config.json
 laravel/.env
-.env.backup
 get
 ip.cypher.rest:443
+.env.backup
 .env.test
 backend/.env
 .env.old
@@ -886,6 +886,7 @@ public/.env.local
 public/.env.production
 public/.env.staging
 repo/.env
+rest/applinks/1.0/manifest
 routes/.env
 runtime-env.js
 server/.env.production
@@ -996,4 +997,3 @@ app-ads.txt
 app/.terraform/terraform.tfstate
 app/amplify.yaml
 app/amplify.yml
-app/code/community/Nosto/Tagging/.env

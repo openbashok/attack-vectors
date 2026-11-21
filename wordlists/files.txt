@@ -356,6 +356,7 @@ local.py
 mail.php
 main
 main.yml
+manifest
 redlion
 showLogin.cc
 uploads
@@ -384,7 +385,6 @@ hudson
 id_rsa.pub
 liveliness
 main.js.map
-manifest
 raw
 runtime-env.js
 s3.json

@@ -1,8 +1,8 @@
 .env
 config
 phpunit
-src
 .git
+src
 eval-stdin.php
 PHP
 Util
@@ -76,10 +76,10 @@ HEAD
 static
 .env.test
 settings.py
-cms
 get
-html
 ip.cypher.rest:443
+cms
+html
 var
 view
 .env.local.php
@@ -197,11 +197,11 @@ bot
 API
 cache
 env.json
+rest
 sitemap.xml
 twilio
 google-services.json
 mysql.sql
-rest
 secrets.env
 .config.yaml
 .env.example.php
@@ -625,9 +625,11 @@ wp-config.php.txt
 .pypirc
 .yarnrc.yml
 1
+1.0
 _static
 amplify
 application-prod.properties
+applinks
 appsettings.Production.json
 boxes
 cloud
@@ -641,6 +643,7 @@ install
 local.py
 mail.php
 main.yml
+manifest
 models
 myapp
 oracle-vagrant-boxes
@@ -667,7 +670,6 @@ wp-config.txt
 .env.back
 .env.docker.dev
 09-managing-state
-1.0
 Public
 ReportServer
 _ignition
@@ -676,7 +678,6 @@ amplify.yml
 ansible
 ansible.cfg
 application.properties.bak
-applinks
 autodiscover.xml
 back-end
 bedrock.json
@@ -703,7 +704,6 @@ lab
 latest
 liveliness
 main.js.map
-manifest
 officescan
 plugin-qiankun
 products
