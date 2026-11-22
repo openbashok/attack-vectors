@@ -40,8 +40,8 @@ server/.env
 site/.env
 .env.testing
 prod/.env
-mcp
 .well-known/security.txt
+mcp
 config.js
 core/.env
 security.txt
@@ -68,9 +68,9 @@ settings.py
 appsettings.json
 config.php.bak
 database.yml
+developmentserver/metadatauploader
 .env.orig
 crm/.env
-developmentserver/metadatauploader
 dump.sql
 htdocs/.env
 .env.dist

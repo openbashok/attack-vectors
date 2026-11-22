@@ -70,8 +70,8 @@ dump.sql
 backup.sql
 db.sql
 login.html
-error.log
 metadatauploader
+error.log
 application.properties
 .env.json
 wp-config.php.bak
@@ -157,6 +157,7 @@ version
 HNAP1
 database.php
 json
+logon.html
 %252eenv
 aws.json
 config.py
@@ -164,7 +165,6 @@ config.py
 .env~
 .npmrc
 backup.zip
-logon.html
 .%65%6e%76
 .env.config
 .env.dev.local

@@ -42,9 +42,9 @@ site/.env
 .env.testing
 prod/.env
 core/.env
+.well-known/security.txt
 config.js
 mcp
-.well-known/security.txt
 security.txt
 www/.env
 secrets.json
@@ -71,12 +71,12 @@ config.php.bak
 crm/.env
 .env.orig
 database.yml
+developmentserver/metadatauploader
 dump.sql
 .env.dist
 .kube/config
 backup.sql
 database.sql
-developmentserver/metadatauploader
 htdocs/.env
 site.zip
 backup/.env
@@ -249,8 +249,8 @@ twilio.env
 wp-config.php.old
 .env.default
 .env_sample
-.env.uat
 +CSCOE+/logon.html
+.env.uat
 .env~
 .npmrc
 .env.config
