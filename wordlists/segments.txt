@@ -147,13 +147,13 @@ docker-compose.yaml
 user
 docs
 site.zip
+sse
 .env.production.local
 .env:80
 appsettings.json
 database.sql
 files
 local
-sse
 config.php.bak
 dump.sql
 .env.orig
@@ -351,6 +351,7 @@ test.hello
 yii
 zend
 V2
+autodiscover
 conf
 downloads
 ec
@@ -366,7 +367,6 @@ solr
 static..
 vue-heroes
 assets..
-autodiscover
 backups
 dist
 environments
@@ -447,6 +447,7 @@ www.zip
 Current
 GponForm
 app.js
+autodiscover.json
 code
 configprops
 current
@@ -466,7 +467,6 @@ webclient
 Gemfile.lock
 aab8
 admin-ajax.php
-autodiscover.json
 bedrock
 composer.json
 composer.lock

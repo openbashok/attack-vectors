@@ -59,11 +59,11 @@ test.php
 debug.log
 docker-compose.yaml
 site.zip
+sse
 web
 .env.production.local
 appsettings.json
 database.sql
-sse
 config.php.bak
 dump.sql
 .env.orig
@@ -245,6 +245,7 @@ server-status
 service-account.json
 www.zip
 app.js
+autodiscover.json
 configprops
 diag_Form
 microsoft.exchange.ediscovery.exporttool.application
@@ -253,7 +254,6 @@ microsoft.exchange.ediscovery.exporttool.application
 Gemfile.lock
 aab8
 admin-ajax.php
-autodiscover.json
 composer.json
 composer.lock
 docker-compose.override.yml

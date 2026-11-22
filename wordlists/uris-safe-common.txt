@@ -40,11 +40,11 @@ server/.env
 site/.env
 .env.testing
 prod/.env
+mcp
 .well-known/security.txt
 config.js
 core/.env
 security.txt
-mcp
 www/.env
 api/.git/config
 html/.env
@@ -419,6 +419,7 @@ wp-content/.env
 .env_1
 GponForm/diag_Form_images/
 app/.env.local
+autodiscover/autodiscover.json_@zdi/Powershell
 backup.zip
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 local_settings.py
@@ -431,7 +432,6 @@ www.zip
 Gemfile.lock
 aab8
 api/.env.local
-autodiscover/autodiscover.json_@zdi/Powershell
 composer.json
 composer.lock
 config.yaml

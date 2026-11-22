@@ -43,10 +43,10 @@ site/.env
 prod/.env
 core/.env
 config.js
+mcp
 .well-known/security.txt
 security.txt
 www/.env
-mcp
 secrets.json
 .svn/entries
 api/.git/config
@@ -61,10 +61,10 @@ v1/.env
 credentials.json
 v2/.env
 old/.env
+sse
 client/.env
 dev/.env
 settings.py
-sse
 .env.production.local
 appsettings.json
 config.php.bak
@@ -417,6 +417,7 @@ www.zip
 .ssh/id_ed25519
 GponForm/diag_Form
 api/.env.local
+autodiscover/autodiscover.json
 config.yaml
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 terraform.tfvars
@@ -427,7 +428,6 @@ vendor/.env
 Gemfile.lock
 aab8
 actuator/configprops
-autodiscover/autodiscover.json
 backups/.env
 boaform/admin/formLogin
 composer.json
