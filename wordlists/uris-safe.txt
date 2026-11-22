@@ -518,6 +518,7 @@ app.json
 app/etc/env.php
 audio/.env
 cgi-bin/.env
+druid/index.html
 files/.env
 graphql
 id_rsa
@@ -568,7 +569,6 @@ docker/app/.env
 docker/compose/.env
 docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
-druid/index.html
 env.js
 env.txt
 frontend/.env.local
@@ -585,6 +585,7 @@ new/.env.staging
 php/.env
 portal/redlion
 redmine/.env
+remote/login_lang=en
 showLogin.cc
 sitemaps/.env
 tools/.env
@@ -619,7 +620,6 @@ health
 health/liveliness
 lab/.env
 psnlink/.env
-remote/login_lang=en
 root/.env
 sites/default/settings.php
 sources/.env

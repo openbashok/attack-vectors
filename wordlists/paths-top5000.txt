@@ -266,6 +266,7 @@ aaa9
 admin/config.php
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
+remote/login
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/.git/config
 .env.sandbox
@@ -282,7 +283,6 @@ configuration.php
 containers/json
 database/.env
 index.html
-remote/login
 server/.git/config
 version
 .git-credentials
@@ -523,6 +523,7 @@ audio/.env
 cgi-bin/.env
 credentials.yml
 docker/app/.env
+druid/index.html
 env.txt
 files/.env
 frontend/.env.local
@@ -577,7 +578,6 @@ django/settings.py
 docker/compose/.env
 docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
-druid/index.html
 env.js
 gcp-credentials.json
 hudson

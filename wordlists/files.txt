@@ -27,8 +27,8 @@ config.php
 laravel.log
 config.js
 .env.old
-.env.backup
 index.html
+.env.backup
 .env.test
 info
 HEAD

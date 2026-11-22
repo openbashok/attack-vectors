@@ -67,9 +67,9 @@ staging
 config.js
 debug
 .env.old
+index.html
 tests
 .env.backup
-index.html
 .env.test
 .svn
 .well-known
@@ -234,6 +234,7 @@ saas
 server.key
 credentials.xml
 login.jsp
+remote
 requirements.txt
 .env.save.1
 .github
@@ -247,7 +248,6 @@ wp-config.php.backup
 client_secrets.json
 config.ini
 crossdomain.xml
-remote
 sandbox
 stage
 .bedrock
@@ -601,6 +601,7 @@ begin
 cores
 db.sql.gz
 deployment.yaml
+druid
 end
 env.txt
 front
@@ -641,7 +642,6 @@ boxes
 cloud
 config.inc.php.bak
 develop
-druid
 environment.rb
 functions
 hudson
