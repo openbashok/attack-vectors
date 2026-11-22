@@ -30,8 +30,8 @@ public
 laravel
 .env.staging
 credentials
-v1
 mcp
+v1
 logs
 %%32%65%%32%65
 backend
@@ -153,9 +153,9 @@ appsettings.json
 database.sql
 files
 local
+sse
 config.php.bak
 dump.sql
-sse
 .env.orig
 backup.sql
 db.sql
@@ -196,6 +196,7 @@ twilio
 .env.stage
 back
 bot
+rest
 secrets.env
 .config.yaml
 .env.example.php
@@ -208,7 +209,6 @@ secrets.env
 cache
 config.dev.php
 env.json
-rest
 sitemap.xml
 google-services.json
 health
@@ -582,6 +582,7 @@ wp-config.old
 .env.project
 .env.save~
 .env.www
+1.0
 @fs
 ClientApp
 WebInterface
@@ -590,6 +591,7 @@ admin-app
 adminformLogout
 app.json
 application_default_credentials.json
+applinks
 audio
 awstats
 begin
@@ -604,6 +606,7 @@ human.aspx
 id_ecdsa
 mailer
 management
+manifest
 nginx
 rails
 raw
@@ -628,12 +631,10 @@ wp-config.php.txt
 .pypirc
 .yarnrc.yml
 1
-1.0
 ReportServer
 _static
 amplify
 application-prod.properties
-applinks
 appsettings.Production.json
 boxes
 cloud
@@ -647,7 +648,6 @@ install
 local.py
 mail.php
 main.yml
-manifest
 models
 myapp
 oracle-vagrant-boxes
@@ -784,6 +784,7 @@ xmlrpc.php
 zld_product_spec.js
 %252f
 +CSCOT+
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .azure
 .c9
 .codex
@@ -1020,7 +1021,6 @@ $%28uname$%7BIFS%7D-n%29%7C%7Cwget$%7BIFS%7D-qO-$%7BIFS%7D-T$%7BIFS%7D4$%7BIFS%7
 %2F.env
 *.auto.tfvars
 .
-..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2f..%2f..%2f..%2f.env
 .AWS_
 .DS_Store

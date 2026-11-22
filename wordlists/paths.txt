@@ -53,8 +53,8 @@ api/.git/config
 html/.env
 storage/.env
 storage/logs/laravel.log
-test.php
 mcp/
+test.php
 settings/.env
 docker-compose.yaml
 v1/.env
@@ -64,11 +64,11 @@ old/.env
 client/.env
 dev/.env
 settings.py
+sse
 .env.production.local
 appsettings.json
 config.php.bak
 crm/.env
-sse
 .env.orig
 database.yml
 dump.sql
@@ -83,10 +83,10 @@ db.sql
 developmentserver/metadatauploader
 .env.json
 .env.php
+api/mcp
 dashboard/.env
 staging/.env
 wp-config.php.bak
-api/mcp
 application.yml
 application/.env
 env
@@ -688,6 +688,7 @@ vendor/laravel/.env
 wp-config.php.dist
 xmlrpc.php
 +CSCOT+/oem-customization
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .c9/metadata/environment/.env
 .config/gcloud/application_default_credentials.json
 .env.development.sample
@@ -782,6 +783,7 @@ react/.env
 remote
 remote/fgt_lang
 resources/.env
+rest/applinks/1.0/manifest
 root/.aws/config
 root/.s3cfg
 s3/.env.bak
@@ -887,7 +889,6 @@ public/.env.local
 public/.env.production
 public/.env.staging
 repo/.env
-rest/applinks/1.0/manifest
 routes/.env
 runtime-env.js
 server/.env.production
@@ -919,7 +920,6 @@ $(pwd)/.terraform/terraform.tfstate
 $(pwd)/terraform.tfstate
 $(pwd)/terraform.tfvars
 %2F.env
-..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .AWS_/credentials
 .DS_Store
 .amplifyrc

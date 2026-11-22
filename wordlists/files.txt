@@ -11,8 +11,8 @@ phpinfo
 config.json
 .env.example
 .env.staging
-credentials
 mcp
+credentials
 .env.bak
 robots.txt
 login
@@ -63,9 +63,9 @@ web
 .env.production.local
 appsettings.json
 database.sql
+sse
 config.php.bak
 dump.sql
-sse
 .env.orig
 backup.sql
 db.sql
@@ -328,6 +328,7 @@ gcp-credentials.json
 html
 human.aspx
 id_ecdsa
+manifest
 owa
 raw
 rdx_en.json.gz
@@ -359,7 +360,6 @@ local.py
 mail.php
 main
 main.yml
-manifest
 redlion
 showLogin.cc
 uploads
@@ -429,6 +429,7 @@ wp-config.php.dist
 wp-json
 xmlrpc.php
 zld_product_spec.js
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .env.development.sample
 .env.gz
 .env.js
@@ -566,7 +567,6 @@ wp-load.php
 wp-settings.php
 %2F.env
 *.auto.tfvars
-..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 ..%2f..%2f..%2f..%2f.env
 .DS_Store
 .amplifyrc

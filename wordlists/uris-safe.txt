@@ -44,15 +44,15 @@ prod/.env
 config.js
 core/.env
 security.txt
-www/.env
 mcp
+www/.env
 api/.git/config
 html/.env
 secrets.json
 storage/.env
 .svn/entries
-storage/logs/laravel.log
 mcp/
+storage/logs/laravel.log
 settings/.env
 docker-compose.yaml
 test.php
@@ -60,10 +60,10 @@ v1/.env
 v2/.env
 credentials.json
 old/.env
+sse
 client/.env
 dev/.env
 settings.py
-sse
 .env.production.local
 appsettings.json
 config.php.bak
@@ -80,9 +80,9 @@ developmentserver/metadatauploader
 site.zip
 .env.json
 .env.php
+api/mcp
 db.sql
 staging/.env
-api/mcp
 backup/.env
 dashboard/.env
 env
@@ -680,6 +680,7 @@ var/www/html/.env
 vendor/laravel/.env
 website/.env
 +CSCOT+/oem-customization_app=AnyConnect_type=oem_platform=.._resource-type=.._name=%2BCSCOE%2B/portal_inc.lua
+..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .c9/metadata/environment/.env
 .dockercfg
 .env.development.sample
@@ -776,6 +777,7 @@ react/.env
 remote
 remote/fgt_lang_lang=/../../../..//////////dev/cmdb/sslvpn_websession
 resources/.env
+rest/applinks/1.0/manifest
 root/.aws/config
 root/.s3cfg
 s3/.env.bak
@@ -873,7 +875,6 @@ public/.env.local
 public/.env.production
 public/.env.staging
 repo/.env
-rest/applinks/1.0/manifest
 runtime-env.js
 server/.env.production
 setup.php
@@ -899,7 +900,6 @@ wp-login.php
 wp-settings.php
 www.tar.gz
 xampp/.env
-..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .amplifyrc
 .circleci/.env
 .claude.json
