@@ -284,13 +284,13 @@ database/.env
 index.html
 remote/login
 server/.git/config
+version
 .git-credentials
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 config/app.php
 public/.git/config
 sdk
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-version
 .htaccess
 docker-compose.prod.yml
 docker/.env
@@ -316,6 +316,7 @@ vendor/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+actuator/health
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -346,7 +347,6 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .docker/config.json
 HNAP1
-actuator/health
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -421,6 +421,7 @@ autodiscover/autodiscover.json
 config.yaml
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 terraform.tfvars
+v1
 vendor/.env
 .env.copy
 .env.tmp
@@ -437,7 +438,6 @@ dist/.env
 docker-compose.override.yml
 docker-compose/.env
 server/.env.local
-v1
 wp-admin/admin-ajax.php
 .env.yml
 .env_1

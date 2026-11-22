@@ -97,8 +97,8 @@ log
 settings.json
 system
 wp-content
-temp
 actuator
+temp
 prod
 old
 .ssh
@@ -209,9 +209,9 @@ secrets.env
 cache
 config.dev.php
 env.json
+health
 sitemap.xml
 google-services.json
-health
 mysql.sql
 aws.env
 base
@@ -270,11 +270,11 @@ wp-config.php.old
 .env.uat
 root
 s3
+version
 .env.default
 boaform
 id_rsa
 json
-version
 .env_sample
 database
 panel

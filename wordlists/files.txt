@@ -132,6 +132,7 @@ database.config
 demo
 dev
 env.example
+health
 infos
 log
 php_error.log
@@ -143,15 +144,14 @@ tests
 tmp
 twilio.env
 admin
-health
 wp-config.php.old
 .env.uat
 .env.default
 id_rsa
-.env_sample
 v1
-.env.preprod
+.env_sample
 version
+.env.preprod
 .env.sample
 HNAP1
 database.php

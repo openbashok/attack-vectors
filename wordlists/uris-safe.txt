@@ -282,6 +282,7 @@ config/secrets.yml
 configuration.php
 database/.env
 server/.git/config
+version
 .ssh/id_rsa
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 config/app.php
@@ -291,7 +292,6 @@ index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 public/.git/config
 sdk
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-version
 .git-credentials
 .htaccess
 src/.git/config
@@ -319,6 +319,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.sample
 Jenkinsfile
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+actuator/health
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -352,7 +353,6 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 HNAP1
-actuator/health
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -425,6 +425,7 @@ ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 local_settings.py
 openapi.json
 server-status
+v1
 www.zip
 .env.copy
 .env.tmp
@@ -440,7 +441,6 @@ dist/.env
 docker-compose/.env
 server/.env.local
 terraform.tfvars
-v1
 vendor/.env
 .env.yml
 .env_old
