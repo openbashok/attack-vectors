@@ -279,13 +279,13 @@ database
 panel
 workflows
 .env.preprod
+boaform
 packages
 .env.sample
 HNAP1
 database.php
 %252eenv
 aws.json
-boaform
 config.py
 +CSCOE+
 .env.swp
@@ -370,6 +370,7 @@ backups
 dist
 environments
 evox
+login.asp
 login.htm
 media..
 scripts
@@ -380,13 +381,13 @@ webui
 RDWeb
 css
 graphql
-login.asp
 master.key
 public_html
 wp-config.php~
 .env.1
 id_ed25519
 index.js
+manager
 modules
 openapi.json
 production
@@ -402,7 +403,6 @@ authorized_keys
 backup.tar.gz
 deploy
 development
-manager
 pma
 private
 swagger
@@ -498,6 +498,7 @@ bins
 credentials.yml.enc
 env.js
 gcloud
+list
 main.js
 myadmin
 nc
@@ -529,7 +530,6 @@ dbadmin
 environment
 error.aspx
 jsp
-list
 login.esp
 login.php
 mailchimp
@@ -551,6 +551,7 @@ x.js
 .yarnrc
 127.0.0.1:801
 adminer
+adminformLogout
 amp_conf
 cgi-mod
 common
@@ -588,7 +589,6 @@ ClientApp
 WebInterface
 __fixtures__
 admin-app
-adminformLogout
 app.json
 application_default_credentials.json
 applinks
@@ -643,6 +643,7 @@ develop
 druid
 environment.rb
 functions
+hudson
 index.cgi
 install
 local.py
@@ -663,6 +664,7 @@ showLogin.cc
 sitemaps
 terraform
 test-become
+text
 website
 withMySQL
 withRedis
@@ -699,7 +701,6 @@ exapi
 exchange.asmx
 fedex
 front-end
-hudson
 id_rsa.pub
 inc
 jenkins
@@ -718,7 +719,6 @@ sslvpn
 sslvpn_logon.shtml
 stag
 swagger-ui
-text
 themes
 welcome
 xml

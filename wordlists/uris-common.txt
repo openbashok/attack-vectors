@@ -486,6 +486,7 @@ wsman
 Dockerfile
 admin
 admin/login.asp
+boaform/adminformLogout//boaform/admin/login.asp
 config.php.old
 config.yml
 config/application.yml
@@ -515,7 +516,6 @@ api/v1/.env
 app.json
 app/etc/env.php
 audio/.env
-boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/.env
 files/.env
 graphql
@@ -570,11 +570,13 @@ druid/index.html
 env.js
 env.txt
 frontend/.env.local
+hudson
 index.php
 kyc/.env
 laravel/core/.env
 local.py
 mailer/.env
+manager/text/list
 myapp/settings.py
 new/.env.local
 new/.env.staging
@@ -614,9 +616,7 @@ exapi/.env
 gcp-credentials.json
 health
 health/liveliness
-hudson
 lab/.env
-manager/text/list
 psnlink/.env
 root/.env
 sites/default/settings.php

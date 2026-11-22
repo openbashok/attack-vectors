@@ -491,6 +491,7 @@ wsman
 actuator/heapdump
 admin
 admin/login.asp
+boaform/adminformLogout//boaform/admin/login.asp
 credentials.py
 ecosystem.config.js
 graphql
@@ -518,7 +519,6 @@ app/etc/env.php
 app/settings.py
 application-prod.yml
 audio/.env
-boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/.env
 credentials.yml
 docker/app/.env
@@ -579,7 +579,9 @@ docker/compose/withRedis/.env
 druid/index.html
 env.js
 gcp-credentials.json
+hudson
 local.py
+manager/text/list
 myapp/settings.py
 php/.env
 portal/redlion
@@ -617,10 +619,8 @@ exapi/.env
 functions/.env
 health
 health/liveliness
-hudson
 js/.env
 lab/.env
-manager/text/list
 new/.env.production
 nginx/.env
 psnlink/.env
