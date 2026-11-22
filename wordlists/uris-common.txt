@@ -264,13 +264,13 @@ build/.env
 config.php
 login.html
 .env.secret
+aaa9
 admin/config.php
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/.git/config
 .env.sandbox
-aaa9
 config/database.php
 configuration/.env
 .env.swp
@@ -428,6 +428,7 @@ www.zip
 .env.tmp
 .ssh/id_ed25519
 Gemfile.lock
+aab8
 api/.env.local
 autodiscover/autodiscover.json?@zdi/Powershell
 composer.json
@@ -461,7 +462,6 @@ var/www/.env
 .netrc
 .remote-sync.json
 _layouts/15/error.aspx
-aab8
 adminer.php
 auth.html
 cgi-bin/authLogin.cgi

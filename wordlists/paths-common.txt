@@ -262,6 +262,7 @@ build/.env
 .env.secret
 config.php
 login.html
+aaa9
 admin/config.php
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
@@ -270,7 +271,6 @@ www/.git/config
 .env.sandbox
 .env.swp
 .htpasswd
-aaa9
 config/database.php
 config/secrets.yml
 configuration/.env
@@ -425,6 +425,7 @@ vendor/.env
 .env.tmp
 .ssh/authorized_keys
 Gemfile.lock
+aab8
 actuator/configprops
 autodiscover/autodiscover.json
 backups/.env
@@ -461,7 +462,6 @@ var/www/.env
 .remote-sync.json
 Dockerfile
 _layouts/15/error.aspx
-aab8
 auth.html
 cgi-bin/authLogin.cgi
 config.php.old
