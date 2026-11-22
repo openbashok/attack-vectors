@@ -11,9 +11,9 @@ vendor
 index.php
 favicon.ico
 admin
-app
 SDK
 webLanguage
+app
 test
 .env.local
 .env.production
