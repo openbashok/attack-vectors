@@ -30,9 +30,9 @@ web/.env
 frontend/.env
 src/.env
 .env.development
+info.php
 public/.env
 .gitlab-ci.yml
-info.php
 _profiler/phpinfo
 .git/HEAD
 wp-config.php
@@ -274,6 +274,7 @@ www/.git/config
 config/database.php
 config/secrets.yml
 configuration/.env
+owa/auth/logon.aspx
 .ssh/id_rsa
 .vscode/sftp.json
 admin/.git/config
@@ -281,7 +282,6 @@ configuration.php
 containers/json
 database/.env
 index.html
-owa/auth/logon.aspx
 remote/login
 server/.git/config
 .git-credentials
@@ -379,19 +379,19 @@ aab9
 abc6
 abc8
 actuator/env
+api.ipinfo.io:443
 cgi-bin/login.cgi
 conf/.env
 config.inc.php
+icanhazip.com:443
 public_html/.env
 wp-config.php.orig
 .env.test.local
 .git/logs/HEAD
 abc7
-api.ipinfo.io:443
 app/.env.production
 config.py
 downloads/
-icanhazip.com:443
 swagger.json
 .env.2
 .s3cfg
@@ -463,6 +463,7 @@ var/www/.env
 Dockerfile
 _layouts/15/error.aspx
 auth.html
+boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/authLogin.cgi
 config.php.old
 config.php~
@@ -491,7 +492,6 @@ wsman
 actuator/heapdump
 admin
 admin/login.asp
-boaform/adminformLogout//boaform/admin/login.asp
 credentials.py
 ecosystem.config.js
 graphql
