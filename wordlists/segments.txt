@@ -8,8 +8,8 @@ api
 PHP
 Util
 vendor
-index.php
 favicon.ico
+index.php
 admin
 app
 SDK
@@ -329,6 +329,7 @@ $(pwd)
 account
 bdd
 etc
+login.asp
 pub
 sdk
 wp-config.php.save
@@ -337,7 +338,6 @@ Jenkinsfile
 LICENSE
 app.php
 console
-login.asp
 workspace
 wp-includes
 .htaccess
@@ -417,13 +417,13 @@ abc7
 anthropic
 auth.json
 config.yaml
+doc
 enviroments
 mcp.json
 ~
 .env.2
 __tests__
 default_settings
-doc
 docker-compose
 id_dsa
 master
@@ -2185,6 +2185,7 @@ override-value
 p.php
 pa
 packed
+page
 page-editor
 pandora_console
 parity

@@ -39,10 +39,10 @@ wp-config.php
 server/.env
 site/.env
 .env.testing
+.well-known/security.txt
 core/.env
 mcp
 prod/.env
-.well-known/security.txt
 config.js
 security.txt
 www/.env
@@ -65,6 +65,7 @@ old/.env
 appsettings.json
 client/.env
 crm/.env
+favicon.ico/
 settings.py
 .env.production.local
 config.php.bak
@@ -170,6 +171,7 @@ back/.env
 configuration.json
 data/.env
 env-config.js
+login
 server.js
 services/.env
 .env.development.local
@@ -177,7 +179,6 @@ assets/config.json
 beta/.env
 download/.env
 env.json
-login
 saas/.env
 temp/.env
 .env.stage
@@ -4098,6 +4099,7 @@ django.tar.gz
 dknp3y2yhmw5ux
 dns-query?dns=MkcBAAABAAAAAAAAA2RvaAhvdmVyc2VhcwMxNzIDMjMzAzE2NQMxMzkIMjAyNjExMTIEdGVzdAl3aGl0ZWNodW4Ec2hvcAAAAQAB
 dns-query?dns=hZMBAAABAAAAAAAABmdvb2dsZQNjb20AAAEAAQ
+doc/page/login.asp
 docker-compose.override.yml?v=18e6211db3cc26c5
 docker-compose.prod.yml?v=18e6211c58d0a477
 docker-compose.yaml?v=18e6211059ab43f6
@@ -4156,7 +4158,6 @@ exports/.env
 extensions/.env
 extlib/.env
 extlib/.env?v=oiZjn
-favicon.ico/
 feature/.env
 feed/.env
 feedback/

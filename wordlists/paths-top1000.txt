@@ -42,8 +42,8 @@ site/.env
 .env.testing
 core/.env
 prod/.env
-mcp
 .well-known/security.txt
+mcp
 config.js
 security.txt
 www/.env
@@ -70,6 +70,7 @@ settings.py
 .env.production.local
 config.php.bak
 database.sql
+favicon.ico/
 .env.orig
 database.yml
 developmentserver/metadatauploader
@@ -154,6 +155,7 @@ var/.env.local.php
 app/config/parameters.yml
 bot/.env
 google-services.json
+login
 store/.env
 uploads/.env
 api/v2/.env
@@ -162,7 +164,6 @@ aws.yml
 base/.env
 docs/.env
 library/.env
-login
 mysql.sql
 server.js
 *
@@ -996,4 +997,3 @@ api/config
 api/docs
 api/health
 api/shared/.env
-api/shared/config.env

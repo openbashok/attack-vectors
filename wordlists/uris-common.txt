@@ -39,10 +39,10 @@ wp-config.php
 server/.env
 site/.env
 .env.testing
+.well-known/security.txt
 core/.env
 mcp
 prod/.env
-.well-known/security.txt
 config.js
 security.txt
 www/.env
@@ -65,6 +65,7 @@ old/.env
 appsettings.json
 client/.env
 crm/.env
+favicon.ico/
 settings.py
 .env.production.local
 config.php.bak
@@ -170,6 +171,7 @@ back/.env
 configuration.json
 data/.env
 env-config.js
+login
 server.js
 services/.env
 .env.development.local
@@ -177,7 +179,6 @@ assets/config.json
 beta/.env
 download/.env
 env.json
-login
 saas/.env
 temp/.env
 .env.stage
