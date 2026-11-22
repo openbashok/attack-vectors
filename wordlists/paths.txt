@@ -3812,6 +3812,7 @@ dist/bundle.js
 dist/main.js
 django.tar.gz
 dknp3y2yhmw5ux
+doc/page/login.asp
 docker/.env.local
 dockerfiles/sample.env
 docs.zip
