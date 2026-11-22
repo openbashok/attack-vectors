@@ -91,13 +91,13 @@ application.yml
 application/.env
 terraform.tfstate
 .env.local.php
+geoserver/web/
 info
 package-lock.json
 package.json
 yarn.lock
 config.env
 debug.log
-geoserver/web/
 media/.env
 secrets.yml
 sendgrid.env

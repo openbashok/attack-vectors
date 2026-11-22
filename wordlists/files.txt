@@ -59,8 +59,8 @@ test.php
 debug.log
 docker-compose.yaml
 site.zip
-sse
 web
+sse
 .env.production.local
 appsettings.json
 database.sql
@@ -654,6 +654,7 @@ logo.gif
 logo.png
 magento_version
 manifest.json
+meta
 metadata
 myadmin
 mysql.php
@@ -833,7 +834,6 @@ mcp.yaml
 mcp.yml
 mcp_config.json
 me
-meta
 modern
 mysql
 nbproject

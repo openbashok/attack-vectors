@@ -133,8 +133,8 @@ home
 aws.yml
 compose
 examples
-entries
 geoserver
+entries
 htdocs
 fixtures
 main
@@ -1200,6 +1200,7 @@ logo.png
 magento_version
 manifest.json
 manifests
+meta
 minimax
 misc
 mysql.php
@@ -1501,7 +1502,6 @@ mcp.yml
 mcp_config.json
 me
 member
-meta
 micro-app-react
 minio
 mobile

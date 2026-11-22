@@ -97,12 +97,12 @@ package.json
 .env.local.php
 config.env
 debug.log
+geoserver/web/
 info
 package-lock.json
 secrets.yml
 test/.env
 yarn.lock
-geoserver/web/
 media/.env
 sendgrid.env
 settings.json

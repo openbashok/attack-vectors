@@ -97,12 +97,12 @@ package.json
 .env.local.php
 config.env
 debug.log
+geoserver/web/
 info
 package-lock.json
 secrets.yml
 test/.env
 yarn.lock
-geoserver/web/
 media/.env
 sendgrid.env
 settings.json
@@ -2465,6 +2465,7 @@ memcached/.env
 mentorg-lava-docker/.env
 menu.aspx
 menu.jsa
+meta
 micro-app-react-communication/.env
 migrations/.env
 mindsweeper/gui/.env
@@ -4073,7 +4074,6 @@ menu.shtml
 message/.env
 messages/%2eenv
 messages/.env
-meta
 metadata/instance
 metrics
 mgmt/tmos

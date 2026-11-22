@@ -91,13 +91,13 @@ application.yml
 application/.env
 terraform.tfstate
 .env.local.php
+geoserver/web/
 info
 package-lock.json
 package.json
 yarn.lock
 config.env
 debug.log
-geoserver/web/
 media/.env
 secrets.yml
 sendgrid.env
@@ -2445,6 +2445,7 @@ memcached/.env
 mentorg-lava-docker/.env
 menu.aspx
 menu.jsa
+meta
 micro-app-react-communication/.env
 mindsweeper/gui/.env
 minified/.env
@@ -4425,7 +4426,6 @@ menu.shtml
 message/.env
 messages/%2eenv_v=8FAKR
 messages/.env
-meta
 metadata/instance
 metrics
 mgmt/tmos
