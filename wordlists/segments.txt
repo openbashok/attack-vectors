@@ -73,10 +73,10 @@ index.html
 .svn
 .well-known
 HEAD
-static
-.env.test
 get
 ip.cypher.rest:443
+static
+.env.test
 settings.py
 .env.local.php
 var
@@ -161,12 +161,12 @@ backup.sql
 db.sql
 login.html
 .kube
+developmentserver
 error.log
+metadatauploader
 shared
 shop
 application.properties
-developmentserver
-metadatauploader
 .claude
 .env.json
 apis

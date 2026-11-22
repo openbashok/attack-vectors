@@ -13,10 +13,10 @@ api/.env
 .aws/credentials
 config/.env
 .env.dev
-config.json
-laravel/.env
 get
 ip.cypher.rest:443
+config.json
+laravel/.env
 .env.backup
 backend/.env
 .env.test
@@ -70,13 +70,13 @@ config.php.bak
 database.yml
 .env.orig
 crm/.env
+developmentserver/metadatauploader
 dump.sql
 htdocs/.env
 .env.dist
 .kube/config
 backup.sql
 database.sql
-developmentserver/metadatauploader
 site.zip
 .env.json
 .env.php

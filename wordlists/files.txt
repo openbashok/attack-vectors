@@ -31,9 +31,9 @@ index.html
 info
 .env.backup
 HEAD
-.env.test
 get
 ip.cypher.rest:443
+.env.test
 settings.py
 .env.local.php
 view
@@ -71,8 +71,8 @@ backup.sql
 db.sql
 login.html
 error.log
-application.properties
 metadatauploader
+application.properties
 .env.json
 wp-config.php.bak
 %2eenv

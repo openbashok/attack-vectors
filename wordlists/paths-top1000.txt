@@ -15,9 +15,9 @@ api/.env
 config/.env
 .env.dev
 config.json
-laravel/.env
 get
 ip.cypher.rest:443
+laravel/.env
 .env.backup
 backend/.env
 .env.test
@@ -76,11 +76,11 @@ dump.sql
 .kube/config
 backup.sql
 database.sql
+developmentserver/metadatauploader
 htdocs/.env
 site.zip
 backup/.env
 db.sql
-developmentserver/metadatauploader
 .env.json
 .env.php
 api/mcp
