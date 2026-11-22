@@ -881,6 +881,7 @@ stripe.env
 sugar_version.json
 sunrise
 test_smtp.py
+tile.vf
 transparentpix.gif
 v2
 vault.yml
@@ -1193,7 +1194,6 @@ superset_config.py
 svs-path-check-nonexistent
 system.php
 system:ping
-tile.vf
 token
 upload.php
 userfiles

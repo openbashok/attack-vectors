@@ -1790,6 +1790,7 @@ test_smtp.py
 tests/default_settings/v11.0/.env
 tests/todo-react/.env
 tiedostot/.env
+tile.vf
 typo3/.env
 ui/.env
 urlmem-app/.env
@@ -2766,7 +2767,6 @@ thumb/.env
 thumb/.env.example
 thumbs/.env
 thumbs/.env.example
-tile.vf
 tmp/.env.example
 tmp/config/.env
 ts/prime/.env

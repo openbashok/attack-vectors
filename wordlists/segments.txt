@@ -1639,6 +1639,7 @@ sysadmin
 test_smtp.py
 testdata
 tiedostot
+tile.vf
 todo-react
 token
 transparentpix.gif
@@ -2298,7 +2299,6 @@ temanr9
 testfiles
 testwork_json
 theme_static
-tile.vf
 train
 ts
 typeScriptIntegrationProject
