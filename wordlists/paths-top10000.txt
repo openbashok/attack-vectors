@@ -15,14 +15,14 @@ api/.env
 config/.env
 .env.dev
 config.json
-laravel/.env
 get
 ip.cypher.rest:443
+laravel/.env
 .env.backup
 backend/.env
 .env.test
-.env.old
 phpinfo.php
+.env.old
 .env.example
 docker-compose.yml
 .env.staging

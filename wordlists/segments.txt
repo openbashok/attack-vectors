@@ -47,9 +47,9 @@ v2
 app_dev.php
 dev
 security.txt
+phpinfo.php
 assets
 lib
-phpinfo.php
 .env.save
 .env.dev
 secrets.yaml
@@ -72,11 +72,11 @@ index.html
 tests
 .env.test
 .well-known
+get
+ip.cypher.rest:443
 static
 .svn
 HEAD
-get
-ip.cypher.rest:443
 settings.py
 cms
 .env.development

@@ -30,10 +30,10 @@ config.js
 .env.backup
 index.html
 .env.test
-info
-HEAD
 get
 ip.cypher.rest:443
+info
+HEAD
 settings.py
 .env.development
 .env.local.php
