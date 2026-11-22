@@ -418,9 +418,11 @@ mcp.json
 .env.2
 __tests__
 _next
+api.ipinfo.io:443
 default_settings
 doc
 docker-compose
+icanhazip.com:443
 id_dsa
 master
 secrets
@@ -428,12 +430,10 @@ terraform.tfstate.backup
 wp-config.bak
 .env.docker
 .idea
-api.ipinfo.io:443
 auth.json
 babel-plugin-dotenv
 db.php
 framework
-icanhazip.com:443
 live
 local_settings.py
 pentest_proof_6c9f30.php
