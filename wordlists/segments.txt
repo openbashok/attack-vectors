@@ -75,9 +75,9 @@ index.html
 HEAD
 static
 .env.test
-settings.py
 get
 ip.cypher.rest:443
+settings.py
 .env.local.php
 var
 cms
@@ -346,6 +346,7 @@ Jenkinsfile
 config.inc.php
 hello.world
 pki-validation
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 test.hello
 yii
 zend
@@ -361,7 +362,6 @@ phpmyadmin
 resources
 sftp-config.json
 solr
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 static..
 vue-heroes
 assets..
@@ -411,18 +411,18 @@ wp-config.php.orig
 .env.test.local
 abc7
 anthropic
+api.ipinfo.io:443
 config.yaml
 enviroments
+icanhazip.com:443
 mcp.json
 ~
 .env.2
 __tests__
 _next
-api.ipinfo.io:443
 default_settings
 doc
 docker-compose
-icanhazip.com:443
 id_dsa
 master
 secrets
@@ -481,6 +481,7 @@ kyc
 libraries
 qa
 run
+session
 sonicos
 wordpress
 .env.qa
@@ -502,7 +503,6 @@ myadmin
 nc
 nc_gina_ver.txt
 properties
-session
 tools
 webpages
 wlwmanifest.xml

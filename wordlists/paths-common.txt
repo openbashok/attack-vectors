@@ -308,6 +308,7 @@ lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/src/Util/PHP/eval-stdin.php
+sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 test.hello
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -334,7 +335,6 @@ phpunit/phpunit/Util/PHP/eval-stdin.php
 public/index.php
 public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 sftp-config.json
-sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 static../.git/config
 test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -387,16 +387,16 @@ wp-config.php.orig
 .env.test.local
 .git/logs/HEAD
 abc7
+api.ipinfo.io:443
 app/.env.production
 config.py
 downloads/
+icanhazip.com:443
 swagger.json
 .env.2
 .s3cfg
-api.ipinfo.io:443
 backup.tar.gz
 deploy/.env
-icanhazip.com:443
 terraform.tfstate.backup
 wp-config.bak
 wp-content/.env
