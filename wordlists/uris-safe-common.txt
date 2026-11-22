@@ -33,9 +33,9 @@ info.php
 public/.env
 .gitlab-ci.yml
 _profiler/phpinfo
+admin/.env
 wp-config.php
 .git/HEAD
-admin/.env
 server/.env
 site/.env
 .env.testing
@@ -405,6 +405,7 @@ swagger.json
 .env.docker
 .s3cfg
 RDWeb
+api/.env.local
 backend/.env.local
 backup.tar.gz
 dana-na/auth/url_default/welcome.cgi
@@ -432,7 +433,6 @@ www.zip
 .ssh/id_ed25519
 Gemfile.lock
 aab8
-api/.env.local
 composer.json
 composer.lock
 config.yaml
@@ -510,6 +510,7 @@ wp-config.old
 .ssh/config
 actuator/heapdump
 api
+api/.env.production
 api/metrics/run
 api/session/properties
 api/v1/.env
@@ -553,6 +554,7 @@ webpages/login.html
 ReportServer
 _static/.env
 admin/
+admin/.env.production
 app/settings.py
 application-prod.yml
 client/.env.local
@@ -599,7 +601,6 @@ wp-content/uploads/
 .pypirc
 admin-app/.env
 ansible.cfg
-api/.env.production
 application-prod.properties
 appsettings.Production.json
 autodiscover/autodiscover.xml
@@ -618,6 +619,7 @@ health
 health/liveliness
 lab/.env
 psnlink/.env
+remote/login_lang=en
 root/.env
 sites/default/settings.php
 sources/.env
@@ -635,9 +637,9 @@ wp-content/uploads/pentest_proof_6c9f30.php
 .ssh/id_ecdsa
 __tests__/test-become/.env
 actuator
-admin/.env.production
 adminer.sql
 airflow.cfg
+api/.env.staging
 api/config.env
 app/config.php
 application.properties.bak
@@ -664,7 +666,6 @@ new/.env.production
 nginx/.env
 proc/self/environ
 releases/.env
-remote/login_lang=en
 rest/.env
 script/.env
 scripts/.env
@@ -702,10 +703,13 @@ Public/home/js/check.js
 RASHTML5Gateway/
 WebInterface/login.html
 admin.php
+admin/.env.local
+admin/.env.staging
 admin/assets/js/views/login.js
 admin/modules/framework/amp_conf/htdocs/admin/config.php
 admin_login.html
 api-docs
+api/.env.example
 api/config.php
 api/sonicos/auth
 api/sonicos/tfa
@@ -813,7 +817,6 @@ _profiler
 admin/modules/framework/amp_conf/var/www/html/admin/config.php
 administrator/
 ai/site-profile.json
-api/.env.staging
 api/shared/config/.env
 api/shared/config/config.env
 api/src/.env
@@ -959,8 +962,8 @@ _s=%3Cscript%3Ealert%28%22XSS%22%29%3B%3C%2Fscript%3E
 _s=UNION+SELECT+ALL+FROM+information_schema+AND+%27+or+SLEEP%285%29+or+%27
 acme-challenge/.env
 acme/.env
-admin/.env.local
-admin/.env.staging
+admin/.env.bak
+admin/.env.old
 admin/login
 admin/reports/status
 admin/reports/updates
@@ -970,7 +973,9 @@ alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
 ansible/.env
-api/.env.example
+api/.env.bak
+api/.env.dev
+api/.env.save
 api/active-coins
 api/docs
 api/health

@@ -34,9 +34,9 @@ info.php
 public/.env
 .gitlab-ci.yml
 _profiler/phpinfo
+admin/.env
 .git/HEAD
 wp-config.php
-admin/.env
 server/.env
 site/.env
 .env.testing
@@ -395,6 +395,7 @@ downloads/
 swagger.json
 .env.2
 .s3cfg
+api/.env.local
 backup.tar.gz
 deploy/.env
 terraform.tfstate.backup
@@ -416,7 +417,6 @@ shared/.env
 www.zip
 .ssh/id_ed25519
 GponForm/diag_Form
-api/.env.local
 autodiscover/autodiscover.json
 config.yaml
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
@@ -492,6 +492,7 @@ wsman
 actuator/heapdump
 admin
 admin/login.asp
+api/.env.production
 credentials.py
 ecosystem.config.js
 graphql
@@ -563,7 +564,7 @@ wp-content/debug.log
 ReportServer
 _static/.env
 admin/
-api/.env.production
+admin/.env.production
 application-prod.properties
 appsettings.Production.json
 aws/credentials
@@ -642,10 +643,10 @@ wp-content/uploads/pentest_proof_6c9f30.php
 .ssh/id_ecdsa
 __tests__/test-become/.env
 _profiler
-admin/.env.production
 adminer.sql
 airflow.cfg
 api-docs
+api/.env.staging
 app.js
 app/config.php
 appsettings.production.json
@@ -710,9 +711,12 @@ Public/home/js/check.js
 RASHTML5Gateway/
 WebInterface/login.html
 admin.php
+admin/.env.local
+admin/.env.staging
 admin/assets/js/views/login.js
 admin/modules/framework/amp_conf/htdocs/admin/config.php
 admin_login.html
+api/.env.example
 api/config.php
 api/shared/config/.env
 api/shared/config/config.env
@@ -825,7 +829,6 @@ Pipfile.lock
 admin/modules/framework/amp_conf/var/www/html/admin/config.php
 administrator/
 ai/site-profile.json
-api/.env.staging
 api/src/.env
 api/v1/validate/code
 app-ads.txt
@@ -971,8 +974,8 @@ _ignition/execute-solution
 _ignition/health-check
 acme-challenge/.env
 acme/.env
-admin/.env.local
-admin/.env.staging
+admin/.env.bak
+admin/.env.old
 admin/login
 admin/reports/status
 admin/reports/updates
@@ -982,7 +985,9 @@ alpha/.env
 amplify/team-provider-info.json
 anaconda/.env
 ansible/.env
-api/.env.example
+api/.env.bak
+api/.env.dev
+api/.env.save
 api/active-coins
 api/docs
 api/health
@@ -1080,6 +1085,7 @@ demo/.env.production
 demo/.env.staging
 dev/.env.staging
 developerslv/.env
+device.rsp
 directories/.env
 django_project_path/.env
 dniapi/userInfos
@@ -1523,7 +1529,6 @@ default/.env
 delivery/.env
 demo-app/.env
 deploy.json
-device.rsp
 devops/.env
 dist/config.json
 docker-compose/platform/.env
