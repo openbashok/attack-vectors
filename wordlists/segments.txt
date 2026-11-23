@@ -177,11 +177,11 @@ store
 .docker
 open
 %2eenv
+*
 aws
 node
 parameters.yml
 sh
-*
 package-lock.json
 yarn.lock
 owa
@@ -198,6 +198,7 @@ back
 bot
 rest
 secrets.env
+sitemap.xml
 .config.yaml
 .env.development.local
 .env.example.php
@@ -211,7 +212,6 @@ cache
 config.dev.php
 env.json
 health
-sitemap.xml
 google-services.json
 mysql.sql
 aws.env
@@ -302,10 +302,10 @@ mysql
 php
 wc.db
 .env.secret
+aaa9
 config.yml
 vpn
 Login
-aaa9
 about
 containers
 plugins
@@ -449,6 +449,7 @@ url_default
 www.zip
 Current
 GponForm
+aab8
 adminformLogout
 autodiscover.json
 code
@@ -471,7 +472,6 @@ wordpress
 .envrc
 .terraform
 Gemfile.lock
-aab8
 admin-ajax.php
 bedrock
 composer.json

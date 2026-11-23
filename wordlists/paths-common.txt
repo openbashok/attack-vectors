@@ -125,6 +125,7 @@ project/.env
 app_dev.php/_profiler/open
 demo/.env
 secrets.env
+sitemap.xml
 test
 .config.yaml
 .env.example.php
@@ -147,7 +148,6 @@ laravel.log
 phpinfo/
 sendgrid/.env
 sendgrid/.env.php
-sitemap.xml
 system/.env
 test/.env.php
 twilio/.env.php
@@ -158,6 +158,7 @@ google-services.json
 login
 store/.env
 uploads/.env
+*
 api/v2/.env
 aws.env
 aws.yml
@@ -166,7 +167,6 @@ docs/.env
 library/.env
 mysql.sql
 server.js
-*
 administrator/.env
 back/.env
 configuration.json
@@ -262,8 +262,8 @@ build/.env
 .env.ci
 .env.preprod
 .env.secret
-login.html
 aaa9
+login.html
 admin/config.php
 app/.git/config
 .vscode/sftp.json
@@ -418,6 +418,7 @@ shared/.env
 www.zip
 .ssh/id_ed25519
 GponForm/diag_Form
+aab8
 autodiscover/autodiscover.json
 boaform/adminformLogout//boaform/admin/login.asp
 config.yaml
@@ -429,7 +430,6 @@ vendor/.env
 .env.tmp
 .ssh/authorized_keys
 Gemfile.lock
-aab8
 actuator/configprops
 backups/.env
 boaform/admin/formLogin

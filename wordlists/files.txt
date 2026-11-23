@@ -86,6 +86,7 @@ yarn.lock
 web.config
 .env.stage
 secrets.env
+sitemap.xml
 .config.yaml
 .env.development.local
 .env.example.php
@@ -97,13 +98,12 @@ secrets.env
 .env.sample.php
 config.dev.php
 env.json
-sitemap.xml
 google-services.json
 mysql.sql
+*
 aws.env
 server.js
 %00.env
-*
 .env.live
 bedrock.env
 configuration.json
@@ -170,8 +170,8 @@ backup.zip
 .env.dev.local
 wc.db
 .env.secret
-config.yml
 aaa9
+config.yml
 swagger.json
 configuration.php
 settings.php
@@ -247,6 +247,7 @@ secrets.py
 server-status
 service-account.json
 www.zip
+aab8
 autodiscover.json
 configprops
 diag_Form
@@ -256,7 +257,6 @@ microsoft.exchange.ediscovery.exporttool.application
 .env_old
 .envrc
 Gemfile.lock
-aab8
 admin-ajax.php
 composer.json
 composer.lock
