@@ -406,10 +406,12 @@ app/.env.production
 swagger.json
 .env.docker
 .s3cfg
+GponForm/diag_Form_images/
 RDWeb
 api/.env.local
 backend/.env.local
 backup.tar.gz
+boaform/adminformLogout//boaform/admin/login.asp
 dana-na/auth/url_default/welcome.cgi
 deploy/.env
 secrets.py
@@ -420,11 +422,9 @@ wp-config.bak
 wp-content/.env
 .circleci/config.yml
 .env_1
-GponForm/diag_Form_images/
 aab8
 autodiscover/autodiscover.json_@zdi/Powershell
 backup.zip
-boaform/adminformLogout//boaform/admin/login.asp
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 local_settings.py
 openapi.json
@@ -688,6 +688,7 @@ v2/_catalog
 var/www/html/.env
 vendor/laravel/.env
 website/.env
+wp-json/
 +CSCOT+/oem-customization_app=AnyConnect_type=oem_platform=.._resource-type=.._name=%2BCSCOE%2B/portal_inc.lua
 ..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
 .c9/metadata/environment/.env
@@ -810,7 +811,6 @@ wiki
 wordpress/.env
 wp-admin/
 wp-config.php.dist
-wp-json/
 wp-login.php
 xmlrpc.php
 .config/gcloud/application_default_credentials.json

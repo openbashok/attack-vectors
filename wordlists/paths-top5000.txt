@@ -405,9 +405,11 @@ wp-config.bak
 wp-content/.env
 .circleci/config.yml
 .env.docker
+GponForm/diag_Form
 RDWeb
 backend/.env.local
 backup.zip
+boaform/adminformLogout//boaform/admin/login.asp
 dana-na/auth/url_default/welcome.cgi
 local_settings.py
 openapi.json
@@ -417,10 +419,8 @@ sftp.json
 shared/.env
 www.zip
 .ssh/id_ed25519
-GponForm/diag_Form
 aab8
 autodiscover/autodiscover.json
-boaform/adminformLogout//boaform/admin/login.asp
 config.yaml
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 terraform.tfvars
@@ -695,6 +695,7 @@ v2/_catalog
 var/www/html/.env
 vendor/laravel/.env
 wp-config.php.dist
+wp-json/
 wp-login.php
 xmlrpc.php
 +CSCOT+/oem-customization
@@ -815,7 +816,6 @@ wiki
 wordpress/.env
 wp-admin/
 wp-config.php.gz
-wp-json/
 www.tar.gz
 xampp/.env
 .claude.json
@@ -906,6 +906,7 @@ server/.env.production
 serverless.yaml
 serverless.yml
 setup.php
+shell
 ssl.key
 stats/.env
 studioserver/.git/config
@@ -1231,7 +1232,6 @@ server/config/.env
 services/traefik/.env
 settings.ini
 setup/.env
-shell
 site.sql
 soap
 speed.cloudflare.com:443
@@ -3630,6 +3630,7 @@ cgi-bin/cstecgi.cgi
 cgi-bin/main.pl
 cgi-bin/nas_sharing.cgi
 cgi-bin/network_tools
+cgi-bin/nobody/Search.cgi
 cgi-bin/phpinfo.php
 chart/values.yaml
 charts/values.yaml

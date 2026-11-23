@@ -177,6 +177,7 @@ configuration.php
 settings.php
 .env.sandbox
 .htpasswd
+login.asp
 logon.aspx
 update
 welcome.cgi
@@ -184,7 +185,6 @@ wp-config.php.save
 .s3cfg
 Jenkinsfile
 about
-login.asp
 .git-credentials
 app.php
 sdk
@@ -241,6 +241,7 @@ wp-config.bak
 .env.prod.local
 RDWeb
 db.php
+diag_Form
 local_settings.py
 pentest_proof_6c9f30.php
 secrets.py
@@ -250,7 +251,6 @@ www.zip
 aab8
 autodiscover.json
 configprops
-diag_Form
 microsoft.exchange.ediscovery.exporttool.application
 .env.copy
 .env.tmp
@@ -298,6 +298,7 @@ login.esp
 login.php
 sslvpn-portal
 tmindex.html
+wp-json
 wsman
 x.js
 .dockerenv
@@ -313,7 +314,6 @@ openai.json
 swagger-ui.html
 system
 wp-config.old
-wp-json
 .env.aws
 .env.bak~
 .env.new
@@ -561,6 +561,7 @@ serverless.yaml
 serverless.yml
 settings.local.json
 setup.php
+shell
 site-profile.json
 ssl.key
 terraform.tfvars.json
@@ -686,7 +687,6 @@ service-account-credentials.json
 services.php
 settings.ini
 settings.js
-shell
 site.sql
 soap
 speed.cloudflare.com:443
