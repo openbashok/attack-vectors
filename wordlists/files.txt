@@ -77,11 +77,11 @@ application.properties
 package.json
 sendgrid.env
 .env.json
+sh
 .env.stage
 parameters.yml
 %2eenv
 open
-sh
 package-lock.json
 yarn.lock
 web.config
@@ -155,11 +155,11 @@ v1
 .env_sample
 version
 .npmrc
+json
 logon.html
 .env.ci
 HNAP1
 database.php
-json
 %252eenv
 aws.json
 config.py
@@ -192,12 +192,12 @@ sftp-config.json
 .htaccess
 api
 docker-compose.prod.yml
+hello.world
 login.cgi
+test.hello
 Dr0v
 config.inc.php
-hello.world
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
-test.hello
 wp-config.php~
 index
 login.htm
@@ -310,6 +310,7 @@ ecosystem.config.js
 heapdump
 html
 index.jsp
+manifest
 openai.json
 status
 swagger-ui.html
@@ -334,7 +335,6 @@ env.txt
 gcp-credentials.json
 human.aspx
 id_ecdsa
-manifest
 owa
 raw
 rdx_en.json.gz
