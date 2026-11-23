@@ -25,9 +25,9 @@ phpinfo.php
 .env.example
 docker-compose.yml
 .env.staging
-src/.env
 web/.env
 .env.development
+src/.env
 info.php
 .gitlab-ci.yml
 _profiler/phpinfo
@@ -45,8 +45,8 @@ mcp
 prod/.env
 config.js
 security.txt
-storage/.env
 www/.env
+storage/.env
 storage/logs/laravel.log
 api/.git/config
 html/.env
@@ -72,12 +72,12 @@ settings.py
 config.php.bak
 database.yml
 developmentserver/metadatauploader
+.env.dist
 .env.orig
 dump.sql
 env
 htdocs/.env
 wp-config.php.bak
-.env.dist
 .kube/config
 api/mcp
 application/.env
@@ -175,13 +175,13 @@ login
 server.js
 services/.env
 .env.development.local
+.env.stage
 assets/config.json
 beta/.env
 download/.env
 env.json
 saas/.env
 temp/.env
-.env.stage
 bak/.env
 bedrock.env
 credentials.xml
@@ -199,6 +199,7 @@ logs/.env
 phpinfo
 requirements.txt
 v3/.env
+.env.live
 .json
 client_secrets.json
 config.ini
@@ -213,7 +214,6 @@ wp-config.php.backup
 .aws/.env
 .bedrock/.env
 .claude/.env
-.env.live
 .env.staging.local
 .env/.env
 Application/.env
@@ -254,14 +254,14 @@ wp-config.php.old
 .env_sample
 +CSCOE+/logon.html
 .npmrc
-config.php
 .env.uat
+config.php
 .env~
 .env.config
 .env.dev.local
+.env.preprod
 build/.env
 .env.ci
-.env.preprod
 .svn/wc.db
 aaa9
 login.html
@@ -273,10 +273,10 @@ cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/.git/config
 .env.sandbox
+.env.swp
 config/database.php
 configuration/.env
 owa/auth/logon.aspx
-.env.swp
 .htpasswd
 admin/.git/config
 config/secrets.yml
@@ -300,6 +300,7 @@ vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 .htaccess
 src/.git/config
 .docker/config.json
+.env.sample
 .well-known/pki-validation/update
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 Dr0v
@@ -320,7 +321,6 @@ vendor/phpunit/phpunit/LICENSE/eval-stdin.php
 vendor/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-.env.sample
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 actuator/health
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -388,6 +388,7 @@ aab9
 abc6
 abc8
 api.ipinfo.io:443
+app/.env.local
 cgi-bin/login.cgi
 config.inc.php
 icanhazip.com:443
@@ -395,14 +396,14 @@ icanhazip.com:443
 .travis.yml
 abc7
 actuator/env
-app/.env.local
+app/.env.production
 conf/.env
 config.py
 downloads/
 wp-config.php.orig
 .env.2
 .git/logs/HEAD
-app/.env.production
+shared/.env
 swagger.json
 .env.docker
 .s3cfg
@@ -416,7 +417,6 @@ dana-na/auth/url_default/welcome.cgi
 deploy/.env
 secrets.py
 sftp.json
-shared/.env
 terraform.tfstate.backup
 wp-config.bak
 wp-content/.env
@@ -502,6 +502,7 @@ manager/html
 private/.env
 protected/.env
 vpn/index.html
+web/.env.local
 wp-admin/.env
 wp-config.old
 .boto
@@ -540,7 +541,6 @@ solr/admin/cores?action=STATUS&wt=json
 solr/admin/info/system
 vpn/js/rdx/core/lang/rdx_en.json.gz
 web/
-web/.env.local
 webpages/login.html
 .env.aws
 .env.prev
@@ -602,6 +602,7 @@ wp-content/uploads/
 .env-sample
 .env.docker.dev
 .env.project
+.env.qa
 .env_example
 .github/workflows/ci.yml
 .github/workflows/main.yml
@@ -638,7 +639,6 @@ wp-config.txt
 wp-content/uploads/pentest_proof_6c9f30.php
 .env.local.backup
 .env.production.backup
-.env.qa
 .gitignore
 .npmrc._default
 .ssh/id_ecdsa
@@ -725,6 +725,7 @@ api/sonicos/tfa
 api/v2/cmdb/system/admin
 api/v2/cmdb/system/admin/admin
 app.js
+app/.env.example
 appliance
 auth
 auth/admin
@@ -783,6 +784,9 @@ pom.xml
 portal/webclient/index.html
 private.key
 product/.env.staging
+public/.env.local
+public/.env.production
+public/.env.staging
 rdweb
 react/.env
 remote
@@ -829,7 +833,6 @@ api/shared/config/config.env
 api/src/.env
 api/v1/validate/code
 app-ads.txt
-app/.env.example
 authorized_keys
 aws-exports.js
 boaform/admin/formLogin?username=adminisp&psd=adminisp
@@ -883,9 +886,6 @@ next/.env
 nuxt/.env
 packages/.env
 parameters.yml
-public/.env.local
-public/.env.production
-public/.env.staging
 repo/.env
 runtime-env.js
 server/.env.production
@@ -990,6 +990,9 @@ api/v2/about
 api/version
 api/vip/i18n/api/v2/translation/products/vRNIUI/versions/1
 app
+app/.env.sample
+app/.env.save
+app/.env.staging
 app/.terraform/terraform.tfstate
 app/amplify.yaml
 app/amplify.yml
@@ -1171,6 +1174,9 @@ preview/.env
 prod/.env.local
 projbackend/.env
 pub/.env
+public/.env.bak
+public/.env.dist
+public/.env.example
 qa/.env
 qa/.env.local
 qa/.env.staging
@@ -1237,6 +1243,8 @@ vod_installer/.env
 vpn
 vpntunnel
 vue/.env
+web/.env.bak
+web/.env.example
 web/config.php
 web_shell_cmd.gch
 webroot/.env
@@ -1404,9 +1412,6 @@ app.config
 app.config.json
 app.env
 app/.aws/credentials
-app/.env.sample
-app/.env.save
-app/.env.staging
 app/config/dev/.env
 app/credentials.json
 application_default_credentials.json
@@ -1716,9 +1721,6 @@ program/index.php?lang=en
 progs/homepage
 proxy
 prx/000/http/localhost/login
-public/.env.bak
-public/.env.dist
-public/.env.example
 public/static/favicon.png
 rails/info/properties
 react/config.json
@@ -1805,8 +1807,6 @@ vue-end/vue-til/.env
 vue/config.json
 vue_CRM/.env
 web-dist/.env
-web/.env.bak
-web/.env.example
 webfig/
 workplace/home.action
 workspace/.env

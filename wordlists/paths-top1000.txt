@@ -11,8 +11,8 @@ app/.env
 .env.save
 api/.env
 .aws/credentials
-config/.env
 .env.prod
+config/.env
 .env.dev
 config.json
 laravel/.env
@@ -26,9 +26,9 @@ phpinfo.php
 .env.example
 docker-compose.yml
 .env.staging
-src/.env
 web/.env
 .env.development
+src/.env
 info.php
 .gitlab-ci.yml
 _profiler/phpinfo
@@ -45,8 +45,8 @@ prod/.env
 .well-known/security.txt
 mcp
 config.js
-security.txt
 www/.env
+security.txt
 storage/.env
 storage/logs/laravel.log
 secrets.json
@@ -71,12 +71,12 @@ settings.py
 .env.production.local
 config.php.bak
 favicon.ico/
+.env.dist
 .env.orig
 database.yml
 developmentserver/metadatauploader
 dump.sql
 wp-config.php.bak
-.env.dist
 .kube/config
 application/.env
 backup.sql
@@ -167,6 +167,7 @@ docs/.env
 library/.env
 mysql.sql
 server.js
+.env.stage
 administrator/.env
 back/.env
 configuration.json
@@ -174,7 +175,6 @@ data/.env
 env-config.js
 services/.env
 .env.development.local
-.env.stage
 assets/config.json
 beta/.env
 download/.env
@@ -199,6 +199,7 @@ developer/.env
 erp/.env
 logs/.env
 wp-config.php.backup
+.env.live
 .env.staging.local
 .json
 client_secrets.json
@@ -214,7 +215,6 @@ user/.env
 .aws/.env
 .bedrock/.env
 .claude/.env
-.env.live
 .env.template
 .env/.env
 Application/.env
@@ -257,22 +257,22 @@ config.php
 .env~
 .env.config
 .env.dev.local
+.env.preprod
 .svn/wc.db
 build/.env
 .env.ci
-.env.preprod
 .env.secret
 aaa9
 login.html
 .vscode/sftp.json
 admin/config.php
 app/.git/config
+.env.swp
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 remote/login
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/.git/config
 .env.sandbox
-.env.swp
 .htpasswd
 config/database.php
 config/secrets.yml
@@ -296,11 +296,11 @@ sdk
 sftp-config.json
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 .docker/config.json
+.env.sample
 .htaccess
 docker-compose.prod.yml
 docker/.env
 src/.git/config
-.env.sample
 .well-known/pki-validation/update
 Dr0v
 config/aws.json
@@ -374,6 +374,7 @@ ws
 .docker/.env
 .env.1
 .vscode/settings.json
+app/.env.local
 pub/
 settings.php
 .travis.yml
@@ -382,7 +383,7 @@ abc6
 abc8
 actuator/env
 api.ipinfo.io:443
-app/.env.local
+app/.env.production
 cgi-bin/login.cgi
 conf/.env
 config.inc.php
@@ -391,7 +392,6 @@ wp-config.php.orig
 .env.test.local
 .git/logs/HEAD
 abc7
-app/.env.production
 config.py
 downloads/
 swagger.json
@@ -400,6 +400,7 @@ swagger.json
 api/.env.local
 backup.tar.gz
 deploy/.env
+shared/.env
 terraform.tfstate.backup
 wp-config.bak
 wp-content/.env
@@ -416,7 +417,6 @@ openapi.json
 secrets.py
 server-status
 sftp.json
-shared/.env
 www.zip
 .ssh/id_ed25519
 aab8
@@ -506,6 +506,7 @@ manager/html
 nginx/.env
 protected/.env
 vpn/index.html
+web/.env.local
 wp-admin/.env
 wp-config.old
 .env.aws
@@ -550,11 +551,11 @@ solr/admin/info/system
 tools/.env
 vpn/js/rdx/core/lang/rdx_en.json.gz
 web/
-web/.env.local
 webpages/login.html
 wp-config.php.txt
 wp-content/debug.log
 .env.prev
+.env.qa
 .env.saved
 .env.temp
 .env.toml
@@ -603,7 +604,6 @@ wp-content/uploads/
 .env-sample
 .env.docker.dev
 .env.project
-.env.qa
 .env_example
 .github/workflows/ci.yml
 .github/workflows/main.yml
@@ -734,6 +734,7 @@ api/sonicos/auth
 api/sonicos/tfa
 api/v2/cmdb/system/admin
 api/v2/cmdb/system/admin/admin
+app/.env.example
 appliance
 auth
 auth/admin
@@ -789,6 +790,9 @@ php/ztp_gate.php/.js.map
 pom.xml
 portal/webclient/index.html
 product/.env.staging
+public/.env.local
+public/.env.production
+public/.env.staging
 rdweb
 react/.env
 remote
@@ -838,7 +842,6 @@ api/config
 api/src/.env
 api/v1/validate/code
 app-ads.txt
-app/.env.example
 application.yaml
 authorized_keys
 aws-exports.js
@@ -896,9 +899,6 @@ nuxt/.env
 openapi.yaml
 packages/.env
 parameters.yml
-public/.env.local
-public/.env.production
-public/.env.staging
 repo/.env
 routes/.env
 runtime-env.js
