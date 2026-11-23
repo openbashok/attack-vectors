@@ -179,6 +179,7 @@ assets/config.json
 beta/.env
 download/.env
 env.json
+phpinfo
 saas/.env
 server.key
 temp/.env
@@ -189,7 +190,6 @@ content/.env
 credentials.xml
 images/.env
 login/.env
-phpinfo
 requirements.txt
 static/.env
 v3/.env

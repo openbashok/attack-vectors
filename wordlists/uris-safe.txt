@@ -187,6 +187,7 @@ bedrock.env
 credentials.xml
 images/.env
 login/.env
+phpinfo
 server.key
 static/.env
 tmp/.env
@@ -196,7 +197,6 @@ content/.env
 developer/.env
 erp/.env
 logs/.env
-phpinfo
 requirements.txt
 v3/.env
 .env.live
@@ -3832,6 +3832,7 @@ aws.yml_v=18e6211172f7caeb
 aws/.env_v=18e6211f7d10da3f
 aws/credentials_v=18e621107cbae323
 awstats/.env_v=18e621124373bb6e
+awv/
 azure-credentials.json
 azure-openai-config.json_v=18e62111e30fa85a
 azure-openai/.env_v=18e62111e11f3c82

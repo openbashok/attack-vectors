@@ -187,6 +187,7 @@ bedrock.env
 credentials.xml
 images/.env
 login/.env
+phpinfo
 server.key
 static/.env
 tmp/.env
@@ -196,7 +197,6 @@ content/.env
 developer/.env
 erp/.env
 logs/.env
-phpinfo
 requirements.txt
 v3/.env
 .env.live
