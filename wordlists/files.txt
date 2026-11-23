@@ -88,6 +88,7 @@ web.config
 .env.live
 sitemap.xml
 secrets.env
+*
 .config.yaml
 .env.development.local
 .env.example.php
@@ -99,7 +100,6 @@ secrets.env
 .env.sample.php
 config.dev.php
 env.json
-*
 google-services.json
 mysql.sql
 aws.env
@@ -191,10 +191,10 @@ sdk
 sftp-config.json
 .htaccess
 docker-compose.prod.yml
+login.cgi
 Dr0v
 config.inc.php
 hello.world
-login.cgi
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 test.hello
 wp-config.php~
@@ -246,6 +246,7 @@ RDWeb
 db.php
 diag_Form
 local_settings.py
+microsoft.exchange.ediscovery.exporttool.application
 pentest_proof_6c9f30.php
 secrets.py
 server-status
@@ -253,7 +254,6 @@ service-account.json
 www.zip
 autodiscover.json
 configprops
-microsoft.exchange.ediscovery.exporttool.application
 .env.copy
 .env.tmp
 .env_old
@@ -496,6 +496,7 @@ pom.xml
 rdweb
 secrets.js
 sellers.json
+shell
 smtp.env
 sslvpnLogin.html
 start.htm
@@ -563,7 +564,6 @@ serverless.yaml
 serverless.yml
 settings.local.json
 setup.php
-shell
 site-profile.json
 ssl.key
 terraform.tfvars.json
@@ -607,6 +607,7 @@ UI_String.js
 WebInterface
 access.log
 active-coins
+ads.txt
 allversions
 app
 app_dev.php
@@ -757,7 +758,6 @@ _next
 _phpinfo.php
 adminer
 adminpanel
-ads.txt
 amplifyconfiguration.json
 apiconfig.json
 apikey.txt
@@ -903,6 +903,7 @@ vertex-ai.json
 webclient
 webfig
 webpack.config.js
+wfs
 wp-config.php-backup
 xmldata
 %00backup.tar.gz
@@ -1163,6 +1164,7 @@ nuxt.config.ts
 openai.config.js
 openai.ts
 openaikey
+ows
 p.php
 pa
 pandora_console
