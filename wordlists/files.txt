@@ -20,13 +20,13 @@ security.txt
 phpinfo.php
 .env.save
 .env.dev
-secrets.yaml
 config.php
+secrets.yaml
 test
 .env.prod
 laravel.log
-config.js
 .env.old
+config.js
 .env.backup
 index.html
 .env.test

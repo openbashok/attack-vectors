@@ -21,8 +21,8 @@ laravel/.env
 .env.backup
 backend/.env
 .env.test
-phpinfo.php
 .env.old
+phpinfo.php
 .env.example
 docker-compose.yml
 .env.staging
@@ -1821,6 +1821,7 @@ vue_CRM/.env
 web-dist/.env
 web/.env.bak
 web/.env.example
+web/config.php
 webfig/
 webpack.config.js
 workers/.env
@@ -2860,7 +2861,6 @@ vm-docker-compose/.env
 vue/vuecli/.env
 wallet.dat
 web.config.bak
-web/config.php
 webclient
 webjars/swagger-ui/index.html
 webportal.cgi
