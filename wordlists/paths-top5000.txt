@@ -4397,6 +4397,8 @@ portal/%252eenv
 portal/%2eenv
 portal/api/.env
 portal/loginpage.aspx
+portalapi/actuator
+portalapi/v1/roles/option;%2fv1%2fping
 postgres.sql
 postgres.zip
 postmark.env

@@ -323,6 +323,7 @@ wp-config.old
 .env.save~
 .env.www
 .env1
+actuator
 app.json
 application_default_credentials.json
 client
@@ -353,7 +354,6 @@ wp-login.php
 .pypirc
 .yarnrc.yml
 ReportServer
-actuator
 application-prod.properties
 appsettings.Production.json
 config.inc.php.bak

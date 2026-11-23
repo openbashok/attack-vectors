@@ -4791,6 +4791,8 @@ portal/%2eenv_v=jb2Rn
 portal/.env_v=18e621122ebe23ae
 portal/api/.env
 portal/loginpage.aspx
+portalapi/actuator
+portalapi/v1/roles/option_%2fv1%2fping
 postgres.sql
 postgres.zip
 postmark.env

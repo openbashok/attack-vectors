@@ -96,8 +96,8 @@ tmp
 log
 settings.json
 wp-content
-system
 actuator
+system
 temp
 .gitlab-ci.yml
 prod
@@ -2219,6 +2219,7 @@ plugin_static
 pms
 pnpm-lock.yaml
 portainer
+portalapi
 post-deployment
 post.js
 postfixadmin
