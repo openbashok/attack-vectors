@@ -39,8 +39,8 @@ wp-config.php
 server/.env
 .env.testing
 site/.env
-core/.env
 .well-known/security.txt
+core/.env
 mcp
 prod/.env
 config.js
@@ -116,6 +116,7 @@ application.properties
 error.log
 local/.env
 project/.env
+sitemap.xml
 app_dev.php/_profiler/open?file=app/config/parameters.yml
 apps/.env
 debug/default/view?panel=config
@@ -124,7 +125,6 @@ home/.env
 new/.env
 secrets.env
 secrets.yaml
-sitemap.xml
 test
 .aws/config
 .config.yaml
@@ -257,6 +257,7 @@ wp-config.php.old
 .env.uat
 config.php
 .env~
+aaa9
 .env.config
 .env.dev.local
 .env.preprod
@@ -264,7 +265,6 @@ build/.env
 login.html
 .env.ci
 .svn/wc.db
-aaa9
 .env.secret
 .vscode/sftp.json
 admin/config.php
@@ -403,6 +403,7 @@ downloads/
 wp-config.php.orig
 .env.2
 .git/logs/HEAD
+aab8
 boaform/adminformLogout//boaform/admin/login.asp
 shared/.env
 swagger.json
@@ -421,7 +422,6 @@ terraform.tfstate.backup
 wp-config.bak
 wp-content/.env
 .circleci/config.yml
-aab8
 autodiscover/autodiscover.json?@zdi/Powershell
 backup.zip
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
@@ -3920,6 +3920,7 @@ cert.pem?v=18e6211c771c1705
 cert.zip
 cgi-bin/ExportSettings.sh
 cgi-bin/cstecgi.cgi
+cgi-bin/luci/;stok=/locale
 cgi-bin/main.pl
 cgi-bin/nas_sharing.cgi?user=messagebus&passwd=&cmd=15&system=aWQ=
 cgi-bin/network_tools

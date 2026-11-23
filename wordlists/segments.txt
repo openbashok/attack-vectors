@@ -47,8 +47,8 @@ v2
 app_dev.php
 dev
 .env.save
-.env.dev
 security.txt
+.env.dev
 phpinfo.php
 assets
 lib
@@ -71,9 +71,9 @@ config.js
 index.html
 debug
 tests
+.well-known
 static
 .env.development
-.well-known
 get
 ip.cypher.rest:443
 .svn
@@ -194,12 +194,12 @@ web.config
 k8s
 API
 download
+sitemap.xml
 twilio
 back
 bot
 rest
 secrets.env
-sitemap.xml
 .config.yaml
 .env.development.local
 .env.example.php
@@ -294,6 +294,7 @@ database.php
 aws.json
 config.py
 .env~
+aaa9
 backup.zip
 .%65%6e%76
 .env.config
@@ -302,7 +303,6 @@ mysql
 php
 wc.db
 .env.secret
-aaa9
 config.yml
 vpn
 Login
@@ -424,6 +424,7 @@ mcp.json
 ~
 .env.2
 __tests__
+aab8
 adminformLogout
 app.js
 default_settings
@@ -452,7 +453,6 @@ task
 url_default
 www.zip
 Current
-aab8
 autodiscover.json
 code
 configprops
@@ -1505,6 +1505,7 @@ login_auth.csp
 login_psw.csp
 login_up.php
 logout
+luci
 mailman
 main.pl
 main_user
@@ -2121,7 +2122,6 @@ localstart.cgi
 localstart.html
 localstart.jsp
 log-viewer
-luci
 m
 mailinabox
 main.asp

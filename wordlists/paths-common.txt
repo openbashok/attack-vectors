@@ -41,8 +41,8 @@ server/.env
 site/.env
 .env.testing
 core/.env
-prod/.env
 .well-known/security.txt
+prod/.env
 mcp
 config.js
 www/.env
@@ -122,11 +122,11 @@ secrets.yaml
 apps/.env
 new/.env
 project/.env
+sitemap.xml
 app_dev.php/_profiler/open
 demo/.env
 home/.env
 secrets.env
-sitemap.xml
 test
 .config.yaml
 .env.example.php
@@ -255,6 +255,7 @@ wp-config.php.old
 .env.uat
 config.php
 .env~
+aaa9
 .env.config
 .env.dev.local
 .env.preprod
@@ -263,7 +264,6 @@ build/.env
 login.html
 .env.ci
 .env.secret
-aaa9
 .vscode/sftp.json
 admin/config.php
 app/.git/config
@@ -397,6 +397,7 @@ downloads/
 swagger.json
 .env.2
 .s3cfg
+aab8
 api/.env.local
 backup.tar.gz
 boaform/adminformLogout//boaform/admin/login.asp
@@ -419,7 +420,6 @@ server-status
 sftp.json
 www.zip
 .ssh/id_ed25519
-aab8
 autodiscover/autodiscover.json
 config.yaml
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
