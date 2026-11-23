@@ -11,8 +11,8 @@ vendor
 favicon.ico
 index.php
 admin
-app
 SDK
+app
 webLanguage
 test
 .env.local
@@ -130,10 +130,10 @@ home
 uploads
 db
 application.yml
+geoserver
 aws.yml
 compose
 examples
-geoserver
 main
 test.php
 entries
@@ -174,10 +174,10 @@ apis
 package.json
 sendgrid.env
 store
+*
 .docker
 open
 %2eenv
-*
 aws
 node
 parameters.yml

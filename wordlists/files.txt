@@ -59,11 +59,11 @@ entries
 docker-compose.yaml
 .env.production.local
 debug.log
+web
 appsettings.json
 database.sql
 site.zip
 sse
-web
 config.php.bak
 dump.sql
 .env.orig
@@ -98,9 +98,9 @@ sitemap.xml
 .env.sample.php
 config.dev.php
 env.json
+*
 google-services.json
 mysql.sql
-*
 aws.env
 server.js
 %00.env

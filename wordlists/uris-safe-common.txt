@@ -89,13 +89,13 @@ db.sql
 staging/.env
 backup/.env
 dashboard/.env
+geoserver/web/
 package.json
 application.yml
 config.env
 sendgrid.env
 terraform.tfstate
 .env.local.php
-geoserver/web/
 info
 package-lock.json
 yarn.lock
@@ -152,10 +152,10 @@ system/.env
 test/.env.php
 twilio/.env.php
 var/.env.local.php
+_
 auth/.env
 store/.env
 uploads/.env
-_
 api/v2/.env
 app/config/parameters.yml
 aws.env
