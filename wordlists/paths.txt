@@ -399,6 +399,7 @@ swagger.json
 .s3cfg
 api/.env.local
 backup.tar.gz
+boaform/adminformLogout//boaform/admin/login.asp
 deploy/.env
 shared/.env
 terraform.tfstate.backup
@@ -410,7 +411,6 @@ GponForm/diag_Form
 RDWeb
 backend/.env.local
 backup.zip
-boaform/adminformLogout//boaform/admin/login.asp
 dana-na/auth/url_default/welcome.cgi
 local_settings.py
 openapi.json
@@ -2273,6 +2273,7 @@ cart/.env
 centreon/api/latest/platform/versions
 cgi-bin/config.exp
 cgi-bin/luci
+cgi-bin/nobody/Search.cgi
 cgi-bin/printenv
 ch6a-mytodo/.env
 ch7-mytodo/.env
@@ -3701,7 +3702,6 @@ cgi-bin/cstecgi.cgi
 cgi-bin/main.pl
 cgi-bin/nas_sharing.cgi
 cgi-bin/network_tools
-cgi-bin/nobody/Search.cgi
 cgi-bin/phpinfo.php
 chart/values.yaml
 charts/values.yaml

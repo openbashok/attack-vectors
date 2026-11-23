@@ -172,9 +172,9 @@ wc.db
 .env.secret
 aaa9
 config.yml
+login.asp
 swagger.json
 configuration.php
-login.asp
 settings.php
 .env.sandbox
 .htpasswd
@@ -1014,6 +1014,7 @@ OEM.js
 Pages
 Pulumi.yaml
 RPC2_Login
+Search.cgi
 ViewUserInfo.php
 \.\.env
 \\.env
