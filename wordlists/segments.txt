@@ -55,9 +55,9 @@ lib
 config.php
 .env.prod
 secrets.yaml
+cgi-bin
 demo
 backup
-cgi-bin
 docker
 env
 info
@@ -148,10 +148,10 @@ images
 appsettings.json
 bin
 database.sql
+sse
 user
 docs
 site.zip
-sse
 .env:80
 files
 local
@@ -1209,6 +1209,7 @@ locally
 logging
 logo.gif
 logo.png
+luci
 magento_version
 manifest.json
 manifests
@@ -1505,7 +1506,6 @@ login_auth.csp
 login_psw.csp
 login_up.php
 logout
-luci
 mailman
 main.pl
 main_user
@@ -1821,6 +1821,7 @@ xx-final
 9
 9.2.x
 9.3.x
+;stok=
 ADMIN
 APP
 Accounts
@@ -2117,6 +2118,7 @@ livewire
 llms.txt
 local.properties
 local.yml
+locale
 localsettings.php.bak
 localstart.cgi
 localstart.html

@@ -62,8 +62,8 @@ web
 debug.log
 appsettings.json
 database.sql
-site.zip
 sse
+site.zip
 login.html
 config.php.bak
 dump.sql
@@ -1135,6 +1135,7 @@ lib
 llms.txt
 local.properties
 local.yml
+locale
 localsettings.php.bak
 localstart.cgi
 localstart.html
