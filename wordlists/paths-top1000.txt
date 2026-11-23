@@ -433,6 +433,7 @@ vendor/.env
 .ssh/authorized_keys
 Gemfile.lock
 actuator/configprops
+api/
 backups/.env
 boaform/admin/formLogin
 composer.json
@@ -448,7 +449,6 @@ server/.env.local
 .netrc
 HNAP1/
 adminer.php
-api/
 api/v1/.env
 app/config/.env
 compose/.env

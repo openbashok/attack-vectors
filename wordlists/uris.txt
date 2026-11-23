@@ -435,6 +435,7 @@ www.zip
 .ftpconfig
 .ssh/id_ed25519
 Gemfile.lock
+api/
 composer.json
 composer.lock
 config.yaml
@@ -450,7 +451,6 @@ vendor/.env
 .ssh/authorized_keys
 HNAP1/
 actuator/configprops
-api/
 api/v1/.env
 app/config/.env
 backups/.env
