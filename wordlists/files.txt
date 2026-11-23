@@ -235,6 +235,7 @@ mcp.json
 .env.2
 Login
 aab8
+admin-ajax.php
 app.js
 env.php
 id_dsa
@@ -250,7 +251,6 @@ secrets.py
 server-status
 service-account.json
 www.zip
-admin-ajax.php
 autodiscover.json
 configprops
 microsoft.exchange.ediscovery.exporttool.application
@@ -279,6 +279,7 @@ console
 credentials.yml.enc
 env.js
 list
+login.php
 nc_gina_ver.txt
 properties
 wlwmanifest.xml
@@ -295,7 +296,6 @@ config.php~
 credentials.yml
 error.aspx
 login.esp
-login.php
 sslvpn-portal
 tmindex.html
 wp-json
@@ -553,6 +553,7 @@ local.xml
 meta
 openapi.yaml
 phpmyadmin
+query
 readme.txt
 register
 routes
@@ -632,6 +633,7 @@ config.development.json
 config.prod.json
 connection.php
 credentials.tfrc.json
+data
 database.zip
 db
 db.tar.gz
@@ -782,7 +784,6 @@ config.php.swo
 config.php.swp
 connect.cgi
 connectionstrings.config
-data
 databases.yml
 dbadmin
 debug.php
@@ -865,7 +866,6 @@ prelogin.esp
 private.pem
 prod.decrypt.private.php
 proxy
-query
 requests
 route
 rsc

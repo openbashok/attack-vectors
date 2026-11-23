@@ -392,6 +392,7 @@ wp-config.php.orig
 .env.test.local
 .git/logs/HEAD
 abc7
+boaform/adminformLogout//boaform/admin/login.asp
 config.py
 downloads/
 swagger.json
@@ -400,10 +401,10 @@ swagger.json
 aab8
 api/.env.local
 backup.tar.gz
-boaform/adminformLogout//boaform/admin/login.asp
 deploy/.env
 shared/.env
 terraform.tfstate.backup
+wp-admin/admin-ajax.php
 wp-config.bak
 wp-content/.env
 .circleci/config.yml
@@ -426,7 +427,6 @@ ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 terraform.tfvars
 v1
 vendor/.env
-wp-admin/admin-ajax.php
 .env.copy
 .env.tmp
 .ftpconfig
@@ -891,6 +891,7 @@ k8s/.env
 keys.json
 language/en-GB/en-GB.xml
 lib/config.php
+login.php
 magento/.env
 mcp.json
 middleware/.env
@@ -1169,7 +1170,6 @@ localhost/.env
 locally/.env
 logging/.env
 login.aspx
-login.php
 login/login.html
 logs/error.log
 magento_version
@@ -1740,6 +1740,7 @@ progs/homepage
 proxy
 prx/000/http/localhost/login
 public/static/favicon.png
+query
 rails/info/properties
 react/config.json
 resources/docker/rabbitmq/.env

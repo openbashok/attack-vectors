@@ -397,6 +397,7 @@ icanhazip.com:443
 abc7
 actuator/env
 app/.env.production
+boaform/adminformLogout//boaform/admin/login.asp
 conf/.env
 config.py
 downloads/
@@ -404,7 +405,6 @@ wp-config.php.orig
 .env.2
 .git/logs/HEAD
 aab8
-boaform/adminformLogout//boaform/admin/login.asp
 shared/.env
 swagger.json
 .env.docker
@@ -880,6 +880,7 @@ k8s/.env
 lambda/.env
 language/en-GB/en-GB.xml
 lib/config.php
+login.php
 magento/.env
 middleware/.env
 modules/faxnew/lang/
@@ -1144,7 +1145,6 @@ localhost/.env
 locally/.env
 logging/.env
 login.aspx
-login.php
 login/login.html
 magento_version
 market/.env.production
@@ -1811,6 +1811,7 @@ webfig/
 workplace/home.action
 workspace/.env
 wp-admin
+wp-admin/admin-ajax.php
 wp-admin/css/colors/modern/
 wp-admin/css/colors/sunrise/
 wp-config.php-backup

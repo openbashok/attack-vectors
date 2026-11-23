@@ -392,6 +392,7 @@ wp-config.php.orig
 .env.test.local
 .git/logs/HEAD
 abc7
+boaform/adminformLogout//boaform/admin/login.asp
 config.py
 downloads/
 swagger.json
@@ -400,10 +401,10 @@ swagger.json
 aab8
 api/.env.local
 backup.tar.gz
-boaform/adminformLogout//boaform/admin/login.asp
 deploy/.env
 shared/.env
 terraform.tfstate.backup
+wp-admin/admin-ajax.php
 wp-config.bak
 wp-content/.env
 .circleci/config.yml
@@ -426,7 +427,6 @@ ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 terraform.tfvars
 v1
 vendor/.env
-wp-admin/admin-ajax.php
 .env.copy
 .env.tmp
 .ftpconfig
@@ -891,6 +891,7 @@ k8s/.env
 keys.json
 language/en-GB/en-GB.xml
 lib/config.php
+login.php
 magento/.env
 mcp.json
 middleware/.env
@@ -1169,7 +1170,6 @@ localhost/.env
 locally/.env
 logging/.env
 login.aspx
-login.php
 login/login.html
 logs/error.log
 magento_version
@@ -1740,6 +1740,7 @@ progs/homepage
 proxy
 prx/000/http/localhost/login
 public/static/favicon.png
+query
 rails/info/properties
 react/config.json
 resources/docker/rabbitmq/.env
@@ -2053,6 +2054,7 @@ _profiler/info
 _profiler/latest
 _profiler/open
 _profiler/phpinfo.php
+accounts/login/
 acme.json
 acme_challenges/.env
 actions-server/.env
@@ -2672,7 +2674,6 @@ public/.env.uat
 public_html/.env.staging
 public_root/.env
 qa/.env.production
-query
 question2/.env
 qv-frontend/.env
 rabbitmq-cluster/.env
@@ -3428,7 +3429,6 @@ a/../.aws/credentials
 a/../.env
 a/../.git/config
 accounting/control/main
-accounts/login/
 actions/users/login
 actions/users/session-info
 actuator/beans
@@ -3532,6 +3532,7 @@ api/opencode/config.js
 api/openrouter/config.js
 api/org
 api/phpinfo.php
+api/query
 api/redis
 api/remote
 api/rsc
@@ -3850,6 +3851,7 @@ cve202615748/
 daemon/%2eenv
 daemon/.env
 dana-na/auth/url_for_dana.action
+data
 data.tar.gz
 data/backup.zip
 data/env
@@ -3938,6 +3940,7 @@ events/.env
 export/backup.zip
 export/db.sql.gz
 exports/.env
+expression
 extensions/.env
 feature/.env
 feed/.env
@@ -3947,6 +3950,7 @@ files.tar.gz
 files.zip
 files/backup.zip
 files/site.zip
+filter
 firebase-config.js
 firebase-config.json
 firebase-debug.log
@@ -4091,6 +4095,7 @@ js/app.js
 js/chunk-vendors.js
 js/main.js
 json/login_session
+jsonpath
 ju9t0fhp8tatgc
 jupyter_server_config.json
 k8s.zip
@@ -4212,6 +4217,7 @@ mdm/checkin
 mdm/serverurl
 media.tar.gz
 members/.env
+membership-registration/
 menu.asp
 menu.cfm
 menu.cgi
@@ -4238,6 +4244,7 @@ model/.env
 models
 module/.env
 modules/phpinfo.php
+modules/pwd.html
 mojo/core/.env
 mongo
 mongo.json
@@ -4351,6 +4358,7 @@ panel/phpinfo.php
 panel/status
 parameters%2eyml
 params.yaml
+parse
 partner/.env
 partner/config/config.js
 password/reset
@@ -4517,6 +4525,7 @@ serverless.env.yml
 service-worker.js
 service/%2eenv
 service/email_service.py
+service/v4/rest.php
 serviceAccount.json
 serviceAccountCredentials.json
 services/anthropic/index.js
@@ -4816,6 +4825,7 @@ wp-content/plugins/contact-form-7-db/img/pentest_proof_6c9f30.php
 wp-content/plugins/contact-form-7-db/img/upload.php
 wp-content/plugins/contact-form-7/includes/css/styles.css
 wp-content/plugins/contact-form-7/readme.txt
+wp-content/plugins/export-wp-page-to-static-html/README.txt
 wp-content/plugins/formcraft/file-upload/server/content/files/pentest_proof_6c9f30.php
 wp-content/plugins/formcraft/file-upload/server/content/upload.php
 wp-content/plugins/forminator/forminator.php

@@ -397,6 +397,7 @@ icanhazip.com:443
 abc7
 actuator/env
 app/.env.production
+boaform/adminformLogout//boaform/admin/login.asp
 conf/.env
 config.py
 downloads/
@@ -404,7 +405,6 @@ wp-config.php.orig
 .env.2
 .git/logs/HEAD
 aab8
-boaform/adminformLogout//boaform/admin/login.asp
 shared/.env
 swagger.json
 .env.docker
@@ -880,6 +880,7 @@ k8s/.env
 lambda/.env
 language/en-GB/en-GB.xml
 lib/config.php
+login.php
 magento/.env
 middleware/.env
 modules/faxnew/lang/
@@ -1144,7 +1145,6 @@ localhost/.env
 locally/.env
 logging/.env
 login.aspx
-login.php
 login/login.html
 magento_version
 market/.env.production
@@ -1811,6 +1811,7 @@ webfig/
 workplace/home.action
 workspace/.env
 wp-admin
+wp-admin/admin-ajax.php
 wp-admin/css/colors/modern/
 wp-admin/css/colors/sunrise/
 wp-config.php-backup
@@ -2029,6 +2030,7 @@ _profiler/info
 _profiler/latest
 _profiler/phpinfo.php
 _profiler?v=hjcqU
+accounts/login/
 acme.json
 acme_challenges/.env
 actions-server/.env
@@ -2650,6 +2652,7 @@ public/.env.uat
 public_html/.env.staging
 public_root/.env
 qa/.env.production
+query
 question2/.env
 qv-frontend/.env
 rabbitmq-cluster/.env
@@ -2922,7 +2925,6 @@ winscp.ini
 wordpress/.git/config
 wordpress/wp-json/batch/v1
 workers/.env
-wp-admin/admin-ajax.php
 wp-config.save
 wp-content/plugins/hellopress/wp_filemanager.php
 wp-json/wc/store/products
@@ -3577,7 +3579,6 @@ a/../.aws/credentials?v=18e621127d2fe340
 a/../.env?v=18e621121a389e0f
 a/../.git/config?v=18e62112c0f71e6e
 accounting/control/main
-accounts/login/
 actions/users/login
 actions/users/session-info
 actuator/beans
@@ -3700,6 +3701,7 @@ api/opencode/config.js?v=18e62111a8ddaa38
 api/openrouter/config.js?v=18e6211188fe07bb
 api/org
 api/phpinfo.php
+api/query
 api/redis
 api/remote
 api/rsc
@@ -4124,6 +4126,7 @@ daemon/.env
 dana-na/auth/url_for_dana.action
 dashboard/.env?v=18e6211f0a84be18
 dashboard/phpinfo.php?v=18e621123f1f8576
+data
 data.tar.gz
 data/backup.zip
 data/env
@@ -4243,6 +4246,7 @@ events/.env
 export/backup.zip
 export/db.sql.gz
 exports/.env
+expression
 extensions/.env
 extlib/.env
 extlib/.env?v=oiZjn
@@ -4254,6 +4258,7 @@ files.tar.gz
 files.zip
 files/backup.zip
 files/site.zip
+filter
 firebase-config.js
 firebase-config.json
 firebase-debug.log
@@ -4378,6 +4383,7 @@ index.php/admin/login
 index.php/ajax/
 index.php/login
 index.php?file=../../../../../../var/www/html/.env
+index.php?p=admin/actions/assets/generate-transform
 index.php?p=admin/dashboard
 index.php?q=%22%22%3E%3Ch1%3EWBM-XSS-PROBE%3C/h1%3Etest
 index.pl
@@ -4430,6 +4436,7 @@ js/app.js
 js/chunk-vendors.js
 js/main.js?v=18e6211124d895fa
 json/login_session
+jsonpath
 ju9t0fhp8tatgc
 jupyter_server_config.json?v=18e6211e730101e6
 k8s.zip
@@ -4571,6 +4578,7 @@ mdm/checkin
 mdm/serverurl
 media.tar.gz
 members/.env
+membership-registration/
 menu.asp
 menu.cfm
 menu.cgi
@@ -4599,6 +4607,7 @@ model/.env
 models
 module/.env
 modules/phpinfo.php
+modules/pwd.html
 mojo/core/.env
 mongo
 mongo.json
@@ -4733,6 +4742,7 @@ panel/phpinfo.php
 panel/status
 parameters%2eyml?v=AVLes
 params.yaml?v=18e6211f9faa9794
+parse
 partner/.env
 partner/config/config.js?v=18e6211c8e97450a
 password/reset
@@ -4824,7 +4834,6 @@ push/%252eenv
 pyproject.toml?v=18e6211e24dd3aba
 python/.env?v=teOEr
 q7y5rgnaiw4ase
-query
 query?q=SHOW+DIAGNOSTICS
 queues/.env
 quote/
@@ -4942,6 +4951,7 @@ service-account.json?v=18e621105debea95
 service-worker.js
 service/%2eenv?v=HaaOm
 service/email_service.py?v=18e621112a7563e3
+service/v4/rest.php
 serviceAccount.json
 serviceAccountCredentials.json
 services/anthropic/index.js?v=18e6211131187668
@@ -5289,6 +5299,7 @@ wp-admin/admin-ajax.php?action=vulnerable_upload_handler
 wp-admin/admin-ajax.php?action=wmuUploadFiles
 wp-admin/admin-ajax.php?action=wpgdprc_process_action
 wp-admin/admin-ajax.php?action=wpr_addons_upload_file
+wp-admin/admin-ajax.php?template=../../../../../../../wp-config&value=a&min_symbols=1
 wp-config-sample.php
 wp-config.bak?v=18e6211304a989f8
 wp-config.orig
@@ -5330,6 +5341,7 @@ wp-content/plugins/contact-form-7-db/img/pentest_proof_6c9f30.php
 wp-content/plugins/contact-form-7-db/img/upload.php
 wp-content/plugins/contact-form-7/includes/css/styles.css
 wp-content/plugins/contact-form-7/readme.txt
+wp-content/plugins/export-wp-page-to-static-html/README.txt
 wp-content/plugins/formcraft/file-upload/server/content/files/pentest_proof_6c9f30.php
 wp-content/plugins/formcraft/file-upload/server/content/upload.php
 wp-content/plugins/forminator/forminator.php
