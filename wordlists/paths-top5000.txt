@@ -64,13 +64,13 @@ appsettings.json
 credentials.json
 crm/.env
 v2/.env
+developmentserver/metadatauploader
 old/.env
 client/.env
 database.sql
 settings.py
 .env.production.local
 config.php.bak
-developmentserver/metadatauploader
 favicon.ico/
 .env.dist
 .env.orig

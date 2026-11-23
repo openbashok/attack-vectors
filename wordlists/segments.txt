@@ -152,14 +152,14 @@ sse
 user
 docs
 site.zip
+developmentserver
+metadatauploader
 .env:80
 files
 local
 login.html
 config.php.bak
-developmentserver
 dump.sql
-metadatauploader
 .env.orig
 backup.sql
 db.sql

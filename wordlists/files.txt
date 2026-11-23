@@ -64,10 +64,10 @@ appsettings.json
 database.sql
 sse
 site.zip
+metadatauploader
 login.html
 config.php.bak
 dump.sql
-metadatauploader
 .env.orig
 backup.sql
 db.sql

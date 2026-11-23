@@ -64,6 +64,7 @@ appsettings.json
 credentials.json
 old/.env
 crm/.env
+developmentserver/metadatauploader
 client/.env
 database.sql
 favicon.ico/
@@ -71,7 +72,6 @@ settings.py
 .env.production.local
 config.php.bak
 database.yml
-developmentserver/metadatauploader
 .env.dist
 .env.orig
 api/mcp
