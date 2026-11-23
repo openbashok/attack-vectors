@@ -11,8 +11,8 @@ vendor
 favicon.ico
 index.php
 admin
-app
 SDK
+app
 webLanguage
 test
 .env.local
@@ -279,6 +279,7 @@ json
 database
 panel
 workflows
+wp-json
 .env.preprod
 .npmrc
 packages
@@ -294,7 +295,6 @@ config.py
 .env.swp
 .env~
 backup.zip
-wp-json
 .%65%6e%76
 .env.config
 .env.dev.local

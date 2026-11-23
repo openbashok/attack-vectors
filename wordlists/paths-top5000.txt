@@ -815,6 +815,7 @@ wiki
 wordpress/.env
 wp-admin/
 wp-config.php.gz
+wp-json/
 www.tar.gz
 xampp/.env
 .claude.json
@@ -2878,7 +2879,6 @@ worker/.env
 wp-config.php.original
 wp-config.save
 wp-content/plugins/hellopress/wp_filemanager.php
-wp-json/
 wp-json/wc/store/products
 wp-login/.env
 wrangler.toml

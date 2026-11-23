@@ -810,6 +810,7 @@ wiki
 wordpress/.env
 wp-admin/
 wp-config.php.dist
+wp-json/
 wp-login.php
 xmlrpc.php
 .config/gcloud/application_default_credentials.json

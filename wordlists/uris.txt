@@ -810,6 +810,7 @@ wiki
 wordpress/.env
 wp-admin/
 wp-config.php.dist
+wp-json/
 wp-login.php
 xmlrpc.php
 .config/gcloud/application_default_credentials.json
@@ -2854,7 +2855,6 @@ wordpress/wp-json/batch/v1
 workers/.env
 wp-config.save
 wp-content/plugins/hellopress/wp_filemanager.php
-wp-json/
 wp-json/wc/store/products
 wp-login/.env
 wrangler.toml

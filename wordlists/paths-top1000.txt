@@ -815,6 +815,7 @@ wiki
 wordpress/.env
 wp-admin/
 wp-config.php.gz
+wp-json/
 www.tar.gz
 xampp/.env
 .claude.json
@@ -996,4 +997,3 @@ ansible/.env
 api/.env.bak
 api/.env.dev
 api/.env.save
-api/active-coins

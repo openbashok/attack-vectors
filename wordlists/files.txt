@@ -313,6 +313,7 @@ openai.json
 swagger-ui.html
 system
 wp-config.old
+wp-json
 .env.aws
 .env.bak~
 .env.new
@@ -433,7 +434,6 @@ signin
 vertex.json
 wallet.dat
 wp-config.php.dist
-wp-json
 xmlrpc.php
 zld_product_spec.js
 ..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
