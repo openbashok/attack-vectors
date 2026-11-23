@@ -190,10 +190,10 @@ app.php
 sdk
 sftp-config.json
 .htaccess
+api
 docker-compose.prod.yml
 login.cgi
 Dr0v
-api
 config.inc.php
 hello.world
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
@@ -208,6 +208,8 @@ master.key
 ws
 .env.1
 .env.docker
+api.ipinfo.io:443
+icanhazip.com:443
 id_ed25519
 index.js
 openapi.json
@@ -219,12 +221,10 @@ aab9
 abc6
 abc8
 api-docs
-api.ipinfo.io:443
 auth
 auth.json
 authorized_keys
 backup.tar.gz
-icanhazip.com:443
 terraform.tfvars
 wp-config.php.orig
 abc7
@@ -692,6 +692,7 @@ settings.ini
 settings.js
 site.sql
 soap
+solr
 speed.cloudflare.com:443
 swagger-ui
 team-provider-info.json
@@ -884,7 +885,6 @@ session
 setup.md
 sitecore.version.xml
 smtp.php
-solr
 sphere1.png
 statement
 storage.yml

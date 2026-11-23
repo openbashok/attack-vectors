@@ -374,8 +374,10 @@ ws
 .docker/.env
 .env.1
 .vscode/settings.json
+api.ipinfo.io:443
 app/.env.local
 cgi-bin/login.cgi
+icanhazip.com:443
 pub/
 settings.php
 .travis.yml
@@ -383,11 +385,9 @@ aab9
 abc6
 abc8
 actuator/env
-api.ipinfo.io:443
 app/.env.production
 conf/.env
 config.inc.php
-icanhazip.com:443
 wp-config.php.orig
 .env.test.local
 .git/logs/HEAD
@@ -422,6 +422,7 @@ server-status
 sftp.json
 www.zip
 .ssh/id_ed25519
+api/
 autodiscover/autodiscover.json
 config.yaml
 terraform.tfvars
@@ -433,7 +434,6 @@ vendor/.env
 .ssh/authorized_keys
 Gemfile.lock
 actuator/configprops
-api/
 backups/.env
 boaform/admin/formLogin
 composer.json
@@ -1241,6 +1241,7 @@ settings.ini
 setup/.env
 site.sql
 soap
+solr/
 speed.cloudflare.com:443
 src/config.js
 src/gameprovider-service/.env
@@ -1773,7 +1774,6 @@ shopdb/index.php
 signin
 site/.git/config
 sitecore/shell/sitecore.version.xml
-solr/
 sql/myadmin/index.php
 sql/php-myadmin/index.php
 sql/phpMyAdmin/index.php
@@ -3510,6 +3510,7 @@ api/auth/signin
 api/aws/s3.ts
 api/azure-openai/config.js
 api/bedrock/config.js
+api/characters
 api/config/config.yml
 api/console/api_server
 api/contents

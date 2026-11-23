@@ -350,6 +350,7 @@ config.inc.php
 hello.world
 pki-validation
 public_html
+solr
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 test.hello
 wp-config.php~
@@ -366,7 +367,6 @@ login.htm
 openai
 phpmyadmin
 resources
-solr
 static..
 vue-heroes
 .env.test.local
@@ -390,6 +390,8 @@ master.key
 modules
 .env.1
 .env.docker
+api.ipinfo.io:443
+icanhazip.com:443
 id_ed25519
 index.js
 openapi.json
@@ -403,14 +405,12 @@ aab9
 abc6
 abc8
 api-docs
-api.ipinfo.io:443
 auth.json
 authorized_keys
 backup.tar.gz
 deploy
 development
 doc
-icanhazip.com:443
 pma
 private
 swagger
