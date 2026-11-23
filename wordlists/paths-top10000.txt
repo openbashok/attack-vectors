@@ -15,9 +15,9 @@ api/.env
 config/.env
 .env.dev
 config.json
-laravel/.env
 get
 ip.cypher.rest:443
+laravel/.env
 .env.backup
 backend/.env
 .env.test
@@ -70,11 +70,11 @@ database.sql
 settings.py
 .env.production.local
 config.php.bak
+developmentserver/metadatauploader
 favicon.ico/
 .env.dist
 .env.orig
 database.yml
-developmentserver/metadatauploader
 dump.sql
 wp-config.php.bak
 .kube/config
@@ -119,10 +119,10 @@ blog/.env
 error.log
 local/.env
 secrets.yaml
+sitemap.xml
 apps/.env
 new/.env
 project/.env
-sitemap.xml
 app_dev.php/_profiler/open
 demo/.env
 home/.env
@@ -426,6 +426,7 @@ ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 terraform.tfvars
 v1
 vendor/.env
+wp-admin/admin-ajax.php
 .env.copy
 .env.tmp
 .ftpconfig
@@ -441,7 +442,6 @@ dist/.env
 docker-compose.override.yml
 docker-compose/.env
 server/.env.local
-wp-admin/admin-ajax.php
 .env.yml
 .env_1
 .env_old
@@ -732,6 +732,7 @@ api/shared/config/.env
 api/shared/config/config.env
 api/sonicos/auth
 api/sonicos/tfa
+api/v1/validate/code
 api/v2/cmdb/system/admin
 api/v2/cmdb/system/admin/admin
 app/.env.example
@@ -840,7 +841,6 @@ administrator/
 ai/site-profile.json
 api/config
 api/src/.env
-api/v1/validate/code
 app-ads.txt
 application.yaml
 authorized_keys
@@ -878,6 +878,7 @@ favicon
 frontend/.git/config
 google-credentials.json
 graphiql
+helpdesk/WebObjects/Helpdesk.woa
 horizon
 id_ed25519
 include/config.php
@@ -1135,7 +1136,6 @@ gradle.properties
 grems-frontend/.env
 hasura/.env
 helm/.env
-helpdesk/WebObjects/Helpdesk.woa
 higlass-website/.env
 home.tar.gz
 home/*/.aws/credentials
@@ -2000,6 +2000,7 @@ BACK/.env
 BACKEND/.env
 BE/.env
 Be/.env
+CMSPages/Staging/SyncServer.asmx
 CodeGolf.Web/ClientApp/.env
 ContainerRegistry/.env
 Core/.env
@@ -2038,6 +2039,7 @@ User_info/.env
 WEB-INF/web.xml
 Web/.env
 Web/siteMariage/.env
+WebInterface/function/
 \.\.env
 \\.env
 __debug__/
@@ -2248,6 +2250,7 @@ backup/config.env
 backup/env
 backups/database.sql
 base.jsa
+basic-api/login
 be/.env
 bedrock-api-key.env
 bedrock-api-key.json
@@ -2467,6 +2470,7 @@ http/.env
 httpboot/.env
 httpdocs/.env
 ikiwiki/.env
+images/index.html
 inc/.env
 index.cfm
 index.php.old
@@ -2822,6 +2826,7 @@ storage/.env.production
 storage/.env.staging
 storage/app/.env
 storage/app/private/.env
+storage/filesvr.dn
 strapi/.env
 stripe/webhook_secret.env
 style/.env
@@ -3347,6 +3352,7 @@ ztp/cgi-bin/handler
 @fs/app/.env.local
 @fs/app/.env.production
 @fs/src/.env
+API/regionsDiscovery.php
 CLAUDE.md
 CSCOSSLC/tunnel
 CXKv
@@ -3512,6 +3518,7 @@ api/docker/config
 api/documentation
 api/download
 api/download/file
+api/fabric/device/status
 api/gemini/config.js
 api/gql
 api/index.php/v1/config/application
@@ -3526,12 +3533,14 @@ api/openrouter/config.js
 api/org
 api/phpinfo.php
 api/redis
+api/remote
 api/rsc
 api/swagger
 api/user
 api/v1/download
 api/v1/health
 api/v1/login
+api/v1/markdown/link:metadata
 api/v1/models
 api/v1/namespaces/default/secrets
 api/v1/namespaces/kube-system/configmaps
@@ -3803,6 +3812,7 @@ configuration.php.old
 confluence/rpc/soap-axis/confluenceservice-v2
 console/.env
 console/api/setup
+console/dashboard/executorCount
 console/login/getpwd
 console/phpinfo.php
 constants.php
@@ -3852,6 +3862,7 @@ db_backup%252esql
 dbadmin
 dbconfig.js
 dbinfo.php
+de2api/datasource/validate
 debug.php.old
 debug/default/view.html
 debug/pprof/
@@ -3868,6 +3879,7 @@ demo.zip
 deploy.tar.gz
 deploy.zip
 deploy/k8s/deployment.yaml
+deployment-rpc/enableStrongSwanTunnel
 design/assets/css/main.css/.env
 design/assets/js/jquery.min.js/.env
 design/assets/js/main.js/.env
@@ -4030,6 +4042,7 @@ index.js.map
 index.jsa
 index.php/admin
 index.php/admin/login
+index.php/ajax/
 index.php/login
 index.pl
 indice.aspx
@@ -4169,6 +4182,7 @@ logs/backup.zip
 logs/debug.log
 logs/env
 logs/laravel.log
+lshw
 m0m1oxxbpc9dul
 mPlayer
 mage.zip
@@ -4189,10 +4203,13 @@ main.jsp
 main.php
 main.yml
 manage
+management/admindatabase.aspx
 management/configprops
 manager/.env
 marketplace/.env
 master.zip
+mdm/checkin
+mdm/serverurl
 media.tar.gz
 members/.env
 menu.asp
@@ -4204,6 +4221,7 @@ menu.jsp
 menu.php
 menu.pl
 menu.shtml
+mesh/servlet/mesh.webadmin.MESHAdminServlet
 message/.env
 messages/%2eenv
 messages/.env
@@ -4242,6 +4260,7 @@ mysql.zip
 mytest/astech_robot.js
 myvpn
 n7y65ghab4c88s
+netmri/config/userAdmin/login.tdf
 news/wp-includes/wlwmanifest.xml
 nexmo.env
 nextjs.zip
@@ -4365,6 +4384,7 @@ poetry.lock
 portal/%252eenv
 portal/%2eenv
 portal/api/.env
+portal/loginpage.aspx
 postgres.sql
 postgres.zip
 postmark.env
@@ -4436,6 +4456,7 @@ reports/.env
 rest/%2eenv
 rest/about/version.json
 rest/v1/
+rest/wikis/xwiki/query
 rightside/agent/astguiclient.php
 rpc/soap-axis/confluenceservice-v1
 rsc
@@ -4669,6 +4690,8 @@ trace.axd
 tracking/%2eenv
 translate_a/single
 tree
+trufusionPortal/getCobrandingData
+trufusionPortal/getProjectList
 uh30sys4caicyz
 ui/
 update/.env

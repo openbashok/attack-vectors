@@ -15,9 +15,9 @@ api/.env
 config/.env
 .env.dev
 config.json
-laravel/.env
 get
 ip.cypher.rest:443
+laravel/.env
 .env.backup
 backend/.env
 .env.test
@@ -70,11 +70,11 @@ database.sql
 settings.py
 .env.production.local
 config.php.bak
+developmentserver/metadatauploader
 favicon.ico/
 .env.dist
 .env.orig
 database.yml
-developmentserver/metadatauploader
 dump.sql
 wp-config.php.bak
 .kube/config
@@ -119,10 +119,10 @@ blog/.env
 error.log
 local/.env
 secrets.yaml
+sitemap.xml
 apps/.env
 new/.env
 project/.env
-sitemap.xml
 app_dev.php/_profiler/open
 demo/.env
 home/.env
@@ -426,6 +426,7 @@ ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 terraform.tfvars
 v1
 vendor/.env
+wp-admin/admin-ajax.php
 .env.copy
 .env.tmp
 .ftpconfig
@@ -441,7 +442,6 @@ dist/.env
 docker-compose.override.yml
 docker-compose/.env
 server/.env.local
-wp-admin/admin-ajax.php
 .env.yml
 .env_1
 .env_old
@@ -732,6 +732,7 @@ api/shared/config/.env
 api/shared/config/config.env
 api/sonicos/auth
 api/sonicos/tfa
+api/v1/validate/code
 api/v2/cmdb/system/admin
 api/v2/cmdb/system/admin/admin
 app/.env.example
@@ -840,7 +841,6 @@ administrator/
 ai/site-profile.json
 api/config
 api/src/.env
-api/v1/validate/code
 app-ads.txt
 application.yaml
 authorized_keys
@@ -878,6 +878,7 @@ favicon
 frontend/.git/config
 google-credentials.json
 graphiql
+helpdesk/WebObjects/Helpdesk.woa
 horizon
 id_ed25519
 include/config.php
@@ -996,4 +997,3 @@ amplify/team-provider-info.json
 anaconda/.env
 ansible/.env
 api/.env.bak
-api/.env.dev

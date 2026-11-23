@@ -28,11 +28,11 @@ test
 laravel.log
 .env.backup
 .env.test
-config.js
 index.html
-.env.development
+config.js
 get
 ip.cypher.rest:443
+.env.development
 info
 HEAD
 settings.py
@@ -67,10 +67,10 @@ site.zip
 login.html
 config.php.bak
 dump.sql
+metadatauploader
 .env.orig
 backup.sql
 db.sql
-metadatauploader
 wp-config.php.bak
 error.log
 application.properties
@@ -250,6 +250,7 @@ secrets.py
 server-status
 service-account.json
 www.zip
+admin-ajax.php
 autodiscover.json
 configprops
 microsoft.exchange.ediscovery.exporttool.application
@@ -259,7 +260,6 @@ microsoft.exchange.ediscovery.exporttool.application
 .envrc
 .ftpconfig
 Gemfile.lock
-admin-ajax.php
 composer.json
 composer.lock
 docker-compose.override.yml
@@ -311,6 +311,7 @@ heapdump
 html
 index.jsp
 openai.json
+status
 swagger-ui.html
 system
 wp-config.old
@@ -339,7 +340,6 @@ rdx_en.json.gz
 redlion
 run
 socket.io
-status
 wp-config.php.txt
 wp-login.php
 .env.prev
@@ -428,6 +428,7 @@ kubeconfig
 login.aspx
 models
 private.key
+remote
 setup.cgi
 sign_in
 signin
@@ -467,6 +468,7 @@ backup.sql.gz
 bedrock.yml
 bucket
 check.js
+code
 configurations
 configurations.do
 custom.html
@@ -492,7 +494,6 @@ pluginlist.xml
 pma
 pom.xml
 rdweb
-remote
 secrets.js
 sellers.json
 smtp.env
@@ -516,6 +517,7 @@ www.tar.gz
 .mcp.json
 .vault-token
 Auth
+Helpdesk.woa
 Pipfile.lock
 app-ads.txt
 application.yaml
@@ -526,7 +528,6 @@ backup.tar
 bedrock.config
 buckets
 cert.pem
-code
 compose.yml
 config.toml
 config.xml
@@ -600,7 +601,6 @@ wp-settings.php
 1
 7f13c0a9d8644f3ca0a563b6b56e49d7
 CHANGELOG.txt
-Helpdesk.woa
 IPCamDesc.xml
 UI_String.js
 WebInterface
@@ -865,6 +865,7 @@ prelogin.esp
 private.pem
 prod.decrypt.private.php
 proxy
+query
 requests
 route
 rsc
@@ -1015,6 +1016,7 @@ Pages
 Pulumi.yaml
 RPC2_Login
 Search.cgi
+SyncServer.asmx
 ViewUserInfo.php
 \.\.env
 \\.env
@@ -1096,7 +1098,9 @@ example.env
 executions
 fast_setting_wifi_set
 fetch
+filesvr.dn
 forgot-password
+function
 gemini.yml
 global.asax
 go.sum
@@ -1178,7 +1182,6 @@ products
 project.json
 proxy.php
 public
-query
 rclone.conf
 redis
 redoc

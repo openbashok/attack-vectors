@@ -13,9 +13,9 @@ api/.env
 config/.env
 .env.dev
 .env.prod
-config.json
 get
 ip.cypher.rest:443
+config.json
 laravel/.env
 .env.backup
 backend/.env
@@ -111,12 +111,12 @@ test/.env
 blog/.env
 main/.env
 settings.json
+sitemap.xml
 web.config
 application.properties
 error.log
 local/.env
 project/.env
-sitemap.xml
 app_dev.php/_profiler/open_file=app/config/parameters.yml
 apps/.env
 debug/default/view_panel=config
@@ -528,6 +528,7 @@ druid/index.html
 files/.env
 graphql
 id_rsa
+index.php
 lib/.env
 logon/LogonPoint/index.html
 mail/.env
@@ -579,7 +580,6 @@ env.txt
 frontend/.env.local
 hudson
 i.php
-index.php
 kyc/.env
 laravel/core/.env
 local.py
@@ -722,6 +722,7 @@ api/.env.example
 api/config.php
 api/sonicos/auth
 api/sonicos/tfa
+api/v1/validate/code
 api/v2/cmdb/system/admin
 api/v2/cmdb/system/admin/admin
 app.js
@@ -831,7 +832,6 @@ api/config
 api/shared/config/.env
 api/shared/config/config.env
 api/src/.env
-api/v1/validate/code
 app-ads.txt
 authorized_keys
 aws-exports.js
@@ -868,6 +868,7 @@ favicon
 frontend/.git/config
 google-credentials.json
 graphiql
+helpdesk/WebObjects/Helpdesk.woa
 horizon
 id_rsa.pub
 include/config.php
@@ -1111,7 +1112,6 @@ gradle.properties
 grems-frontend/.env
 hasura/.env
 helm/.env
-helpdesk/WebObjects/Helpdesk.woa
 higlass-website/.env
 home.tar.gz
 home/_/.aws/credentials
