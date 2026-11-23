@@ -146,6 +146,7 @@ config.dev.php
 config/.env.php
 info/
 laravel.log
+login
 phpinfo/
 sendgrid/.env
 sendgrid/.env.php
@@ -156,7 +157,6 @@ var/.env.local.php
 *
 bot/.env
 google-services.json
-login
 store/.env
 uploads/.env
 api/v2/.env
@@ -250,8 +250,8 @@ twilio.env
 wp-config.php.old
 .env.default
 .env_sample
-.npmrc
 +CSCOE+/logon.html
+.npmrc
 .env.uat
 config.php
 .env~
@@ -260,16 +260,16 @@ config.php
 .env.preprod
 .svn/wc.db
 build/.env
+login.html
 .env.ci
 .env.secret
 aaa9
-login.html
 .vscode/sftp.json
 admin/config.php
 app/.git/config
+remote/login
 .env.swp
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
-remote/login
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/.git/config
 .env.sandbox
@@ -277,6 +277,7 @@ www/.git/config
 config/database.php
 config/secrets.yml
 configuration/.env
+index.html
 owa/auth/logon.aspx
 wp-config.php.save
 .ssh/id_rsa
@@ -285,7 +286,6 @@ admin/.git/config
 configuration.php
 containers/json
 database/.env
-index.html
 server/.git/config
 version
 .git-credentials
@@ -334,6 +334,9 @@ demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/Util/PHP/eval-stdin.php
 lib/phpunit/src/Util/PHP/eval-stdin.php
+login.htm
+login.jsp
+manage/account/login
 panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/Util/PHP/eval-stdin.php
 phpunit/phpunit/Util/PHP/eval-stdin.php
@@ -349,6 +352,7 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 HNAP1
+admin/index.html
 assets../.git/config
 cms/.git/config
 config/.git/config
@@ -358,16 +362,12 @@ data/.git/config
 dev/.git/config
 evox/about
 files/.git/config
-login.htm
-login.jsp
-manage/account/login
 media../.git/config
 media/.git/config
 project/.git/config
 public_html/.env
 .env.txt
 .git/index
-admin/index.html
 config/master.key
 files/
 ws
@@ -375,6 +375,7 @@ ws
 .env.1
 .vscode/settings.json
 app/.env.local
+cgi-bin/login.cgi
 pub/
 settings.php
 .travis.yml
@@ -384,7 +385,6 @@ abc8
 actuator/env
 api.ipinfo.io:443
 app/.env.production
-cgi-bin/login.cgi
 conf/.env
 config.inc.php
 icanhazip.com:443
@@ -456,6 +456,7 @@ config/credentials.yml.enc
 current/.env
 dana-na/nc/nc_gina_ver.txt
 development/.env
+doc/index.html
 env/.env
 instance/config.py
 mailer/.env
@@ -467,6 +468,7 @@ var/www/.env
 .remote-sync.json
 Dockerfile
 _layouts/15/error.aspx
+admin/login.asp
 auth.html
 cgi-bin/authLogin.cgi
 config.php.old
@@ -475,7 +477,6 @@ config.yml
 config/application.yml
 config/settings.py
 cron/.env
-doc/index.html
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 global-protect/login.esp
@@ -494,7 +495,6 @@ wsman
 127.0.0.1:801
 actuator/heapdump
 admin
-admin/login.asp
 api/.env.production
 credentials.py
 ecosystem.config.js
@@ -506,7 +506,9 @@ manager/html
 nginx/.env
 protected/.env
 vpn/index.html
+web/
 web/.env.local
+webpages/login.html
 wp-admin/.env
 wp-config.old
 .env.aws
@@ -541,6 +543,7 @@ new/.env.local
 new/.env.staging
 owa/
 panel/.env
+portal/redlion
 production/.env
 raw
 root/.aws/credentials
@@ -550,8 +553,6 @@ solr/admin/cores
 solr/admin/info/system
 tools/.env
 vpn/js/rdx/core/lang/rdx_en.json.gz
-web/
-webpages/login.html
 wp-config.php.txt
 wp-content/debug.log
 .env.prev
@@ -592,7 +593,6 @@ manager/text/list
 myapp/settings.py
 php/.env
 php_info.php
-portal/redlion
 redmine/.env
 showLogin.cc
 sitemaps/.env

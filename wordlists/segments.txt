@@ -57,8 +57,8 @@ config.php
 secrets.yaml
 demo
 backup
-docker
 cgi-bin
+docker
 env
 info
 default
@@ -68,8 +68,8 @@ laravel.log
 staging
 .env.test
 config.js
-debug
 index.html
+debug
 tests
 static
 .env.development
@@ -111,8 +111,8 @@ js
 secrets.yml
 services
 database.yml
-blog
 portal
+blog
 project
 site
 administrator
@@ -155,13 +155,13 @@ sse
 .env:80
 files
 local
+login.html
 config.php.bak
 dump.sql
 .env.orig
 backup.sql
 db.sql
 developmentserver
-login.html
 metadatauploader
 wp-config.php.bak
 .kube
@@ -233,11 +233,11 @@ sftp.json
 app.log
 bak
 developer
+login.jsp
+remote
 saas
 server.key
 credentials.xml
-login.jsp
-remote
 requirements.txt
 .env.save.1
 .github
@@ -283,13 +283,13 @@ wp-json
 database
 panel
 workflows
-.npmrc
-packages
 +CSCOE+
+.npmrc
+logon.html
+packages
 .env.ci
 HNAP1
 database.php
-logon.html
 %252eenv
 aws.json
 config.py
@@ -312,6 +312,7 @@ plugins
 swagger.json
 users
 configuration.php
+login.asp
 settings.php
 sites
 testing
@@ -319,9 +320,9 @@ update
 .env.sandbox
 .htpasswd
 LogonPoint
+account
 configuration
 drupal
-login.asp
 logon
 logon.aspx
 welcome.cgi
@@ -329,7 +330,6 @@ wp-config.php.save
 $(pwd)
 .s3cfg
 Jenkinsfile
-account
 bdd
 etc
 pub
@@ -338,15 +338,16 @@ sdk
 LICENSE
 app.php
 console
+manage
 sftp-config.json
 workspace
 wp-includes
 .htaccess
 docker-compose.prod.yml
-manage
 Dr0v
 config.inc.php
 hello.world
+login.cgi
 pki-validation
 public_html
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
@@ -361,7 +362,7 @@ downloads
 ec
 includes
 index
-login.cgi
+login.htm
 openai
 phpmyadmin
 resources
@@ -374,7 +375,6 @@ backups
 dist
 environments
 evox
-login.htm
 media..
 scripts
 webui
@@ -409,6 +409,7 @@ authorized_keys
 backup.tar.gz
 deploy
 development
+doc
 icanhazip.com:443
 pma
 private
@@ -418,7 +419,6 @@ wp-config.php.orig
 abc7
 anthropic
 config.yaml
-doc
 enviroments
 mcp.json
 ~
@@ -492,6 +492,7 @@ qa
 run
 session
 sonicos
+webpages
 .env.yml
 .env_1
 .env_example
@@ -514,7 +515,6 @@ nc_gina_ver.txt
 nginx
 properties
 tools
-webpages
 wlwmanifest.xml
 .env.yaml
 .env_backup
@@ -617,6 +617,7 @@ rails
 raw
 rdx
 rdx_en.json.gz
+redlion
 routes
 socket.io
 status
@@ -661,7 +662,6 @@ phpmyadmin3
 phpmyadmin4
 phpmyadmin5
 projbackend
-redlion
 redmine
 reports
 rpc
