@@ -256,6 +256,7 @@ wp-config.php.old
 .env.uat
 .npmrc
 aaa9
+admin/config.php
 config.php
 .env.preprod
 .env~
@@ -267,7 +268,6 @@ login.html
 .svn/wc.db
 .env.secret
 .vscode/sftp.json
-admin/config.php
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -477,6 +477,7 @@ development/.env
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
 global-protect/login.esp
+index.php
 laravel/.env.example
 logon/LogonPoint/tmindex.html
 mailer/.env
@@ -528,7 +529,6 @@ druid/index.html
 files/.env
 graphql
 id_rsa
-index.php
 lib/.env
 logon/LogonPoint/index.html
 mail/.env
@@ -609,6 +609,7 @@ wp-content/uploads/
 .pypirc
 _profiler
 admin-app/.env
+admin/modules/framework/amp_conf/htdocs/admin/config.php
 ansible.cfg
 application-prod.properties
 appsettings.Production.json
@@ -646,6 +647,7 @@ wp-content/uploads/pentest_proof_6c9f30.php
 Public/home/js/check.js
 __tests__/test-become/.env
 actuator
+admin/modules/framework/amp_conf/var/www/html/admin/config.php
 adminer.sql
 airflow.cfg
 api/.env.staging
@@ -674,6 +676,7 @@ firebase-adminsdk.json
 functions/.env
 infophp.php
 js/.env
+modules/faxnew/lang/
 new/.env.production
 proc/self/environ
 public/.env.local
@@ -720,7 +723,6 @@ admin.php
 admin/.env.local
 admin/.env.staging
 admin/assets/js/views/login.js
-admin/modules/framework/amp_conf/htdocs/admin/config.php
 admin_login.html
 api-docs
 api/.env.example
@@ -765,6 +767,7 @@ front/.env
 human.aspx
 iam/login
 id_dsa
+images/
 inc/config.php
 includes/config.php
 index.do
@@ -825,7 +828,6 @@ xmlrpc.php
 .gitmodules
 .well-known/robots.txt
 Pipfile.lock
-admin/modules/framework/amp_conf/var/www/html/admin/config.php
 administrator/
 ai/site-profile.json
 api/config
@@ -886,7 +888,6 @@ lib/config.php
 login.php
 magento/.env
 middleware/.env
-modules/faxnew/lang/
 next/.env
 nuxt/.env
 packages/.env
@@ -1126,7 +1127,6 @@ icon/.env
 icons/.env
 id_ed25519
 image_data/.env
-images/
 images/logo.gif
 images/logo.png
 img/.env

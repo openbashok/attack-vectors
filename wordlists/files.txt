@@ -19,9 +19,9 @@ login
 .env.save
 .env.dev
 security.txt
+config.php
 phpinfo.php
 .env.prod
-config.php
 secrets.yaml
 test
 .env.old
@@ -426,6 +426,7 @@ gemini.json
 infophp.php
 keys.json
 kubeconfig
+lang
 login.aspx
 models
 private.key
@@ -483,6 +484,7 @@ fgt_lang
 ftp-sync.json
 gcp.json
 gradle.properties
+images
 index.do
 license.txt
 local.settings.json
@@ -495,6 +497,7 @@ pluginlist.xml
 pma
 pom.xml
 rdweb
+readme.txt
 secrets.js
 sellers.json
 shell
@@ -550,13 +553,11 @@ horizon
 index.htm
 index.js.map
 install.php
-lang
 local.xml
 meta
 openapi.yaml
 phpmyadmin
 query
-readme.txt
 register
 routes
 s3_config.json
@@ -657,7 +658,6 @@ geoserver
 header_logo.cgi
 health-check
 home.tar.gz
-images
 info.asp
 info.cgi
 info.xml
@@ -1206,6 +1206,7 @@ smtp.json
 sql.php
 start.jsp
 start.php
+styles.css
 superset_config.py
 svs-path-check-nonexistent
 system.php

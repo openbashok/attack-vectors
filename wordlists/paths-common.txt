@@ -254,6 +254,7 @@ wp-config.php.old
 .env.uat
 .npmrc
 aaa9
+admin/config.php
 config.php
 .env.preprod
 .env~
@@ -266,7 +267,6 @@ login.html
 .env.secret
 .env.swp
 .vscode/sftp.json
-admin/config.php
 app/.git/config
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
 remote/login
@@ -609,6 +609,7 @@ wp-content/uploads/
 .github/workflows/main.yml
 actuator
 admin-app/.env
+admin/modules/framework/amp_conf/htdocs/admin/config.php
 ansible.cfg
 api/config.env
 application.properties.bak
@@ -650,6 +651,7 @@ wp-content/uploads/pentest_proof_6c9f30.php
 .ssh/id_ecdsa
 Public/home/js/check.js
 __tests__/test-become/.env
+admin/modules/framework/amp_conf/var/www/html/admin/config.php
 adminer.sql
 airflow.cfg
 api-docs
@@ -678,6 +680,7 @@ ext-js/app/common/zld_product_spec.js
 firebase-adminsdk.json
 id_dsa
 infophp.php
+modules/faxnew/lang/
 node_modules/.env
 php.php
 private.key
@@ -729,7 +732,6 @@ admin.php
 admin/.env.local
 admin/.env.staging
 admin/assets/js/views/login.js
-admin/modules/framework/amp_conf/htdocs/admin/config.php
 admin_login.html
 api/.env.example
 api/config.php
@@ -774,6 +776,7 @@ fpui/jsp/login.jsp
 front/.env
 iam/login
 id_rsa.pub
+images/
 inc/config.php
 includes/config.php
 index.do
@@ -838,7 +841,6 @@ xampp/.env
 .vault-token
 .well-known/robots.txt
 Pipfile.lock
-admin/modules/framework/amp_conf/var/www/html/admin/config.php
 administrator/
 ai/site-profile.json
 api/config
@@ -900,7 +902,6 @@ login.php
 magento/.env
 mcp.json
 middleware/.env
-modules/faxnew/lang/
 next/.env
 nuxt/.env
 openapi.yaml
@@ -1152,7 +1153,6 @@ html/.git/config
 icon/.env
 icons/.env
 image_data/.env
-images/
 images/logo.gif
 images/logo.png
 img/.env

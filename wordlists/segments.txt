@@ -10,8 +10,8 @@ api
 vendor
 favicon.ico
 index.php
-app
 admin
+app
 SDK
 webLanguage
 .env.local
@@ -50,11 +50,11 @@ dev
 .env.dev
 security.txt
 lib
+config.php
 phpinfo.php
 assets
 .env.prod
 cgi-bin
-config.php
 secrets.yaml
 demo
 backup
@@ -79,10 +79,10 @@ static
 .svn
 HEAD
 cms
-settings.py
-.env.local.php
 html
+settings.py
 var
+.env.local.php
 crm
 info.php
 view
@@ -93,11 +93,11 @@ client
 apps
 sendgrid
 beta
+wp-content
 tmp
 .env.dist
 log
 settings.json
-wp-content
 actuator
 system
 temp
@@ -132,6 +132,8 @@ terraform.tfstate
 uploads
 db
 application.yml
+htdocs
+images
 main
 test.php
 aws.yml
@@ -140,8 +142,6 @@ examples
 ws
 docker-compose.yaml
 entries
-htdocs
-images
 bin
 fixtures
 sse
@@ -296,6 +296,7 @@ aws.json
 config.py
 .env~
 backup.zip
+plugins
 .%65%6e%76
 .env.config
 .env.dev.local
@@ -306,7 +307,6 @@ wc.db
 .env.secret
 config.yml
 containers
-plugins
 vpn
 Login
 about
@@ -335,6 +335,7 @@ LICENSE
 bdd
 console
 etc
+modules
 sdk
 workspace
 .git-credentials
@@ -357,12 +358,12 @@ autodiscover
 config.inc.php
 downloads
 ec
+includes
 pki-validation
 public_html
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php~
 conf
-includes
 index
 login.htm
 openai
@@ -373,6 +374,7 @@ vue-heroes
 .env.test.local
 assets..
 backups
+css
 dist
 environments
 evox
@@ -385,14 +387,13 @@ webui
 RDWeb
 _next
 api.ipinfo.io:443
-css
 graphql
 icanhazip.com:443
 manager
 master.key
-modules
 .env.1
 .env.docker
+framework
 id_ed25519
 index.js
 openapi.json
@@ -432,6 +433,7 @@ default_settings
 docker-compose
 env.php
 id_dsa
+lang
 master
 secrets
 terraform.tfstate.backup
@@ -447,7 +449,6 @@ db.php
 diag_Form
 ecp
 exporttool
-framework
 live
 local_settings.py
 microsoft.exchange.ediscovery.exporttool.application
@@ -459,10 +460,10 @@ service-account.json
 task
 url_default
 www.zip
+amp_conf
 configprops
 current
 django
-lang
 mail
 main.js
 secure
@@ -560,7 +561,6 @@ x.js
 1.0
 127.0.0.1:801
 adminer
-amp_conf
 applinks
 cgi-mod
 chunks
@@ -758,6 +758,7 @@ dana-cached
 export
 ext-js
 favicon.png
+faxnew
 firebase-adminsdk.json
 gemini.json
 hc
@@ -892,6 +893,7 @@ pluginlist.xml
 pom.xml
 por
 rdweb
+readme.txt
 samples
 sdesktop
 secrets.js
@@ -978,7 +980,6 @@ en-GB
 en-GB.xml
 error
 favicon
-faxnew
 filesystems.php
 gcp
 google
@@ -1007,7 +1008,6 @@ order
 persistence
 prisma
 query
-readme.txt
 redis
 repo
 s3_config.json
@@ -1147,6 +1147,7 @@ config.dev.json
 config.development.json
 config.prod.json
 connection.php
+contact-form-7
 controller
 credentials.tfrc.json
 cslu
@@ -1972,7 +1973,6 @@ config.exp
 config.ts
 configs.json
 contact
-contact-form-7
 contact-form-7-db
 context.xml
 couchdb
@@ -2311,6 +2311,7 @@ strapi
 style
 styled-ui-docs
 styles
+styles.css
 subosito
 superset_config.py
 svs-path-check-nonexistent
