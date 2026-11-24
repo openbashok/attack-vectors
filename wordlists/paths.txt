@@ -280,6 +280,7 @@ configuration/.env
 containers/json
 index.html
 owa/auth/logon.aspx
+version
 wp-config.php.save
 .ssh/id_rsa
 Jenkinsfile
@@ -289,7 +290,6 @@ configuration.php
 database/.env
 server/.git/config
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-version
 .env.sample
 .git-credentials
 config/app.php
@@ -520,6 +520,7 @@ wp-config.old
 .env.www
 .ssh/id_dsa
 .vscode/.env
+ReportServer
 _profiler
 api
 api/metrics/run
@@ -567,7 +568,6 @@ wp-content/debug.log
 .envrc
 .pypirc
 .yarnrc.yml
-ReportServer
 _static/.env
 admin/
 admin/.env.production

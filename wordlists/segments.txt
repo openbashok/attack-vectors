@@ -271,11 +271,11 @@ php_errors.log
 pos
 readme.md
 twilio.env
+version
 wp-config.php.old
 json
 root
 s3
-version
 .env.default
 id_rsa
 panel
@@ -597,6 +597,7 @@ wp-config.old
 .env1
 @fs
 ClientApp
+ReportServer
 __fixtures__
 admin-app
 app.json
@@ -637,7 +638,6 @@ wp-login.php
 .yarnrc.yml
 1
 Public
-ReportServer
 _static
 amplify
 application-prod.properties

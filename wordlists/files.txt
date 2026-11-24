@@ -152,8 +152,8 @@ wp-config.php.old
 .env.default
 id_rsa
 v1
-.env_sample
 version
+.env_sample
 .npmrc
 aaa9
 json
@@ -324,6 +324,7 @@ wp-config.old
 .env.save~
 .env.www
 .env1
+ReportServer
 actuator
 app.json
 application_default_credentials.json
@@ -353,7 +354,6 @@ wp-login.php
 .git
 .pypirc
 .yarnrc.yml
-ReportServer
 application-prod.properties
 appsettings.Production.json
 config.inc.php.bak

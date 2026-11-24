@@ -277,6 +277,7 @@ www/.git/config
 config/database.php
 configuration/.env
 owa/auth/logon.aspx
+version
 .htpasswd
 admin/.git/config
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
@@ -288,7 +289,6 @@ index.html
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 server/.git/config
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
-version
 wp-config.php.save
 .ssh/id_rsa
 Jenkinsfile
@@ -516,6 +516,7 @@ wp-config.old
 .env.www
 .github/workflows/deploy.yml
 .ssh/config
+ReportServer
 actuator/heapdump
 api
 api/.env.production
@@ -558,7 +559,6 @@ vpn/js/rdx/core/lang/rdx_en.json.gz
 .ssh/id_dsa
 .vscode/.env
 .yarnrc.yml
-ReportServer
 _static/.env
 admin/
 admin/.env.production
