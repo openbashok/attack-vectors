@@ -88,8 +88,8 @@ yarn.lock
 web.config
 sitemap.xml
 .env.uat
-secrets.env
 *
+secrets.env
 .config.yaml
 .env.development.local
 .env.example.php

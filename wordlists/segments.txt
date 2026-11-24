@@ -84,8 +84,8 @@ settings.py
 html
 var
 crm
-view
 info.php
+view
 shared
 docker-compose.yml
 client
@@ -168,11 +168,11 @@ wp-config.php.bak
 .kube
 error.log
 shop
+*
 .env.live
 application.properties
 package.json
 sendgrid.env
-*
 .claude
 .docker
 .env.json

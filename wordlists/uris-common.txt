@@ -27,8 +27,8 @@ docker-compose.yml
 .env.staging
 web/.env
 .env.development
-src/.env
 info.php
+src/.env
 .gitlab-ci.yml
 public/.env
 _profiler/phpinfo
@@ -117,6 +117,7 @@ application.properties
 error.log
 local/.env
 project/.env
+*
 app_dev.php/_profiler/open?file=app/config/parameters.yml
 apps/.env
 debug/default/view?panel=config
@@ -126,7 +127,6 @@ new/.env
 secrets.env
 secrets.yaml
 test
-*
 .aws/config
 .config.yaml
 .env.example.php

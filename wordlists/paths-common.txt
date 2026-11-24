@@ -28,8 +28,8 @@ docker-compose.yml
 .env.staging
 web/.env
 .env.development
-src/.env
 info.php
+src/.env
 .gitlab-ci.yml
 public/.env
 _profiler/phpinfo
@@ -123,12 +123,12 @@ sitemap.xml
 apps/.env
 new/.env
 project/.env
+*
 app_dev.php/_profiler/open
 demo/.env
 home/.env
 secrets.env
 test
-*
 .config.yaml
 .env.example.php
 .env.php-backup
