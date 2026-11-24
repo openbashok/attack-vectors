@@ -541,6 +541,7 @@ panel/.env
 portal/redlion
 production/.env
 raw
+remote/login_lang=en
 root/.aws/credentials
 sites/all/libraries/mailchimp/.env
 socket.io/_EIO=4_transport=websocket
@@ -593,7 +594,6 @@ new/.env.staging
 php/.env
 php_info.php
 redmine/.env
-remote/login_lang=en
 showLogin.cc
 sitemaps/.env
 tools/.env

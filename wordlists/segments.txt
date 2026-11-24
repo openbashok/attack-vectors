@@ -225,13 +225,13 @@ dana-na
 kubernetes
 library
 platform
+remote
 server.js
 %00.env
 bedrock.env
 configuration.json
 content
 env-config.js
-remote
 sftp.json
 .env.swp
 app.log
