@@ -380,6 +380,7 @@ ws
 .vscode/settings.json
 aab8
 app/.env.production
+boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/login.cgi
 settings.php
 .travis.yml
@@ -387,7 +388,6 @@ aab9
 abc6
 abc8
 actuator/env
-boaform/adminformLogout//boaform/admin/login.asp
 conf/.env
 config.inc.php
 downloads/

@@ -184,6 +184,7 @@ parameters.yml
 %2eenv
 aws
 node
+boaform
 package-lock.json
 service
 sitemap.xml
@@ -193,7 +194,6 @@ sql
 v3
 web.config
 API
-boaform
 k8s
 rest
 .env.uat
@@ -296,11 +296,11 @@ aws.json
 config.py
 .env~
 backup.zip
+login.asp
 plugins
 .%65%6e%76
 .env.config
 .env.dev.local
-login.asp
 mysql
 php
 wc.db
@@ -394,6 +394,7 @@ master.key
 .env.1
 .env.docker
 aab8
+adminformLogout
 framework
 id_ed25519
 index.js
@@ -406,7 +407,6 @@ sonicui
 aab9
 abc6
 abc8
-adminformLogout
 api-docs
 auth.json
 authorized_keys
