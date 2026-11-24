@@ -503,6 +503,7 @@ env/.env
 manager/html
 private/.env
 protected/.env
+remote/login?lang=en
 vpn/index.html
 web/
 webpages/login.html
@@ -541,7 +542,6 @@ panel/.env
 portal/redlion
 production/.env
 raw
-remote/login?lang=en
 root/.aws/credentials
 sites/all/libraries/mailchimp/.env
 socket.io/?EIO=4&transport=websocket

@@ -106,8 +106,8 @@ prod
 old
 .ssh
 config.env
-wp-config.php
 js
+wp-config.php
 credentials.json
 portal
 secrets.yml
@@ -218,6 +218,7 @@ env.json
 .env.preprod
 google-services.json
 mysql.sql
+remote
 .env.sample
 aws.env
 base
@@ -225,7 +226,6 @@ dana-na
 kubernetes
 library
 platform
-remote
 server.js
 %00.env
 bedrock.env
@@ -672,6 +672,7 @@ rpc
 shell
 showLogin.cc
 sitemaps
+sslvpn
 terraform
 test-become
 text
@@ -724,7 +725,6 @@ psnlink
 runtime-env.js
 s3.json
 secrets.toml
-sslvpn
 sslvpn_logon.shtml
 stag
 swagger-ui
@@ -771,6 +771,7 @@ keys.json
 kubeconfig
 localhost
 login.aspx
+login.js
 marketing
 private.key
 register
@@ -877,7 +878,6 @@ lms
 local.settings.json
 locale
 login.action
-login.js
 mftp
 mysqlmanager
 oem-customization

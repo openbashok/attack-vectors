@@ -428,6 +428,7 @@ keys.json
 kubeconfig
 lang
 login.aspx
+login.js
 models
 private.key
 remote
@@ -490,7 +491,6 @@ license.txt
 local.settings.json
 locale
 login.action
-login.js
 mftp
 oem-customization
 pluginlist.xml

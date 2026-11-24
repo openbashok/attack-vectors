@@ -503,6 +503,7 @@ env/.env
 manager/html
 private/.env
 protected/.env
+remote/login_lang=en
 vpn/index.html
 web/
 webpages/login.html
@@ -541,7 +542,6 @@ panel/.env
 portal/redlion
 production/.env
 raw
-remote/login_lang=en
 root/.aws/credentials
 sites/all/libraries/mailchimp/.env
 socket.io/_EIO=4_transport=websocket
@@ -5047,6 +5047,7 @@ ssl-vpn/
 ssl-vpn/prelogin.esp
 ssl-vpn/prelogin.esp_tmp=tmp_clientVer=4100_clientos=Windows
 ssl/.env
+sslvpn/js/login.js_q=00000000000000000000000000000000
 sslvpn/portal.html
 sslvpnclient_launchplatform=mac_neProto=3_supportipv6=yes
 sso/login.php

@@ -263,9 +263,9 @@ config.php
 .svn/wc.db
 build/.env
 login.html
+remote/login
 .env.ci
 .env.secret
-remote/login
 .env.swp
 .vscode/sftp.json
 app/.git/config
