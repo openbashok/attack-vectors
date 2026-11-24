@@ -38,9 +38,9 @@ wp-config.php
 .git/HEAD
 server/.env
 .env.testing
+.well-known/security.txt
 mcp
 site/.env
-.well-known/security.txt
 core/.env
 prod/.env
 www/.env
@@ -99,6 +99,7 @@ terraform.tfstate
 info
 package-lock.json
 portal/.env
+sitemap.xml
 yarn.lock
 app_dev.php/_profiler/phpinfo
 cms/.env
@@ -106,7 +107,6 @@ debug.log
 media/.env
 secrets.yml
 shop/.env
-sitemap.xml
 test/.env
 ../.env
 blog/.env
@@ -898,6 +898,7 @@ repo/.env
 runtime-env.js
 server/.env.production
 setup.php
+solr/
 ssl.key
 studioserver/.git/config
 symfony/.env
@@ -1215,7 +1216,6 @@ settings.ini
 setup/.env
 site.sql
 soap
-solr/
 speed.cloudflare.com:443
 src/config.js
 src/gameprovider-service/.env

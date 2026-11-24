@@ -186,9 +186,9 @@ aws
 node
 package-lock.json
 service
+sitemap.xml
 yarn.lock
 owa
-sitemap.xml
 sql
 v3
 web.config
@@ -348,6 +348,7 @@ Dr0v
 docker-compose.prod.yml
 hello.world
 login.cgi
+solr
 test.hello
 yii
 zend
@@ -358,7 +359,6 @@ downloads
 ec
 pki-validation
 public_html
-solr
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php~
 conf

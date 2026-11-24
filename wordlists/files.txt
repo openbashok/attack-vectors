@@ -84,8 +84,8 @@ parameters.yml
 %2eenv
 open
 package-lock.json
-yarn.lock
 sitemap.xml
+yarn.lock
 web.config
 *
 .env.uat
@@ -566,6 +566,7 @@ serverless.yml
 settings.local.json
 setup.php
 site-profile.json
+solr
 ssl.key
 terraform.tfvars.json
 trace
@@ -693,7 +694,6 @@ settings.ini
 settings.js
 site.sql
 soap
-solr
 speed.cloudflare.com:443
 swagger-ui
 team-provider-info.json

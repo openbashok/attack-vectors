@@ -40,9 +40,9 @@ wp-config.php
 server/.env
 site/.env
 .env.testing
+.well-known/security.txt
 core/.env
 mcp
-.well-known/security.txt
 prod/.env
 www/.env
 config.js
@@ -105,6 +105,7 @@ debug.log
 info
 package-lock.json
 secrets.yml
+sitemap.xml
 test/.env
 yarn.lock
 cms/.env
@@ -112,7 +113,6 @@ main/.env
 media/.env
 settings.json
 shop/.env
-sitemap.xml
 web.config
 .aws/config
 application.properties
@@ -916,6 +916,7 @@ server/.env.production
 serverless.yaml
 serverless.yml
 setup.php
+solr/
 ssl.key
 stats/.env
 studioserver/.git/config
@@ -996,4 +997,3 @@ acme-challenge/.env
 acme/.env
 admin/.env.bak
 admin/.env.old
-admin/info.php
