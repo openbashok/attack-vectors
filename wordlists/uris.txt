@@ -2276,6 +2276,7 @@ aws-bedrock.json
 aws-bedrock.yml
 aws-secret.yaml
 awstats/.env.example
+awv/
 azure-openai.config
 azure-openai.json
 azure-openai.yml
@@ -3835,7 +3836,6 @@ aws.yml?v=18e6211172f7caeb
 aws/.env?v=18e6211f7d10da3f
 aws/credentials?v=18e621107cbae323
 awstats/.env?v=18e621124373bb6e
-awv/
 azure-credentials.json
 azure-openai-config.json?v=18e62111e30fa85a
 azure-openai/.env?v=18e62111e11f3c82

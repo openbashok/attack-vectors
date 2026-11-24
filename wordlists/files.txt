@@ -1047,6 +1047,7 @@ aws-bedrock.env
 aws-bedrock.json
 aws-bedrock.yml
 aws_credentials.env
+awv
 azure-openai.config
 azure-openai.yml
 azure.json

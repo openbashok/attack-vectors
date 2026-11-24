@@ -2299,6 +2299,7 @@ aws-bedrock.env
 aws-bedrock.json
 aws-bedrock.yml
 awstats/.env.example
+awv/
 azure-openai.config
 azure-openai.json
 azure-openai.yml
@@ -3629,7 +3630,6 @@ auth/v1/health
 authpoint/
 aws-bedrock/.env
 aws-codecommit/
-awv/
 azure-credentials.json
 azure-openai-config.json
 azure-openai/.env
