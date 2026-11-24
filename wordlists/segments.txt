@@ -96,9 +96,9 @@ beta
 wp-content
 tmp
 .env.dist
+actuator
 log
 settings.json
-actuator
 system
 temp
 .gitlab-ci.yml
@@ -201,6 +201,7 @@ download
 twilio
 back
 bot
+health
 secrets.env
 .config.yaml
 .env.development.local
@@ -214,7 +215,6 @@ secrets.env
 cache
 config.dev.php
 env.json
-health
 .env.preprod
 google-services.json
 mysql.sql

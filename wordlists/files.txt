@@ -126,6 +126,7 @@ wp-config.php.backup
 client_secrets.json
 config.ini
 crossdomain.xml
+health
 .env.template
 beta
 claude.env
@@ -136,7 +137,6 @@ database.config
 demo
 dev
 env.example
-health
 infos
 log
 php_error.log

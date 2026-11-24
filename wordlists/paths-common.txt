@@ -316,6 +316,7 @@ yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .well-known/pki-validation/update
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+actuator/health
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -345,7 +346,6 @@ wp-config.php~
 ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-actuator/health
 backup/.git/config
 login.htm
 login.jsp
