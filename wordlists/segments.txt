@@ -171,6 +171,7 @@ error.log
 shop
 .env.live
 application.properties
+boaform
 package.json
 sendgrid.env
 .claude
@@ -179,7 +180,6 @@ sendgrid.env
 apis
 sh
 store
-boaform
 open
 parameters.yml
 %2eenv
@@ -291,10 +291,10 @@ packages
 .env.ci
 HNAP1
 database.php
+login.asp
 %252eenv
 aws.json
 config.py
-login.asp
 .env~
 backup.zip
 plugins
@@ -372,6 +372,7 @@ resources
 static..
 vue-heroes
 .env.test.local
+adminformLogout
 assets..
 backups
 css
@@ -386,7 +387,6 @@ webui
 .env.txt
 RDWeb
 _next
-adminformLogout
 api.ipinfo.io:443
 graphql
 icanhazip.com:443

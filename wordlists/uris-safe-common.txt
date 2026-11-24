@@ -361,6 +361,7 @@ wp-config.php_
 HNAP1
 admin/index.html
 assets../.git/config
+boaform/adminformLogout//boaform/admin/login.asp
 cms/.git/config
 config/.git/config
 core/.git/config
@@ -375,7 +376,6 @@ project/.git/config
 public_html/.env
 .env.txt
 api.ipinfo.io:443
-boaform/adminformLogout//boaform/admin/login.asp
 config/aws.yml
 icanhazip.com:443
 pub/
