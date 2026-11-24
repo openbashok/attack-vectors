@@ -58,11 +58,11 @@ docker-compose.yaml
 test.php
 settings/.env
 dev/.env
+developmentserver/metadatauploader
 v1/.env
 v2/.env
 appsettings.json
 credentials.json
-developmentserver/metadatauploader
 old/.env
 crm/.env
 api/mcp
@@ -375,6 +375,7 @@ project/.git/config
 public_html/.env
 .env.txt
 api.ipinfo.io:443
+boaform/adminformLogout//boaform/admin/login.asp
 config/aws.yml
 icanhazip.com:443
 pub/
@@ -386,7 +387,6 @@ ws
 .vscode/settings.json
 aab8
 app/.env.local
-boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/login.cgi
 config/master.key
 settings.php
@@ -525,8 +525,10 @@ api/session/properties
 app.json
 app/etc/env.php
 audio/.env
+autodiscover/autodiscover.xml
 cgi-bin/.env
 druid/index.html
+ews/exchange.asmx
 files/.env
 graphql
 id_rsa
@@ -613,7 +615,6 @@ admin/modules/framework/amp_conf/htdocs/admin/config.php
 ansible.cfg
 application-prod.properties
 appsettings.Production.json
-autodiscover/autodiscover.xml
 aws/credentials
 backend/.env.production
 backend/.git/config
@@ -622,7 +623,6 @@ cgi-bin/welcome
 config.php.save
 cronlab/.env
 en/.env
-ews/exchange.asmx
 exapi/.env
 gcp-credentials.json
 health

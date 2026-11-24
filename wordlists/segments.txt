@@ -149,10 +149,10 @@ fixtures
 debug.log
 appsettings.json
 database.sql
-user
 developmentserver
-docs
 metadatauploader
+user
+docs
 site.zip
 files
 .env.stage
@@ -179,12 +179,12 @@ sendgrid.env
 apis
 sh
 store
+boaform
 open
 parameters.yml
 %2eenv
 aws
 node
-boaform
 package-lock.json
 service
 sitemap.xml
@@ -294,9 +294,9 @@ database.php
 %252eenv
 aws.json
 config.py
+login.asp
 .env~
 backup.zip
-login.asp
 plugins
 .%65%6e%76
 .env.config
@@ -340,6 +340,7 @@ sdk
 workspace
 .git-credentials
 app.php
+autodiscover
 manage
 sftp-config.json
 wp-includes
@@ -354,7 +355,6 @@ test.hello
 yii
 zend
 V2
-autodiscover
 config.inc.php
 downloads
 ec
@@ -386,6 +386,7 @@ webui
 .env.txt
 RDWeb
 _next
+adminformLogout
 api.ipinfo.io:443
 graphql
 icanhazip.com:443
@@ -394,7 +395,6 @@ master.key
 .env.1
 .env.docker
 aab8
-adminformLogout
 framework
 id_ed25519
 index.js
@@ -603,6 +603,7 @@ admin-app
 app.json
 application_default_credentials.json
 audio
+autodiscover.xml
 awstats
 begin
 cores
@@ -611,6 +612,8 @@ deployment.yaml
 druid
 end
 env.txt
+ews
+exchange.asmx
 front
 gcp-credentials.json
 human.aspx
@@ -689,7 +692,6 @@ amplify.yml
 ansible
 ansible.cfg
 application.properties.bak
-autodiscover.xml
 back-end
 bedrock.json
 blogs
@@ -701,10 +703,8 @@ config.php.save
 config.production.json
 cp
 cronlab
-ews
 example
 exapi
-exchange.asmx
 fedex
 front-end
 hetong.js

@@ -59,11 +59,11 @@ html/.env
 sse
 settings/.env
 dev/.env
+developmentserver/metadatauploader
 v1/.env
 appsettings.json
 credentials.json
 crm/.env
-developmentserver/metadatauploader
 v2/.env
 old/.env
 client/.env
@@ -371,6 +371,7 @@ public_html/.env
 .git/index
 api.ipinfo.io:443
 app/.env.local
+boaform/adminformLogout//boaform/admin/login.asp
 config/master.key
 icanhazip.com:443
 pub/
@@ -380,7 +381,6 @@ ws
 .vscode/settings.json
 aab8
 app/.env.production
-boaform/adminformLogout//boaform/admin/login.asp
 cgi-bin/login.cgi
 settings.php
 .travis.yml
@@ -530,11 +530,13 @@ app/etc/env.php
 app/settings.py
 application-prod.yml
 audio/.env
+autodiscover/autodiscover.xml
 cgi-bin/.env
 credentials.yml
 docker/app/.env
 druid/index.html
 env.txt
+ews/exchange.asmx
 files/.env
 frontend/.env.local
 human.aspx
@@ -613,7 +615,6 @@ admin/modules/framework/amp_conf/htdocs/admin/config.php
 ansible.cfg
 api/config.env
 application.properties.bak
-autodiscover/autodiscover.xml
 awstats/.env
 backend/.env.production
 backend/.git/config
@@ -623,7 +624,6 @@ config.php.save
 cronlab/.env
 db.sql.gz
 en/.env
-ews/exchange.asmx
 exapi/.env
 functions/.env
 health
