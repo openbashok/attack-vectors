@@ -55,9 +55,9 @@ terraform.tfstate
 application.yml
 test.php
 aws.yml
+web
 docker-compose.yaml
 entries
-web
 sse
 .env.production.local
 debug.log
@@ -486,6 +486,7 @@ gradle.properties
 index.do
 license.txt
 local.settings.json
+locale
 login.action
 login.js
 mftp
@@ -1140,7 +1141,6 @@ lib
 llms.txt
 local.properties
 local.yml
-locale
 localsettings.php.bak
 localstart.cgi
 localstart.html

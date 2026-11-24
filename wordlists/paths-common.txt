@@ -86,12 +86,12 @@ htdocs/.env
 site.zip
 backup/.env
 db.sql
+geoserver/web/
 package.json
 .env.json
 .env.php
 config.env
 dashboard/.env
-geoserver/web/
 staging/.env
 application.yml
 sendgrid.env
@@ -749,6 +749,7 @@ authorization.do
 aws.env.json
 aws/s3/env.env
 aws/ses/smtp.env
+cgi-bin/luci/;stok=/locale
 ci/.env
 client
 config/.env.production
