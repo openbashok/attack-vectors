@@ -367,6 +367,7 @@ core/.git/config
 data/.git/config
 dev/.git/config
 evox/about
+files/
 files/.git/config
 media../.git/config
 media/.git/config
@@ -375,8 +376,8 @@ public_html/.env
 .env.txt
 api.ipinfo.io:443
 config/aws.yml
-files/
 icanhazip.com:443
+pub/
 remote/login
 ws
 .docker/.env
@@ -386,7 +387,6 @@ ws
 app/.env.local
 cgi-bin/login.cgi
 config/master.key
-pub/
 settings.php
 aab9
 abc6
@@ -394,6 +394,7 @@ abc8
 app/.env.production
 boaform/adminformLogout//boaform/admin/login.asp
 config.inc.php
+downloads/
 .env.test.local
 .travis.yml
 aab8
@@ -401,7 +402,6 @@ abc7
 actuator/env
 conf/.env
 config.py
-downloads/
 shared/.env
 wp-config.php.orig
 .env.2

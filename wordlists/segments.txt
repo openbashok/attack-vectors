@@ -153,10 +153,10 @@ user
 docs
 site.zip
 developmentserver
+files
 metadatauploader
 .env.stage
 .env:80
-files
 local
 login.html
 config.php.bak
@@ -325,6 +325,7 @@ account
 configuration
 logon
 logon.aspx
+pub
 welcome.cgi
 wp-config.php.save
 $(pwd)
@@ -334,7 +335,6 @@ LICENSE
 bdd
 console
 etc
-pub
 sdk
 workspace
 .git-credentials
@@ -354,6 +354,7 @@ zend
 V2
 autodiscover
 config.inc.php
+downloads
 ec
 pki-validation
 public_html
@@ -361,7 +362,6 @@ solr
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php~
 conf
-downloads
 includes
 index
 login.htm
