@@ -163,6 +163,7 @@ config.php.bak
 dump.sql
 .env.orig
 backup.sql
+boaform
 db.sql
 wp-config.php.bak
 *
@@ -171,7 +172,6 @@ error.log
 shop
 .env.live
 application.properties
-boaform
 package.json
 sendgrid.env
 .claude
@@ -286,12 +286,12 @@ workflows
 +CSCOE+
 .npmrc
 aaa9
+login.asp
 logon.html
 packages
 .env.ci
 HNAP1
 database.php
-login.asp
 %252eenv
 aws.json
 config.py
@@ -363,6 +363,7 @@ pki-validation
 public_html
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php~
+adminformLogout
 conf
 index
 login.htm
@@ -372,7 +373,6 @@ resources
 static..
 vue-heroes
 .env.test.local
-adminformLogout
 assets..
 backups
 css

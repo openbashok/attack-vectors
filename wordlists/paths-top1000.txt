@@ -347,6 +347,7 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 backup/.git/config
+boaform/adminformLogout//boaform/admin/login.asp
 login.htm
 login.jsp
 manage/account/login
@@ -354,7 +355,6 @@ static../.git/config
 HNAP1
 admin/index.html
 assets../.git/config
-boaform/adminformLogout//boaform/admin/login.asp
 cms/.git/config
 config/.git/config
 config/aws.yml
