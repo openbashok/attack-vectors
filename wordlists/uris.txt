@@ -37,9 +37,9 @@ frontend/.env
 wp-config.php
 .git/HEAD
 server/.env
+mcp
 .env.testing
 .well-known/security.txt
-mcp
 site/.env
 core/.env
 prod/.env
@@ -52,9 +52,9 @@ storage/logs/laravel.log
 api/.git/config
 html/.env
 secrets.json
+sse
 .svn/entries
 docker-compose.yaml
-sse
 test.php
 settings/.env
 dev/.env
@@ -62,9 +62,9 @@ v1/.env
 v2/.env
 appsettings.json
 credentials.json
+developmentserver/metadatauploader
 old/.env
 crm/.env
-developmentserver/metadatauploader
 api/mcp
 client/.env
 database.sql
@@ -253,9 +253,9 @@ wp-config.php.old
 .env.default
 +CSCOE+/logon.html
 .env_sample
+aaa9
 .env.uat
 .npmrc
-aaa9
 admin/config.php
 config.php
 .env.preprod
@@ -384,6 +384,7 @@ ws
 .env.1
 .git/index
 .vscode/settings.json
+aab8
 app/.env.local
 cgi-bin/login.cgi
 config/master.key
@@ -397,7 +398,6 @@ config.inc.php
 downloads/
 .env.test.local
 .travis.yml
-aab8
 abc7
 actuator/env
 conf/.env

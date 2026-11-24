@@ -11,11 +11,11 @@ app/.env
 .env.save
 api/.env
 .aws/credentials
+get
+ip.cypher.rest:443
 .env.prod
 .env.dev
 config/.env
-get
-ip.cypher.rest:443
 config.json
 laravel/.env
 .env.backup
@@ -38,11 +38,11 @@ frontend/.env
 .git/HEAD
 wp-config.php
 server/.env
+mcp
 site/.env
 .env.testing
 .well-known/security.txt
 core/.env
-mcp
 prod/.env
 www/.env
 config.js
@@ -63,8 +63,8 @@ v1/.env
 appsettings.json
 credentials.json
 crm/.env
-v2/.env
 developmentserver/metadatauploader
+v2/.env
 old/.env
 client/.env
 database.sql
@@ -378,6 +378,7 @@ ws
 .docker/.env
 .env.1
 .vscode/settings.json
+aab8
 app/.env.production
 cgi-bin/login.cgi
 settings.php
@@ -393,7 +394,6 @@ downloads/
 wp-config.php.orig
 .env.test.local
 .git/logs/HEAD
-aab8
 abc7
 config.py
 shared/.env
