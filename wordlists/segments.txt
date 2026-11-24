@@ -139,10 +139,10 @@ test.php
 aws.yml
 compose
 examples
+sse
 ws
 docker-compose.yaml
 entries
-sse
 bin
 fixtures
 .env.production.local
@@ -339,6 +339,7 @@ modules
 sdk
 workspace
 .git-credentials
+Dr0v
 app.php
 autodiscover
 manage
@@ -346,7 +347,6 @@ sftp-config.json
 wp-includes
 .env.qa
 .htaccess
-Dr0v
 docker-compose.prod.yml
 hello.world
 login.cgi

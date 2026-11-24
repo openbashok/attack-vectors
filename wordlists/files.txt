@@ -55,10 +55,10 @@ terraform.tfstate
 application.yml
 test.php
 aws.yml
+sse
 web
 docker-compose.yaml
 entries
-sse
 .env.production.local
 debug.log
 appsettings.json
@@ -186,12 +186,12 @@ wp-config.php.save
 Jenkinsfile
 about
 .git-credentials
+Dr0v
 app.php
 sdk
 sftp-config.json
 .env.qa
 .htaccess
-Dr0v
 api
 docker-compose.prod.yml
 hello.world
