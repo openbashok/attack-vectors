@@ -30,8 +30,8 @@ login
 .env.staging
 laravel
 www
-credentials
 mcp
+credentials
 v1
 .env.bak
 logs
@@ -144,9 +144,9 @@ htdocs
 images
 bin
 fixtures
+sse
 .env.production.local
 debug.log
-sse
 appsettings.json
 database.sql
 user
@@ -291,10 +291,10 @@ packages
 HNAP1
 database.php
 %252eenv
+aaa9
 aws.json
 config.py
 .env~
-aaa9
 backup.zip
 .%65%6e%76
 .env.config
@@ -417,6 +417,7 @@ private
 swagger
 terraform.tfvars
 wp-config.php.orig
+aab8
 abc7
 anthropic
 config.yaml
@@ -425,7 +426,6 @@ mcp.json
 ~
 .env.2
 __tests__
-aab8
 admin-ajax.php
 app.js
 default_settings
