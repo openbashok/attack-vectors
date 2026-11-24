@@ -85,10 +85,10 @@ parameters.yml
 open
 package-lock.json
 yarn.lock
-web.config
 sitemap.xml
-.env.uat
+web.config
 *
+.env.uat
 secrets.env
 .config.yaml
 .env.development.local
@@ -169,10 +169,10 @@ backup.zip
 .%65%6e%76
 .env.config
 .env.dev.local
+login.asp
 wc.db
 .env.secret
 config.yml
-login.asp
 swagger.json
 configuration.php
 settings.php
@@ -204,13 +204,13 @@ index
 login.htm
 .env.test.local
 .env.txt
+api.ipinfo.io:443
 files
+icanhazip.com:443
 master.key
 ws
 .env.1
 .env.docker
-api.ipinfo.io:443
-icanhazip.com:443
 id_ed25519
 index.js
 openapi.json
@@ -243,6 +243,7 @@ terraform.tfstate.backup
 wp-config.bak
 .env.prod.local
 RDWeb
+autodiscover.json
 db.php
 diag_Form
 local_settings.py
@@ -252,7 +253,6 @@ secrets.py
 server-status
 service-account.json
 www.zip
-autodiscover.json
 configprops
 .env.copy
 .env.tmp
