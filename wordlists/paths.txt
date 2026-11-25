@@ -2278,6 +2278,7 @@ api/.envpriv
 api/actuator/env
 api/api-docs
 api/auth/session
+api/auth/validate-sso/..%2f..%2f..%2fproxy/users/api/v2/ucs/update/latest_package
 api/config.dev.env
 api/config.js
 api/docs/
@@ -3585,7 +3586,6 @@ api/auth/callback
 api/auth/csrf
 api/auth/local
 api/auth/signin
-api/auth/validate-sso/..%2f..%2f..%2fproxy/users/api/v2/ucs/update/latest_package
 api/aws/s3.ts
 api/azure-openai/config.js
 api/bedrock/config.js

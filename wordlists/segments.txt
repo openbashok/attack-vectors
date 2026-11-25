@@ -41,8 +41,8 @@ backend
 .env.dev
 server
 core
-frontend
 auth
+frontend
 storage
 v2
 app_dev.php
@@ -281,10 +281,10 @@ s3
 .env.default
 id_rsa
 login.asp
+users
 wp-json
 .env_sample
 database
-users
 workflows
 +CSCOE+
 .npmrc
@@ -306,11 +306,11 @@ vpn
 containers
 mysql
 php
+update
 wc.db
 .env.secret
 config.yml
 testing
-update
 Login
 about
 drupal
@@ -1705,6 +1705,7 @@ xx-final
 %2F.aws%2Fconfig
 %2e%2e%2f%2eenv
 %64%65%66%61%75%6c%74
+..%2f..%2f..%2fproxy
 .EnV
 ._dockerSetup
 .bash_history
@@ -2131,6 +2132,7 @@ khanlinks
 kodenames-server
 kolab-syncroton
 kube-system
+latest_package
 layout
 ledger_sync
 legal
@@ -2349,6 +2351,7 @@ ts
 twitter
 typeScriptIntegrationProject
 uat
+ucs
 unixtime
 unsplash-downloader
 upfiles
@@ -2361,6 +2364,7 @@ v7.0
 v8.0
 v9.0
 vagrant
+validate-sso
 validation
 vault.json
 vc-rest

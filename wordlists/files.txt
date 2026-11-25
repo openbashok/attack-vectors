@@ -1142,6 +1142,7 @@ key.json
 key.txt
 keys
 latest
+latest_package
 lib
 llms.txt
 local.properties
