@@ -386,11 +386,11 @@ ws
 .env.1
 .git/index
 .vscode/settings.json
+aab9
 app/.env.local
 cgi-bin/login.cgi
 config/master.key
 settings.php
-aab9
 abc6
 abc8
 app/.env.production
@@ -419,6 +419,7 @@ dana-na/auth/url_default/welcome.cgi
 deploy/.env
 ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 secrets.py
+server-status
 sftp.json
 terraform.tfstate.backup
 wp-config.bak
@@ -428,7 +429,6 @@ api/
 backup.zip
 local_settings.py
 openapi.json
-server-status
 v1
 www.zip
 .env.copy

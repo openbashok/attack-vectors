@@ -249,8 +249,8 @@ tmp/
 twilio.env
 wp-config.php.old
 .env.default
-.env_sample
 aaa9
+.env_sample
 +CSCOE+/logon.html
 .env.uat
 .npmrc
@@ -380,11 +380,11 @@ ws
 .docker/.env
 .env.1
 .vscode/settings.json
+aab9
 app/.env.production
 cgi-bin/login.cgi
 settings.php
 .travis.yml
-aab9
 abc6
 abc8
 actuator/env
@@ -403,6 +403,7 @@ swagger.json
 api/.env.local
 backup.tar.gz
 deploy/.env
+server-status
 terraform.tfstate.backup
 wp-admin/admin-ajax.php
 wp-config.bak
@@ -419,7 +420,6 @@ ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 local_settings.py
 openapi.json
 secrets.py
-server-status
 sftp.json
 www.zip
 .ssh/id_ed25519
