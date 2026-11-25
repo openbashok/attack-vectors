@@ -12,8 +12,8 @@ favicon.ico
 index.php
 admin
 SDK
-app
 webLanguage
+app
 .env.local
 test
 .env.production
