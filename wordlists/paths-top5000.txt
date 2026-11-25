@@ -424,6 +424,7 @@ sftp.json
 www.zip
 .ssh/id_ed25519
 api/
+boaform/admin/formLogin
 config.yaml
 terraform.tfvars
 v1
@@ -435,7 +436,6 @@ vendor/.env
 Gemfile.lock
 actuator/configprops
 backups/.env
-boaform/admin/formLogin
 composer.json
 composer.lock
 config/config.php
@@ -3511,6 +3511,7 @@ api/auth/callback
 api/auth/csrf
 api/auth/local
 api/auth/signin
+api/auth/validate-sso/..%2f..%2f..%2fproxy/users/api/v2/ucs/update/latest_package
 api/aws/s3.ts
 api/azure-openai/config.js
 api/bedrock/config.js

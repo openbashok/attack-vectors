@@ -841,6 +841,7 @@ app/.env.save
 app/.env.staging
 authorized_keys
 aws-exports.js
+boaform/admin/formLogin?username=admin&psd=admin
 boaform/admin/formLogin?username=adminisp&psd=adminisp
 cdn-cgi/trace
 checkout/.env
@@ -1042,7 +1043,6 @@ bgoldd/.env
 blankon/.env
 blob/.env
 blue/.env
-boaform/admin/formLogin?username=admin&psd=admin
 boxes/oracle-vagrant-boxes/ContainerRegistry/.env
 bucoffea/.env
 c/login
