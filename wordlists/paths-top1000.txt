@@ -51,8 +51,8 @@ security.txt
 storage/.env
 storage/logs/laravel.log
 secrets.json
-test.php
 sse
+test.php
 .svn/entries
 api/.git/config
 docker-compose.yaml
@@ -65,8 +65,8 @@ appsettings.json
 credentials.json
 crm/.env
 v2/.env
-old/.env
 api/mcp
+old/.env
 client/.env
 database.sql
 settings.py
@@ -539,6 +539,7 @@ env.txt
 ews/exchange.asmx
 files/.env
 frontend/.env.local
+hudson
 human.aspx
 kyc/.env
 laravel/core/.env
@@ -588,7 +589,6 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 env.js
 gcp-credentials.json
-hudson
 i.php
 local.py
 manager/text/list

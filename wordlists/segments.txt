@@ -136,12 +136,12 @@ ws
 htdocs
 images
 main
+sse
 test.php
 aws.yml
 bin
 compose
 examples
-sse
 docker-compose.yaml
 entries
 fixtures
@@ -616,6 +616,7 @@ ews
 exchange.asmx
 front
 gcp-credentials.json
+hudson
 human.aspx
 id_ecdsa
 rails
@@ -652,7 +653,6 @@ config.inc.php.bak
 develop
 environment.rb
 functions
-hudson
 i.php
 index.cgi
 install

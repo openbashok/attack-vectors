@@ -53,9 +53,9 @@ database.yml
 secrets.json
 terraform.tfstate
 application.yml
+sse
 test.php
 aws.yml
-sse
 web
 docker-compose.yaml
 entries
@@ -336,6 +336,7 @@ deployment.yaml
 env.txt
 exchange.asmx
 gcp-credentials.json
+hudson
 human.aspx
 id_ecdsa
 owa
@@ -361,7 +362,6 @@ appsettings.Production.json
 config.inc.php.bak
 docs
 environment.rb
-hudson
 i.php
 index.cgi
 local.py
