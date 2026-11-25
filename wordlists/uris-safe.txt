@@ -18,8 +18,8 @@ config/.env
 config.json
 .env.backup
 laravel/.env
-.env.old
 phpinfo.php
+.env.old
 .env.test
 backend/.env
 .env.example
@@ -38,12 +38,12 @@ wp-config.php
 .git/HEAD
 server/.env
 mcp
-.env.testing
 .well-known/security.txt
+.env.testing
 site/.env
 core/.env
-prod/.env
 security.txt
+prod/.env
 www/.env
 config.js
 mcp/
@@ -100,6 +100,7 @@ info
 package-lock.json
 portal/.env
 yarn.lock
+_
 app_dev.php/_profiler/phpinfo
 cms/.env
 debug.log
@@ -108,7 +109,6 @@ secrets.yml
 shop/.env
 test/.env
 ../.env
-_
 blog/.env
 main/.env
 settings.json
@@ -288,12 +288,12 @@ vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 version
 wp-config.php.save
 .ssh/id_rsa
+Dr0v
 config/secrets.yml
 database/.env
 index.html
 .git-credentials
 .htaccess
-Dr0v
 Jenkinsfile
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 config/app.php
@@ -724,6 +724,7 @@ xmlrpc.php
 .gitmodules
 .idea/WebServers.xml
 .vscode/ftp-sync.json
+.well-known/robots.txt
 AHT/AHT_UI/public/js/app.min.js
 CACHE/sdesktop/install/start.htm
 EndUserPortal.jsp
@@ -780,6 +781,7 @@ deployment/.env
 dev/.env.local
 django/.env
 engine/.env
+favicon
 fedex/.env
 fpui/jsp/login.jsp
 front/.env
@@ -855,7 +857,6 @@ www.tar.gz
 .env.bkp
 .env.sendgrid
 .github/.env
-.well-known/robots.txt
 Pipfile.lock
 ads.txt
 ai/site-profile.json
@@ -905,7 +906,6 @@ env.prod.js
 env.production.js
 export.sql
 export/.env
-favicon
 git/.env
 google-credentials.json
 graphiql

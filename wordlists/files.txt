@@ -85,8 +85,8 @@ open
 package-lock.json
 yarn.lock
 %2eenv
-web.config
 *
+web.config
 env.json
 secrets.env
 sitemap.xml
@@ -184,11 +184,11 @@ wp-config.php.save
 update
 welcome.cgi
 .git-credentials
+Dr0v
 Jenkinsfile
 about
 api
 .htaccess
-Dr0v
 app.php
 hello.world
 sdk
@@ -494,6 +494,7 @@ dump.sql.gz
 env.env
 env.prod.js
 env.production.js
+favicon
 fgt_lang
 ftp-sync.json
 gcp.json
@@ -565,7 +566,6 @@ db.tar.gz
 db.zip
 en-GB.xml
 export.sql
-favicon
 filesystems.php
 google-credentials.json
 graphiql

@@ -73,9 +73,9 @@ ip.cypher.rest:443
 debug
 index.html
 config.js
+.well-known
 tests
 static
-.well-known
 cms
 HEAD
 .env.dist
@@ -160,12 +160,12 @@ boaform
 config.php.bak
 dump.sql
 local
+*
 .env.orig
 backup.sql
 db.sql
 files
 shop
-*
 login.html
 .env.live
 .kube
@@ -335,6 +335,7 @@ workspace
 wp-includes
 $(pwd)
 .git-credentials
+Dr0v
 Jenkinsfile
 RDWeb
 V2
@@ -344,7 +345,6 @@ console
 etc
 sdk
 .htaccess
-Dr0v
 app.php
 hello.world
 includes
@@ -875,6 +875,7 @@ env.env
 env.prod.js
 env.production.js
 example27-how-to-load-env
+favicon
 fgt_lang
 fpui
 front-app
@@ -997,7 +998,6 @@ en-GB.xml
 en-US
 error
 export.sql
-favicon
 filesystems.php
 gcp
 git
