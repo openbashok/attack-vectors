@@ -19,8 +19,8 @@ login
 .env.save
 .env.dev
 security.txt
-config.php
 phpinfo.php
+config.php
 .env.prod
 secrets.yaml
 test
@@ -154,9 +154,9 @@ id_rsa
 v1
 version
 .env_sample
+aaa9
 login.asp
 .npmrc
-aaa9
 json
 logon.html
 .env.ci
@@ -205,6 +205,7 @@ login.htm
 .env.test.local
 files
 .env.txt
+aab8
 api.ipinfo.io:443
 icanhazip.com:443
 master.key
@@ -212,7 +213,6 @@ pub
 ws
 .env.1
 .env.docker
-aab8
 id_ed25519
 index.js
 openapi.json

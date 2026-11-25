@@ -50,8 +50,8 @@ dev
 .env.dev
 security.txt
 lib
-config.php
 phpinfo.php
+config.php
 assets
 .env.prod
 cgi-bin
@@ -162,11 +162,11 @@ local
 login.html
 config.php.bak
 dump.sql
+*
 .env.orig
 backup.sql
 db.sql
 wp-config.php.bak
-*
 .kube
 error.log
 shop
@@ -281,12 +281,12 @@ id_rsa
 panel
 wp-json
 .env_sample
+aaa9
 database
 login.asp
 workflows
 +CSCOE+
 .npmrc
-aaa9
 logon.html
 packages
 .env.ci
@@ -387,6 +387,7 @@ webui
 .env.txt
 RDWeb
 _next
+aab8
 api.ipinfo.io:443
 graphql
 icanhazip.com:443
@@ -394,7 +395,6 @@ manager
 master.key
 .env.1
 .env.docker
-aab8
 framework
 id_ed25519
 index.js

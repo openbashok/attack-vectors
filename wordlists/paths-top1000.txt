@@ -114,13 +114,13 @@ media/.env
 settings.json
 shop/.env
 web.config
+*
 .aws/config
 application.properties
 blog/.env
 error.log
 local/.env
 secrets.yaml
-*
 apps/.env
 new/.env
 project/.env
@@ -250,10 +250,10 @@ twilio.env
 wp-config.php.old
 .env.default
 .env_sample
+aaa9
 +CSCOE+/logon.html
 .env.uat
 .npmrc
-aaa9
 admin/config.php
 config.php
 .env.preprod
@@ -370,6 +370,7 @@ project/.git/config
 public_html/.env
 .env.txt
 .git/index
+aab8
 api.ipinfo.io:443
 app/.env.local
 config/master.key
@@ -379,7 +380,6 @@ ws
 .docker/.env
 .env.1
 .vscode/settings.json
-aab8
 app/.env.production
 cgi-bin/login.cgi
 settings.php
