@@ -39,8 +39,8 @@ wp-config.php
 server/.env
 mcp
 .env.testing
-site/.env
 .well-known/security.txt
+site/.env
 core/.env
 prod/.env
 security.txt

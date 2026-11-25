@@ -41,12 +41,12 @@ server/.env
 mcp
 site/.env
 .env.testing
-core/.env
 .well-known/security.txt
+core/.env
 prod/.env
+security.txt
 www/.env
 config.js
-security.txt
 mcp/
 storage/.env
 storage/logs/laravel.log
