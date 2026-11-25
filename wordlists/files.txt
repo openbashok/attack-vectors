@@ -119,6 +119,7 @@ server.key
 credentials.xml
 requirements.txt
 .env.save.1
+health
 logs
 wp-config.php.backup
 .env.staging.local
@@ -126,7 +127,6 @@ wp-config.php.backup
 client_secrets.json
 config.ini
 crossdomain.xml
-health
 .env.template
 beta
 claude.env

@@ -312,6 +312,7 @@ zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .docker/config.json
 .htaccess
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+actuator/health
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -341,7 +342,6 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .well-known/pki-validation/update
-actuator/health
 boaform/adminformLogout//boaform/admin/login.asp
 config/aws.json
 config/database.yml

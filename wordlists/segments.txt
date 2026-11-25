@@ -94,9 +94,9 @@ client
 sendgrid
 beta
 wp-content
+actuator
 tmp
 .env.dist
-actuator
 log
 settings.json
 system
@@ -198,10 +198,10 @@ k8s
 rest
 .env.uat
 download
+health
 twilio
 back
 bot
-health
 secrets.env
 .config.yaml
 .env.development.local
