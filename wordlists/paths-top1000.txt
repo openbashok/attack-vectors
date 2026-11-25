@@ -596,6 +596,7 @@ myapp/settings.py
 php/.env
 php_info.php
 redmine/.env
+shell
 showLogin.cc
 sitemaps/.env
 static/admin/javascript/hetong.js
@@ -694,7 +695,6 @@ rest/applinks/1.0/manifest
 s3/bucket.env
 script/.env
 setup.cgi
-shell
 sonicui/7/login/
 sslvpn/Login/Login
 swagger/v1/swagger.json

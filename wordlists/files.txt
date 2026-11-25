@@ -370,6 +370,7 @@ mail.php
 main
 main.yml
 php_info.php
+shell
 showLogin.cc
 uploads
 users
@@ -433,7 +434,6 @@ models
 private.key
 remote
 setup.cgi
-shell
 sign_in
 signin
 vertex.json
