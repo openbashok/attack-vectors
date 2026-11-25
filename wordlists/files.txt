@@ -28,9 +28,9 @@ test
 .env.backup
 .env.test
 laravel.log
-index.html
 get
 ip.cypher.rest:443
+index.html
 .env.development
 config.js
 info
@@ -53,8 +53,8 @@ database.yml
 secrets.json
 terraform.tfstate
 application.yml
-web
 sse
+web
 test.php
 aws.yml
 docker-compose.yaml
@@ -83,10 +83,10 @@ sendgrid.env
 parameters.yml
 %2eenv
 open
+*
 package-lock.json
 sitemap.xml
 yarn.lock
-*
 web.config
 .env.uat
 secrets.env
@@ -460,6 +460,7 @@ RASHTML5Gateway
 WebServers.xml
 admin_login.html
 api_key.txt
+app-ads.txt
 app.min.js
 appliance
 auth1.html
@@ -525,7 +526,6 @@ Auth
 Helpdesk.woa
 Pipfile.lock
 ads.txt
-app-ads.txt
 application.yaml
 astguiclient.php
 aws-exports.js

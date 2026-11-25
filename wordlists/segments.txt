@@ -28,9 +28,9 @@ config.json
 .env.php
 login
 .env.staging
+mcp
 laravel
 www
-mcp
 credentials
 v1
 %%32%65%%32%65
@@ -66,10 +66,10 @@ info
 .env.test
 default
 laravel.log
-staging
-index.html
 get
 ip.cypher.rest:443
+staging
+index.html
 .env.development
 config.js
 debug
@@ -132,11 +132,11 @@ terraform.tfstate
 uploads
 db
 application.yml
+sse
 ws
 htdocs
 images
 main
-sse
 test.php
 aws.yml
 bin
@@ -156,11 +156,11 @@ user
 docs
 site.zip
 files
+*
 .env.stage
 .env:80
 local
 login.html
-*
 config.php.bak
 dump.sql
 .env.orig
@@ -831,6 +831,7 @@ WebServers.xml
 admin_login.html
 ai
 api_key.txt
+app-ads.txt
 app.min.js
 appliance
 auth1.html
@@ -946,7 +947,6 @@ WebObjects
 _debugbar
 adminpanel
 ads.txt
-app-ads.txt
 application.yaml
 astguiclient.php
 aws-exports.js
