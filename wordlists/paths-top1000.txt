@@ -85,11 +85,11 @@ env
 favicon.ico/
 htdocs/.env
 wp-config.php.bak
+.env.php
 backup/.env
 geoserver/web/
 package.json
 .env.json
-.env.php
 config.env
 dashboard/.env
 staging/.env
@@ -114,13 +114,13 @@ settings.json
 shop/.env
 web.config
 *
+.aws/config
 application.properties
 blog/.env
 error.log
 local/.env
 secrets.yaml
 sitemap.xml
-.aws/config
 apps/.env
 new/.env
 project/.env
@@ -147,6 +147,7 @@ config.dev.php
 config/.env.php
 info/
 laravel.log
+login
 phpinfo/
 sendgrid/.env
 sendgrid/.env.php
@@ -156,7 +157,6 @@ twilio/.env.php
 var/.env.local.php
 bot/.env
 google-services.json
-login
 mysql.sql
 store/.env
 uploads/.env
@@ -167,6 +167,7 @@ base/.env
 docs/.env
 library/.env
 server.js
+.env.stage
 administrator/.env
 back/.env
 configuration.json
@@ -174,7 +175,6 @@ data/.env
 env-config.js
 server.key
 services/.env
-.env.stage
 assets/config.json
 beta/.env
 download/.env
@@ -199,6 +199,7 @@ erp/.env
 logs/.env
 phpinfo
 wp-config.php.backup
+.env.live
 .json
 client_secrets.json
 config.ini
@@ -213,7 +214,6 @@ user/.env
 .aws/.env
 .bedrock/.env
 .claude/.env
-.env.live
 .env/.env
 Application/.env
 api/test
@@ -251,17 +251,17 @@ wp-config.php.old
 aaa9
 .env.default
 .env_sample
-.npmrc
 +CSCOE+/logon.html
+.npmrc
 .env.uat
 admin/config.php
 config.php
 remote/login
+.env.config
+.env.dev.local
 .env.preprod
 .env~
 .svn/wc.db
-.env.config
-.env.dev.local
 build/.env
 login.html
 .env.ci
@@ -454,6 +454,7 @@ HNAP1/
 adminer.php
 api/v1/.env
 app/config/.env
+auth.html
 compose/.env
 config.php.old
 config.php~
@@ -475,7 +476,6 @@ mailer/.env
 Dockerfile
 _layouts/15/error.aspx
 admin/login.asp
-auth.html
 cgi-bin/authLogin.cgi
 config.yml
 config/application.yml
@@ -705,6 +705,7 @@ server/.env.production
 setup.cgi
 sonicui/7/login/
 sslvpn/Login/Login
+sslvpnLogin.html
 swagger/v1/swagger.json
 telescope
 user/.env.staging
@@ -832,7 +833,6 @@ sellers.json
 setup.php
 sites/.env
 ssl.key
-sslvpnLogin.html
 stag/.env
 storage/.env.local
 studioserver/.git/config

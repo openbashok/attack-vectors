@@ -27,12 +27,12 @@ docker-compose.yml
 .env.staging
 .env.development
 web/.env
+.gitlab-ci.yml
 info.php
 src/.env
-.gitlab-ci.yml
+_profiler/phpinfo
 frontend/.env
 public/.env
-_profiler/phpinfo
 admin/.env
 wp-config.php
 .git/HEAD
@@ -73,12 +73,13 @@ settings.py
 .env.orig
 database.yml
 dump.sql
+env
 .env.dist
 backup.sql
-env
 favicon.ico/
 htdocs/.env
 site.zip
+.env.php
 .env.production.local
 .kube/config
 application/.env
@@ -86,7 +87,6 @@ db.sql
 geoserver/web/
 wp-config.php.bak
 .env.json
-.env.php
 package.json
 staging/.env
 backup/.env
@@ -127,6 +127,7 @@ new/.env
 secrets.env
 secrets.yaml
 test
+.aws/config
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -152,7 +153,6 @@ system/.env
 test/.env.php
 twilio/.env.php
 var/.env.local.php
-.aws/config
 app/config/parameters.yml
 auth/.env
 mysql.sql
@@ -165,23 +165,23 @@ bot/.env
 docs/.env
 google-services.json
 library/.env
+login
 administrator/.env
 aws.yml
 back/.env
 configuration.json
 data/.env
 env-config.js
-login
+env.json
 server.js
 services/.env
+.env.stage
 assets/config.json
 beta/.env
 download/.env
-env.json
 saas/.env
 server.key
 temp/.env
-.env.stage
 bak/.env
 bedrock.env
 credentials.xml
@@ -198,6 +198,7 @@ erp/.env
 logs/.env
 requirements.txt
 v3/.env
+.env.live
 .json
 client_secrets.json
 config.ini
@@ -213,7 +214,6 @@ wp-config.php.backup
 .aws/.env
 .bedrock/.env
 .claude/.env
-.env.live
 .env/.env
 Application/.env
 api/test
@@ -258,10 +258,10 @@ wp-config.php.old
 .env.uat
 admin/config.php
 config.php
-.env.preprod
-.env_
 .env.config
 .env.dev.local
+.env.preprod
+.env_
 .svn/wc.db
 build/.env
 login.html
@@ -456,6 +456,7 @@ web/.env.local
 HNAP1/
 api/v1/.env
 app/config/.env
+auth.html
 backups/.env
 compose/.env
 config.php_
@@ -473,7 +474,6 @@ service-account.json
 _layouts/15/error.aspx
 admin/login.asp
 adminer.php
-auth.html
 cgi-bin/authLogin.cgi
 config.php.old
 config/credentials.yml.enc
@@ -696,6 +696,7 @@ scripts/.env
 server/.env.production
 sonicui/7/login/
 sslvpn/Login/Login
+sslvpnLogin.html
 swagger-ui.html
 telescope
 user/.env.staging
@@ -824,7 +825,6 @@ sellers.json
 setup.php
 sites/.env
 ssl.key
-sslvpnLogin.html
 stag/.env
 storage/.env.local
 studioserver/.git/config
@@ -1601,6 +1601,7 @@ gcp-key.json
 gcp.json
 gemini.config
 gemini.json
+git/.env
 gitlab-ci/.env
 global.asa
 google-ai.json
@@ -2553,7 +2554,6 @@ frontendfinaltest/.env
 gcloud/credentials.json
 gemini.yml
 geoserver/wfs_service=WFS_request=GetCapabilities
-git/.env
 github-connect/.env
 github/.env
 global.asax
@@ -4024,6 +4024,7 @@ cgi-bin/main.pl
 cgi-bin/nas_sharing.cgi_user=messagebus_passwd=_cmd=15_system=aWQ=
 cgi-bin/network_tools
 cgi-bin/phpinfo.php
+cgi-bin/userLogin
 chart/values.yaml
 charts/values.yaml_v=18e6211fa9d09365
 chatbot/.env_v=18e6211f1825c386
@@ -4283,6 +4284,7 @@ docker-compose.yaml_v=18e6211059ab43f6
 docker-compose.yml_v=18e6211044b8d1eb
 docker/.env_v=18e62112789f358c
 docker/app/.env_v=18e6211279ef5584
+docker_compose.yml
 dockerfiles/sample.env
 docs.zip
 docs/openapi.json_v=18e6211cbcccffe4
@@ -4382,6 +4384,7 @@ ghost/
 ghost/.env
 ghost/api/admin/
 ghost/signin
+gitlab-ci.yml
 gitlab/.env
 global-protect/getconfig.esp
 global-protect/prelogin.esp_tmp=tmp_clientVer=4100_clientos=Windows
@@ -5131,6 +5134,7 @@ ssl-vpn/
 ssl-vpn/prelogin.esp
 ssl-vpn/prelogin.esp_tmp=tmp_clientVer=4100_clientos=Windows
 ssl/.env
+sslvpn
 sslvpn/js/login.js_q=00000000000000000000000000000000
 sslvpn/portal.html
 sslvpnclient_launchplatform=mac_neProto=3_supportipv6=yes
