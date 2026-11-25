@@ -147,10 +147,10 @@ temp
 tests
 tmp
 twilio.env
+aaa9
 admin
 wp-config.php.old
 .env.default
-aaa9
 id_rsa
 login.asp
 v1
@@ -200,12 +200,12 @@ login.cgi
 config.inc.php
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php~
+aab8
 index
 login.htm
 .env.test.local
 files
 .env.txt
-aab8
 api.ipinfo.io:443
 icanhazip.com:443
 master.key
@@ -362,6 +362,7 @@ appsettings.Production.json
 config.inc.php.bak
 docs
 environment.rb
+hetong.js
 i.php
 index.cgi
 local.py
@@ -385,11 +386,11 @@ amplify.yml
 ansible.cfg
 application.properties.bak
 bedrock.json
+check.js
 ci.yml
 claude.json
 config.php.save
 config.production.json
-hetong.js
 id_rsa.pub
 liveliness
 main.js.map
@@ -416,7 +417,6 @@ aws-ses.json
 bitbucket-pipelines.yml
 bucket.env
 build.gradle
-check.js
 confluenceservice-v2
 credentials.csv
 dashboard
