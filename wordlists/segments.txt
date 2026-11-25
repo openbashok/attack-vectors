@@ -945,6 +945,7 @@ Pipfile.lock
 WebObjects
 _debugbar
 adminpanel
+ads.txt
 app-ads.txt
 application.yaml
 astguiclient.php
@@ -1098,7 +1099,6 @@ access.log
 acme
 acme-challenge
 active-coins
-ads.txt
 agc
 ajax
 allversions

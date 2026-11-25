@@ -524,6 +524,7 @@ www.tar.gz
 Auth
 Helpdesk.woa
 Pipfile.lock
+ads.txt
 app-ads.txt
 application.yaml
 astguiclient.php
@@ -610,7 +611,6 @@ UI_String.js
 WebInterface
 access.log
 active-coins
-ads.txt
 allversions
 app
 app_dev.php

@@ -829,6 +829,7 @@ xmlrpc.php
 .well-known/robots.txt
 Pipfile.lock
 administrator/
+ads.txt
 ai/site-profile.json
 api/config
 api/shared/config/.env
@@ -989,7 +990,6 @@ admin/login
 admin/reports/status
 admin/reports/updates
 administrator/manifests/files/joomla.xml
-ads.txt
 allversions
 alpha/.env
 amplify/team-provider-info.json

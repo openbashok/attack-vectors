@@ -842,6 +842,7 @@ xampp/.env
 .well-known/robots.txt
 Pipfile.lock
 administrator/
+ads.txt
 ai/site-profile.json
 api/config
 api/src/.env
@@ -996,4 +997,3 @@ _ignition/execute-solution
 _ignition/health-check
 acme-challenge/.env
 acme/.env
-admin/.env.bak
