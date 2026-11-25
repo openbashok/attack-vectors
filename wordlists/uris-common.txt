@@ -408,13 +408,13 @@ shared/.env
 swagger.json
 .env.2
 .s3cfg
+api/
 backup.tar.gz
 deploy/.env
 wp-config.bak
 .env.docker
 GponForm/diag_Form?images/
 RDWeb
-api/
 api/.env.local
 autodiscover/autodiscover.json?@zdi/Powershell
 backend/.env.local
@@ -464,6 +464,7 @@ dana-na/nc/nc_gina_ver.txt
 doc/index.html
 docker-compose.override.yml
 instance/config.py
+remote/login?lang=en
 service-account.json
 .env.prod.local
 .env.yaml
@@ -485,7 +486,6 @@ laravel/.env.example
 logon/LogonPoint/tmindex.html
 mailer/.env
 owa/auth/x.js
-remote/login?lang=en
 sonicui/7/sslvpn-portal/
 src/.env.local
 wsman
@@ -497,6 +497,7 @@ wsman
 127.0.0.1:801
 Dockerfile
 admin
+autodiscover/autodiscover.xml
 client/.env.local
 config.yml
 config/application.yml
@@ -506,6 +507,7 @@ cron/.env
 druid/index.html
 ecosystem.config.js
 env/.env
+ews/exchange.asmx
 id_rsa
 manager/html
 private/.env
@@ -529,9 +531,7 @@ api/session/properties
 app.json
 app/etc/env.php
 audio/.env
-autodiscover/autodiscover.xml
 cgi-bin/.env
-ews/exchange.asmx
 files/.env
 graphql
 hudson

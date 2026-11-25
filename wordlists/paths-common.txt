@@ -403,6 +403,7 @@ deploy/.env
 shared/.env
 wp-config.bak
 .env.2
+api/
 api/.env.local
 backup.zip
 server-status
@@ -415,7 +416,6 @@ www.zip
 .ssh/id_ed25519
 GponForm/diag_Form
 RDWeb
-api/
 autodiscover/autodiscover.json
 backend/.env.local
 dana-na/auth/url_default/welcome.cgi
@@ -498,10 +498,12 @@ wsman
 actuator/heapdump
 admin
 api/.env.production
+autodiscover/autodiscover.xml
 client/.env.local
 credentials.py
 druid/index.html
 ecosystem.config.js
+ews/exchange.asmx
 graphql
 lib/.env
 mail/.env
@@ -534,12 +536,10 @@ app/etc/env.php
 app/settings.py
 application-prod.yml
 audio/.env
-autodiscover/autodiscover.xml
 cgi-bin/.env
 credentials.yml
 docker/app/.env
 env.txt
-ews/exchange.asmx
 files/.env
 frontend/.env.local
 gcp-credentials.json

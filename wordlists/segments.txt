@@ -216,8 +216,8 @@ config.dev.php
 env.json
 health
 mysql.sql
-google-services.json
 remote
+google-services.json
 .env.development.local
 base
 kubernetes
@@ -337,6 +337,7 @@ $(pwd)
 .git-credentials
 Jenkinsfile
 V2
+autodiscover
 bdd
 console
 etc
@@ -344,7 +345,6 @@ sdk
 .htaccess
 Dr0v
 app.php
-autodiscover
 hello.world
 includes
 manage
@@ -567,6 +567,7 @@ x.js
 .yarnrc
 127.0.0.1:801
 adminer
+autodiscover.xml
 cgi-mod
 chunks
 credentials.py
@@ -574,6 +575,8 @@ develop
 druid
 ecosystem.config.js
 en
+ews
+exchange.asmx
 gcp-credentials.json
 heapdump
 index.jsp
@@ -610,7 +613,6 @@ admin-app
 app.json
 application_default_credentials.json
 audio
-autodiscover.xml
 awstats
 begin
 cores
@@ -618,8 +620,6 @@ db.sql.gz
 deployment.yaml
 end
 env.txt
-ews
-exchange.asmx
 front
 hudson
 human.aspx

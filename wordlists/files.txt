@@ -186,9 +186,9 @@ welcome.cgi
 .git-credentials
 Jenkinsfile
 about
+api
 .htaccess
 Dr0v
-api
 app.php
 hello.world
 sdk
@@ -306,8 +306,10 @@ x.js
 .dockerenv
 .yarnrc
 127.0.0.1:801
+autodiscover.xml
 credentials.py
 ecosystem.config.js
+exchange.asmx
 gcp-credentials.json
 heapdump
 html
@@ -330,13 +332,11 @@ ReportServer
 actuator
 app.json
 application_default_credentials.json
-autodiscover.xml
 client
 cores
 db.sql.gz
 deployment.yaml
 env.txt
-exchange.asmx
 hudson
 human.aspx
 id_ecdsa
