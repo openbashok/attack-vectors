@@ -53,9 +53,9 @@ database.yml
 secrets.json
 terraform.tfstate
 application.yml
+web
 sse
 test.php
-web
 aws.yml
 docker-compose.yaml
 entries
@@ -86,8 +86,8 @@ open
 package-lock.json
 sitemap.xml
 yarn.lock
-web.config
 *
+web.config
 .env.uat
 secrets.env
 .config.yaml
@@ -173,9 +173,9 @@ backup.zip
 wc.db
 .env.secret
 config.yml
+logon.aspx
 swagger.json
 configuration.php
-logon.aspx
 settings.php
 .env.sandbox
 .htpasswd

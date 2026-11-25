@@ -39,8 +39,8 @@ logs
 robots.txt
 backend
 server
-frontend
 auth
+frontend
 core
 storage
 v2
@@ -121,10 +121,10 @@ settings
 new
 .env.testing
 application
+geoserver
 media
 dashboard
 data
-geoserver
 home
 secrets.json
 .vscode
@@ -160,9 +160,9 @@ files
 .env:80
 local
 login.html
+*
 config.php.bak
 dump.sql
-*
 .env.orig
 backup.sql
 db.sql
@@ -202,6 +202,7 @@ health
 twilio
 back
 bot
+remote
 secrets.env
 .config.yaml
 .env.development.local
@@ -218,7 +219,6 @@ env.json
 .env.preprod
 google-services.json
 mysql.sql
-remote
 .env.sample
 aws.env
 base
@@ -312,11 +312,11 @@ vpn
 Login
 about
 drupal
+logon.aspx
 swagger.json
 update
 users
 configuration.php
-logon.aspx
 settings.php
 sites
 .env.sandbox

@@ -74,10 +74,10 @@ settings.py
 .env.production.local
 config.php.bak
 database.yml
+geoserver/web/
 .env.orig
 dump.sql
 env
-geoserver/web/
 htdocs/.env
 wp-config.php.bak
 .kube/config
@@ -101,6 +101,7 @@ package-lock.json
 portal/.env
 sitemap.xml
 yarn.lock
+*
 app_dev.php/_profiler/phpinfo
 cms/.env
 debug.log
@@ -108,7 +109,6 @@ media/.env
 secrets.yml
 shop/.env
 test/.env
-*
 ../.env
 blog/.env
 main/.env
@@ -271,8 +271,8 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.secret
 .vscode/sftp.json
 app/.git/config
-.env.swp
 owa/auth/logon.aspx
+.env.swp
 www/.git/config
 .env.sandbox
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
@@ -482,6 +482,7 @@ laravel/.env.example
 logon/LogonPoint/tmindex.html
 mailer/.env
 owa/auth/x.js
+remote/login?lang=en
 service-account.json
 sonicui/7/sslvpn-portal/
 src/.env.local
@@ -504,7 +505,6 @@ env/.env
 manager/html
 private/.env
 protected/.env
-remote/login?lang=en
 vpn/index.html
 web/
 webpages/login.html
@@ -4869,6 +4869,7 @@ redis/keys
 register/
 remix/.env
 remote/login.php
+remote/login?lang=GB2312
 remoteControlAction.do
 render.yaml?v=18e6211e463ba6d7
 replicate/.env?v=18e621124e0e6a60

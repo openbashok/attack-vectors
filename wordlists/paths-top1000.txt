@@ -77,12 +77,12 @@ favicon.ico/
 .env.orig
 database.yml
 dump.sql
+geoserver/web/
 wp-config.php.bak
 .kube/config
 application/.env
 backup.sql
 env
-geoserver/web/
 htdocs/.env
 site.zip
 backup/.env
@@ -108,13 +108,13 @@ secrets.yml
 sitemap.xml
 test/.env
 yarn.lock
+*
 cms/.env
 main/.env
 media/.env
 settings.json
 shop/.env
 web.config
-*
 .aws/config
 application.properties
 blog/.env
@@ -256,6 +256,7 @@ wp-config.php.old
 .npmrc
 admin/config.php
 config.php
+remote/login
 .env.preprod
 .env~
 .env.config
@@ -263,7 +264,6 @@ config.php
 .svn/wc.db
 build/.env
 login.html
-remote/login
 .env.ci
 .env.secret
 cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh
@@ -271,8 +271,8 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.swp
 .vscode/sftp.json
 app/.git/config
-containers/json
 owa/auth/logon.aspx
+containers/json
 www/.git/config
 .env.sandbox
 .htpasswd
