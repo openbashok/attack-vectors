@@ -57,8 +57,8 @@ secrets.json
 docker-compose.yaml
 test.php
 settings/.env
-dev/.env
 developmentserver/metadatauploader
+dev/.env
 v1/.env
 v2/.env
 api/mcp
@@ -77,12 +77,12 @@ database.yml
 .env.orig
 dump.sql
 env
+geoserver/web/
 htdocs/.env
 wp-config.php.bak
 .kube/config
 application/.env
 backup.sql
-geoserver/web/
 site.zip
 .env.json
 .env.php
@@ -322,6 +322,7 @@ app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+boaform/adminformLogout//boaform/admin/login.asp
 cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -347,7 +348,6 @@ ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .docker/config.json
 .well-known/pki-validation/update
-boaform/adminformLogout//boaform/admin/login.asp
 config/aws.json
 docker-compose.prod.yml
 docker/.env
@@ -498,6 +498,7 @@ config/application.yml
 config/settings.py
 credentials.py
 cron/.env
+druid/index.html
 ecosystem.config.js
 env/.env
 manager/html
@@ -528,7 +529,6 @@ app/etc/env.php
 audio/.env
 autodiscover/autodiscover.xml
 cgi-bin/.env
-druid/index.html
 ews/exchange.asmx
 files/.env
 graphql
@@ -1246,6 +1246,7 @@ versa/login
 versions
 vod_installer/.env
 vpn
+vpnsvc/connect.cgi
 vpntunnel
 vue/.env
 web/config.php
@@ -1851,7 +1852,6 @@ vertex-ai-credentials.json
 vertex-ai.json
 vertex.json
 videos/.env
-vpnsvc/connect.cgi
 vue-end/vue-til/.env
 vue/config.json
 vue_CRM/.env

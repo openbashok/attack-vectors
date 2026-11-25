@@ -67,8 +67,8 @@ info
 default
 laravel.log
 staging
-get
 index.html
+get
 ip.cypher.rest:443
 .env.development
 config.js
@@ -124,8 +124,8 @@ application
 media
 dashboard
 data
-secrets.json
 geoserver
+secrets.json
 home
 .vscode
 terraform.tfstate
@@ -147,17 +147,17 @@ entries
 fixtures
 .env.production.local
 debug.log
-appsettings.json
-database.sql
 developmentserver
 metadatauploader
+appsettings.json
+database.sql
 user
+boaform
 docs
 site.zip
 files
 .env.stage
 .env:80
-boaform
 local
 login.html
 config.php.bak
@@ -280,10 +280,10 @@ s3
 .env.default
 aaa9
 id_rsa
+login.asp
 wp-json
 .env_sample
 database
-login.asp
 workflows
 +CSCOE+
 .npmrc
@@ -352,11 +352,11 @@ zend
 .env.qa
 .htaccess
 V2
+adminformLogout
 docker-compose.prod.yml
 ec
 login.cgi
 solr
-adminformLogout
 config.inc.php
 downloads
 includes
@@ -567,6 +567,7 @@ chunks
 common
 credentials.py
 deploy.yml
+druid
 ecosystem.config.js
 en
 heapdump
@@ -609,7 +610,6 @@ begin
 cores
 db.sql.gz
 deployment.yaml
-druid
 end
 env.txt
 ews
@@ -1146,6 +1146,7 @@ compose.yaml
 config.dev.json
 config.development.json
 config.prod.json
+connect.cgi
 connection.php
 contact-form-7
 controller
@@ -1284,6 +1285,7 @@ values.yaml
 versa
 vip
 vod_installer
+vpnsvc
 vpntunnel
 wallets
 web_shell_cmd.gch
@@ -1419,7 +1421,6 @@ config.bak
 config.php.orig
 config.php.swo
 config.php.swp
-connect.cgi
 connectionstrings.config
 counterwallet
 cpanel
@@ -1673,7 +1674,6 @@ version.json
 vertex-ai-credentials.json
 vertex-ai.json
 videos
-vpnsvc
 vue-dashboard
 vue-end
 vue-til

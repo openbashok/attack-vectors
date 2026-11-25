@@ -57,9 +57,9 @@ test.php
 api/.git/config
 docker-compose.yaml
 html/.env
+developmentserver/metadatauploader
 settings/.env
 dev/.env
-developmentserver/metadatauploader
 v1/.env
 appsettings.json
 credentials.json
@@ -82,11 +82,11 @@ wp-config.php.bak
 application/.env
 backup.sql
 env
+geoserver/web/
 htdocs/.env
 site.zip
 backup/.env
 db.sql
-geoserver/web/
 package.json
 .env.json
 .env.php
@@ -319,6 +319,7 @@ app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+boaform/adminformLogout//boaform/admin/login.asp
 cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -342,7 +343,6 @@ ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .well-known/pki-validation/update
-boaform/adminformLogout//boaform/admin/login.asp
 config/aws.json
 config/database.yml
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
@@ -498,6 +498,7 @@ actuator/heapdump
 admin
 api/.env.production
 credentials.py
+druid/index.html
 ecosystem.config.js
 graphql
 id_rsa
@@ -534,7 +535,6 @@ autodiscover/autodiscover.xml
 cgi-bin/.env
 credentials.yml
 docker/app/.env
-druid/index.html
 env.txt
 ews/exchange.asmx
 files/.env

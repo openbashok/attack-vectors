@@ -28,8 +28,8 @@ test
 .env.backup
 .env.test
 laravel.log
-get
 index.html
+get
 ip.cypher.rest:443
 .env.development
 config.js
@@ -55,15 +55,15 @@ terraform.tfstate
 application.yml
 sse
 test.php
-aws.yml
 web
+aws.yml
 docker-compose.yaml
 entries
 .env.production.local
 debug.log
+metadatauploader
 appsettings.json
 database.sql
-metadatauploader
 site.zip
 .env.stage
 login.html
@@ -152,11 +152,11 @@ wp-config.php.old
 .env.default
 aaa9
 id_rsa
+login.asp
 v1
 version
 .env_sample
 json
-login.asp
 .npmrc
 logon.html
 .env.ci
@@ -635,6 +635,7 @@ conf
 config.dev.json
 config.development.json
 config.prod.json
+connect.cgi
 connection.php
 credentials.tfrc.json
 data
@@ -784,7 +785,6 @@ config.bak
 config.php.orig
 config.php.swo
 config.php.swp
-connect.cgi
 connectionstrings.config
 databases.yml
 dbadmin
