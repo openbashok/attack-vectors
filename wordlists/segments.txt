@@ -40,9 +40,9 @@ robots.txt
 backend
 server
 frontend
-storage
 auth
 core
+storage
 v2
 app_dev.php
 .env.save
@@ -185,11 +185,11 @@ parameters.yml
 %2eenv
 aws
 node
+owa
 package-lock.json
 service
 sitemap.xml
 yarn.lock
-owa
 sql
 v3
 web.config
@@ -315,6 +315,7 @@ drupal
 swagger.json
 users
 configuration.php
+logon.aspx
 settings.php
 sites
 update
@@ -325,7 +326,6 @@ LogonPoint
 account
 configuration
 logon
-logon.aspx
 pub
 welcome.cgi
 workspace
@@ -365,6 +365,7 @@ public_html
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 wp-config.php~
 conf
+css
 index
 login.htm
 openai
@@ -375,7 +376,6 @@ vue-heroes
 .env.test.local
 assets..
 backups
-css
 dist
 environments
 evox
@@ -624,6 +624,7 @@ rdx
 rdx_en.json.gz
 redlion
 routes
+shell
 socket.io
 template
 ubuntu
@@ -669,7 +670,6 @@ projbackend
 redmine
 reports
 rpc
-shell
 showLogin.cc
 sitemaps
 sslvpn

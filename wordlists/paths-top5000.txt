@@ -272,6 +272,7 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .vscode/sftp.json
 app/.git/config
 containers/json
+owa/auth/logon.aspx
 www/.git/config
 .env.sandbox
 .htpasswd
@@ -280,7 +281,6 @@ config/database.php
 config/secrets.yml
 configuration/.env
 index.html
-owa/auth/logon.aspx
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 version
 wp-config.php.save
@@ -694,6 +694,7 @@ rest/applinks/1.0/manifest
 s3/bucket.env
 script/.env
 setup.cgi
+shell
 sonicui/7/login/
 sslvpn/Login/Login
 swagger/v1/swagger.json
@@ -809,7 +810,6 @@ root/.s3cfg
 s3/.env.bak
 secure/Dashboard.jspa
 sellers.json
-shell
 sites/.env
 sslvpnLogin.html
 stag/.env
@@ -3714,6 +3714,7 @@ catalog/.env
 cdn/.env
 cert.zip
 cgi-bin/ExportSettings.sh
+cgi-bin/ViewLog.asp
 cgi-bin/cstecgi.cgi
 cgi-bin/main.pl
 cgi-bin/nas_sharing.cgi
@@ -3837,6 +3838,7 @@ controllers/settings.js
 controlpanel
 core/info.php
 core/modules/system/
+core/static/css/standard-ui.css
 cpresources/
 craft/.env
 credentials%252exml

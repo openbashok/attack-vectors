@@ -175,10 +175,10 @@ wc.db
 config.yml
 swagger.json
 configuration.php
+logon.aspx
 settings.php
 .env.sandbox
 .htpasswd
-logon.aspx
 update
 welcome.cgi
 wp-config.php.save
@@ -433,6 +433,7 @@ models
 private.key
 remote
 setup.cgi
+shell
 sign_in
 signin
 vertex.json
@@ -500,7 +501,6 @@ rdweb
 readme.txt
 secrets.js
 sellers.json
-shell
 smtp.env
 sslvpnLogin.html
 start.htm

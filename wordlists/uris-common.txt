@@ -272,6 +272,7 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .vscode/sftp.json
 app/.git/config
 .env.swp
+owa/auth/logon.aspx
 www/.git/config
 .env.sandbox
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
@@ -279,7 +280,6 @@ config/database.php
 configuration/.env
 containers/json
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
-owa/auth/logon.aspx
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 version
 .htpasswd
