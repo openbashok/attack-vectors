@@ -414,6 +414,7 @@ wp-config.bak
 .env.docker
 GponForm/diag_Form?images/
 RDWeb
+api/
 api/.env.local
 autodiscover/autodiscover.json?@zdi/Powershell
 backend/.env.local
@@ -428,7 +429,6 @@ wp-content/.env
 www.zip
 .circleci/config.yml
 .ssh/id_ed25519
-api/
 config/config.php
 local_settings.py
 openapi.json

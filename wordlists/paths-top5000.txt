@@ -415,6 +415,7 @@ www.zip
 .ssh/id_ed25519
 GponForm/diag_Form
 RDWeb
+api/
 autodiscover/autodiscover.json
 backend/.env.local
 dana-na/auth/url_default/welcome.cgi
@@ -425,7 +426,6 @@ secrets.py
 sftp.json
 .ssh/authorized_keys
 actuator/configprops
-api/
 boaform/admin/formLogin
 config.yaml
 config/config.php
