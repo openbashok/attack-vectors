@@ -1032,6 +1032,7 @@ api/.env.bak
 api/.env.dev
 api/.env.save
 api/active-coins
+api/client/update
 api/docs
 api/health
 api/shared/.env
@@ -1448,7 +1449,6 @@ amplifyconfiguration.json
 angular/config.json
 ansible/vault.yml
 api-docs/
-api/client/update
 api/config.json
 api/graphql
 api/hyper.Index/config

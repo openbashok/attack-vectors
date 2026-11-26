@@ -182,11 +182,11 @@ swagger.json
 .htaccess
 app.php
 logon.aspx
+update
 wp-config.php~
 .env.sandbox
 .s3cfg
 config.inc.php
-update
 welcome.cgi
 .git-credentials
 Dr0v

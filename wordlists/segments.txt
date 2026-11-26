@@ -306,13 +306,13 @@ configuration.php
 settings.php
 .htpasswd
 plugins
+update
 vpn
 wc.db
 wp-config.php.save
 .%65%6e%76
 containers
 mysql
-update
 .env.secret
 Jenkinsfile
 swagger.json
