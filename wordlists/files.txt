@@ -19,8 +19,8 @@ robots.txt
 login
 .env.save
 config.php
-phpinfo.php
 security.txt
+phpinfo.php
 .env.prod
 .env.old
 secrets.yaml
@@ -30,9 +30,9 @@ test
 laravel.log
 .env.development
 settings.py
-config.js
 get
 ip.cypher.rest:443
+config.js
 index.html
 HEAD
 .env.dist
@@ -86,10 +86,10 @@ parameters.yml
 open
 *
 %2eenv
+sitemap.xml
 web.config
 env.json
 secrets.env
-sitemap.xml
 .env.development.local
 .config.yaml
 .env.example.php
@@ -400,6 +400,7 @@ config.production.json
 firebase-adminsdk.json
 liveliness
 main.js.map
+models
 private.key
 rdweb
 runtime-env.js
@@ -435,7 +436,6 @@ keys.json
 kubeconfig
 lang
 login.js
-models
 remote
 setup.cgi
 sign_in
@@ -638,6 +638,7 @@ cgiChkMasterPwd.exe
 check-version
 claude_desktop_config.json
 clients
+completions
 componentutils
 compose.yaml
 conf
@@ -787,7 +788,6 @@ ckeditor.js
 clientaccesspolicy.xml
 cline_mcp_settings.json
 cmd.exe
-completions
 conf.json
 config.bak
 config.php.orig
@@ -802,6 +802,7 @@ deploy.json
 development.yml
 docker_compose.yml
 download
+embeddings
 env.backup
 env.bak
 env.dev.js
@@ -1098,7 +1099,6 @@ download.php
 dump.tar.gz
 elfinder.min.css
 elmah.axd
-embeddings
 env.local.php
 environment.prod.ts
 environment.production.ts

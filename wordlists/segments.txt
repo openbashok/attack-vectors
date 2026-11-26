@@ -49,8 +49,8 @@ v2
 app_dev.php
 config.php
 dev
-phpinfo.php
 security.txt
+phpinfo.php
 docker
 lib
 .env.prod
@@ -69,9 +69,9 @@ staging
 laravel.log
 .env.development
 settings.py
-config.js
 get
 ip.cypher.rest:443
+config.js
 debug
 index.html
 .well-known
@@ -189,13 +189,13 @@ service
 %2eenv
 aws
 owa
+sitemap.xml
 v3
 web.config
 API
 env.json
 k8s
 secrets.env
-sitemap.xml
 .env.development.local
 download
 rest
@@ -642,6 +642,7 @@ id_ecdsa
 id_rsa.pub
 lms
 login.aspx
+models
 rails
 raw
 rdx
@@ -678,7 +679,6 @@ index.cgi
 install
 mail.php
 main.yml
-models
 oracle-vagrant-boxes
 php_info.php
 phpmyadmin3
@@ -1152,6 +1152,7 @@ claude
 claude_desktop_config.json
 client-app
 cluster
+completions
 componentutils
 compose.yaml
 config.dev.json
@@ -1424,7 +1425,6 @@ clld_dir
 cmd
 cmd.exe
 collab-connect-web-application
-completions
 conf.json
 config.bak
 config.php.orig
@@ -1453,6 +1453,7 @@ dotfiles
 e
 e2e
 ec2-user
+embeddings
 env.backup
 env.bak
 env.dev.js
@@ -2035,7 +2036,6 @@ edv-rest
 elasticemail
 elfinder.min.css
 elmah.axd
-embeddings
 empty-values
 env.local.php
 environment.prod.ts

@@ -114,13 +114,13 @@ main/.env
 media/.env
 settings.json
 shop/.env
+sitemap.xml
 web.config
 application.properties
 blog/.env
 error.log
 local/.env
 secrets.yaml
-sitemap.xml
 apps/.env
 new/.env
 project/.env
@@ -841,6 +841,7 @@ storage/.env.local
 studioserver/.git/config
 templates/.env
 users/.env
+v1/models
 vpn/pluginlist.xml
 web/.git/config
 web/login
@@ -950,7 +951,6 @@ symfony/.env
 template/.env
 terraform/.env
 upload/.env
-v1/models
 var/.env
 web/.env.bak
 web/.env.dev
@@ -1897,6 +1897,8 @@ typo3/.env
 ui/.env
 urlmem-app/.env
 userportal/webpages/myaccount/login.jsp
+v1/completions
+v1/embeddings
 v1/statement
 v2/api-docs
 var/task/.env

@@ -9,9 +9,9 @@ robots.txt
 app/.env
 .env.save
 api/.env
-.aws/credentials
 get
 ip.cypher.rest:443
+.aws/credentials
 .env.dev
 .env.prod
 config/.env
@@ -108,12 +108,12 @@ cms/.env
 debug.log
 media/.env
 shop/.env
+sitemap.xml
 test/.env
 ../.env
 blog/.env
 main/.env
 settings.json
-sitemap.xml
 web.config
 application.properties
 error.log
@@ -834,6 +834,7 @@ storage/.env.local
 studioserver/.git/config
 swagger/v1/swagger.json
 templates/.env
+v1/models
 vpn/pluginlist.xml
 web/.git/config
 web/login
@@ -936,7 +937,6 @@ symfony/.env
 template/.env
 terraform/.env
 users/.env
-v1/models
 web/.env.bak
 web/.env.dev
 web/.env.dist
@@ -1873,6 +1873,8 @@ tiedostot/.env
 typo3/.env
 urlmem-app/.env
 userportal/webpages/myaccount/login.jsp
+v1/completions
+v1/embeddings
 v1/statement
 v2/api-docs
 v3/api-docs
