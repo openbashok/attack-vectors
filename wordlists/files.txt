@@ -281,6 +281,7 @@ credentials.py
 ecosystem.config.js
 env.txt
 environ
+html
 main.js
 settings
 webui
@@ -301,7 +302,6 @@ config.php.old
 config.php~
 console
 env.js
-html
 list
 login.php
 nc_gina_ver.txt

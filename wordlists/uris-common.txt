@@ -470,6 +470,7 @@ config.yaml
 credentials.py
 dist/.env
 ecosystem.config.js
+manager/html
 terraform.tfvars
 var/www/.env
 vendor/.env
@@ -498,7 +499,6 @@ docker/compose/withRedis/.env
 env.txt
 frontend/.env.local
 index.php
-manager/html
 myapp/settings.py
 php/.env
 remote/login?lang=en

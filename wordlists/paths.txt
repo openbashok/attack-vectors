@@ -471,6 +471,7 @@ dist/.env
 ecosystem.config.js
 env.txt
 frontend/.env.local
+manager/html
 service-account.json
 var/www/.env
 .env.prev
@@ -498,7 +499,6 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 env/.env
 mailer/.env
-manager/html
 myapp/settings.py
 php/.env
 .boto

@@ -371,6 +371,7 @@ login.cgi
 aab8
 authorized_keys
 downloads
+manager
 master.key
 pki-validation
 production
@@ -379,7 +380,6 @@ sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 backups
 css
 login.htm
-manager
 openai
 phpmyadmin
 resources
