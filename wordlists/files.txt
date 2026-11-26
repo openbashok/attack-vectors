@@ -247,6 +247,7 @@ config.yaml
 docker-compose.override.yml
 graphql
 mcp.json
+microsoft.exchange.ediscovery.exporttool.application
 .env.yml
 Login
 admin-ajax.php
@@ -254,7 +255,6 @@ app.js
 autodiscover.json
 diag_Form
 env.php
-microsoft.exchange.ediscovery.exporttool.application
 server-status
 service-account.json
 terraform.tfstate.backup

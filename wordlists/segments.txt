@@ -11,8 +11,8 @@ vendor
 favicon.ico
 index.php
 app
-admin
 SDK
+admin
 webLanguage
 .env.local
 test
@@ -431,6 +431,7 @@ terraform.tfvars
 .env.copy
 .env.tmp
 .env_old
+Current
 Gemfile.lock
 abc7
 anthropic
@@ -439,12 +440,14 @@ composer.lock
 config.yaml
 django
 docker-compose.override.yml
+ecp
 enviroments
+exporttool
 instance
 mcp.json
+microsoft.exchange.ediscovery.exporttool.application
 ~
 .env.yml
-Current
 GponForm
 __tests__
 admin-ajax.php
@@ -452,12 +455,9 @@ app.js
 autodiscover.json
 default_settings
 diag_Form
-ecp
 env.php
-exporttool
 lang
 master
-microsoft.exchange.ediscovery.exporttool.application
 secrets
 server-status
 service-account.json

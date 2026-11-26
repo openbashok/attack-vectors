@@ -416,6 +416,7 @@ config/config.php
 deploy/.env
 docker-compose.override.yml
 docker-compose/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 server/.env.local
 shared/.env
 web/.env.local
@@ -427,7 +428,6 @@ api/
 autodiscover/autodiscover.json
 backup.zip
 compose/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 server-status
 terraform.tfstate.backup

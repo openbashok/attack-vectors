@@ -419,6 +419,7 @@ composer.json
 composer.lock
 config/config.php
 docker-compose/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 server/.env.local
 shared/.env
 swagger.json
@@ -434,7 +435,6 @@ backup.tar.gz
 compose/.env
 deploy/.env
 docker-compose.override.yml
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 .env.docker
 .env.yaml
