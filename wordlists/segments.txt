@@ -10,9 +10,9 @@ api
 vendor
 favicon.ico
 index.php
-app
 SDK
 webLanguage
+app
 admin
 .env.local
 test
@@ -323,6 +323,7 @@ about
 app.php
 drupal
 logon.aspx
+autodiscover
 modules
 sites
 wp-config.php~
@@ -331,7 +332,6 @@ wp-config.php~
 LICENSE
 LogonPoint
 account
-autodiscover
 config.inc.php
 configuration
 logon
@@ -386,10 +386,12 @@ resources
 static..
 vue-heroes
 wp-config.php.orig
+api.ipinfo.io:443
 assets..
 dist
 environments
 evox
+icanhazip.com:443
 id_dsa
 media..
 qa
@@ -399,10 +401,8 @@ wp-config.bak
 .config
 .env.2
 _next
-api.ipinfo.io:443
 docker-compose
 graphql
-icanhazip.com:443
 id_ed25519
 .boto
 .env.docker
@@ -561,6 +561,7 @@ _layouts
 application-prod.yml
 applinks
 authLogin.cgi
+autodiscover.xml
 b
 bootstrap
 cmdb
@@ -571,6 +572,8 @@ deploy.yml
 environment
 environment.rb
 error.aspx
+ews
+exchange.asmx
 jsp
 local.py
 login.esp
@@ -589,14 +592,11 @@ wsman
 x.js
 127.0.0.1:801
 adminer
-autodiscover.xml
 cgi-mod
 chunks
 develop
 druid
 en
-ews
-exchange.asmx
 gcp-credentials.json
 heapdump
 index.jsp
