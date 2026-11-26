@@ -80,13 +80,13 @@ wp-config.php.bak
 .env.json
 .env.php
 dump.sql
+geoserver/web/
 backup.sql
 favicon.ico/
 site.zip
 .kube/config
 application/.env
 db.sql
-geoserver/web/
 package-lock.json
 yarn.lock
 package.json
@@ -99,10 +99,10 @@ sendgrid.env
 .aws/config
 application.yml
 terraform.tfstate
+*
 .env.local.php
 info
 portal/.env
-*
 app_dev.php/_profiler/phpinfo
 cms/.env
 debug.log
@@ -434,6 +434,7 @@ backup.tar.gz
 compose/.env
 deploy/.env
 docker-compose.override.yml
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 .env.docker
 .env.yaml
@@ -442,7 +443,6 @@ backup.zip
 dana-na/auth/url_default/welcome.cgi
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 laravel/.env.example
 server-status
 sftp.json

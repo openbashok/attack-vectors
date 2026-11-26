@@ -82,6 +82,7 @@ api/mcp
 dump.sql
 .env.php
 backup.sql
+geoserver/web/
 site.zip
 .kube/config
 application/.env
@@ -89,7 +90,6 @@ db.sql
 favicon.ico/
 .aws/config
 backup/.env
-geoserver/web/
 package-lock.json
 package.json
 yarn.lock
@@ -102,13 +102,13 @@ sendgrid.env
 terraform.tfstate
 debug/default/view
 portal/.env
+*
 ../.env
 .env.local.php
 app_dev.php/_profiler/phpinfo
 debug.log
 info
 test/.env
-*
 cms/.env
 main/.env
 media/.env
@@ -427,6 +427,7 @@ api/
 autodiscover/autodiscover.json
 backup.zip
 compose/.env
+ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 instance/config.py
 server-status
 terraform.tfstate.backup
@@ -443,7 +444,6 @@ config/settings.py
 dana-na/auth/url_default/welcome.cgi
 docker/compose/withMongo/.env
 docker/compose/withPostgres/.env
-ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 laravel/.env.example
 openapi.json
 sftp.json

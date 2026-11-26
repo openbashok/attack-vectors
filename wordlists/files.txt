@@ -55,9 +55,9 @@ application.yml
 terraform.tfstate
 test.php
 docker-compose.yaml
+web
 aws.yml
 sse
-web
 .env.production.local
 entries
 debug.log
@@ -84,8 +84,8 @@ yarn.lock
 sh
 parameters.yml
 open
-%2eenv
 *
+%2eenv
 web.config
 env.json
 secrets.env
@@ -254,6 +254,7 @@ app.js
 autodiscover.json
 diag_Form
 env.php
+microsoft.exchange.ediscovery.exporttool.application
 server-status
 service-account.json
 terraform.tfstate.backup
@@ -263,7 +264,6 @@ www.zip
 .env_backup
 configprops
 credentials.yml.enc
-microsoft.exchange.ediscovery.exporttool.application
 pentest_proof_6c9f30.php
 .dockerenv
 .yarnrc
