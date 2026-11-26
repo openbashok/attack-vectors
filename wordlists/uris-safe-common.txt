@@ -28,8 +28,8 @@ docker-compose.yml
 .env.development
 .gitlab-ci.yml
 web/.env
-src/.env
 info.php
+src/.env
 frontend/.env
 public/.env
 _profiler/phpinfo
@@ -219,6 +219,7 @@ wp-config.php.old
 .claude/.env
 .env/.env
 Application/.env
+aaa9
 api/test
 app.log
 beta/
@@ -251,7 +252,6 @@ tests/
 tmp/
 twilio.env
 .env.default
-aaa9
 .npmrc
 .env_sample
 config.php
@@ -300,6 +300,7 @@ database/.env
 index.html
 .git-credentials
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+aab8
 config/database.yml
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
@@ -356,7 +357,6 @@ www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.1
 .git/index
 .well-known/pki-validation/update
-aab8
 app/.env.local
 config/aws.json
 docker-compose.prod.yml
