@@ -497,6 +497,7 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 env.txt
 frontend/.env.local
+index.php
 myapp/settings.py
 php/.env
 remote/login_lang=en
@@ -514,7 +515,6 @@ config/environment.rb
 development/.env
 django/settings.py
 global-protect/login.esp
-index.php
 local.py
 logon/LogonPoint/tmindex.html
 mailer/.env
@@ -4965,6 +4965,7 @@ reports/.env
 requirements.txt_v=18e6211e677d94d2
 resolve
 resolve_dns=-fYBAAABAAAAAAAAA2RvaAhvdmVyc2VhcwMxNzIDMjMzAzE2NQMxMzkIMjAyNjExMTIEdGVzdAl3aGl0ZWNodW4Ec2hvcAAAAQAB
+resources.json
 rest/%2eenv_v=pGsVs
 rest/about/version.json_v=18e6211cc82234bd
 rest/v1/

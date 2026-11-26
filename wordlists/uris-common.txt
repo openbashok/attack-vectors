@@ -497,6 +497,7 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 env.txt
 frontend/.env.local
+index.php
 myapp/settings.py
 php/.env
 remote/login?lang=en
@@ -514,7 +515,6 @@ config/environment.rb
 development/.env
 django/settings.py
 global-protect/login.esp
-index.php
 local.py
 logon/LogonPoint/tmindex.html
 mailer/.env

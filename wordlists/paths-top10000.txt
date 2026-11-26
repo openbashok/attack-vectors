@@ -4559,6 +4559,7 @@ remoteControlAction.do
 render.yaml
 replicate/.env
 reports/.env
+resources.json
 rest/%2eenv
 rest/about/version.json
 rest/v1/
