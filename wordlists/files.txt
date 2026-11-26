@@ -333,6 +333,7 @@ heapdump
 index.jsp
 openai.json
 php.php
+redlion
 status
 swagger-ui.html
 system
@@ -356,7 +357,6 @@ login.aspx
 owa
 raw
 rdx_en.json.gz
-redlion
 run
 socket.io
 uploads
@@ -440,6 +440,7 @@ remote
 setup.cgi
 sign_in
 signin
+solr
 sslvpnLogin.html
 vertex.json
 wallet.dat
@@ -516,7 +517,6 @@ secrets.js
 sellers.json
 setup.php
 smtp.env
-solr
 ssl.key
 start.htm
 swagger

@@ -534,6 +534,7 @@ graphql
 lib/.env
 mail/.env
 nginx/.env
+portal/redlion
 protected/.env
 vpn/index.html
 web/
@@ -568,7 +569,6 @@ new/.env.staging
 owa/
 panel/.env
 php.php
-portal/redlion
 production/.env
 raw
 root/.aws/credentials
@@ -705,6 +705,7 @@ s3/bucket.env
 script/.env
 server/.env.production
 setup.cgi
+solr/
 sonicui/7/login/
 sslvpn/Login/Login
 sslvpnLogin.html
@@ -834,7 +835,6 @@ secure/Dashboard.jspa
 sellers.json
 setup.php
 sites/.env
-solr/
 ssl.key
 stag/.env
 storage/.env.local

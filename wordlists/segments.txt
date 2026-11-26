@@ -349,6 +349,7 @@ console
 etc
 index
 sdk
+solr
 .env.test.local
 aab8
 conf
@@ -356,7 +357,6 @@ hello.world
 includes
 manage
 sftp-config.json
-solr
 test.hello
 yii
 zend
@@ -610,6 +610,7 @@ php.php
 picture
 protected
 react
+redlion
 refs
 status
 swagger-ui.html
@@ -645,7 +646,6 @@ rails
 raw
 rdx
 rdx_en.json.gz
-redlion
 routes
 socket.io
 sslvpn
