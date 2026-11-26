@@ -156,6 +156,7 @@ var/.env.local.php
 app/config/parameters.yml
 auth/.env
 env.json
+login
 mysql.sql
 store/.env
 uploads/.env
@@ -168,7 +169,6 @@ bot/.env
 docs/.env
 google-services.json
 library/.env
-login
 administrator/.env
 aws.yml
 back/.env
@@ -1287,6 +1287,7 @@ webroot/.env
 webui/.env
 webui/index.html
 wp/.env
+www.baidu.com:443
 www.cloudflare.com:443
 www.google.com:443
 xml

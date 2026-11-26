@@ -714,6 +714,7 @@ vpn
 vpntunnel
 web_shell_cmd.gch
 workflows
+www.baidu.com:443
 www.cloudflare.com:443
 www.google.com:443
 xml
@@ -1238,4 +1239,3 @@ wp-config.php.original
 wp-config.save
 wp_filemanager.php
 wrangler.toml
-www.baidu.com:443

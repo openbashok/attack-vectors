@@ -127,6 +127,7 @@ project/.env
 app_dev.php/_profiler/open
 demo/.env
 home/.env
+login
 secrets.env
 test
 .config.yaml
@@ -147,7 +148,6 @@ config.dev.php
 config/.env.php
 info/
 laravel.log
-login
 phpinfo/
 sendgrid/.env
 sendgrid/.env.php
@@ -1313,6 +1313,7 @@ webroot/.env
 webui/.env
 webui/index.html
 wp/.env
+www.baidu.com:443
 www.cloudflare.com:443
 www.google.com:443
 xml
@@ -3061,7 +3062,6 @@ wp-json/wc/store/products
 wp-login/.env
 wrangler.toml
 www-data/.env
-www.baidu.com:443
 wwwroot/.env
 zmusic-frontend/.env
 ztp/cgi-bin/handler

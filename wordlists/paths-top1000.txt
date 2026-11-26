@@ -127,6 +127,7 @@ project/.env
 app_dev.php/_profiler/open
 demo/.env
 home/.env
+login
 secrets.env
 test
 .config.yaml
@@ -147,7 +148,6 @@ config.dev.php
 config/.env.php
 info/
 laravel.log
-login
 phpinfo/
 sendgrid/.env
 sendgrid/.env.php
