@@ -61,11 +61,11 @@ aws.yml
 .env.production.local
 entries
 debug.log
+metadatauploader
 database.sql
 .env.orig
 appsettings.json
 config.php.bak
-metadatauploader
 site.zip
 .env.stage
 wp-config.php.bak

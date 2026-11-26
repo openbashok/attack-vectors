@@ -56,6 +56,7 @@ storage/logs/laravel.log
 test.php
 api/.git/config
 .svn/entries
+developmentserver/metadatauploader
 env
 settings/.env
 client/.env
@@ -64,7 +65,6 @@ settings.py
 config.php.bak
 credentials.json
 dev/.env
-developmentserver/metadatauploader
 v1/.env
 v2/.env
 .env.dist

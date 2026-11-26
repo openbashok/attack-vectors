@@ -146,14 +146,14 @@ ws
 entries
 bin
 debug.log
+developmentserver
 examples
+metadatauploader
 database.sql
 .env.orig
 appsettings.json
 config.php.bak
-developmentserver
 fixtures
-metadatauploader
 site.zip
 docs
 .env.stage
