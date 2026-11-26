@@ -250,8 +250,8 @@ tmp/
 twilio.env
 .env.default
 .npmrc
-.env_sample
 aaa9
+.env_sample
 config.php
 +CSCOE+/logon.html
 .env~
@@ -352,11 +352,11 @@ www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.1
 .travis.yml
 .well-known/pki-validation/update
+aab8
 app/.env.production
 config/aws.json
 config/master.key
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
-aab8
 backup/.git/config
 config.inc.php
 login.htm
