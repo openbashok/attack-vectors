@@ -19,8 +19,8 @@ robots.txt
 login
 .env.save
 config.php
-security.txt
 phpinfo.php
+security.txt
 .env.prod
 .env.old
 secrets.yaml
@@ -29,9 +29,9 @@ test
 .env.test
 laravel.log
 .env.development
-settings.py
 get
 ip.cypher.rest:443
+settings.py
 config.js
 index.html
 HEAD
@@ -55,8 +55,8 @@ application.yml
 terraform.tfstate
 test.php
 docker-compose.yaml
-web
 sse
+web
 aws.yml
 .env.production.local
 entries
@@ -83,8 +83,8 @@ sendgrid.env
 yarn.lock
 sh
 parameters.yml
-open
 *
+open
 %2eenv
 sitemap.xml
 web.config
@@ -186,10 +186,10 @@ update
 wp-config.php~
 .env.sandbox
 .s3cfg
+Dr0v
 config.inc.php
 welcome.cgi
 .git-credentials
-Dr0v
 about
 api
 index

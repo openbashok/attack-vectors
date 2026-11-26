@@ -30,8 +30,8 @@ config.json
 login
 laravel
 .env.bak
-www
 mcp
+www
 credentials
 v1
 logs
@@ -49,8 +49,8 @@ v2
 app_dev.php
 config.php
 dev
-security.txt
 phpinfo.php
+security.txt
 docker
 lib
 .env.prod
@@ -68,9 +68,9 @@ default
 staging
 laravel.log
 .env.development
-settings.py
 get
 ip.cypher.rest:443
+settings.py
 config.js
 debug
 index.html
@@ -135,10 +135,10 @@ uploads
 test.php
 .vscode
 docker-compose.yaml
+sse
 db
 images
 main
-sse
 aws.yml
 user
 ws
@@ -156,10 +156,10 @@ config.php.bak
 fixtures
 site.zip
 docs
+*
 .env.stage
 boaform
 wp-config.php.bak
-*
 .env:80
 dump.sql
 local
@@ -329,6 +329,7 @@ sites
 wp-config.php~
 .env.sandbox
 .s3cfg
+Dr0v
 LICENSE
 LogonPoint
 account
@@ -341,7 +342,6 @@ workspace
 wp-includes
 $(pwd)
 .git-credentials
-Dr0v
 RDWeb
 V2
 bdd

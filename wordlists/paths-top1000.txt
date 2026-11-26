@@ -38,8 +38,8 @@ _profiler/phpinfo
 wp-config.php
 admin/.env
 server/.env
-site/.env
 mcp
+site/.env
 .well-known/security.txt
 .env.testing
 config.js
@@ -52,9 +52,9 @@ secrets.json
 test.php
 docker-compose.yaml
 html/.env
+sse
 storage/.env
 storage/logs/laravel.log
-sse
 api/.git/config
 .svn/entries
 developmentserver/metadatauploader
@@ -68,11 +68,11 @@ credentials.json
 dev/.env
 v1/.env
 .env.dist
+api/mcp
 appsettings.json
 crm/.env
 v2/.env
 .env.production.local
-api/mcp
 database.sql
 database.yml
 htdocs/.env
@@ -100,9 +100,9 @@ staging/.env
 application.yml
 sendgrid.env
 terraform.tfstate
+*
 debug/default/view
 portal/.env
-*
 ../.env
 .env.local.php
 app_dev.php/_profiler/phpinfo
@@ -287,6 +287,7 @@ containers/json
 docker/.env
 wp-config.php~
 .env.sandbox
+Dr0v
 admin/.git/config
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 configuration/.env
@@ -295,7 +296,6 @@ server/.git/config
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 version
 .git-credentials
-Dr0v
 config/database.yml
 database/.env
 aab8
