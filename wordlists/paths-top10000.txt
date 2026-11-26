@@ -498,6 +498,7 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 env/.env
 mailer/.env
+manager/html
 myapp/settings.py
 php/.env
 .boto
@@ -532,7 +533,6 @@ ews/exchange.asmx
 graphql
 lib/.env
 mail/.env
-manager/html
 nginx/.env
 protected/.env
 vpn/index.html
@@ -608,6 +608,7 @@ shell
 showLogin.cc
 sitemaps/.env
 static/admin/javascript/hetong.js
+wp-login.php
 .docker/laravel/app/.env
 .env-example
 .env-sample
@@ -717,7 +718,6 @@ vendor/laravel/.env
 wp-admin/
 wp-config.php.gz
 wp-json/
-wp-login.php
 www.tar.gz
 +CSCOT+/oem-customization
 ..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
@@ -1511,6 +1511,7 @@ bedrock/config.json
 bedrock/credentials
 bitcoind/.env
 blog/wp-json/batch/v1
+blog/wp-login.php
 bootstrap.yml
 bootstrap/cache/config.php
 boxes/oracle-vagrant-boxes/OLCNE/.env
@@ -1924,6 +1925,7 @@ web/.env.test
 web/.env.uat
 webfig/
 webpack.config.js
+wordpress/wp-login.php
 workers/.env
 workplace/home.action
 workspace/.env
@@ -1935,6 +1937,7 @@ wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
 wp-content/themes/gaukingo/
 wp-json/Batch/v1
 wp-json/batch/v1/
+wp/wp-login.php
 www/.env.backup
 www/.env.bak
 www/.env.dev
@@ -3777,7 +3780,6 @@ blog/
 blog/%2eenv
 blog/wp-config.php
 blog/wp-includes/wlwmanifest.xml
-blog/wp-login.php
 braintree.env
 build../.env
 build.tar.gz
@@ -4895,7 +4897,6 @@ wordpress/%252eenv
 wordpress/%2eenv
 wordpress/wp-config.php
 wordpress/wp-includes/wlwmanifest.xml
-wordpress/wp-login.php
 worker%252ejs
 worker.js
 worker/%2eenv
@@ -4954,7 +4955,6 @@ wp-json/gravitysmtp/v1/tests/mock-data
 wp-json/wp/v2/pages
 wp.tar.gz
 wp/wp-includes/wlwmanifest.xml
-wp/wp-login.php
 wp1/wp-includes/wlwmanifest.xml
 wp2/wp-includes/wlwmanifest.xml
 wrua1grxfpg53v

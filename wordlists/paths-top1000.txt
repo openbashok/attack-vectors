@@ -498,6 +498,7 @@ docker/compose/withMySQL/.env
 docker/compose/withRedis/.env
 env/.env
 mailer/.env
+manager/html
 myapp/settings.py
 php/.env
 .boto
@@ -532,7 +533,6 @@ ews/exchange.asmx
 graphql
 lib/.env
 mail/.env
-manager/html
 nginx/.env
 protected/.env
 vpn/index.html
@@ -608,6 +608,7 @@ shell
 showLogin.cc
 sitemaps/.env
 static/admin/javascript/hetong.js
+wp-login.php
 .docker/laravel/app/.env
 .env-example
 .env-sample
@@ -717,7 +718,6 @@ vendor/laravel/.env
 wp-admin/
 wp-config.php.gz
 wp-json/
-wp-login.php
 www.tar.gz
 +CSCOT+/oem-customization
 ..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd

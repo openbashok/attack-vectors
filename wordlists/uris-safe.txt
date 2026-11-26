@@ -498,6 +498,7 @@ docker/compose/withRedis/.env
 env.txt
 frontend/.env.local
 index.php
+manager/html
 myapp/settings.py
 php/.env
 remote/login_lang=en
@@ -534,7 +535,6 @@ druid/index.html
 env/.env
 ews/exchange.asmx
 id_rsa
-manager/html
 private/.env
 protected/.env
 vpn/index.html
@@ -647,6 +647,7 @@ sslvpn_logon.shtml
 tests/.env
 webui
 wp-content/uploads/pentest_proof_6c9f30.php
+wp-login.php
 .env.production.backup
 .npmrc._default
 .ssh/id_ecdsa
@@ -850,7 +851,6 @@ wp-includes/
 wp-includes/version.php
 wp-json/wp/v2/users
 wp-load.php
-wp-login.php
 wp-settings.php
 www.tar.gz
 .config/gcloud/application_default_credentials.json
@@ -1480,6 +1480,7 @@ bedrock.yml
 bedrock/.env
 bitcoind/.env
 blog/wp-json/batch/v1
+blog/wp-login.php
 boaform/admin/formLogin_username=user_psd=user
 bootstrap.properties
 bootstrap/cache/config.php
@@ -1900,6 +1901,7 @@ web/.env.swp
 web/.env.test
 web/.env.uat
 webfig/
+wordpress/wp-login.php
 workplace/home.action
 workspace/.env
 wp-admin
@@ -1911,6 +1913,7 @@ wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php_lang=en
 wp-content/themes/gaukingo/
 wp-json/Batch/v1
 wp-json/batch/v1/
+wp/wp-login.php
 www/.env.backup
 www/.env.bak
 www/.env.dev
@@ -4001,7 +4004,6 @@ blog/%2eenv_v=pp3zc
 blog/_w3tc_minify=6cc23.css
 blog/wp-config.php
 blog/wp-includes/wlwmanifest.xml
-blog/wp-login.php
 bootstrap.properties_v=18e6211cdd6f10be
 bootstrap.yml_v=18e6211cd7b9c98c
 bot/.env_v=18e6211f1ae24995
@@ -5385,7 +5387,6 @@ wordpress/%252eenv
 wordpress/%2eenv_v=yfu5k
 wordpress/wp-config.php
 wordpress/wp-includes/wlwmanifest.xml
-wordpress/wp-login.php
 worker%252ejs
 worker.js
 worker/%2eenv_v=9HID5
@@ -5478,7 +5479,6 @@ wp-json/wp/v2/pages
 wp-login.php_test=../../etc/passwd
 wp.tar.gz
 wp/wp-includes/wlwmanifest.xml
-wp/wp-login.php
 wp1/wp-includes/wlwmanifest.xml
 wp2/wp-includes/wlwmanifest.xml
 wrua1grxfpg53v

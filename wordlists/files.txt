@@ -248,6 +248,7 @@ docker-compose.override.yml
 graphql
 mcp.json
 microsoft.exchange.ediscovery.exporttool.application
+wp-login.php
 .env.yml
 Login
 admin-ajax.php
@@ -300,6 +301,7 @@ config.php.old
 config.php~
 console
 env.js
+html
 list
 login.php
 nc_gina_ver.txt
@@ -328,7 +330,6 @@ autodiscover.xml
 exchange.asmx
 gcp-credentials.json
 heapdump
-html
 index.jsp
 openai.json
 php.php
@@ -364,7 +365,6 @@ wp-admin
 wp-config.php.swp
 wp-config.php.txt
 wp-config.txt
-wp-login.php
 .env.local.backup
 .env.zip
 .git
