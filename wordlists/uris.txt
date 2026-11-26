@@ -37,8 +37,8 @@ wp-config.php
 .git/HEAD
 admin/.env
 server/.env
-site/.env
 mcp
+site/.env
 .well-known/security.txt
 .env.testing
 config.js
@@ -51,10 +51,10 @@ docker-compose.yaml
 html/.env
 secrets.json
 storage/.env
+sse
 storage/logs/laravel.log
 test.php
 api/.git/config
-sse
 .svn/entries
 env
 settings/.env
@@ -68,12 +68,12 @@ developmentserver/metadatauploader
 v1/.env
 v2/.env
 .env.dist
+api/mcp
 appsettings.json
 database.yml
 htdocs/.env
 old/.env
 .env.production.local
-api/mcp
 crm/.env
 database.sql
 wp-config.php.bak

@@ -138,8 +138,8 @@ docker-compose.yaml
 db
 images
 main
-aws.yml
 sse
+aws.yml
 user
 ws
 .env.production.local
