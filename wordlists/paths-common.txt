@@ -361,13 +361,14 @@ login.jsp
 manage/account/login
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
 admin/index.html
+api.ipinfo.io:443
 backup/.git/config
 config.inc.php
+icanhazip.com:443
 static../.git/config
 wp-config.php.orig
 .env.test.local
 HNAP1
-api.ipinfo.io:443
 assets../.git/config
 cms/.git/config
 conf/.env
@@ -380,7 +381,6 @@ dev/.git/config
 evox/about
 files/
 files/.git/config
-icanhazip.com:443
 media../.git/config
 media/.git/config
 project/.git/config

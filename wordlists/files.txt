@@ -209,10 +209,10 @@ authorized_keys
 login.htm
 master.key
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
-wp-config.php.orig
 api.ipinfo.io:443
-files
 icanhazip.com:443
+wp-config.php.orig
+files
 id_dsa
 wp-config.bak
 .env.2
