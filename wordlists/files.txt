@@ -180,9 +180,9 @@ wp-config.php.save
 Jenkinsfile
 swagger.json
 .htaccess
+aab8
 app.php
 logon.aspx
-aab8
 api
 update
 wp-config.php~
@@ -216,13 +216,13 @@ files
 id_dsa
 wp-config.bak
 .env.2
+aab9
 id_ed25519
 pub
 ws
 .boto
 .env.docker
 RDWeb
-aab9
 backup.tar.gz
 index.js
 local_settings.py
@@ -847,6 +847,8 @@ install.exe
 internal_forms_authentication
 inventory.ini
 jirasoapservice-v2
+jquery-3.3.1.slim.min.js
+jquery-3.3.2.slim.min.js
 logfile
 login.do
 login_auth.csp
@@ -1140,8 +1142,6 @@ ip-api.com:80
 ip.ifconfig.dpdns.org:443
 is-sslvpn-enabled
 jolokia
-jquery-3.3.1.slim.min.js
-jquery-3.3.2.slim.min.js
 jupyter_server_config.json
 key.json
 key.txt
