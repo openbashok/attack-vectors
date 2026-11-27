@@ -117,6 +117,7 @@ app.log
 .env.staging.local
 aaa9
 credentials.xml
+health
 login.jsp
 requirements.txt
 sftp.json
@@ -129,7 +130,6 @@ wp-config.php.old
 client_secrets.json
 config.ini
 crossdomain.xml
-health
 id_rsa
 beta
 claude.env
@@ -158,10 +158,10 @@ admin
 database.php
 login.asp
 .env~
+version
 json
 logon.html
 v1
-version
 .env.ci
 .env.config
 .env.dev.local

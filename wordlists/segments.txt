@@ -182,11 +182,11 @@ yarn.lock
 .claude
 apis
 store
+health
 open
 parameters.yml
 sitemap.xml
 node
-health
 owa
 service
 %2eenv
@@ -278,11 +278,11 @@ twilio.env
 config.py
 .npmrc
 json
+version
 .env_sample
 database.php
 login.asp
 panel
-version
 .env~
 root
 s3

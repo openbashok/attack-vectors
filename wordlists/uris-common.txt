@@ -289,6 +289,7 @@ cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%
 containers/json
 index.php?%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+version
 .env.sandbox
 Dr0v
 admin/.git/config
@@ -296,7 +297,6 @@ configuration/.env
 docker/.env
 index.html
 server/.git/config
-version
 wp-config.php~
 ?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 boaform/adminformLogout//boaform/admin/login.asp
@@ -555,6 +555,7 @@ audio/.env
 cgi-bin/.env
 files/.env
 graphql
+health
 health/liveliness
 hudson
 lib/.env
@@ -637,7 +638,6 @@ database.php
 en/.env
 exapi/.env
 firebase-adminsdk.json
-health
 lab/.env
 psnlink/.env
 rest/applinks/1.0/manifest
