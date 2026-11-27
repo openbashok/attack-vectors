@@ -11,8 +11,8 @@ phpinfo
 config.json
 .env.php
 .env.staging
-.env.bak
 mcp
+.env.bak
 credentials
 robots.txt
 .env.dev

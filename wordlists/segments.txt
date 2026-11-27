@@ -28,9 +28,9 @@ config.json
 .env.php
 .env.staging
 login
+mcp
 laravel
 .env.bak
-mcp
 www
 credentials
 v1

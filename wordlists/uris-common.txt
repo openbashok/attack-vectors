@@ -44,13 +44,13 @@ site/.env
 config.js
 www/.env
 core/.env
-security.txt
 mcp/
+security.txt
 prod/.env
+sse
 docker-compose.yaml
 html/.env
 secrets.json
-sse
 storage/.env
 storage/logs/laravel.log
 test.php
@@ -59,10 +59,10 @@ api/.git/config
 developmentserver/metadatauploader
 env
 settings/.env
+api/mcp
 client/.env
 settings.py
 .env.orig
-api/mcp
 config.php.bak
 credentials.json
 dev/.env
