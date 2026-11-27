@@ -198,6 +198,7 @@ k8s
 secrets.env
 .env.development.local
 download
+health
 rest
 sql
 twilio
@@ -216,7 +217,6 @@ bot
 aws.env
 cache
 config.dev.php
-health
 mysql.sql
 remote
 google-services.json
@@ -677,6 +677,7 @@ i.php
 inc
 index.cgi
 install
+liveliness
 mail.php
 main.yml
 oracle-vagrant-boxes
@@ -725,7 +726,6 @@ front-end
 jenkins
 lab
 latest
-liveliness
 luci
 main.js.map
 officescan

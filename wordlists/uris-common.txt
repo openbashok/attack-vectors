@@ -594,6 +594,7 @@ credentials.yml
 docker/app/.env
 env.js
 gcp-credentials.json
+health/liveliness
 i.php
 kyc/.env
 laravel/core/.env
@@ -636,7 +637,6 @@ en/.env
 exapi/.env
 firebase-adminsdk.json
 health
-health/liveliness
 lab/.env
 psnlink/.env
 rest/applinks/1.0/manifest

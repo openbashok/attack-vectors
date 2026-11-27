@@ -600,6 +600,7 @@ config
 config.php.save
 core/app/.env
 env.js
+health/liveliness
 i.php
 manager/text/list
 php_info.php
@@ -637,7 +638,6 @@ exapi/.env
 firebase-adminsdk.json
 functions/.env
 health
-health/liveliness
 id_dsa
 js/.env
 lab/.env

@@ -378,6 +378,7 @@ docs
 hetong.js
 i.php
 index.cgi
+liveliness
 mail.php
 main
 main.yml
@@ -398,7 +399,6 @@ check.js
 claude.json
 config.production.json
 firebase-adminsdk.json
-liveliness
 main.js.map
 models
 private.key

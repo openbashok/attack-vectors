@@ -594,6 +594,7 @@ credentials.yml
 docker/app/.env
 env.js
 gcp-credentials.json
+health/liveliness
 i.php
 kyc/.env
 laravel/core/.env
@@ -636,7 +637,6 @@ en/.env
 exapi/.env
 firebase-adminsdk.json
 health
-health/liveliness
 lab/.env
 psnlink/.env
 rest/applinks/1.0/manifest
@@ -4410,6 +4410,7 @@ graphql?query=%7B__schema%7BqueryType%7Bname%7D%7D%7D
 groq/.env?v=18e62112720df3c9
 hall/api/hyper.Index/config
 haloocom_connect4/astguiclient.php
+health/readiness
 healthz
 helm.zip
 helm/values.yaml
@@ -4928,6 +4929,7 @@ public/.git/reconx-e1a047cffa17
 public/config.js
 public/js/config.js
 public/js/main.js?v=18e6211124fc5227
+public/model_hub/info
 public/phpinfo.php
 public/wp-config.php
 public_html.zip?v=18e6211c4f78a560

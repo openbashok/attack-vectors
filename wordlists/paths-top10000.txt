@@ -600,6 +600,7 @@ config
 config.php.save
 core/app/.env
 env.js
+health/liveliness
 i.php
 manager/text/list
 php_info.php
@@ -637,7 +638,6 @@ exapi/.env
 firebase-adminsdk.json
 functions/.env
 health
-health/liveliness
 id_dsa
 js/.env
 lab/.env
@@ -4089,6 +4089,7 @@ graphql/console
 groq/.env
 hall/api/hyper.Index/config
 haloocom_connect4/astguiclient.php
+health/readiness
 healthz
 helm.zip
 helper/EmailHelper.js
@@ -4527,6 +4528,7 @@ public/.git/reconx-e1a047cffa17
 public/config.js
 public/js/config.js
 public/js/main.js
+public/model_hub/info
 public/phpinfo.php
 public/wp-config.php
 public_html.zip
