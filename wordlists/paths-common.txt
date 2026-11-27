@@ -96,11 +96,11 @@ yarn.lock
 config.env
 dashboard/.env
 secrets.yml
+sitemap.xml
 staging/.env
 *
 application.yml
 sendgrid.env
-sitemap.xml
 terraform.tfstate
 debug/default/view
 portal/.env
@@ -306,6 +306,7 @@ lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/phpunit/src/Util/PHP/eval-stdin.php
 phpunit/src/Util/PHP/eval-stdin.php
+sdk
 test.hello
 vendor/phpunit/Util/PHP/eval-stdin.php
 vendor/phpunit/phpunit/LICENSE/eval-stdin.php
@@ -332,7 +333,6 @@ phpunit/phpunit/Util/PHP/eval-stdin.php
 public/.git/config
 public/index.php
 public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-sdk
 sftp-config.json
 test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -360,15 +360,16 @@ login.htm
 login.jsp
 manage/account/login
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/
+HNAP1
 admin/index.html
 api.ipinfo.io:443
 backup/.git/config
 config.inc.php
+evox/about
 icanhazip.com:443
 static../.git/config
 wp-config.php.orig
 .env.test.local
-HNAP1
 assets../.git/config
 cms/.git/config
 conf/.env
@@ -378,7 +379,6 @@ config/aws.yml
 core/.git/config
 data/.git/config
 dev/.git/config
-evox/about
 files/
 files/.git/config
 media../.git/config
