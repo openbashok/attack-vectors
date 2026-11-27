@@ -592,6 +592,7 @@ wp-content/uploads/
 _static/.env
 admin/
 admin/.env.production
+api/settings
 application-prod.properties
 appsettings.Production.json
 auth.json
@@ -624,7 +625,6 @@ admin-app/.env
 admin/modules/framework/amp_conf/htdocs/admin/config.php
 ansible.cfg
 api/config.env
-api/settings
 app/config.php
 application.properties.bak
 awstats/.env
@@ -1385,6 +1385,7 @@ $(pwd)/.env.production
 <script>alert(1)</script>.html
 Admin_Files/
 AndroidManifest.xml
+Auth1.html
 Backend/.env
 CHANGELOG.md
 CVS/

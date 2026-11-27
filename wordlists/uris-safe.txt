@@ -585,6 +585,7 @@ wp-content/uploads/
 _static/.env
 admin/
 admin/.env.production
+api/settings
 application-prod.yml
 auth.json
 backend/.git/config
@@ -624,7 +625,6 @@ _profiler
 admin-app/.env
 admin/modules/framework/amp_conf/htdocs/admin/config.php
 ansible.cfg
-api/settings
 app/config.php
 application-prod.properties
 appsettings.Production.json
@@ -1350,6 +1350,7 @@ xml/info.xml
 2phpmyadmin/index.php_lang=en
 Admin_Files/
 AndroidManifest.xml
+Auth1.html
 Backend/.env
 CHANGELOG.md
 CVS/

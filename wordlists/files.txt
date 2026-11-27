@@ -266,10 +266,10 @@ www.zip
 configprops
 credentials.yml.enc
 pentest_proof_6c9f30.php
+settings
 .dockerenv
 .yarnrc
 formLogin
-settings
 wp-config.old
 .env.bak~
 .env.new
@@ -751,6 +751,7 @@ xml
 Admin_Files
 AndroidManifest.xml
 AppsLocalLogin.jsp
+Auth1.html
 CHANGELOG.md
 COMMIT_EDITMSG
 CVS
