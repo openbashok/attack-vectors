@@ -65,11 +65,11 @@ backup
 info
 .env.test
 default
+get
+ip.cypher.rest:443
 staging
 laravel.log
 .env.development
-get
-ip.cypher.rest:443
 settings.py
 config.js
 index.html
@@ -132,10 +132,10 @@ application.yml
 htdocs
 terraform.tfstate
 uploads
+sse
 test.php
 .vscode
 docker-compose.yaml
-sse
 db
 images
 main

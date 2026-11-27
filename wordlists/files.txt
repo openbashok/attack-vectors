@@ -27,10 +27,10 @@ secrets.yaml
 test
 .env.backup
 .env.test
-laravel.log
-.env.development
 get
 ip.cypher.rest:443
+laravel.log
+.env.development
 settings.py
 config.js
 index.html
@@ -53,9 +53,9 @@ secrets.json
 .env.testing
 application.yml
 terraform.tfstate
+sse
 test.php
 docker-compose.yaml
-sse
 web
 aws.yml
 metadatauploader

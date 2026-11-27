@@ -42,9 +42,9 @@ site/.env
 .well-known/security.txt
 .env.testing
 config.js
+mcp/
 www/.env
 core/.env
-mcp/
 security.txt
 prod/.env
 sse
@@ -57,9 +57,9 @@ test.php
 api/.git/config
 developmentserver/metadatauploader
 .svn/entries
+api/mcp
 env
 settings/.env
-api/mcp
 client/.env
 settings.py
 .env.orig
