@@ -285,13 +285,13 @@ config/secrets.yml
 owa/auth/logon.aspx
 www/.git/config
 .env.sample
+Dr0v
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 containers/json
 index.php_%25ADd+allow_url_include%3D1+%25ADd+auto_prepend_file%3Dphp://input
 vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 version
 .env.sandbox
-Dr0v
 admin/.git/config
 configuration/.env
 docker/.env

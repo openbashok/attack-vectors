@@ -285,6 +285,7 @@ config/app.php
 containers/json
 owa/auth/logon.aspx
 www/.git/config
+Dr0v
 cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh
 docker/.env
 index.html
@@ -292,7 +293,6 @@ vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
 version
 wp-config.php~
 .env.sandbox
-Dr0v
 admin/.git/config
 configuration/.env
 server/.git/config
