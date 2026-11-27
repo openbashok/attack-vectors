@@ -145,6 +145,7 @@ ws
 .env.production.local
 entries
 bin
+boaform
 debug.log
 developmentserver
 examples
@@ -152,7 +153,6 @@ metadatauploader
 database.sql
 .env.orig
 appsettings.json
-boaform
 config.php.bak
 fixtures
 site.zip
@@ -280,9 +280,9 @@ config.py
 .env_sample
 database.php
 json
+login.asp
 version
 .env~
-login.asp
 panel
 root
 s3
@@ -345,6 +345,7 @@ $(pwd)
 RDWeb
 V2
 aab8
+adminformLogout
 bdd
 console
 etc
@@ -352,7 +353,6 @@ index
 sdk
 solr
 .env.test.local
-adminformLogout
 conf
 hello.world
 includes

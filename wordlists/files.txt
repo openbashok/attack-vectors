@@ -156,8 +156,8 @@ config.py
 .env_sample
 admin
 database.php
-.env~
 login.asp
+.env~
 v1
 version
 json
