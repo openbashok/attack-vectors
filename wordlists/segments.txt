@@ -41,8 +41,8 @@ robots.txt
 .env.dev
 server
 frontend
-core
 auth
+core
 storage
 v2
 .env.save
@@ -98,8 +98,8 @@ shared
 .gitlab-ci.yml
 tmp
 wp-content
-log
 actuator
+log
 prod
 old
 settings.json
@@ -185,12 +185,12 @@ store
 open
 parameters.yml
 node
+health
+owa
 service
 sitemap.xml
 %2eenv
 aws
-health
-owa
 v3
 web.config
 API
@@ -550,6 +550,7 @@ tools
 withMySQL
 withRedis
 wlwmanifest.xml
+x.js
 .remote-sync.json
 1.0
 127.0.0.1:8099
@@ -589,7 +590,6 @@ sslvpn-portal
 tmindex.html
 vue
 wsman
-x.js
 127.0.0.1:801
 adminer
 cgi-mod
