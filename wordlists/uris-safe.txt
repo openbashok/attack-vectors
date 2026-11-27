@@ -624,6 +624,7 @@ _profiler
 admin-app/.env
 admin/modules/framework/amp_conf/htdocs/admin/config.php
 ansible.cfg
+api/settings
 app/config.php
 application-prod.properties
 appsettings.Production.json
@@ -659,7 +660,6 @@ airflow.cfg
 api/.env.staging
 api/config.env
 api/config.php
-api/settings
 app/.env.example
 application.properties.bak
 appsettings.production.json

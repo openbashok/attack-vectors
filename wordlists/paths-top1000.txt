@@ -624,6 +624,7 @@ admin-app/.env
 admin/modules/framework/amp_conf/htdocs/admin/config.php
 ansible.cfg
 api/config.env
+api/settings
 app/config.php
 application.properties.bak
 awstats/.env
@@ -668,7 +669,6 @@ airflow.cfg
 api-docs
 api/.env.staging
 api/config.php
-api/settings
 app.js
 app/.env.example
 appsettings.production.json
