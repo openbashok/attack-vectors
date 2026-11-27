@@ -708,6 +708,7 @@ speed.cloudflare.com:443
 swagger-ui
 team-provider-info.json
 template.yaml
+transparentpix.gif
 updates
 userInfos
 v2
@@ -906,7 +907,6 @@ sugar_version.json
 sunrise
 test_smtp.py
 tile.vf
-transparentpix.gif
 vault.yml
 version.json
 vertex-ai-credentials.json

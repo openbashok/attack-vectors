@@ -136,9 +136,9 @@ sse
 test.php
 .vscode
 docker-compose.yaml
+images
 ws
 db
-images
 main
 aws.yml
 bin
@@ -1283,6 +1283,7 @@ thumbs
 tos
 traefik
 translation
+transparentpix.gif
 universalresolver
 updates
 userInfos
@@ -1675,7 +1676,6 @@ tiedostot
 tile.vf
 todo-react
 token
-transparentpix.gif
 typeScriptProject
 typeScriptVisualizeProject
 typo3

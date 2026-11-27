@@ -1148,6 +1148,7 @@ id_ed25519
 image_data/.env
 images/logo.gif
 images/logo.png
+images/transparentpix.gif
 img/.env
 includes/.env
 info.asp
@@ -1626,7 +1627,6 @@ icons/sphere1.png
 id_ecdsa
 identity
 identity/jsLibs/IdmBrandingBar.js
-images/transparentpix.gif
 index.php.bak
 index.php?lang=en
 index.php?rest_route=/batch/v1
