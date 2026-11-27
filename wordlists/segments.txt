@@ -72,8 +72,8 @@ get
 ip.cypher.rest:443
 settings.py
 config.js
-debug
 index.html
+debug
 .well-known
 tests
 HEAD
@@ -122,9 +122,9 @@ settings
 media
 new
 secrets.json
+geoserver
 .env.testing
 application
-geoserver
 dashboard
 data
 home
@@ -156,8 +156,8 @@ appsettings.json
 config.php.bak
 fixtures
 site.zip
-docs
 *
+docs
 .env.stage
 wp-config.php.bak
 .env:80
@@ -167,8 +167,8 @@ local
 backup.sql
 db.sql
 files
-shop
 login.html
+shop
 .docker
 .env.live
 .kube
@@ -185,10 +185,10 @@ store
 open
 parameters.yml
 node
+sitemap.xml
 health
 owa
 service
-sitemap.xml
 %2eenv
 aws
 v3
@@ -204,6 +204,7 @@ sql
 twilio
 back
 bot
+remote
 .config.yaml
 .env.example.php
 .env.php-backup
@@ -218,7 +219,6 @@ aws.env
 cache
 config.dev.php
 mysql.sql
-remote
 google-services.json
 .env.swp
 base
@@ -241,6 +241,7 @@ saas
 %00.env
 .env.staging.local
 credentials.xml
+login.jsp
 requirements.txt
 sftp.json
 stage
@@ -248,7 +249,6 @@ stage
 .env.template
 .github
 Application
-login.jsp
 wp-config.php.backup
 wp-config.php.old
 .json
@@ -290,8 +290,8 @@ users
 workflows
 wp-json
 +CSCOE+
-database
 logon.html
+database
 packages
 php
 .env.ci
@@ -323,6 +323,7 @@ about
 app.php
 drupal
 logon.aspx
+account
 autodiscover
 modules
 sites
@@ -332,7 +333,6 @@ wp-config.php~
 Dr0v
 LICENSE
 LogonPoint
-account
 config.inc.php
 configuration
 logon
@@ -350,13 +350,14 @@ bdd
 console
 etc
 index
+manage
 sdk
 solr
 .env.test.local
 conf
 hello.world
 includes
-manage
+login.cgi
 sftp-config.json
 test.hello
 yii
@@ -366,11 +367,11 @@ zend
 .env.txt
 docker-compose.prod.yml
 ec
-login.cgi
 .env.1
 .travis.yml
 authorized_keys
 downloads
+login.htm
 manager
 master.key
 pki-validation
@@ -379,7 +380,6 @@ public_html
 sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}
 backups
 css
-login.htm
 openai
 phpmyadmin
 resources
@@ -410,6 +410,7 @@ aab9
 backup.tar.gz
 cron
 deploy
+doc
 framework
 index.js
 local_settings.py
@@ -422,7 +423,6 @@ api-docs
 auth.json
 db.php
 development
-doc
 pma
 private
 secrets.py
