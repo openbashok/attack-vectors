@@ -709,6 +709,7 @@ team-provider-info.json
 template.yaml
 updates
 userInfos
+v2
 values.yaml
 vpn
 vpntunnel
@@ -903,7 +904,6 @@ sunrise
 test_smtp.py
 tile.vf
 transparentpix.gif
-v2
 vault.yml
 version.json
 vertex-ai-credentials.json

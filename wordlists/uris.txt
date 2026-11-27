@@ -5319,6 +5319,7 @@ v1/kv/?recurse=true
 v1/mapOverlay
 v1/system/status
 v1/system/version
+v2
 v2/graphql
 v2/keys/?recursive=true
 v2/users
