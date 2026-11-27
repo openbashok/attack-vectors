@@ -143,13 +143,13 @@ aws.yml
 user
 ws
 .env.production.local
+developmentserver
 entries
+metadatauploader
 bin
 boaform
 debug.log
-developmentserver
 examples
-metadatauploader
 database.sql
 .env.orig
 appsettings.json

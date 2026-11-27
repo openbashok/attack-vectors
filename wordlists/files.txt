@@ -60,8 +60,8 @@ web
 aws.yml
 .env.production.local
 entries
-debug.log
 metadatauploader
+debug.log
 database.sql
 .env.orig
 appsettings.json
