@@ -551,6 +551,7 @@ _profiler
 api
 api/metrics/run
 api/session/properties
+api/settings
 app/etc/env.php
 application-prod.yml
 audio/.env
@@ -592,7 +593,6 @@ wp-content/uploads/
 _static/.env
 admin/
 admin/.env.production
-api/settings
 application-prod.properties
 appsettings.Production.json
 auth.json

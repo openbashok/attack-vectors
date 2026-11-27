@@ -258,6 +258,7 @@ diag_Form
 env.php
 server-status
 service-account.json
+settings
 terraform.tfstate.backup
 www.zip
 .env.prod.local
@@ -266,7 +267,6 @@ www.zip
 configprops
 credentials.yml.enc
 pentest_proof_6c9f30.php
-settings
 .dockerenv
 .yarnrc
 formLogin
