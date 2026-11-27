@@ -401,6 +401,7 @@ local_settings.py
 .ssh/authorized_keys
 abc6
 abc8
+api/
 downloads/
 secrets.py
 swagger.json
@@ -408,6 +409,7 @@ swagger.json
 .env.tmp
 .s3cfg
 Gemfile.lock
+RDWeb
 abc7
 backup.tar.gz
 composer.json
@@ -423,8 +425,6 @@ web/.env.local
 .env.yml
 .env_old
 GponForm/diag_Form
-RDWeb
-api/
 autodiscover/autodiscover.json
 backup.zip
 compose/.env
@@ -803,6 +803,7 @@ images/
 include/config.php
 includes/db.php
 index.do
+index.htm
 install.php
 jira/secure/Dashboard.jspa
 jsp/index.jsp
@@ -920,7 +921,6 @@ helpdesk/WebObjects/Helpdesk.woa
 home.tar.gz
 horizon
 id_ed25519
-index.htm
 index.jsp
 infra/.env
 k8s/.env

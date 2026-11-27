@@ -406,6 +406,7 @@ backend/.env.local
 abc6
 abc8
 actuator/env
+api/
 downloads/
 local_settings.py
 secrets.py
@@ -414,6 +415,7 @@ secrets.py
 .git/logs/HEAD
 .ssh/authorized_keys
 Gemfile.lock
+RDWeb
 abc7
 composer.json
 composer.lock
@@ -428,8 +430,6 @@ web/.env.local
 .env_old
 .s3cfg
 GponForm/diag_Form_images/
-RDWeb
-api/
 autodiscover/autodiscover.json_@zdi/Powershell
 backup.tar.gz
 compose/.env
@@ -795,6 +795,7 @@ images/
 include/config.php
 includes/db.php
 index.do
+index.htm
 install.php
 jira/secure/Dashboard.jspa
 jsp/index.jsp
@@ -913,7 +914,6 @@ graphiql
 helpdesk/WebObjects/Helpdesk.woa
 home.tar.gz
 horizon
-index.htm
 index.jsp
 k8s/.env
 lambda/.env
@@ -987,6 +987,7 @@ ClientApp/.env
 FIRST_CONFIG/.env
 IPCamDesc.xml
 Passportjs/.env
+RDWeb/Pages/
 RDWeb/Pages/en-US/login.aspx
 WebApp/js/UI_String.js
 WebInterface/
@@ -1367,7 +1368,6 @@ MyAdmin/index.php_lang=en
 OA_HTML/AppsLocalLogin.jsp
 PMA/index.php_lang=en
 Pipfile
-RDWeb/Pages/
 README.md
 Remote
 Socketio/.env

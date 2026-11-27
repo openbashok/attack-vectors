@@ -312,6 +312,7 @@ vpn
 wc.db
 wp-config.php.save
 .%65%6e%76
+RDWeb
 mysql
 testing
 .env.secret
@@ -344,7 +345,6 @@ welcome.cgi
 wp-includes
 $(pwd)
 .git-credentials
-RDWeb
 adminformLogout
 bdd
 console
@@ -557,6 +557,7 @@ x.js
 15
 Dashboard.jspa
 Dockerfile
+Pages
 WebInterface
 _layouts
 application-prod.yml
@@ -663,7 +664,6 @@ wp-config.txt
 .env.zip
 .yarnrc.yml
 1
-Pages
 _static
 amplify
 application-prod.properties
@@ -870,6 +870,7 @@ deployment-config.json
 django_project_path
 dump
 dump.sql.gz
+en-US
 engine
 env.env
 env.prod.js
@@ -888,6 +889,7 @@ helm
 horizon
 identity
 index.do
+index.htm
 infra
 install.php
 jira
@@ -995,7 +997,6 @@ db.zip
 design
 en-GB
 en-GB.xml
-en-US
 error
 export.sql
 filesystems.php
@@ -1008,7 +1009,6 @@ helpdesk
 home.tar.gz
 http
 i18n
-index.htm
 index.js.map
 keys
 kitchensink
