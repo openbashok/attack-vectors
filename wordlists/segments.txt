@@ -152,13 +152,13 @@ metadatauploader
 database.sql
 .env.orig
 appsettings.json
+boaform
 config.php.bak
 fixtures
 site.zip
 docs
 *
 .env.stage
-boaform
 wp-config.php.bak
 .env:80
 dump.sql
@@ -186,10 +186,10 @@ open
 parameters.yml
 node
 service
+sitemap.xml
 %2eenv
 aws
 owa
-sitemap.xml
 v3
 web.config
 API
@@ -282,13 +282,13 @@ database.php
 json
 version
 .env~
+login.asp
 panel
 root
 s3
 users
 workflows
 wp-json
-login.asp
 +CSCOE+
 database
 logon.html
@@ -352,6 +352,7 @@ sdk
 solr
 .env.test.local
 aab8
+adminformLogout
 conf
 hello.world
 includes
@@ -363,7 +364,6 @@ zend
 .circleci
 .env.qa
 .env.txt
-adminformLogout
 docker-compose.prod.yml
 ec
 login.cgi

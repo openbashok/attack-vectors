@@ -85,8 +85,8 @@ sh
 parameters.yml
 *
 open
-%2eenv
 sitemap.xml
+%2eenv
 web.config
 env.json
 secrets.env

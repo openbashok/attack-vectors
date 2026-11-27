@@ -108,13 +108,13 @@ portal/.env
 app_dev.php/_profiler/phpinfo
 debug.log
 info
+sitemap.xml
 test/.env
 cms/.env
 main/.env
 media/.env
 settings.json
 shop/.env
-sitemap.xml
 web.config
 application.properties
 blog/.env
@@ -299,6 +299,7 @@ version
 config/database.yml
 database/.env
 aab8
+boaform/adminformLogout//boaform/admin/login.asp
 hello.world
 laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
@@ -326,7 +327,6 @@ app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-boaform/adminformLogout//boaform/admin/login.asp
 cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
