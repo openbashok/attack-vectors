@@ -17,8 +17,8 @@ ip.cypher.rest:443
 config/.env
 config.json
 .env.backup
-laravel/.env
 phpinfo.php
+laravel/.env
 .env.old
 .env.test
 backend/.env
@@ -520,6 +520,7 @@ config.inc.php.bak
 config/environment.rb
 development/.env
 django/settings.py
+druid/index.html
 ews/exchange.asmx
 global-protect/login.esp
 id_rsa
@@ -535,7 +536,6 @@ admin
 api/settings
 config.yml
 cron/.env
-druid/index.html
 env/.env
 hudson
 portal/redlion

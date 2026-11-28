@@ -19,8 +19,8 @@ login
 .env.dev
 config.php
 .env.save
-security.txt
 phpinfo.php
+security.txt
 .env.prod
 .env.old
 secrets.yaml
@@ -32,8 +32,8 @@ ip.cypher.rest:443
 .env.development
 laravel.log
 settings.py
-config.js
 index.html
+config.js
 HEAD
 .env.dist
 info

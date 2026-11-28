@@ -18,8 +18,8 @@ ip.cypher.rest:443
 config/.env
 config.json
 .env.backup
-laravel/.env
 phpinfo.php
+laravel/.env
 .env.old
 .env.test
 backend/.env
@@ -518,6 +518,7 @@ config.yml
 config/environment.rb
 cron/.env
 django/settings.py
+druid/index.html
 ews/exchange.asmx
 global-protect/login.esp
 local.py
@@ -533,7 +534,6 @@ actuator/heapdump
 admin
 api/.env.production
 api/settings
-druid/index.html
 gcp-credentials.json
 graphql
 hudson

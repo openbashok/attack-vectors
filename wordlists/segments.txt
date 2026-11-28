@@ -48,9 +48,9 @@ storage
 v2
 .env.save
 app_dev.php
+phpinfo.php
 security.txt
 lib
-phpinfo.php
 dev
 docker
 .env.prod
@@ -71,8 +71,8 @@ staging
 .env.development
 laravel.log
 settings.py
-config.js
 index.html
+config.js
 .well-known
 debug
 HEAD
@@ -571,6 +571,7 @@ cmdb
 config.inc.php.bak
 credentials.yml
 dbadmin
+druid
 environment
 environment.rb
 error.aspx
@@ -599,7 +600,6 @@ adminer
 cgi-mod
 chunks
 develop
-druid
 en
 heapdump
 hudson
