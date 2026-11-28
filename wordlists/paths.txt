@@ -706,6 +706,7 @@ frontend/.git/config
 id_rsa.pub
 include/config.php
 includes/db.php
+index.htm
 infophp.php
 install.php
 lib/config.php
@@ -824,7 +825,6 @@ home.tar.gz
 iam/login
 images/
 index.do
-index.htm
 jira/secure/Dashboard.jspa
 jsp/index.jsp
 kubeconfig

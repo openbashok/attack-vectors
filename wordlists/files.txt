@@ -440,6 +440,7 @@ dbconfig.php
 dump.sql.gz
 favicon.png
 gemini.json
+index.htm
 infophp.php
 install.php
 keys.json
@@ -520,7 +521,6 @@ gradle.properties
 home.tar.gz
 images
 index.do
-index.htm
 license.txt
 local.settings.json
 locale

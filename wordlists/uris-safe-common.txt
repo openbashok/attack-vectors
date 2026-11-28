@@ -695,6 +695,7 @@ functions/.env
 id_dsa
 include/config.php
 includes/db.php
+index.htm
 infophp.php
 install.php
 js/.env
@@ -821,7 +822,6 @@ iam/login
 id_rsa.pub
 images/
 index.do
-index.htm
 jira/secure/Dashboard.jspa
 jsp/index.jsp
 kubeconfig

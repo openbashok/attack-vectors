@@ -786,6 +786,7 @@ hc
 heads
 iam
 icons
+index.htm
 infophp.php
 install.php
 integration
@@ -905,7 +906,6 @@ home.tar.gz
 horizon
 identity
 index.do
-index.htm
 infra
 jira
 lambda
