@@ -531,6 +531,7 @@ wsman
 actuator/heapdump
 admin
 api/.env.production
+api/settings
 druid/index.html
 gcp-credentials.json
 graphql
@@ -556,7 +557,6 @@ _profiler
 api
 api/metrics/run
 api/session/properties
-api/settings
 app/etc/env.php
 application-prod.yml
 audio/.env

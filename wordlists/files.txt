@@ -249,6 +249,7 @@ graphql
 mcp.json
 microsoft.exchange.ediscovery.exporttool.application
 service-account.json
+settings
 wp-login.php
 www.zip
 .env.yml
@@ -260,7 +261,6 @@ configprops
 diag_Form
 env.php
 server-status
-settings
 terraform.tfstate.backup
 .env.prod.local
 .env.yaml
