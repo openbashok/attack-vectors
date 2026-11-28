@@ -373,6 +373,7 @@ api.ipinfo.io:443
 app/.env.production
 backup/.git/config
 config/master.key
+files/
 icanhazip.com:443
 static../.git/config
 wp-config.php.orig
@@ -384,11 +385,11 @@ config/.git/config
 core/.git/config
 data/.git/config
 dev/.git/config
-files/
 files/.git/config
 media../.git/config
 media/.git/config
 project/.git/config
+pub/
 public_html/.env
 remote/login
 wp-config.bak
@@ -397,12 +398,12 @@ aab9
 cgi-bin/login.cgi
 conf/.env
 config/aws.yml
-pub/
 ws
 .vscode/settings.json
 actuator/env
 api/.env.local
 backend/.env.local
+downloads/
 .circleci/config.yml
 .git/logs/HEAD
 .ssh/authorized_keys
@@ -410,7 +411,6 @@ abc6
 abc8
 api/
 config/config.php
-downloads/
 local_settings.py
 secrets.py
 swagger.json

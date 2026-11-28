@@ -139,11 +139,11 @@ docker-compose.yaml
 images
 ws
 db
+developmentserver
 main
+metadatauploader
 aws.yml
 bin
-developmentserver
-metadatauploader
 user
 .env.production.local
 boaform
@@ -164,9 +164,9 @@ dump.sql
 .env:80
 backup.sql
 db.sql
+files
 local
 .env.json
-files
 login.html
 shop
 .docker
@@ -334,6 +334,7 @@ LICENSE
 account
 config.inc.php
 modules
+pub
 sdk
 sites
 workspace
@@ -344,7 +345,6 @@ V2
 configuration
 includes
 logon
-pub
 welcome.cgi
 $(pwd)
 adminformLogout
@@ -369,9 +369,9 @@ sftp-config.json
 .travis.yml
 authorized_keys
 docker-compose.prod.yml
+downloads
 .env.1
 backups
-downloads
 evox
 login.htm
 manager
