@@ -76,10 +76,10 @@ v2/.env
 wp-config.php.bak
 .env.production.local
 database.yml
+geoserver/web/
 htdocs/.env
 old/.env
 dump.sql
-geoserver/web/
 .env.json
 backup.sql
 site.zip
@@ -402,6 +402,7 @@ downloads/
 local_settings.py
 swagger.json
 .s3cfg
+RDWeb
 abc6
 abc8
 api/
@@ -412,7 +413,6 @@ secrets.py
 .env.copy
 .env.tmp
 Gemfile.lock
-RDWeb
 abc7
 autodiscover/autodiscover.json
 backup.zip
@@ -882,6 +882,7 @@ xampp/.env
 .mcp.json
 .vault-token
 Pipfile.lock
+RDWeb/Pages/
 _netrc
 ads.txt
 ai/site-profile.json
@@ -997,4 +998,3 @@ $(pwd)/terraform.tfvars
 .streamlit/secrets.toml
 .terraform.lock.hcl
 .terraform.tfstate
-.terraform/credentials.tfrc.json
