@@ -52,11 +52,11 @@ secrets.json
 sse
 test.php
 docker-compose.yaml
+developmentserver/metadatauploader
 html/.env
 storage/.env
 storage/logs/laravel.log
 api/.git/config
-developmentserver/metadatauploader
 .svn/entries
 .env.orig
 api/mcp
@@ -253,9 +253,9 @@ twilio.env
 .npmrc
 .env_sample
 config.php
+admin/config.php
 +CSCOE+/logon.html
 .env~
-admin/config.php
 .env.uat
 remote/login
 .env.config
@@ -573,6 +573,7 @@ human.aspx
 kyc/.env
 laravel/core/.env
 logon/LogonPoint/index.html
+manager/text/list
 new/.env.local
 new/.env.staging
 owa/
@@ -608,7 +609,6 @@ database.php
 env.js
 firebase-adminsdk.json
 i.php
-manager/text/list
 php_info.php
 redmine/.env
 shell
@@ -1146,6 +1146,7 @@ error/.env
 error_log
 errors/.env
 etc/boto.cfg
+eventmanager
 example/.env
 example27-how-to-load-env/sample02/.env
 examples/.env
@@ -1615,7 +1616,6 @@ env.backup
 env.bak
 env/template/.env
 environments/local/.env
-eventmanager
 examples/09-production/.env
 examples/vue-dashboard/backend/.env
 examples/web/.env

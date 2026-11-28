@@ -53,9 +53,9 @@ html/.env
 secrets.json
 storage/.env
 api/.git/config
+developmentserver/metadatauploader
 storage/logs/laravel.log
 test.php
-developmentserver/metadatauploader
 .svn/entries
 api/mcp
 env
@@ -255,9 +255,9 @@ twilio.env
 .npmrc
 config.php
 .env_sample
+admin/config.php
 +CSCOE+/logon.html
 .env_
-admin/config.php
 .env.config
 .env.dev.local
 .env.uat
@@ -568,6 +568,7 @@ health/liveliness
 lib/.env
 logon/LogonPoint/index.html
 mail/.env
+manager/text/list
 nginx/.env
 owa/
 panel/.env
@@ -606,7 +607,6 @@ firebase-adminsdk.json
 i.php
 kyc/.env
 laravel/core/.env
-manager/text/list
 new/.env.local
 new/.env.staging
 php.php
@@ -1123,6 +1123,7 @@ error/.env
 error_log
 errors/.env
 etc/boto.cfg
+eventmanager
 example/.env
 example27-how-to-load-env/sample02/.env
 examples/.env
@@ -1589,7 +1590,6 @@ e2e/.env
 env.bak
 env/template/.env
 environments/local/.env
-eventmanager
 examples/09-production/.env
 examples/vue-dashboard/backend/.env
 examples/web/.env

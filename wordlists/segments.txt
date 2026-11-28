@@ -42,8 +42,8 @@ robots.txt
 server
 frontend
 auth
-core
 config.php
+core
 storage
 v2
 .env.save
@@ -136,13 +136,13 @@ sse
 test.php
 .vscode
 docker-compose.yaml
+developmentserver
 images
+metadatauploader
 ws
 boaform
 db
-developmentserver
 main
-metadatauploader
 aws.yml
 bin
 user
@@ -362,6 +362,7 @@ zend
 conf
 ec
 login.cgi
+manager
 sftp-config.json
 .circleci
 .env.qa
@@ -370,7 +371,6 @@ sftp-config.json
 authorized_keys
 docker-compose.prod.yml
 downloads
-manager
 .env.1
 backups
 evox
@@ -512,6 +512,7 @@ environ
 global-protect
 img
 libraries
+list
 run
 session
 sonicos
@@ -538,7 +539,6 @@ deploy.yml
 env.js
 gcloud
 javascript
-list
 login.php
 mailer
 myadmin
@@ -659,6 +659,7 @@ socket.io
 sslvpn
 stg
 template
+text
 themes
 ubuntu
 versions
@@ -695,7 +696,6 @@ showLogin.cc
 sitemaps
 terraform
 test-become
-text
 website
 wp-config.php.dist
 xmlrpc.php
@@ -1182,6 +1182,7 @@ env-config
 environment.json
 error_log
 errors
+eventmanager
 execute-solution
 favicon-19fbef86.svg
 favicon-abe32304.png
@@ -1462,7 +1463,6 @@ env.bak
 env.dev.js
 env.development.js
 errorFE.aspx
-eventmanager
 exist
 expected
 extender.html

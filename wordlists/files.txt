@@ -285,6 +285,7 @@ credentials.py
 ecosystem.config.js
 env.txt
 environ
+list
 main.js
 webui
 .env.prev
@@ -303,7 +304,6 @@ auth.html
 console
 deploy.yml
 env.js
-list
 login.php
 nc_gina_ver.txt
 properties
@@ -659,6 +659,7 @@ dqgqoeCXckuwPtxov
 environment
 environment.json
 error_log
+eventmanager
 execute-solution
 favicon-19fbef86.svg
 favicon-abe32304.png
@@ -812,7 +813,6 @@ env.bak
 env.dev.js
 env.development.js
 errorFE.aspx
-eventmanager
 exist
 extender.html
 faspex
