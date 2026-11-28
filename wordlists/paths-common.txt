@@ -79,9 +79,9 @@ database.yml
 htdocs/.env
 old/.env
 dump.sql
+geoserver/web/
 .env.json
 backup.sql
-geoserver/web/
 site.zip
 .env.php
 db.sql
@@ -89,11 +89,11 @@ db.sql
 .kube/config
 application/.env
 favicon.ico/
+*
 backup/.env
 package-lock.json
 package.json
 yarn.lock
-*
 config.env
 dashboard/.env
 secrets.yml
@@ -299,6 +299,7 @@ version
 boaform/adminformLogout//boaform/admin/login.asp
 configuration/.env
 sdk
+actuator/health
 config/database.yml
 database/.env
 hello.world
@@ -314,7 +315,6 @@ vendor/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-actuator/health
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php

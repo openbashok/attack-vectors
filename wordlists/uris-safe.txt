@@ -77,19 +77,19 @@ old/.env
 wp-config.php.bak
 .env.production.local
 crm/.env
+geoserver/web/
 .env.json
 dump.sql
-geoserver/web/
 .env.php
 backup.sql
 site.zip
 db.sql
 favicon.ico/
 .kube/config
+_
 application/.env
 package-lock.json
 yarn.lock
-_
 package.json
 sitemap.xml
 staging/.env
@@ -302,6 +302,7 @@ index.html
 sdk
 .git-credentials
 _%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
+actuator/health
 database/.env
 hello.world_%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input
 index.php_-d+allow_url_include%3don+-d+auto_prepend_file%3dphp%3a//input
@@ -317,7 +318,6 @@ vendor/phpunit/src/Util/PHP/eval-stdin.php
 yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
-actuator/health
 admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php

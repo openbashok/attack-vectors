@@ -55,8 +55,8 @@ application.yml
 terraform.tfstate
 sse
 test.php
-docker-compose.yaml
 web
+docker-compose.yaml
 metadatauploader
 aws.yml
 .env.production.local
@@ -77,12 +77,12 @@ login.html
 .env.live
 error.log
 sh
+*
 application.properties
 package-lock.json
 package.json
 sendgrid.env
 yarn.lock
-*
 sitemap.xml
 parameters.yml
 open
@@ -114,10 +114,10 @@ configuration.json
 env-config.js
 server.key
 app.log
+health
 %00.env
 .env.staging.local
 credentials.xml
-health
 id_rsa
 login.jsp
 requirements.txt

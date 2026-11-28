@@ -97,8 +97,8 @@ shared
 ..
 .gitlab-ci.yml
 wp-content
-tmp
 actuator
+tmp
 log
 prod
 wp-config.php
@@ -119,10 +119,10 @@ portal
 services
 settings
 administrator
+geoserver
 media
 new
 secrets.json
-geoserver
 .env.testing
 application
 dashboard
@@ -151,10 +151,10 @@ debug.log
 entries
 database.sql
 examples
+*
 .env.orig
 config.php.bak
 site.zip
-*
 appsettings.json
 fixtures
 docs
@@ -181,9 +181,9 @@ sendgrid.env
 yarn.lock
 .claude
 apis
+health
 sitemap.xml
 store
-health
 open
 parameters.yml
 node
