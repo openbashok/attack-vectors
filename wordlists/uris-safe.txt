@@ -8,9 +8,9 @@ robots.txt
 .env.local
 app/.env
 .env.save
-api/.env
 get
 ip.cypher.rest:443
+api/.env
 .aws/credentials
 .env.dev
 .env.prod
