@@ -178,6 +178,7 @@ env-config.js
 phpinfo
 server.key
 services/.env
+aaa9
 assets/config.json
 beta/.env
 download/.env
@@ -186,7 +187,6 @@ temp/.env
 tmp/.env
 .env.live
 .env.staging.local
-aaa9
 bak/.env
 bedrock.env
 content/.env
@@ -277,11 +277,11 @@ vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.secret
 .htaccess
 Jenkinsfile
+aab8
 config/secrets.yml
 www/.git/config
 .env.sample
 .vscode/sftp.json
-aab8
 config/app.php
 containers/json
 owa/auth/logon.aspx
@@ -414,6 +414,7 @@ secrets.py
 Gemfile.lock
 RDWeb
 abc7
+autodiscover/autodiscover.json
 backup.zip
 composer.json
 composer.lock
@@ -428,7 +429,6 @@ www.zip
 .env_old
 .ssh/id_ed25519
 GponForm/diag_Form
-autodiscover/autodiscover.json
 compose/.env
 instance/config.py
 server-status
@@ -3806,6 +3806,7 @@ catalog/.env
 cert.zip
 cgi-bin/ExportSettings.sh
 cgi-bin/ViewLog.asp
+cgi-bin/account_mgr.cgi
 cgi-bin/cstecgi.cgi
 cgi-bin/main.pl
 cgi-bin/nas_sharing.cgi

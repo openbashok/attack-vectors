@@ -177,6 +177,7 @@ data/.env
 env-config.js
 server.js
 services/.env
+aaa9
 assets/config.json
 beta/.env
 download/.env
@@ -185,7 +186,6 @@ saas/.env
 server.key
 temp/.env
 .env.live
-aaa9
 bak/.env
 bedrock.env
 credentials.xml
@@ -276,11 +276,11 @@ config/database.php
 vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
 .env.ci
 .htaccess
+aab8
 www/.git/config
 .env.secret
 .vscode/sftp.json
 Jenkinsfile
-aab8
 config/app.php
 config/secrets.yml
 owa/auth/logon.aspx
@@ -420,6 +420,7 @@ swagger.json
 Gemfile.lock
 RDWeb
 abc7
+autodiscover/autodiscover.json_@zdi/Powershell
 backup.tar.gz
 composer.json
 composer.lock
@@ -432,7 +433,6 @@ web/.env.local
 .env.yml
 .env_old
 GponForm/diag_Form_images/
-autodiscover/autodiscover.json_@zdi/Powershell
 backup.zip
 compose/.env
 docker-compose.override.yml

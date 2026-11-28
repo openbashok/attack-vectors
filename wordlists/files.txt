@@ -112,10 +112,10 @@ bedrock.env
 configuration.json
 env-config.js
 server.key
+aaa9
 app.log
 %00.env
 .env.staging.local
-aaa9
 credentials.xml
 health
 id_rsa
@@ -241,6 +241,7 @@ terraform.tfvars
 .env_old
 Gemfile.lock
 abc7
+autodiscover.json
 composer.json
 composer.lock
 config.yaml
@@ -256,7 +257,6 @@ www.zip
 Login
 admin-ajax.php
 app.js
-autodiscover.json
 configprops
 diag_Form
 env.php

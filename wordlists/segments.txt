@@ -233,6 +233,7 @@ content
 env-config.js
 server.key
 .github
+aaa9
 app.log
 bak
 dana-na
@@ -241,7 +242,6 @@ erp
 saas
 %00.env
 .env.staging.local
-aaa9
 credentials.xml
 id_rsa
 login.jsp
@@ -320,10 +320,11 @@ testing
 .env.secret
 .htaccess
 Jenkinsfile
+aab8
 drupal
 Login
-aab8
 app.php
+autodiscover
 logon.aspx
 wp-config.php~
 wp-includes
@@ -331,7 +332,6 @@ wp-includes
 Dr0v
 LICENSE
 account
-autodiscover
 config.inc.php
 modules
 sdk
@@ -435,6 +435,7 @@ Current
 Gemfile.lock
 abc7
 anthropic
+autodiscover.json
 composer.json
 composer.lock
 config.yaml
@@ -455,7 +456,6 @@ GponForm
 __tests__
 admin-ajax.php
 app.js
-autodiscover.json
 configprops
 default_settings
 diag_Form
